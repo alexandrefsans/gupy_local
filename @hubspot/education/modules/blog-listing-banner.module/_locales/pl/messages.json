@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Baner z listą blogów",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Obraz tła",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Wartość w pikselach",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Do lewej/do prawej",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Wypełnienie",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Wartość w pikselach",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Góra/dół",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Kolor podtytułu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Kolor tytułu",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Podtytuł",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tytuł",
+    "description": "",
+    "placeholders": null
+  }
+}

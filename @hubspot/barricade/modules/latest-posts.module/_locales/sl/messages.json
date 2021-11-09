@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Zadnje objave",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Izberite spletni dnevnik, iz katerega želite pridobiti objave",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Število pridobljenih objav",
+    "description": "",
+    "placeholders": null
+  }
+}

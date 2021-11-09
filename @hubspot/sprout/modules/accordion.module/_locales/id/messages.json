@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Akordeon",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Manfaatkan perangkat lunak super luar biasa intuitif yang menghemat waktu Anda dan akan membantu mengembangkan bisnis Anda.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Konten",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Perluasan standar",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Bagaimana caranya membuat templat yang keren?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Judul",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Dengan mengaktifkan opsi ini, Anda dapat mengganti gaya tema default. Penonaktifan opsi ini akan menyambungkan kembali modul ke gaya tema default.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ganti gaya default",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Warna judul",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Warna judul",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Warna ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktif",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Warna judul",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Warna ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Arahkan",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Warna ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opsi gaya",
+    "description": "",
+    "placeholders": null
+  }
+}

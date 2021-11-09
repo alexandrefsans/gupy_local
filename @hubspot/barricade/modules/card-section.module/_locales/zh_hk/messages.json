@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "卡區塊",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "卡",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "深入了解",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "深入了解文字",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "深入了解連結",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "內容關聯廣告可以盈利。這類廣告可以支付網站的托管和維護費用，也可以支付很多其他費用。",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "文字",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "這是標題",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  }
+}

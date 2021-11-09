@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Follow me",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Open links in new window",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Module header",
+    "description": "",
+    "placeholders": null
+  }
+}

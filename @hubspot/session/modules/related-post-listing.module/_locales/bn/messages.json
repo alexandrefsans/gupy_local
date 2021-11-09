@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "সম্পর্কিত পোস্ট তালিকা",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "সম্পর্কিত প্রবন্ধ",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "হেডিং ",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "আরও পড়ুন",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "আরও পাঠ্য পড়ুন",
+    "description": "",
+    "placeholders": null
+  }
+}

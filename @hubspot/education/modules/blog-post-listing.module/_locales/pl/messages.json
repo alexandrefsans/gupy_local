@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Lista wpisów na blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Wybierz blog",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Wyświetl wszystko",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Tekst przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "Wg blogów i tagów",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "Wg blogów",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "Filtr",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "Dowiedz się więcej",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Tekst Dowiedz się więcej",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "Tag",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "W wiadomościach",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "Tekst tytułu",
+    "description": "",
+    "placeholders": null
+  }
+}

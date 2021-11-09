@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Φίλτρο ετικέτας blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Φιλτράρισμα ανά ετικέτα",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Η ετικέτα είναι οπτικά κρυμμένη, αλλά χρησιμοποιείται για αναγνώστες οθόνης για να παραμείνει το πεδίο προσβάσιμο",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Κείμενο ετικέτας",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Όλα",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Κείμενο κράτησης θέσης",
+    "description": "",
+    "placeholders": null
+  }
+}

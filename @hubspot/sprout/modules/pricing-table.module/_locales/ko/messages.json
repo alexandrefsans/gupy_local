@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "가격표",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "월간 청구",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "청구 레이블",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "가격 옵션 1",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "표",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "버튼 링크",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "등록",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "버튼 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "통화",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>무료 무제한</strong> 다운로드 및 추가 자료 이용!</p><ul><li>최대 25MB 파일 크기</li><li>2GB 대역폭</li><li>15초 화면 녹화</li><li>15초 웹캠 비디오 녹화</li><li>CloudApp 브랜딩</li><li>무제한 주석</li><li>무제한 파일</li><li>데스크톱 앱 통합</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "설명",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "가격",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "스타터",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "제목",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "연간 결제액 15% 절감",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "청구 레이블",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "가격 옵션 2",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "표",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "버튼 링크",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "등록",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "버튼 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "통화",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>무료 무제한</strong> 다운로드 및 추가 자료 이용!</p><ul><li>최대 25MB 파일 크기</li><li>2GB 대역폭</li><li>15초 화면 녹화</li><li>15초 웹캠 비디오 녹화</li><li>CloudApp 브랜딩</li><li>무제한 주석</li><li>무제한 파일</li><li>데스크톱 앱 통합</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "설명",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "가격",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "기업",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "제목",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "이 옵션을 활성화하면 기본 테마 스타일을 재정의할 수 있습니다. 이 옵션을 비활성화하면 모듈이 기본 테마 스타일에 다시 연결됩니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "기본 스타일 재정의",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "활성 옵션 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "제목 배경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "제목 텍스트 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  }
+}

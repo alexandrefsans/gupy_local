@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Legutóbbi bejegyzések",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Blog kiválasztása a bejegyzések lekéréséhez",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Bekérendő bejegyzések száma",
+    "description": "",
+    "placeholders": null
+  }
+}

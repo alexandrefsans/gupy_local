@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Titel på søjleafsnit",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Hvis du aktiverer denne indstilling, kan du tilsidesætte standardtemastilarter. Deaktivering af denne indstilling indstiller modulet til standardtemastilarter igen.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Tilsidesæt standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Farve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Afsnitstitel",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Din afsnitstitel skal beskrive dit afsnit og skal være unikt i forhold til andre afsnitstitler på siden. Titlen bliver automatisk føjet til menuen i modulet \"Søjlemenu\".",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Etkinlikler",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Adres",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Tarih ve zaman",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Etkinlik simgesi",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Etkinlikler",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Bağlantı",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Bağlantı metni",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "YARIYIL EĞİTİM GALASI",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Başlık içeriği",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Başlık simgesi",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Başlık bağlantısı",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Hepsini gör",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Başlık bağlantısı metni",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Yaklaşan etkinlikler",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  }
+}

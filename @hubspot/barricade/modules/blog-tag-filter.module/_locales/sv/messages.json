@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filter för bloggetikett",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Bäddra efter:",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Etikettext",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Allt",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Platshållartext",
+    "description": "",
+    "placeholders": null
+  }
+}

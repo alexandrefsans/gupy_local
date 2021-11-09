@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Harmonika",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Iskoristite sjajni intuitivni softver pomoću kojega ćete uštedjeti na vremenu i razviti svoje poslovanje.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Sadržaj",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Prošireno prema zadanim postavkama",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Kako da izradim dobar predložak?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Zaglavlje",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Ako omogućite ovu opciju, moći ćete nadjačati zadane stilove teme. Onemogućavanjem opcije ponovno ćete povezati modul sa zadanim stilovima teme.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Nadjačaj zadani stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Boja zaglavlja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Boja zaglavlja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Boja ikone",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktivno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Boja zaglavlja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Boja ikone",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Drži iznad",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Boja ikone",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcije stila",
+    "description": "",
+    "placeholders": null
+  }
+}

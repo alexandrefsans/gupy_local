@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Statistika",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Pokud povolíte tuto možnost, budete moci přepsat výchozí styly motivů. Zakázáním této možnosti se modul připojí zpět k výchozím stylům motivů.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Přepsat výchozí styl",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Hodnocení spokojenosti zákazníků</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Statistický popis",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Statistické číslo",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Statistická procentuální hodnota",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Statistická jednotka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Barva panelu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Barva výplně panelu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti stylů",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Statistik",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Om du aktiverar detta alternativ kan du skriva över standardtemastil. Om du inaktiverar detta alternativ återansluts modulen på nytt till standardtemastilar.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Skriv över standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Kundnöjdhetsbetyg</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Beskrivning av statistik",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Statistiknummer",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Statistikprocentenhet",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "tusen",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Statistikenhet",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Fältfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Fältets fyllnadsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  }
+}

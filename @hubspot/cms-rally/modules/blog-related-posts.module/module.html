@@ -1,0 +1,56 @@
+{% macro related_post(post, count, total) %}
+  {% if count == 1 %}
+    <section class="blog-related-posts">
+      <div class="content-wrapper">
+        <h2 class="blog-related-posts__title">{{ module.heading }}</h2>
+        <div class="blog-related-posts__list">
+  {% endif %}
+          <article class="blog-related-posts__post--card {% if !post.featured_image %}blog-related-posts__post--card--no-image{% endif %}">
+            <div class="blog-related-posts__post__wrapper">
+              <a href="{{ post.absolute_url }}" style="background-image: url('{{ post.featured_image }}');" >
+                <button class="button">{% icon
+                  name="share"
+                  style="SOLID"
+                  unicode="f064"
+                  extra_classes="button__icon"
+                %}{{ module.read_more_text }}</button>
+              </a>
+
+              {% if post.tag_list %}
+                <div class="blog-related-posts__blog-tags">
+                  {% for tag in post.tag_list %}
+                    <a class="blog-related-posts__blog-tag" href="{{ blog_tag_url(group.id, tag.slug) }}">{% icon name="square" style="SOLID" %}{{ tag.name }}</a>
+                  {% endfor %}
+                </div>
+              {% endif %}
+
+              <div class="blog-related-posts__post--card__post-details">
+                <h2><a href="{{ post.absolute_url }}">{{ post.name }}</a></h2>
+                {{ post.post_list_content|truncatehtml(115) }}
+              </div>
+            </div>
+
+            <div class="blog-related-posts__blog-meta">
+              <a href="{{ blog_author_url(group.id, post.blog_post_author.slug) }}" class="blog-related-posts__blog-meta__author">
+                {% if post.blog_author.avatar %}
+                <span class="author__avatar">
+                  <img src="{{ post.blog_author.avatar }}" width="30" loading="lazy" alt="Picture of {{ post.blog_author.display_name }}">
+                </span>
+                {% endif %}
+                {{ post.blog_post_author.display_name }}
+              </a>
+
+              <span class="blog-related-posts__blog-meta__timestamp">
+                {{ post.publish_date_localized }}
+              </span>
+            </div>
+
+          </article>
+  {% if count == total %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+{% endmacro %}
+
+{% related_blog_posts limit=2, post_formatter="related_post", no_wrapper=True %}

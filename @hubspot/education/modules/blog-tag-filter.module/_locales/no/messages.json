@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Bloggmerkefilter",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtrer etter merke",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Etikettekst",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Alle",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Plassholdertekst",
+    "description": "",
+    "placeholders": null
+  }
+}

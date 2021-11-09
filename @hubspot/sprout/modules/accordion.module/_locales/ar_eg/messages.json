@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "أكورديون",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "استفد من البرنامج الرائع الفائق البديهي الذي يوفر لك الوقت ويساعد في تنمية أعمالك.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "المحتوى",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "موسع بشكل افتراضي",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "كيف أصنع قالبًا رائعًا؟",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "رأس الصفحة",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "يتيح لك تمكين هذا الخيار تجاوز أنماط السمات الافتراضية. وسيؤدي تعطيل هذا الخيار إلى إعادة توصيل الوحدة بأنماط السمة الافتراضية.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "تجاوز النمط الافتراضي",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "لون رأس الصفحة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "لون رأس الصفحة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "لون الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "نشِط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "لون رأس الصفحة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "لون الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "التمرير",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "لون الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "label": "Label text",
+    "name": "label_text",
+    "type": "text",
+    "help_text": "The label is visually hidden but it is used for screen readers to keep the field accessible",
+    "default": "Filter by tag"
+  },
+  {
+    "label": "Placeholder text",
+    "name": "placeholder_text",
+    "type": "text",
+    "default": "All"
+  }
+]

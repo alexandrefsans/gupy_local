@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Blog listeleme başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Arka plan görüntüsü",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Değer piksel cinsindendir",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Sol/Sağ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Doldurma",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Değer piksel cinsindendir",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Üst/Alt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Altyazı rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Başlık rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Altyazı",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  }
+}

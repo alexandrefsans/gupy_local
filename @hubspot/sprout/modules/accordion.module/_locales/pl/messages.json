@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Akordeon",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Wykorzystaj niesamowite intuicyjne oprogramowanie, które pozwoli Ci zaoszczędzić czas i pomoże Ci rozwijać Twoją firmę.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Treść",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Domyślnie rozwinięte",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Jak przygotować dobry szablon?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Nagłówek",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Włączenie tej opcji pozwoli na zastąpienie domyślnych stylów motywów. Wyłączenie tej opcji spowoduje ponowne połączenie modułu z domyślnymi stylami motywów.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Zastąp styl domyślny",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Kolor nagłówka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Kolor nagłówka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Kolor ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktywny",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Kolor nagłówka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Kolor ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Ustaw kursor",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Kolor ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  }
+}

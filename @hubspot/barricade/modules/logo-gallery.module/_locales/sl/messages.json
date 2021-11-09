@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Galerija logotipov",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logotip Salesforce",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Slike logotipa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Barva ozadja pasice",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Barva ospredja pasice",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.bottom": {
+    "message": "Prekrij spodnji razdelek",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.none": {
+    "message": "Brez prekrivanja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.top": {
+    "message": "Prekrij zgornji razdelek",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.help_text": {
+    "message": "Nastavitve omogočanja, da pasica prekriva zgornje ali spodnje območje",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.label": {
+    "message": "Nastavitve prekrivanja pasice",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "Preglasi privzeti slog",
+    "description": "",
+    "placeholders": null
+  }
+}

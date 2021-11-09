@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Abonnement au courrier électronique du blogue",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Par défaut, le blog actuel sera utilisé dans modèle de blogue ou comme blogue principal lorsqu'il est utilisé ailleurs.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Abonnez-vous ici!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Sélectionnez le blogue à afficher",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Réponse en ligne pour les utilisateurs",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Merci de vous être abonné(e)!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titre à afficher au-dessus du formulaire",
+    "description": "",
+    "placeholders": null
+  }
+}

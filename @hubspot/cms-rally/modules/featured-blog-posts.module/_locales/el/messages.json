@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Σύνδεσμος",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Εικονίδιο συνδέσμου",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Κείμενο συνδέσμου",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Χρώματα ανάρτησης",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Προτεινόμενες αναρτήσεις ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Επιλέξτε το ιστολόγιο από το οποίο θέλετε να προτείνονται αναρτήσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Επιλογή ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Αν θέλετε να προβάλετε μόνο μια συγκεκριμένη ετικέτα από το ιστολόγιό σας, επιλέξτε την εδώ.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Επιλογή ετικέτας",
+    "description": "",
+    "placeholders": null
+  }
+}

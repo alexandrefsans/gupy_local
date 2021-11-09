@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Галерея логотипов",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Одобрено",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Логотип Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Изображения логотипа",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Цвет фона баннера",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Цвет переднего плана баннера",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  }
+}

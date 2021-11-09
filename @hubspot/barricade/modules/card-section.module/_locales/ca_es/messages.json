@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Secció de targeta",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Imatge",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Targeta",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Text de Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Enllaç de Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "La publicitat contextual pot ser rendible. Et pot pagar les despeses d'allotjament i manteniment del lloc web i moltes coses més.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Text",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Això és un títol",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Títol",
+    "description": "",
+    "placeholders": null
+  }
+}

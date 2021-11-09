@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Tautan",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Ikon tautan",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Teks tautan",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Warna posting",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Tampilan Posting Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Pilih blog yang postingnya ingin Anda tampilkan",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Pilih blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Jika Anda hanya ingin menampilkan tag tertentu dari blog Anda, pilih di sini.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Pilih tag",
+    "description": "",
+    "placeholders": null
+  }
+}

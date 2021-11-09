@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Chính giữa",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Bên trái",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Bên phải",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Căn chỉnh",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Tìm kiếm",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Đen và trắng",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Màu",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Xám",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Trắng",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "Tùy chỉnh",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Bảng màu",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Tìm kiếm",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Chọn màu tùy chỉnh",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Biểu tượng và văn bản",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Chỉ văn bản",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Hiển thị",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Kiểu phông chữ",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Hình tròn",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Gốc",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Hình vuông",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Hình dạng biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Tìm kiếm",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Theo dõi tôi - LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Co giãn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Mạng xã hội",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Biểu tượng tùy chỉnh",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Website",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Mạng",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Hình ảnh mạng",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Văn bản hỗ trợ",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Giãn cách",
+    "description": "",
+    "placeholders": null
+  }
+}

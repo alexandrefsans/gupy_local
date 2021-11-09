@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "แบนเนอร์รายการบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "แทนที่รูปแบบค่าเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "รูปภาพ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "ไล่ระดับสี",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "ประเภทพื้นหลัง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "รูปภาพพื้นหลัง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "สี 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "สี 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "สีไล่ระดับ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "ตัวเลือกรูปแบบ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "ค่าเป็นพิกเซล",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "ซ้าย/ขวา",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "ช่องว่างภายใน",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "ค่าเป็นพิกเซล",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "ด้านบน/ด้านล่าง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "สีคำบรรยาย",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "สีหัวเรื่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "หากไม่มีข้อความคำบรรยาย ระบบจะนำไปยังคำอธิบายเมตาของบล็อกคุณตามการตั้งค่าบล็อกเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "คำบรรยาย",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "หากไม่มีข้อความหัวเรื่อง ระบบจะนำไปยังชื่อบล็อกของคุณตามการตั้งค่าบล็อกเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "ชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  }
+}

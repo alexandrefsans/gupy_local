@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Nyeste innlegg",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Velg blogg du vil hente innlegg fra",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Antall innlegg som skal hentes",
+    "description": "",
+    "placeholders": null
+  }
+}

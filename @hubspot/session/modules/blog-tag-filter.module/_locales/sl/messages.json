@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Filter oznake spletnega dnevnika",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.default": {
+    "message": "Izberi kategorijo",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.label": {
+    "message": "Besedilo nadomestni znak",
+    "description": "",
+    "placeholders": null
+  }
+}

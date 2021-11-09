@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Člen týmu",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>generální ředitel, spoluzakladatel</p><p>Joshua pracuje v technologickém průmyslu více než 20 let. V roce 2015 stál u zrodu této společnosti a chtěl pomoct lidem růst. Svůj volný čas rád tráví se svými dětmi, chodí na pláž a vaří.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Obsah člena týmu",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Obrázek člena týmu",
+    "description": "",
+    "placeholders": null
+  }
+}

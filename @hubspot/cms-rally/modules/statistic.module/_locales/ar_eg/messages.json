@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "إحصائي",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "يتيح لك تمكين هذا الخيار تجاوز أنماط السمات الافتراضية. وسيؤدي تعطيل هذا الخيار إلى إعادة توصيل الوحدة النمطية بأنماط السمة الافتراضية.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "تجاوز النمط الافتراضي",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>تقييم رضا العملاء</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "الوصف الإحصائي",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "الرقم الإحصائي",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "النسبة الإحصائية",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "الوحدة الإحصائية",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "لون الشريط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "لون ملء الشريط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "لون النص الإحصائي",
+    "description": "",
+    "placeholders": null
+  }
+}

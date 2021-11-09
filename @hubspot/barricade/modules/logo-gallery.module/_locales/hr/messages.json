@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Galerija logotipa",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logotip tvrtke Salesforce",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Slike logotipa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Pozadinska boja natpisa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Boja prednjeg plana natpisa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcije stila",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.bottom": {
+    "message": "Preklapanje s odjeljkom u nastavku",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.none": {
+    "message": "Bez preklapanja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.top": {
+    "message": "Preklapanje s prethodnim odjeljkom",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.help_text": {
+    "message": "Postavke za preklapanje natpisa s prethodnim ili sljedećim područjem",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.label": {
+    "message": "Postavke preklapanja natpisa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "Nadjačaj zadani stil",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Membru de echipă",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>CEO, Cofondator</p><p>Joshua are peste 20 de ani de experiență în industria tehnologică. Acesta a ajutat la înființarea acestei companii în 2015 cu misiunea de a ajuta oamenii să crească. Îi place să își petreacă timpul liber cu copiii lui, să meargă la plajă și să gătească.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Conținut membru de echipă",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Imagine membru de echipă",
+    "description": "",
+    "placeholders": null
+  }
+}

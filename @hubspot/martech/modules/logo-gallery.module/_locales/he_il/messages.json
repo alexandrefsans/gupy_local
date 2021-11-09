@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "גלריית סמלים",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "מזוהה לפי",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "סמל Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "תמונות סמלים",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "צבע רקע של כרזה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "צבע קדמה של כרזה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  }
+}

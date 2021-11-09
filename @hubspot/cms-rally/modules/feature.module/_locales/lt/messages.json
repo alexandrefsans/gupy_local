@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Pasinaudokite intuityvia ir nuostabia programine įranga, kuri taupys jūsų laiką ir išgelbės verslą. Prižadame.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Funkcijų aprašas",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Piktograma",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Fono spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Kraštinės spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Funkcijos piktograma",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Funkcijos vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Piktograma",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Nėra",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Atrinktas vaizdas / piktograma",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Greitai ir paprastai",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Funkcijos pavadinimas",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Funkcija",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Меню у вигляді колонки",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Колір",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Нижня межа",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Штрихова лінія",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Пунктирна лінія",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Подвійна лінія",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Утоплений шрифт",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Всередину",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Немає",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Назовні",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Піднятий шрифт",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Заливка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Стиль",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Значення вказано в пікселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Ширина",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Варіанти стилю",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Зміст",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Елементи меню створюються автоматично при додаванні на сторінку модуля «Розділ у вигляді колонки»",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

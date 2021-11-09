@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Μέλος ομάδας",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Ο Στέλιος έχει πάνω από 20 χρόνια εμπειρίας στη βιομηχανία τεχνολογίας. Βοήθησε στην ίδρυση αυτής της εταιρείας το 2015 με την αποστολή να βοηθήσει τους ανθρώπους να αναπτυχθούν. Στον ελεύθερο χρόνο του, του αρέσει να κάνει παρέα με τα παιδιά του, να πηγαίνει στην παραλία και να μαγειρεύει.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Βιογραφικό",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "Διευθύνων Σύμβουλος, Συνιδρυτής",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Θέση",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Εικόνα",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Στέλιος Μπάκας",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Όνομα",
+    "description": "",
+    "placeholders": null
+  }
+}

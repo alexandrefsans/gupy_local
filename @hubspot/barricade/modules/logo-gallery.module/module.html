@@ -1,0 +1,13 @@
+<div class="logo-banner">
+    <div class="container flex mobile-col">
+      {% for logo in module.logo_images %}
+      {% if logo.src %}
+        {% set sizeAttrs = 'width="{{ logo.width }}" height="{{ logo.height }}"' %}
+        {% set loadingAttr = logo.loading != 'disabled' ? 'loading="{{ logo.loading }}"' : '' %}
+        <div class="logo-banner__image">
+          <img src="{{ logo.src }}" alt="{{ logo.alt }}" {{ sizeAttrs }} {{ loadingAttr }}>
+        </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>

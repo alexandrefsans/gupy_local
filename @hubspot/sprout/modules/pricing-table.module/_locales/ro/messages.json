@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Tabel prețuri",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Facturare lunară",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Etichetă facturare",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Opțiune preț unu",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Tabel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Link buton",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Înscriere",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Text buton",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Monedă",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Descărcări nelimitate gratuite</strong> plus mai multe lucruri!</p><ul><li>Dimensiune maximă a fișierului de 25 MB</li><li>Lățime de bandă de 2 GB</li><li>Înregistrări ecran de 15 secunde</li><li>Înregistrare video cameră web de 15 secunde</li><li>Atribuire nume de marcă CloudApp</li><li>Adnotări nelimitate</li><li>Fișiere nelimitate</li><li>Integrări aplicație desktop</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Descriere",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Preț",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "De bază",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Titlu",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Economisire anuală facturare de 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Etichetă facturare",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Opțiune preț doi",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Tabel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Link buton",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Înscriere",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Text buton",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Monedă",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Descărcări nelimitate gratuite</strong> plus mai multe lucruri!</p><ul><li>Dimensiune maximă a fișierului de 25 MB</li><li>Lățime de bandă de 2 GB</li><li>Înregistrări ecran de 15 secunde</li><li>Înregistrare video cameră web de 15 secunde</li><li>Atribuire nume de marcă CloudApp</li><li>Adnotări nelimitate</li><li>Fișiere nelimitate</li><li>Integrări aplicație desktop</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Descriere",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Preț",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Întreprindere",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Titlu",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Activarea acestei opțiuni vă va permite să înlocuiți temele implicite. Dezactivarea acestei opțiuni va reconecta modulul cu temele implicite.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Înlocuire stil implicit",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Culoare opțiune activă",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Culoare fundal antet",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Culoare text antet",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  }
+}

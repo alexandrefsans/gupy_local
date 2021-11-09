@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Secció de targeta",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Contingut",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Enllaç",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Text de l'enllaç",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Descripció",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Professors que es preocupen pel teu èxit",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Títol",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Classe a una aula",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Imatge",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Icona",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Imatge i icona",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "En habilitar aquesta opció, podràs substituir els estils de tema per defecte. Si la inhabilites, el mòdul es tornarà a connectar amb els estils de tema per defecte. ",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Substitueix l'estil per defecte",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Color d'èmfasi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Color d'emplenament d'icona",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  }
+}

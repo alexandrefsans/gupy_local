@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Vi har hjulpet selskaper som:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Topptekst",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora-logo",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Last opp logobilder her",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logobilder",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Logobanner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Bakgrunnsfarge for logo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Forgrunnsfarge for banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Alternativer for skrift",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Tinklaraščio įrašo reklamjuostė",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "Mygtuko piktograma",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Grįžti į tinklaraštį",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Mygtuko tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Pasirinktinė fono spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Pasirinktinis fono vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Atrinktas vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Kokio tipo reklamjuostę norite naudoti?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Fono spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Fono vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Užpildymas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Reikšmė pateikta pikseliais",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Viršus / apačia",
+    "description": "",
+    "placeholders": null
+  }
+}

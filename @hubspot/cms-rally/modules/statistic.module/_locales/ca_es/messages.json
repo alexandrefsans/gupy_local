@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Estadística",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "En habilitar aquesta opció, podràs substituir els estils de tema per defecte. Si la inhabilites, el mòdul es tornarà a connectar amb els estils de tema per defecte. ",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Substitueix l'estil per defecte",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Valoració de la satisfacció del client</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Descripció d'estadística",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Nombre d'estadística",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Percentatge d'estadística",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "mil",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Unitat d'estadística",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Color de barra",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Color d'emplenament de barra",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "Color de text d'estadística",
+    "description": "",
+    "placeholders": null
+  }
+}

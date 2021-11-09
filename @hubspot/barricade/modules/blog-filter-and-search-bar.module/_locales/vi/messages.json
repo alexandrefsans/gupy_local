@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "Bộ lọc blog và thanh tìm kiếm",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label": {
+    "message": "Bộ lọc thẻ blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.default": {
+    "message": "Duyệt theo:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.label": {
+    "message": "Văn bản nhãn",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.default": {
+    "message": "Tất cả",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.label": {
+    "message": "Văn bản chỗ dành sẵn",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.blog_posts.label": {
+    "message": "Bài đăng blog",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.knowledge_articles.label": {
+    "message": "Bài viết kiến thức",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.label": {
+    "message": "Kết quả tìm kiếm bao gồm",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.landing_pages.label": {
+    "message": "Trang đích",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.website_pages.label": {
+    "message": "Trang website",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.field_label.label": {
+    "message": "Văn bản nhãn",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.include_search_button.label": {
+    "message": "Bao gồm nút tìm kiếm",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.label": {
+    "message": "Trường tìm kiếm",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.default": {
+    "message": "Tìm kiếm",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.label": {
+    "message": "Văn bản chỗ dành sẵn",
+    "description": "",
+    "placeholders": null
+  }
+}

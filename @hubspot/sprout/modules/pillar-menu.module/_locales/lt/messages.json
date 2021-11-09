@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Vertikalus meniu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Apatinė kraštinė",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Punktyrinė",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Taškinė",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dvigubas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Su grioveliais",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Įklija",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Nėra",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Į išorę",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Kraštas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Ištisinė linija",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Stilius",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Reikšmė pateikta pikseliais",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Plotis",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Turinys",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Meniu elementai sukuriami automatiškai, įtraukiant į puslapį modulį „Vertikalus skirsnis“",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Pavadinimas",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Stebėti mane",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Atidaro nuorodą naujame lange",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Modulio antraštė",
+    "description": "",
+    "placeholders": null
+  }
+}

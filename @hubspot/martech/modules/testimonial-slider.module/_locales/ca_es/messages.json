@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Control lliscant de testimonis",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "En habilitar aquesta opció, podràs substituir els estils de tema per defecte. Si la inhabilites, el mòdul es tornarà a connectar amb els estils de tema per defecte. ",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Substitueix l'estil per defecte",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_color.label": {
+    "message": "Color de fons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "Color actiu de navegació",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "Color de navegació",
+    "description": "",
+    "placeholders": null
+  },
+  "style.quote_color.label": {
+    "message": "Color de cita",
+    "description": "",
+    "placeholders": null
+  },
+  "style.text_color.label": {
+    "message": "Color del text",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author.default": {
+    "message": "Mary Kindler",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author.label": {
+    "message": "Autor",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author_title.default": {
+    "message": "Fundadora de Syntecho",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author_title.label": {
+    "message": "Càrrec de l'autor",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.content.default": {
+    "message": "<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dapibus posuere mi, in pretium ante posuere a. Aliquam a risus at eros molestie pretium. Aliquam a risus at eros molestie pretium dolor set amiut. </p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.content.label": {
+    "message": "Text del testimoni",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.label": {
+    "message": "Testimonis",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.testimonial_image.default.alt": {
+    "message": "Imatge del marcador de posició",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.testimonial_image.label": {
+    "message": "Imatge del testimoni",
+    "description": "",
+    "placeholders": null
+  }
+}

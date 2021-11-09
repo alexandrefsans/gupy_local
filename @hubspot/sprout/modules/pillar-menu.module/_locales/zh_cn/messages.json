@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Pillar 菜单",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "下框线",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "虚线",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "点线",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "双线",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "凹线",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "内凹线",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "无",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "外凸线",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "脊线",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "实线",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "样式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "值以像素为单位",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "宽度",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "目录",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "为页面添加“Pillar 部分”模块时，会自动创建菜单项",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "标题",
+    "description": "",
+    "placeholders": null
+  }
+}

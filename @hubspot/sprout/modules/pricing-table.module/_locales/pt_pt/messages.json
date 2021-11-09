@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Tabela com a lista de preços",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Faturação mensal",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Etiqueta de faturação",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Opção de preço um",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Tabela",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Ligação do botão",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Aderir",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Texto do botão",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Moeda",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Transferências ilimitadas</strong> gratuitas, além de outras coisas!</p><ul><li>25 MB de tamanho máximo do ficheiro</li><li>2 GB de largura de banda</li><li>15 segundos de gravações de ecrã</li><li>15 segundos de gravação de vídeo da webcam</li><li>Imagem corporativa CloudApp</li><li>Anotações ilimitadas</li><li>Ficheiros ilimitados</li><li>Integrações de aplicações no ambiente de trabalho</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Descrição",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Preço",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Iniciador",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Título",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Poupe 15% na faturação anual",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Etiqueta de faturação",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Opção de preço dois",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Tabela",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Ligação do botão",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Aderir",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Texto do botão",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Moeda",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Transferências ilimitadas</strong> gratuitas, além de outras coisas!</p><ul><li>25 MB de tamanho máximo do ficheiro</li><li>2 GB de largura de banda</li><li>15 segundos de gravações de ecrã</li><li>15 segundos de gravação de vídeo da webcam</li><li>Imagem corporativa CloudApp</li><li>Anotações ilimitadas</li><li>Ficheiros ilimitados</li><li>Integrações de aplicações no ambiente de trabalho</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Descrição",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Preço",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Empresa",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Título",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Se ativar esta opção, poderá contornar os estilos do tema predefinido. Se desativar esta opção, irá voltar a ligar o módulo aos estilos do tema predefinido.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Contornar estilo predefinido",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Cor da opção ativa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Cor de fundo do cabeçalho",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Cor do texto do cabeçalho",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opções de estilo",
+    "description": "",
+    "placeholders": null
+  }
+}

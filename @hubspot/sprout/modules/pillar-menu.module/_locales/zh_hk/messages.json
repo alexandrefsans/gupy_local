@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "關鍵選單",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "按鈕邊界",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "折線",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "點線",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "雙重",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "流線",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "嵌入",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "無",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "外凸",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "脊線",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "實線",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "樣式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "值以像素計算",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "寬度",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "目錄",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "當你將「關鍵區塊」模組新增至頁面，系統便會自動建立選單項目",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  }
+}

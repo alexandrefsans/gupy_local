@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Fiyatlandırma kartı",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Düğme bağlantısı",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Ücretsiz kaydol",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Düğme metni",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Ek güvenlik, kontrol ve desteğe ihtiyaç duyan ekipler için.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Ürün açıklaması",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Özellikler listesi simgesi madde işareti",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 kullanıcı dahil edildi",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Özellikler",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 $",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Fiyat",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Büyük",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Normal",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Küçük",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Düğme boyutu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Birincil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "İkincil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Basit",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Düğme stili",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Ücretsiz",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Ürün katmanı",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ ay",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Fiyat zaman aralığı",
+    "description": "",
+    "placeholders": null
+  }
+}

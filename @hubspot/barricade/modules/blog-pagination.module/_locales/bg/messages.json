@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Страниране на блог",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Следващ текст",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Предишен текст",
+    "description": "",
+    "placeholders": null
+  }
+}

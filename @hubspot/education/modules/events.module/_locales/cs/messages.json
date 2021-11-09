@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Události",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Adresa",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Datum a čas",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Ikona události",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Události",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Odkaz",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Text odkazu",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "SEMI-ANNUAL EDUCATION GALA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Nadpis",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Obsah nadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Ikona nadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Odkaz nadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Zobrazit vše",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Text odkazu nadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Nadcházející události",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Nadpis",
+    "description": "",
+    "placeholders": null
+  }
+}

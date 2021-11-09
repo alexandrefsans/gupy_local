@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Fiyatlandırma tablosu",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Aylık faturalama",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Faturalama etiketi",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Fiyatlandırma seçeneği bir",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Tablo",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Düğme bağlantısı",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Kaydol",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Düğme metni",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Para birimi",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Ücretsiz sınırsız</strong> indirme ve çok daha fazlası!</p><ul><li>25 MB maksimum dosya boyutu</li><li>2 GB bant genişliği</li><li>15 saniyelik ekran kayıtları</li><li>15 saniyelik web kamerası video kaydı</li><li>CloudApp markası</li><li>Sınırsız ek açıklamalar</li><li>Sınırsız dosya</li><li>Masaüstü uygulaması entegrasyonları</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Açıklama",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Fiyat",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Başlangıç",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Yıllık faturalamada %15 tasarruf",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Faturalama etiketi",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Fiyatlandırma seçeneği iki",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Tablo",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Düğme bağlantısı",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Kaydol",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Düğme metni",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Para birimi",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Ücretsiz sınırsız</strong> indirme ve çok daha fazlası!</p><ul><li>25 MB maksimum dosya boyutu</li><li>2 GB bant genişliği</li><li>15 saniyelik ekran kayıtları</li><li>15 saniyelik web kamerası video kaydı</li><li>CloudApp markası</li><li>Sınırsız ek açıklamalar</li><li>Sınırsız dosya</li><li>Masaüstü uygulaması entegrasyonları</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Açıklama",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Fiyat",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Kurumsal",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Bu seçeneğin etkinleştirilmesi, varsayılan tema stillerini geçersiz kılmanıza olanak tanır. Bu seçeneği devre dışı bırakmak, modülü varsayılan tema stillerine yeniden bağlayacaktır.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Varsayılan stili geçersiz kıl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Aktif seçenek rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Başlık arka plan rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Başlık metin rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  }
+}

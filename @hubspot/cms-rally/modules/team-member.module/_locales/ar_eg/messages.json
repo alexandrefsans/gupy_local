@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "عضو الفريق",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>المدير التنفيذي، والمؤسس المشارك</p><p>يتمتع Joshua بخبرة تزيد عن 20 عامًا في مجال التكنولوجيا. وساعد في تأسيس هذه الشركة في عام 2015 بهدف مساعدة الناس على النمو. ويحب في أوقات فراغه الخروج مع أطفاله والذهاب إلى الشاطئ والطهي.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "محتوى عضو الفريق",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "صورة عضو الفريق",
+    "description": "",
+    "placeholders": null
+  }
+}

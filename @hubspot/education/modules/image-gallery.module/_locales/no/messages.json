@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Bildegalleri",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Hybelbygning på skoleområdet",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "Nøyaktig",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Bilde",
+    "description": "",
+    "placeholders": null
+  }
+}

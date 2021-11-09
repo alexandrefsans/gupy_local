@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Søylemeny",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Farge",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Nedre kantlinje",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Stiplet",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Prikket",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dobbelt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Spor",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Innfelt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Ingen",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Utgangspunkt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Rille",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Solid",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Verdi er i piksler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Bredde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Alternativer for stil",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Innholdsfortegnelse",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Menyelementer opprettes automatisk når du legger til «Søyle-delen»-modulen på siden",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tittel",
+    "description": "",
+    "placeholders": null
+  }
+}

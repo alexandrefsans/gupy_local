@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Kortsektion",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Innehåll",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Länk",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Läs mer",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Länktext",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Beskrivning",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Lärare som bryr sig om din framgång",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "En klassrumslektion",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Bild",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Bild och ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Om du aktiverar detta alternativ kan du skriva över standardtemastil. Om du inaktiverar detta alternativ återansluts modulen på nytt till standardtemastilar.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Skriv över standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Detaljfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Ikons fyllnadsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  }
+}

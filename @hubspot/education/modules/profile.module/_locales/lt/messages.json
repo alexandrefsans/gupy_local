@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "Profilis",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "<p>Priešingai, nei dažniausiai manoma, „Lorem Ipsum“ nėra tik du atsitiktiniai žodžiai. Pirmą kartą jie buvo paminėti viename klasikinės lotynų literatūros kūrinyje 45 m. prieš mūsų erą, tad šiai frazei jau daugiau nei 2000 metų.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Aprašas",
+    "description": "",
+    "placeholders": null
+  },
+  "headshot.default.alt": {
+    "message": "home_lecture",
+    "description": "",
+    "placeholders": null
+  },
+  "headshot.label": {
+    "message": "Portretas",
+    "description": "",
+    "placeholders": null
+  },
+  "human_name.default": {
+    "message": "Mort Ricky",
+    "description": "",
+    "placeholders": null
+  },
+  "human_name.label": {
+    "message": "Vardas, pavardė",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Vyr. pedagogas",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Pavadinimas",
+    "description": "",
+    "placeholders": null
+  }
+}

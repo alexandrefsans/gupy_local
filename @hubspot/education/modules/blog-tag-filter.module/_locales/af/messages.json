@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Blog-etiketfilter",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filter volgens etiket",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Etiketteks",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Alles",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Plekhouerteks",
+    "description": "",
+    "placeholders": null
+  }
+}

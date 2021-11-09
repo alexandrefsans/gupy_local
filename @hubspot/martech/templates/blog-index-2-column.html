@@ -1,0 +1,108 @@
+<!--
+  templateType: blog_listing
+  isAvailableForNewContent: true
+  label: Martech - 2 column blog listing
+  screenshotPath: ../images/template-previews/blog-index-2-column.png
+-->
+{% set template_css = '../../css/templates/blog.css' %}
+{% extends "./layouts/base.html" %}
+
+{% block body %}
+<main class="body-container-wrapper">
+  {% dnd_area 'dnd_area'
+    label='Main section',
+    class='body-container body-container--blog-index'
+  %}
+
+    {# Blog Banner #}
+    {% dnd_section
+      full_width=true,
+      padding={
+        'top': 0,
+        'right': 0,
+        'bottom': 0,
+        'left': 0
+      }
+    %}
+      {% dnd_module path='../modules/blog-listing-banner' %}
+      {% end_dnd_module %}
+    {% end_dnd_section %}
+    {# End Blog Banner #}
+
+    {# Blog Navigation #}
+    {% dnd_section
+      padding={
+        'default': {
+          'top': 16,
+          'right': 0,
+          'bottom': 16,
+          'left': 0
+        },
+        'mobile': {
+          'top': 16,
+          'right': 20,
+          'bottom': 16,
+          'left': 20
+        }
+      }
+    %}
+      {% dnd_module
+        path='../modules/blog-tag-filter'
+        width=6
+      %}
+      {% end_dnd_module %}
+      {% dnd_module
+        path='@hubspot/search_input',
+        label='Blog search',
+        content_types={
+          'blog_posts': true,
+          'knowledge_articles': false,
+          'landing_pages': false,
+          'website_pages': false
+        },
+        extra_classes='blog-navigation__search'
+        offset=6,
+        width=6
+      %}
+      {% end_dnd_module %}
+    {% end_dnd_section %}
+    {# End Blog Navigation #}
+
+    {# Blog Listings and Pagination #}
+    {% dnd_section
+      padding={
+        'default': {
+          'top': 0,
+          'right': 0,
+          'bottom': 0,
+          'left': 0
+        },
+        'mobile': {
+          'top': 80,
+          'right': 20,
+          'bottom': 80,
+          'left': 20
+        }
+      },
+      vertical_alignment='TOP'
+    %}
+      {% dnd_column %}
+        {% dnd_row %}
+          {% dnd_module
+            path='../modules/blog-listings',
+            layout_style='card'
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module path='../modules/blog-pagination' %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# End Blog Listings and Pagination #}
+
+  {% end_dnd_area %}
+</main>
+
+{% endblock body %}

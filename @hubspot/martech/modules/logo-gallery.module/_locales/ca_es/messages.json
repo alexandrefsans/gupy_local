@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Galeria de logotip",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Reconegut per",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Capçalera",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logotip d'Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Imatges de logotip",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Color de fons del bàner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Color de primer pla del bàner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  }
+}

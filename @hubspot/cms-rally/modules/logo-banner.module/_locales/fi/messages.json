@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Olemme auttaneet muun muassa seuraavia yrityksiä:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Otsikkoteksti",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora-logo",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Lataa logokuvat tähän",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logokuvat",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Logobanneri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Bannerin taustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Bannerin edustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tallenna asetukset",
+    "description": "",
+    "placeholders": null
+  }
+}

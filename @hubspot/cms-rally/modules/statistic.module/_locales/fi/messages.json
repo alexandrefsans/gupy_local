@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Tilastot",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Kun otat tämän vaihtoehdon käyttöön, voit korvata oletusarvoiset teemat. Kun vaihtoehto poistetaan käytöstä, moduuli palaa oletusarvoisiin teemoihin.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Korvaa oletustyyli",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Asiakastyytyväisyysluokitus</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Tilaston kuvaus",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Tilastollinen luku",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Tilastollinen prosentti",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Tilastoyksikkö",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Palkin väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Palkin täyttöväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tallenna asetukset",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "Tilastotekstin väri",
+    "description": "",
+    "placeholders": null
+  }
+}

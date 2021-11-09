@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Фільтр тегів блогу",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "ФІльтрувати за тегом",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Ярлик візуально приховано, але він використовується для засобів читання з екрану, щоб поле було доступним",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Текст ярлика",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Усі",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Текст для заповнення місця",
+    "description": "",
+    "placeholders": null
+  }
+}

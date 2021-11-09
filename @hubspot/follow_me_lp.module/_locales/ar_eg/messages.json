@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "الوسط",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "اليسار",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "اليمين",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "محاذاة",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "بحث",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "أسود وأبيض",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "اللون",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "رمادي",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "أبيض",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "مخصص",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "نظام الألوان",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "بحث",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "حدد لونًا مخصصًا",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "الأيقونة والنص",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "النص فقط",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "العرض",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "نمط الخط",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "دائري",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "الأصل",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "مربع",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "شكل الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "بحث",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "متابعتي - لوحة الترخيص",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "تغيير الحجم",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "الشبكة الاجتماعية",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "عنوان URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "أيقونة مخصصة",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "البريد الإلكتروني",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "الموقع الإلكتروني",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "الشبكة",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "صورة الشبكة",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "نص داعم",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "التباعد",
+    "description": "",
+    "placeholders": null
+  }
+}

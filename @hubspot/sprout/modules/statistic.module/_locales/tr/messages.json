@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "İstatistik",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Bu seçeneğin etkinleştirilmesi, varsayılan tema stillerini geçersiz kılmanıza olanak tanır. Bu seçeneği devre dışı bırakmak, modülü varsayılan tema stillerine yeniden bağlayacaktır.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Varsayılan stili geçersiz kıl",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Müşteri memnuniyeti derecelendirmesi</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "İstatistik açıklaması",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "İstatistik numarası",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "İstatistik yüzdesi",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "İstatistik birimi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Çubuk rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Çubuk dolgu rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  }
+}

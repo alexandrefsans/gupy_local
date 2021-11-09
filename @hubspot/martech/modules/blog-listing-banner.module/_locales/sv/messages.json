@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Banner för blogglista",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Skriv över standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Bild",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Färggradient",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Bakgrundstyp",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Bakgrundsbild",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Färg 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Färg 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Tonade färger",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Värdet är i pixlar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Vänster/Höger",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Bitutfyllning",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Värdet är i pixlar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Högst upp/Längst ned",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Undertextfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Titelfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Om ingen undertiteltext tillhandahålls använder detta din bloggmetabeskrivning från blogginställningarna",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Undertext\n",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Om ingen titeltext tillhandahålls använder detta din bloggtitel från blogginställningarna",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

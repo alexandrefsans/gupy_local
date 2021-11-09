@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Sütun şeklinde menü",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Renk",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Alt sınır",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Kesikli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Noktalı",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Çift",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Oluklu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "İçe yerleştirilmiş",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Hiçbiri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Dışa doğru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Çıkıntılı",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Düz",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Değer piksel cinsindendir",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Genişlik",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "İçindekiler",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Sayfaya 'Sütun bölümü' modülü eklendiğinde menü öğeleri otomatik olarak oluşturulur",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  }
+}

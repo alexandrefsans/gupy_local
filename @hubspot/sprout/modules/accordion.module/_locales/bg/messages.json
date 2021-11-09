@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Акордеон",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Използвайте интуитивния изключително невероятен софтуер, който ви спестява време и ще ви помогне да развиете бизнеса си.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Съдържание",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Разгънато по подразбиране",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Как да направя невероятен шаблон?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Горен колонтитул",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Разрешаването на тази опция ще ви позволи да презапишете стиловете на тема по подразбиране. Забраняването на тази опция ще свърже отново модула със стиловете на тема по подразбиране.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Презаписване на стила по подразбиране",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Цвят на горен колонтитул",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Цвят на горен колонтитул",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Цвят на икона",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Активен",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Цвят на горен колонтитул",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Цвят на икона",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Посочване",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Цвят на икона",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  }
+}

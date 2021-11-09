@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Баннер описания блога",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Фоновое изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Значение в пикселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Слева/справа",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Отступ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Значение в пикселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Сверху/снизу",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Цвет подзаголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Цвет заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Подзаголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

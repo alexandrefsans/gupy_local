@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Μπάνερ καταχώρησης ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Παράκαμψη προεπιλεγμένου στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Εικόνα",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Διαβάθμιση χρώματος",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Τύπος φόντου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Εικόνα φόντου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Χρώμα 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Χρώμα 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Χρώματα διαβάθμισης",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Η τιμή είναι σε pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Αριστερά/Δεξιά",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Αναπλήρωση",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Η τιμή είναι σε pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Επάνω/Κάτω",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Χρώμα υπότιτλου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Χρώμα τίτλου",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Αν δεν παρέχεται κείμενο υποτίτλων, η προεπιλογή θα είναι η μετα-περιγραφή ιστολογίου από τις ρυθμίσεις ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Υπότιτλος",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Αν δεν παρέχεται κείμενο τίτλου, η προεπιλογή θα είναι ο τίτλος του ιστολογίου σας από τις ρυθμίσεις του ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tίτλος",
+    "description": "",
+    "placeholders": null
+  }
+}

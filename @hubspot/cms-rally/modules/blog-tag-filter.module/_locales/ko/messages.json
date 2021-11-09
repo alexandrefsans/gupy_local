@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "블로그 태그 필터",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "태그별 필터링",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "레이블은 시각적으로 숨겨져 있지만 화면 판독기에서 필드에 액세스하는 데 사용됩니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "레이블 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "모두",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "플레이스홀더 텍스트",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Statistika",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Ako omogućite ovu opciju, moći ćete nadjačati zadane stilove teme. Onemogućavanjem opcije ponovno ćete povezati modul sa zadanim stilovima teme.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Nadjačaj zadani stil",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Ocjena zadovoljstva korisnika</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Opis statistike",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Broj statistike",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Postotak statistike",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Jedinica statistike",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Boja trake",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Boja ispune trake",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilske opcije",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "Boja teksta statistike",
+    "description": "",
+    "placeholders": null
+  }
+}

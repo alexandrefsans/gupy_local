@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Член на екипа",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Джошуа Бек</h3><p>Главен изпълнителен директор, съосновател</p><p>Джошуа има над 20-годишен опит в технологичния отрасъл. Помогна с основаването на тази компания през 2015 г. с мисията да помага на хората да израстват. В свободното си време обича да прекарва време с децата си, да ходи на плаж и да готви.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Съдържание на член на екип",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Изображение на член на екип",
+    "description": "",
+    "placeholders": null
+  }
+}

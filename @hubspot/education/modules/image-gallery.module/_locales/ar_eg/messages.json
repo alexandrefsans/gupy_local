@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "معرض الصور",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "المهجع بالحرم الجامعي",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "مضبوط",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "صورة",
+    "description": "",
+    "placeholders": null
+  }
+}

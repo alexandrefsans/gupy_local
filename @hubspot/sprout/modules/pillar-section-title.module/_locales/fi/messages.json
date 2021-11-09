@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Pilariosion otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Kun otat tämän vaihtoehdon käyttöön, voit korvata oletusarvoiset teemat. Kun vaihtoehto poistetaan käytöstä, moduuli palaa oletusarvoisiin teemoihin.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Korvaa oletustyyli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tyyliasetukset",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Osion otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Osion otsikon pitäisi kuvata osiota ja erottua muista sivun osioiden otsikoista. Otsikko lisätään automaattisesti valikkoon Pilariosio-moduulissa.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  }
+}

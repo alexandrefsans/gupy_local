@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Názov sekcie stĺpca",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Zapnutím tejto možnosti umožníte prepisovať predvolené štýly motívov. Ak ju vypnete, modul znova pripojíte k predvoleným štýlom motívov.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Prepísať predvolený štýl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Farba",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Názov sekcie",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Váš názov sekcie by mal opisovať sekciu a mal by byť jedinečný v rámci stránky. Názov sa automaticky pridá do modulu Ponuka stĺpca.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Názov",
+    "description": "",
+    "placeholders": null
+  }
+}

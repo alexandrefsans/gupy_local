@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Statistika",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Įjungę šią parinktį galėsite perrašyti numatytuosius temos stilius. Išjungus parinktį modulis bus vėl prijungtas prie numatytųjų temos stilių.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Perrašyti numatytąjį stilių",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Nuomonę pateikusių klientų įvertinimas</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Statistikos aprašas",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Statistikos numeris",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Statistikos procentas",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "tūkst.",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Statistinis vienetas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Juostos spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Juostos užpildo spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  }
+}

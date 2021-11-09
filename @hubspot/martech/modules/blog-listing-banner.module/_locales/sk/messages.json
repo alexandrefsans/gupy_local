@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Baner zoznamu blogov",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Prepísať predvolený štýl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Obrázok",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Farebný prechod",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Typ pozadia",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Obrázok pozadia",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Farba 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Farba 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Farby prechodu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Hodnota je v pixeloch",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Vľavo/vpravo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Odsadenie",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Hodnota je v pixeloch",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Hore/dole",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Farba podnadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Farba nadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Ak chýba text podnadpisu, predvolene sa nastaví metapopis blogu z nastavení blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Podnadpis",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Ak chýba text nadpisu, predvolene sa nastaví nadpis blogu z nastavení blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Názov",
+    "description": "",
+    "placeholders": null
+  }
+}

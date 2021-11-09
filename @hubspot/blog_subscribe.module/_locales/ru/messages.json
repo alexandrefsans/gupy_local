@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Подписка на электронные письма с блогом",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "По умолчанию будет использоваться текущий блог, если используется в шаблоне блога, или изначальный блог, если используется в другом месте.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Подпишитесь здесь!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Выберите блог для отображения",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Встроенный ответ для пользователей",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Спасибо за подписку!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок для отображения над формой",
+    "description": "",
+    "placeholders": null
+  }
+}

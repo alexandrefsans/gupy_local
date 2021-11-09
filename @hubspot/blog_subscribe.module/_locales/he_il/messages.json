@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "מינוי דוא\"ל לבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "אפשרות ברירת המחדל תשתמש בבלוג הנוכחי בעת השימוש בתבנית בלוג, או בבלוג הראשי בשימוש בכל מקום אחר.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "הירשם כאן!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "בחר בלוג להצגה",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "תגובה משולבת למשתמשים",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "תודה על ההרשמה למינוי!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "כותרת להצגה מעל טופס",
+    "description": "",
+    "placeholders": null
+  }
+}

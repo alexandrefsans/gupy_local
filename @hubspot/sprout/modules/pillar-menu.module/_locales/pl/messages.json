@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Menu filara",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Kolor",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Obramowanie dolne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Kreskowana",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Kropkowana",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Podwójne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Rowek",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Wstaw",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Brak",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Początek",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Krawędź",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Jednolity",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Styl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Wartość w pikselach",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Szerokość",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Spis treści",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Elementy menu są tworzone automatycznie podczas dodawania modułu „Sekcja filara” do strony",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tytuł",
+    "description": "",
+    "placeholders": null
+  }
+}

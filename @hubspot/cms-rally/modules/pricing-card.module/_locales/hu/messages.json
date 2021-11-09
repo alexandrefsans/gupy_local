@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Iratkozzon fel ingyenesen",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Gombfelirat",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Az extra biztonságot, vezérlést és támogatást igénylő csapatoknak.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Termékleírás",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Funkciólista ikon listajele",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 felhasználó tartozik hozzá",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Funkciók",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Díjszabás",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Ár",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Háttér színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Gomb háttérszíne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Gombfelirat színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stílusbeállítások",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Ingyenes",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Termékcsomag",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ hó",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Ár időkerete",
+    "description": "",
+    "placeholders": null
+  }
+}

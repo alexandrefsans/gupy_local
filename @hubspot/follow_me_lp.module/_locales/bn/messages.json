@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "কেন্দ্র",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "বাঁদিক",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "ডানদিক",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "সরলরেখায় বিন্যাসকরণ",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "অনুসন্ধান",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "সাদা এবং কালো",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "ধূসর",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "সাদা",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "কাস্টম",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "রঙয়ের স্কিম",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "অনুসন্ধান",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "কাস্টম রঙ নির্বাচন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "আইকন",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "আইকন এবং টেক্সট",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "শুধুমাত্র টেক্সট",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "প্রদর্শন",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "ফন্ট শৈলী",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "বৃত্তাকার",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "আসল",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "স্কোয়ার",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "আইকনের আকৃতি",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "অনুসন্ধান",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "আমাকে অনুসরণ করুন - LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "স্কেল",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "সোশ্যাল নেটওয়ার্ক",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "কাস্টম আইকন",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "ইমেল",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "ওয়েবসাইট",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "নেটওয়ার্ক",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "নেটওয়ার্ক ছবি",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "সমর্থনকারী টেক্সট",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "স্পেসিং",
+    "description": "",
+    "placeholders": null
+  }
+}

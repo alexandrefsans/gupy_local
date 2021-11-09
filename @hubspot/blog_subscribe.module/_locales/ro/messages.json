@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Abonare e-mail blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "În modul implicit, va fi folosit blogul curent atunci când este utilizat într-un șablon sau blogul principal atunci când este utilizat în alt mod.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Abonați-vă aici!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Selectați blogul de afișat",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Răspuns inline pentru utilizatori",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Vă mulțumim că v-ați abonat!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titlu de afișat deasupra formularului",
+    "description": "",
+    "placeholders": null
+  }
+}

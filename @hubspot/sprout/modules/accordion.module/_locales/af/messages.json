@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Akkordion",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Kry die maksimum voordeel uit die intuïtiewe, super ongelooflike sagteware wat jou tyd gaan spaar en jou besigheid help groei.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Inhoud",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Uitgebrei by verstek",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Hoe maak ek 'n ongelooflike sjabloon?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Opskrif",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Deur hierdie opsie te aktiveer, kan jy standaardtemastyle oorheers. As jy hierdie opsie deaktiveer, word die module weer terug aan die standaardtemastyle geskakel.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ignoreer standaardstyl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Opskrifkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Opskrifkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Ikoonkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktief",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Opskrifkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Ikoonkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Sweef",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Ikoonkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  }
+}

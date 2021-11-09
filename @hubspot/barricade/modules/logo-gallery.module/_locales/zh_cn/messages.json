@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "徽标图片库",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Salesforce 徽标",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "徽标图片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "横幅背景颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "横幅前景颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.bottom": {
+    "message": "与下面部分重叠",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.none": {
+    "message": "无重叠",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.top": {
+    "message": "与上面部分重叠",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.help_text": {
+    "message": "允许横幅与上面或下面区域重叠的设置",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.label": {
+    "message": "横幅重叠设置",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "覆盖默认样式",
+    "description": "",
+    "placeholders": null
+  }
+}

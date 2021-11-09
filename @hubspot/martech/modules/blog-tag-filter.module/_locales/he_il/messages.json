@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "מסנן תגיות בלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "עיון לפי",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "טקסט תווית",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "הכל",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "טקסט מציין מיקום",
+    "description": "",
+    "placeholders": null
+  }
+}

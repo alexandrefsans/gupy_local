@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Kortafsnit",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Billede",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kort",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Få mere at vide",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Få mere at vide om tekst",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Linket Få mere at vide",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontekstuel annoncering kan være profitabel. Den kan enten betale for dine omkostninger til hosting og vedligeholdelse af dit websted eller det kan betale for meget mere.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Tekst",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Dette er en titel",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

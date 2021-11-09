@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "ব্লগ লিস্টিং ব্যানার",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "ডিফল্ট শৈলী ওভাররাইড করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "ছবি ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "রঙ গ্রেডিয়েন্ট",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "পটভূমি প্রকার",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "ব্যাকগ্রাউন্ড ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "রঙ 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "রঙ 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "গ্রেডিয়েন্ট রং",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইলের বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "মান পিক্সেলে",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "বাম/ডান",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "প্যাডিং",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "মান পিক্সেলে",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "উপর/নিচ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "সাবটাইটেল রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "শিরোনামের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "যদি কোনও সাবটাইটেল পাঠ্য সরবরাহ না করা হয় তবে এটি ব্লগ সেটিংস থেকে আপনার ব্লগ মেটা বিবরণে ডিফল্ট হিসেবে ব্যবহৃত হবে",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "সাবটাইটেল",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "যদি কোনও শিরোনাম পাঠ্য সরবরাহ না করা হয় তবে এটি ব্লগ সেটিংস থেকে আপনার ব্লগ শিরোনামে ডিফল্ট হবে",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  }
+}

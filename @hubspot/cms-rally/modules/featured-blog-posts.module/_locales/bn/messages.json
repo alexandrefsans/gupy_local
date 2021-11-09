@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "লিঙ্ক",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "লিঙ্ক আইকন",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "টেক্সট লিংক করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "পোস্ট রংগুলো",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "ফিচার করা ব্লগ পোস্ট",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "আপনি যে ব্লগটি ফিচার করতে চান তা নির্বাচন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "ব্লগ নির্বাচন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "আপনি যদি নিজের ব্লগ থেকে কেবল একটি নির্দিষ্ট ট্যাগ বৈশিষ্ট্যযুক্ত করতে চান তবে এটি এখানে নির্বাচন করুন।",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "ট্যাগ নির্বাচন করুন ",
+    "description": "",
+    "placeholders": null
+  }
+}

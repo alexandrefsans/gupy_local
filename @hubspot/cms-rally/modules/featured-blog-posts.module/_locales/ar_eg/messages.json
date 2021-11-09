@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "الرابط",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "أيقونة الرابط",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "أبجد هوز",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "نص الرابط",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "الألوان البريدية",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "منشورات المدونة المميزة",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "حدد المدونة التي تريد تمييز المنشورات فيها من",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "تحديد مدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "إذا كنت ترغب في تمييز علامة معينة فقط من مدونتك، فحددها هنا.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "حدد العلامة",
+    "description": "",
+    "placeholders": null
+  }
+}

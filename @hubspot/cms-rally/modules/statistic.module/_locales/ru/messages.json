@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Статистика",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Включение этого параметра позволит переопределять стили тем по умолчанию. Отключение этого параметра приведет к переподключению модуля к стилям тем по умолчанию.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Переопределить стиль по умолчанию",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Оценка удовлетворенности клиентов</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Описание статистики",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Статистический номер",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Статистический процент",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "1000",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Единица измерения статистики",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": " Цвет панели",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Цвет заполнения панели",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "Цвет текста статистики",
+    "description": "",
+    "placeholders": null
+  }
+}

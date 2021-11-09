@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "لقد ساعدنا شركات مثل:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "نص رأس الصفحة",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "شعار Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "قم بتحميل صور الشعار هنا",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "صورالشعار",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "لافتة الشعار",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "لون خلفية اللافتة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "لون مقدمة اللافتة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  }
+}

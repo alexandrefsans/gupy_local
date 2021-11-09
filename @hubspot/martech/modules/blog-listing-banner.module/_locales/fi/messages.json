@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Blogiluettelon banneri",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Korvaa oletustyyli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Kuva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Värin gradientti",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Taustatyyppi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Taustakuva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Väri 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Väri 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Liukuvärit",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tallenna asetukset",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Arvo on pikseleinä",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Vasen/oikea",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Täyttö",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Arvo on pikseleinä",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Ylhäältä/alhaalta",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Alaotsikon väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Otsikon väri",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Jos tekstityksiä ei ole, tämä on blogisi asetusten määrittelemä blogisi oletusmetakuvaus",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Alaotsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Jos otsikkoa ei ole, tämä on blogisi asetusten määrittämä blogin oletusotsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  }
+}

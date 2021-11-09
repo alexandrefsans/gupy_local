@@ -1,0 +1,213 @@
+<!--
+  templateType: global_partial
+  label: Footer no navigation
+-->
+<footer class="footer footer__no-navigation">
+
+  {% module 'enable_footer_dnd_no_nav'
+    path='../../modules/enable-dnd',
+    label='Drag and drop',
+    export_to_template_context=true,
+    no_wrapper=true
+  %}
+
+  {% if widget_data.enable_footer_dnd_no_nav.enable_dnd %}
+
+    {# Drag and drop footer #}
+    {% dnd_area 'footer_dnd_no_nav'
+      label='Footer',
+      class='footer__container footer__container--dnd'
+    %}
+      {% dnd_section %}
+        {% dnd_column %}
+
+          {% dnd_row %}
+            {% dnd_module
+              path='@hubspot/divider',
+              fields={
+                'color': {
+                  'color': '#D3D3D3',
+                  'opacity': 100
+                },
+                'height': 2,
+                'width': 100
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+
+          {% dnd_row
+            padding={
+              'default': {
+                'top': 35,
+                'bottom': 35
+              },
+              'mobile': {
+                'right': 20,
+                'left': 20
+              }
+            }
+          %}
+
+            {# Copyright #}
+            {% dnd_module
+              path='@hubspot/rich_text',
+              label='Copyright',
+              offset=0,
+              width=6
+            %}
+              {% module_attribute 'html' %}
+                All Rights Reserved. © {{ year }} Barricade
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+            {# End copyright #}
+
+            {# Social follow #}
+            {% dnd_module
+              path='../../modules/social-follow',
+              horizontal_alignment=RIGHT,
+              offset=6,
+              override_default_style=true,
+              social_links=[
+                {
+                  'social_account': 'facebook-f',
+                  'accessibility': {
+                    'title': 'Follow us on Facebook'
+                  }
+                },
+                {
+                  'social_account': 'linkedin-in',
+                  'accessibility': {
+                    'title': 'Follow us on LinkedIn'
+                  }
+                },
+                {
+                  'social_account': 'twitter',
+                  'accessibility': {
+                    'title': 'Follow us on Twitter'
+                  }
+                },
+                {
+                  'social_account': 'instagram',
+                  'accessibility': {
+                    'title': 'Follow us on Instagram'
+                  }
+                }
+              ],
+              width=6
+            %}
+              {% module_attribute 'style' is_json=True %}
+                {
+                  "color": {
+                    "color": "#FF5E14",
+                    "opacity": 100
+                  },
+                  "bg_color": {
+                    "color": "#FFFFFF",
+                    "opacity": 100
+                  },
+                  "hover": {
+                    "color": {
+                      "color": "#FFFFFF",
+                      "opacity": 100
+                    },
+                    "bg_color": {
+                      "color": "#FF5E14",
+                      "opacity": 100
+                    }
+                  }
+                }
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+            {# End social follow #}
+
+          {% end_dnd_row %}
+        {% end_dnd_column %}
+      {% end_dnd_section %}
+    {% end_dnd_area %}
+    {# End drag and drop footer #}
+
+  {% else %}
+
+    {# Static footer #}
+    <div class="footer__container footer__container--static">
+
+      {# Copyright #}
+      <div class="footer__row footer__row--info">
+        <div class="footer__copyright">
+          {% module_block module 'footer_copyright'
+            path='@hubspot/rich_text',
+            label='Copyright'
+          %}
+            {% module_attribute 'html' %}
+              All Rights Reserved. © {{ year }} Barricade
+            {% end_module_attribute %}
+          {% end_module_block %}
+        </div>
+        {# End copyright #}
+
+        {# Social follow #}
+        <div class="footer__info__social">
+          <div class="footer__follow-me">
+            {% module_block module 'footer_social'
+              path='../../modules/social-follow',
+              override_default_style=true,
+              social_links=[
+                {
+                  'social_account': 'facebook-f',
+                  'accessibility': {
+                    'title': 'Follow us on Facebook'
+                  }
+                },
+                {
+                  'social_account': 'linkedin-in',
+                  'accessibility': {
+                    'title': 'Follow us on LinkedIn'
+                  }
+                },
+                {
+                  'social_account': 'twitter',
+                  'accessibility': {
+                    'title': 'Follow us on Twitter'
+                  }
+                },
+                {
+                  'social_account': 'instagram',
+                  'accessibility': {
+                    'title': 'Follow us on Instagram'
+                  }
+                }
+              ]
+            %}
+              {% module_attribute 'style' is_json=True %}
+                {
+                  "color": {
+                    "color": "#FF5E14",
+                    "opacity": 100
+                  },
+                  "bg_color": {
+                    "color": "#FFFFFF",
+                    "opacity": 100
+                  },
+                  "hover": {
+                    "color": {
+                      "color": "#FFFFFF",
+                      "opacity": 100
+                    },
+                    "bg_color": {
+                      "color": "#FF5E14",
+                      "opacity": 100
+                    }
+                  }
+                }
+              {% end_module_attribute %}
+            {% end_module_block %}
+          </div>
+        </div>
+        {# End social follow #}
+
+    </div>
+    {# End static footer #}
+
+  {% endif %}
+</footer>

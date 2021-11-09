@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Галерея изображений",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Здание общежития в кампусе",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "точно",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  }
+}

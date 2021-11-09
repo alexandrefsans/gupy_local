@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Oszlopszakasz címe",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Az opció engedélyezésével lehetősége lesz felülírni az alapértelmezett témastílusokat. Az opció letiltásával a modul visszavált az alapértelmezett témastílusokra.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Alapértelmezett stílus felülírása",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Szín",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stílusbeállítások",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Szakasz címe",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "A szakaszcím ideális esetben jellemzi a szakaszt és egyedi, eltérve az oldalon szereplő egyéb szakaszcímtől. A cím automatikusan hozzá lesz adva a menühöz az „Oszlopmenü” modulban.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Cím",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Pasica objave v spletnem dnevniku",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Preglasi privzeti slog",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Barvni gradient",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Vrsta ozadja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Slika ozadja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Barva 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Barva 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Prelivne barve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Vrednost v slikovnih pikah",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Levo/Desno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Odmik",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Vrednost v slikovnih pikah",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Zgoraj/Spodaj",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Barva podnaslova",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Barva naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Če besedilo podnaslova ni na voljo, bo to v nastavitvah bloga privzeto kot meta opis vašega bloga",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Podnaslov",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Če besedilo naslova ni na voljo, bo to v nastavitvah bloga privzeto kot meta opis vašega bloga",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

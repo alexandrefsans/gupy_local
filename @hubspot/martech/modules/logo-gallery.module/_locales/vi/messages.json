@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Logo Thư viện",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Được công nhận bởi",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Đầu trang",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Hình ảnh logo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Màu nền sau của biểu ngữ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Màu nền trước của biểu ngữ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  }
+}

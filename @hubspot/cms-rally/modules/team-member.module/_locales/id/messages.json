@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Anggota Tim",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>CEO, Rekan Pendiri</p><p>Joshua memiliki lebih dari 20 tahun pengalaman di industri teknologi. Ia turut mendirikan perusahaan ini pada tahun 2015 dengan misi membantu mengembangkan orang-orang. Di saat senggang, ia senang menghabiskan waktu bersama anak-anaknya, pergi ke pantai, dan memasak.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Konten anggota tim",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Gambar anggota tim",
+    "description": "",
+    "placeholders": null
+  }
+}

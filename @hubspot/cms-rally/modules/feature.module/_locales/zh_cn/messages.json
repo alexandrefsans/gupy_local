@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "利用超棒的直观性软件，节省时间并拯救业务。承诺。",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "功能描述",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "图标",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "背景颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "边框颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "功能图标",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "功能图片",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "图标",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "图片",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "无",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "精选图片/图标",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "快速简单",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "功能标题",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "功能",
+    "description": "",
+    "placeholders": null
+  }
+}

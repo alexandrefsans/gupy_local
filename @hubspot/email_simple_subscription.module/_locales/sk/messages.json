@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "Záložné zrušenie odberu",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Text tlačidla",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Odhlásenie odberu e-mailov",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.label": {
+    "message": "Zástupný text zadania e-mailu",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.default": {
+    "message": "Vaša e-mailová adrea",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Zrušiť odber",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.default": {
+    "message": "email@priklad.com",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Hlavička",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.label": {
+    "message": "Text pomocníka pre zadávanie e-mailu",
+    "description": "",
+    "placeholders": null
+  }
+}

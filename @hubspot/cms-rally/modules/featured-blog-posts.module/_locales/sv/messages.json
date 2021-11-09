@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Länk",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Länkikon",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Länktext",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Inläggens färg",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Framhävda blogginlägg",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Välj bloggen som du vill framhäva inlägg från",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Välj bogg",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Om du vill framhäva endast en specifik tagg från din blogg väljer du den här.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Välj tagg",
+    "description": "",
+    "placeholders": null
+  }
+}

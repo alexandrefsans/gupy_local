@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Galéria obrázkov",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Budova internátu v školskom areáli",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "presne",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Obrázok",
+    "description": "",
+    "placeholders": null
+  }
+}

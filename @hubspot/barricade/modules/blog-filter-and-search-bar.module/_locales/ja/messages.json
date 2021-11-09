@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "ブログフィルターと検索バー",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label": {
+    "message": "ブログ タグ フィルター",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.default": {
+    "message": "閲覧者：",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.label": {
+    "message": "ラベルテキスト",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.default": {
+    "message": "すべて",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.label": {
+    "message": "プレースホルダーテキスト",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.blog_posts.label": {
+    "message": "ブログ記事",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.knowledge_articles.label": {
+    "message": "ナレッジ記事",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.label": {
+    "message": "検索結果に次を含める：",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.landing_pages.label": {
+    "message": "ランディングページ",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.website_pages.label": {
+    "message": "ウェブサイトページ",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.field_label.label": {
+    "message": "ラベルテキスト",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.include_search_button.label": {
+    "message": "検索ボタンを含める",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.label": {
+    "message": "検索フィールド",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.default": {
+    "message": "検索",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.label": {
+    "message": "プレースホルダーテキスト",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,79 @@
+/* Footer Containers */
+
+.footer .dnd-section {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.footer__container--static {
+  margin: 0 auto;
+  padding: 2.8rem 2.8rem 0;
+}
+
+.footer__top-section {
+  margin-bottom: 4.9rem;
+}
+
+@media (max-width: 767px) {
+  .footer__top-section {
+    margin-bottom: 2.8rem;
+  }
+}
+
+.footer__bottom-section {
+  border-top: 1px solid #fff;
+  padding: 1.4rem 0;
+}
+
+@media (max-width: 767px) {
+  .footer__top-section,
+  .footer__bottom-section {
+    text-align: center;
+  }
+}
+
+/* Footer Logo */
+
+.footer__logo {
+  margin-bottom: 1.4rem;
+}
+
+/* Footer Menus */
+
+.footer h4 {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.footer .hs-menu-wrapper ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.footer .hs-menu-wrapper li {
+  margin: 0.7rem 0;
+}
+
+@media (max-width: 767px) {
+  .footer .footer__navigation {
+    float: left;
+    width: 50%;
+  }
+
+  .footer .footer__navigation:nth-child(2n + 2) {
+    clear: left;
+  }
+
+  .footer__logo,
+  .footer__follow-me {
+    margin-bottom: 2.8rem;
+  }
+}
+
+/* Footer - No Navigation */
+
+.footer--no-navigation .footer__container--static {
+  padding: 2.8rem 0;
+  text-align: center;
+}

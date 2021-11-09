@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Člen týmu",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Joshua pracuje v technologickém průmyslu více než 20 let. V roce 2015 stál u zrodu této společnosti a chtěl pomoct lidem růst. Svůj volný čas rád tráví se svými dětmi, chodí na pláž a vaří.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Životopis",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "Generální ředitel, spoluzakladatel",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Umístění",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Obrázek",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Jméno",
+    "description": "",
+    "placeholders": null
+  }
+}

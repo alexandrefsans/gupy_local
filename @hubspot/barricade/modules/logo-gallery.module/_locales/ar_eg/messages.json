@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "معرض الشعارات",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "شعار Salesforce",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "صور الشعار",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "لون خلفية اللافتة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "لون مقدمة اللافتة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.bottom": {
+    "message": "تداخل القسم أدناه",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.none": {
+    "message": "لا يوجد تداخل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.top": {
+    "message": "تداخل القسم أعلاه",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.help_text": {
+    "message": "إعدادات للسماح للافتة بالتداخل مع المنطقة الموجودة بالأعلى أو بالأسفل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.label": {
+    "message": "إعدادات تداخل اللافتة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "تجاوز النمط الافتراضي",
+    "description": "",
+    "placeholders": null
+  }
+}

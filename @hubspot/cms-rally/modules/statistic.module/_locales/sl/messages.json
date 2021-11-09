@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Statistika",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Če omogočite to možnost, boste lahko preglasili privzete sloge tem. Če onemogočite to možnost, boste modul znova povezali s privzetimi slogi tem.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Preglasi privzeti slog",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Ocena zadovoljstva strank</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Statistični opis",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Statistično število",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Statistični odstotek",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Statistična enota",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Barva vrstice",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Barva polnila",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "Barva statističnega besedila",
+    "description": "",
+    "placeholders": null
+  }
+}

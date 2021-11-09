@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "關鍵區塊標題",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "啟用此選項可以覆寫預設主題樣式。停用此選項會將模組重新連接預設主題樣式。",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆寫預設樣式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "區塊標題",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "區塊標題應描述區塊的內容，而且應與頁面上其他區塊的標題有所不同。系統會自動將標題新增至「關鍵選單」模組裡的選單。",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  }
+}

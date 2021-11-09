@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Banner listare blog",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Înlocuire stil implicit",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Imagine",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Gradient culoare",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Tip fundal",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Imagine fundal",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Culoare 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Culoare 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Culori gradient",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Valoarea este în pixeli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Stânga/dreapta",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Spațiere",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Valoarea este în pixeli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Sus/jos",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Culoare subtitrare",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Culoare titlu",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Dacă nu este furnizat niciun text pentru subtitrare, acesta va fi implicit meta descrierea blogului dvs. din setările pentru blog",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Subtitrare",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Dacă nu este furnizat niciun text pentru titlu, acesta va fi implicit titlul blogului dvs. din setările pentru blog",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titlu",
+    "description": "",
+    "placeholders": null
+  }
+}

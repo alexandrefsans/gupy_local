@@ -1,0 +1,20 @@
+/* Table */
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+/* Table Cells */
+
+th,
+td {
+  vertical-align: top;
+}
+
+/* Table Header */
+
+thead th,
+thead td {
+  vertical-align: bottom;
+}

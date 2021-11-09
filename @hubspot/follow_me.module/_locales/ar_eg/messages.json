@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "متابعتي",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "فتح الروابط في نافذة جديدة",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "رأس الوحدة النمطية",
+    "description": "",
+    "placeholders": null
+  }
+}

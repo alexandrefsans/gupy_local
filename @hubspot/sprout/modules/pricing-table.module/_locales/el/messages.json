@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Πίνακας τιμολόγησης",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Μηνιαία χρέωση",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Ετικέτα χρέωσης",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Επιλογή τιμολόγησης ένα",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Πίνακας",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Σύνδεσμος κουμπιού",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Εγγραφή",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Κείμενο κουμπιού",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Νόμισμα",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Δωρεάν απεριόριστες</strong> λήψεις, καθώς και περισσότερα πράγματα!</p><ul><li>25 MB μέγιστο μέγεθος αρχείου</li><li>2 GB εύρος ζώνης</li><li>Καταγραφή οθόνης 15 δευτερολέπτων</li><li>Καταγραφή οθόνης webcam 15 δευτερολέπτων</li><li>Επωνυμία CloudApp</li><li>Απεριόριστα σχόλια</li><li>Απεριόριστα αρχεία</li><li>Ενσωματώσεις επιτραπέζιων εφαρμογών</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Περιγραφή",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Τιμή",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Tίτλος",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Ετήσια χρέωση με κέρδος 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Ετικέτα χρέωσης",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Επιλογή τιμολόγησης δύο",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Πίνακας",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Σύνδεσμος κουμπιού",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Εγγραφή",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Κείμενο κουμπιού",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Νόμισμα",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Δωρεάν απεριόριστες</strong> λήψεις, καθώς και περισσότερα πράγματα!</p><ul><li>25 MB μέγιστο μέγεθος αρχείου</li><li>2 GB εύρος ζώνης</li><li>Καταγραφή οθόνης 15 δευτερολέπτων</li><li>Καταγραφή οθόνης webcam 15 δευτερολέπτων</li><li>Επωνυμία CloudApp</li><li>Απεριόριστα σχόλια</li><li>Απεριόριστα αρχεία</li><li>Ενσωματώσεις επιτραπέζιων εφαρμογών</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Περιγραφή",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Τιμή",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Tίτλος",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Η ενεργοποίηση αυτής της επιλογής θα σας επιτρέψει να παρακάμψετε τα προεπιλεγμένα στυλ θέματος. Η απενεργοποίηση αυτής της επιλογής θα επανασυνδέσει τη λειτουργική μονάδα στα προεπιλεγμένα στυλ θέματος.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Παράκαμψη προεπιλεγμένου στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Χρώμα ενεργού επιλογής",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Χρώμα φόντου κεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Χρώμα κειμένου κεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  }
+}

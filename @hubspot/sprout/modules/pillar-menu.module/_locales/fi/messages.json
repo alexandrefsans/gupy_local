@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Pilarivalikko",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Alareuna",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Katkoviiva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Pisteviiva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Kaksinkertainen",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Ura",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Upotettu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Ei mitään",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Kohotettu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Harjanne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Yhtenäinen",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Tyyli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Arvo on pikseleinä",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Leveys",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tyyliasetukset",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Sisällysluettelo",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Valikkokohdat luodaan automaattisesti, kun sivulle lisätään Pilariosio-moduuli",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  }
+}

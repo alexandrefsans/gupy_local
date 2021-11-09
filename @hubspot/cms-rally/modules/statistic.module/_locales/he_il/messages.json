@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "סטטיסטי",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "הפעלת אפשרות זו תאפשר לך לעקוף את סגנונות ערכת הנושא המהווים ברירת מחדל. השבתת אפשרות זו תחבר מחדש את המודול לסגנונות ערכת הנושא המהווים ברירת מחדל.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "עקוף סגנון ברירת מחדל",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>דירוג שביעות הרצון של הלקוחות</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "תיאור סטטיסטי",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "מספר סטטיסטי",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "אחוז סטטיסטי",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "אלף",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "יחידה סטטיסטית",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "צבע סרגל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "צבע מילוי של סרגל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "צבע טקסט סטטיסטי",
+    "description": "",
+    "placeholders": null
+  }
+}

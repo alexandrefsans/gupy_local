@@ -1,0 +1,11 @@
+[
+  {
+    "label": "Enable drag and drop",
+    "name": "enable_dnd",
+    "id": "enable_dnd",
+    "type": "boolean",
+    "display": "toggle",
+    "inline_help_text":"<br/>Enabling this feature will allow you to edit your footer with drag and drop.<br/><br/>Once it's enabled, the content will reset to its default state. <b>To recover your previous content, just disable drag and drop.</b><br/><br/><a href='http://bit.ly/2MSoOfo'>Learn More</a>",
+    "default": false
+  }
+]

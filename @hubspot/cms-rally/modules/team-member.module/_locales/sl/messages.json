@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Član ekipe",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>CEO, soustanovitelj </p><p>Joshua ima več kot 20 let izkušenj v tehnološki industriji. Leta 2015 je pomagal ustanoviti to podjetje z namenom pomagati ljudem rasti. V prostem času se rad druži s svojimi otroci, hodi na plažo in kuha.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Vsebina člana ekipe",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Slika člana ekipe",
+    "description": "",
+    "placeholders": null
+  }
+}

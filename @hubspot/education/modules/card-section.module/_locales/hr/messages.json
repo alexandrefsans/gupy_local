@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Odjeljak kartice",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Sadržaj",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Veza",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Saznajte više",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Tekst veze",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Opis",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Učitelji kojima je stalo do vašeg uspjeha",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Predavanje u učionici",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Slika i ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Ako omogućite ovu opciju, moći ćete nadjačati zadane stilove teme. Onemogućavanjem opcije ponovno ćete povezati modul sa zadanim stilovima teme.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Nadjačaj zadani stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Boja za isticanje",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Boja ispune ikone",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcije stila",
+    "description": "",
+    "placeholders": null
+  }
+}

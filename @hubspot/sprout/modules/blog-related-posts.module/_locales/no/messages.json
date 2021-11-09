@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Relaterte blogginnlegg",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Relaterte artikler",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Overskrift",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Les mer",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Les mer tekst",
+    "description": "",
+    "placeholders": null
+  }
+}

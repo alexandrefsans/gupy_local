@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Suivez-moi",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Ouvrir les liens dans une nouvelle fenêtre",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "En-tête du module",
+    "description": "",
+    "placeholders": null
+  }
+}

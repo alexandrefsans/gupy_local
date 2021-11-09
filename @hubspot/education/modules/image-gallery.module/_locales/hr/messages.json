@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Galerija slika",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Studentski dom u kampusu",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "točno",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  }
+}

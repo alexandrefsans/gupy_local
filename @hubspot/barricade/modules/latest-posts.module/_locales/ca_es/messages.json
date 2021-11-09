@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Entrades més recents",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Selecciona el blog del qual vols extreure entrades",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Nombre d'entrades per extreure",
+    "description": "",
+    "placeholders": null
+  }
+}

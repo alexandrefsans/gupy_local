@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "善用這個直覺式的強效軟件，幫助你節省時間及拯救業務。我們向你保證。",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "功能描述",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "圖示",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "背景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "邊界顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "功能圖示",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "功能圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "圖示",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "無",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "精選圖片/圖示",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "快捷又簡單",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "功能標題",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "功能",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Link",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Ikon for link",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Link-tekst",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Farver for indlæg",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Viste blogindlæg",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Vælg den blog, som du gerne vil vise indlæg fra",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Vælg en blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Hvis du kun vil bruge et specifikt tag fra din blog, skal du vælge det her.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Vælg tag",
+    "description": "",
+    "placeholders": null
+  }
+}

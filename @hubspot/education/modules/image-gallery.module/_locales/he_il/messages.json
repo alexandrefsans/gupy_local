@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "גלריית תמונות",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "בניית מעונות בקמפוס",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "מדויק",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "תמונה",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "아코디언",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "시간을 절약해 주고 비즈니스의 성장에 도움을 줄 놀랍고 직관적인 소프트웨어를 활용해 보십시오.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "콘텐츠",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "기본적으로 확장됨",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "근사한 템플릿은 어떻게 만드나요?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "제목",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "이 옵션을 활성화하면 기본 테마 스타일을 재정의할 수 있습니다. 이 옵션을 비활성화하면 모듈이 기본 테마 스타일에 다시 연결됩니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "기본 스타일 재정의",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "제목 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "제목 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "아이콘 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "활성",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "제목 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "아이콘 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "호버",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "아이콘 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  }
+}

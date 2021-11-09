@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Baner z wpisami z blogów",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "Ikona przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Wróć do bloga",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Tekst przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Niestandardowy kolor tła",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Niestandardowy obraz tła",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Wyróżniony obraz",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Którego typu baneru chcesz użyć?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Kolor tła",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Obraz tła",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Wypełnienie",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Wartość w pikselach",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Góra/dół",
+    "description": "",
+    "placeholders": null
+  }
+}

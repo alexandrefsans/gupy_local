@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Nous avons aidé des entreprises comme :",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Texte d'en-tête",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Téléchargez les images de logo ici",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Images de logo",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Logo de la bannière",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Couleur de fond de la bannière",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Couleur de premier plan de la bannière",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Options de style",
+    "description": "",
+    "placeholders": null
+  }
+}

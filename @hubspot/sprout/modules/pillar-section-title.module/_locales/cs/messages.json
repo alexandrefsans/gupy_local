@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Název oddílu sloupce",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Pokud povolíte tuto možnost, budete moci přepsat výchozí styly motivů. Zakázáním této možnosti se modul připojí zpět k výchozím stylům motivů.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Přepsat výchozí styl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Barva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti stylů",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Název oddílu",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Název oddílu by měl být popisem vašeho oddílu a měl by se odlišovat od ostatních názvů oddílů na stránce. Název se automaticky přidá do nabídky v modulu „Nabídka sloupce“.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Název",
+    "description": "",
+    "placeholders": null
+  }
+}

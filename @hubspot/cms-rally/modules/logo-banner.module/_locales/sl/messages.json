@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Pomagali smo podjetjem, kot so:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Besedilo naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logotip Agriflore",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Naloži slike logotipa tukaj",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Slike logotipa",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Pasica z logotipom",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Barva ozadja pasice",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Barva ospredja pasice",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  }
+}

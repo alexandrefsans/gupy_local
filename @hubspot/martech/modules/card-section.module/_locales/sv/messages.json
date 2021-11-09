@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Kortsektion",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Knapplänk",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Läs mer",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Knapptext",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Bild",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kort",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontextuell annonsering kan vara vinstgivande. Det kan antingen betala för dina värd- och underhållskostnader för din webbplats eller för mycket mer.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Text",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Det här är en titel",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

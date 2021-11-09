@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Ekip üyesi",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>CEO, Kurucu Ortak</p></p>Joshua, teknoloji endüstrisinde 20 yıldan fazla deneyime sahiptir. İnsanların gelişmesine yardımcı olma misyonuyla bu şirketin 2015 yılında kurulmasına yardımcı oldu. Boş zamanlarında çocuklarıyla zaman geçirmeyi, plaja gitmeyi ve yemek yapmayı sever.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Ekip üyesi içeriği",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Ekip üyesi görüntüsü",
+    "description": "",
+    "placeholders": null
+  }
+}

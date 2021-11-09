@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "로고 갤러리",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Salesforce 로고",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "로고 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "배너 배경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "배너 전경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.bottom": {
+    "message": "아래 섹션 오버랩",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.none": {
+    "message": "오버랩 안 함",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.top": {
+    "message": "위 섹션 오버랩",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.help_text": {
+    "message": "배너가 위 또는 아래쪽 영역에 오버랩되도록 하는 설정",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.label": {
+    "message": "배너 오버랩 설정",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "기본 스타일 재정의",
+    "description": "",
+    "placeholders": null
+  }
+}

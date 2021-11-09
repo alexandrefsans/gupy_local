@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Kry die maksimum voordeel uit die intuïtiewe, super ongelooflike sagteware wat jou tyd gaan spaar en jou besigheid red. Belowe.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Eienskapbeskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ikoon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Agtergrondkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Raamkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Kleur",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Eienskapikoon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Eienskapbeeld",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ikoon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Beeld",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Geen",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Vertoonde beeld/ikoon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Vinnig en eenvoudig",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Eienskaptitel",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Eienskap",
+    "description": "",
+    "placeholders": null
+  }
+}

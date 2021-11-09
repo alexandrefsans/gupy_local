@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Llista d'entrades del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Autor",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Aquests camps et permeten canviar les etiquetes a les teves pàgines de llista d'autor.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Llista de l'autor del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Publicacions de",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Subtítol",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Aquests camps et permeten canviar les etiquetes a les teves pàgines de llista d'etiquetes.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Llista d'etiquetes del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Publicacions sobre",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Subtítol",
+    "description": "",
+    "placeholders": null
+  },
+  "comments.label": {
+    "message": "Comentaris",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.default": {
+    "message": "Comentaris",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.label": {
+    "message": "Text dels comentaris",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Descripció",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Imatge destacada",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Targeta",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Llista",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Estil de la disposició",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Títol de l'entrada",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Data de publicació",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Text de més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Etiquetes",
+    "description": "",
+    "placeholders": null
+  }
+}

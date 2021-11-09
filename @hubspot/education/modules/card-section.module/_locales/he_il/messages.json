@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "מקטע כרטיס",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "תוכן",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "קישור",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "קבל מידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "טקסט קישור",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "תיאור",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "מורים שההצלחה שלך חשובה להם",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "הרצאה בכיתה",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "תמונה",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "תמונה וסמל",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "הפעלת אפשרות זו תאפשר לך לעקוף את סגנונות ערכת הנושא המהווים ברירת מחדל. השבתת אפשרות זו תחבר מחדש את המודול לסגנונות ערכת הנושא המהווים ברירת מחדל.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "עקוף סגנון ברירת מחדל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "צבע הדגשה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "צבע מילוי של סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "感言滑桿",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "啟用此選項可以覆寫預設主題樣式。停用此選項會將模組重新連接預設主題樣式。",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆寫預設樣式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_color.label": {
+    "message": "背景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "導覽啟用中顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "導覽顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.quote_color.label": {
+    "message": "引言顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.text_color.label": {
+    "message": "文字顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author.default": {
+    "message": "Mary Kindler",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author.label": {
+    "message": "作者",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author_title.default": {
+    "message": "Syntecho 創辦人",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author_title.label": {
+    "message": "作者稱謂",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.content.default": {
+    "message": "<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dapibus posuere mi, in pretium ante posuere a. Aliquam a risus at eros molestie pretium. Aliquam a risus at eros molestie pretium dolor set amiut. </p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.content.label": {
+    "message": "感言文字",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.label": {
+    "message": "感言",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.testimonial_image.default.alt": {
+    "message": "預留位置圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.testimonial_image.label": {
+    "message": "感言圖片",
+    "description": "",
+    "placeholders": null
+  }
+}

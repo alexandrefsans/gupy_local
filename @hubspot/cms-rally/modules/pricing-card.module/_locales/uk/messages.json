@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Підпишіться безкоштовно",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Текст кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Для команд, які потребують додаткової безпеки, контролю та підтримки.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Опис продукту",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Маркований список значків функцій",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Містить 10 користувачів",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Функції",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Картка ціноутворення",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Ціна",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Колір фону",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Колір фону кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Колір тексту кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметри стилю",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Безплатно",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Рівень продукту",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ міс.",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Період чинності ціни",
+    "description": "",
+    "placeholders": null
+  }
+}

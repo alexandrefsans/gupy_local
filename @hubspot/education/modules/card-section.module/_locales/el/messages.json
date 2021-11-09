@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Ενότητα κάρτας",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Περιεχόμενο",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Σύνδεσμος",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Περισσότερες λεπτομέρειες",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Κείμενο συνδέσμου",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Περιγραφή",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Καθηγητές που νοιάζονται για την επιτυχία σας",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Tίτλος",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Μια διάλεξη στην τάξη",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Εικόνα",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Εικονίδιο",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Εικόνα και εικονίδιο",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Η ενεργοποίηση αυτής της επιλογής θα σας επιτρέψει να παρακάμψετε τα προεπιλεγμένα στυλ θέματος. Η απενεργοποίηση αυτής της επιλογής θα επανασυνδέσει τη λειτουργική μονάδα στα προεπιλεγμένα στυλ θέματος.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Παράκαμψη προεπιλεγμένου στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Χρώμα έμφασης",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Χρώμα γεμίσματος εικονιδίου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  }
+}

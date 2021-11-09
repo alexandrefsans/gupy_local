@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "ตารางราคา",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "การเรียกเก็บเงินรายเดือน",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "ป้ายการเรียกเก็บเงิน",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "ตัวเลือกราคา 1",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "ตาราง",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "ลิงก์ของปุ่ม",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "สมัคร",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "ข้อความบนปุ่ม",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "สกุลเงิน",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "ดาวน์โหลด<p><strong>ฟรีไม่จำกัด</strong> แถมรายการอื่นๆ อีกมากมาย!</p><ul><li>ขนาดไฟล์สูงสุด 25 MB</li><li>คลื่นความถี่ 2 GB</li><li>การบันทึกหน้าจอ 15 วินาที</li><li>การบันทึกวิดีโอเว็บแคม 15 วินาที</li><li>การสร้างตราผลิตภัณฑ์บน CloudApp</li><li>สร้างคำอธิบายประกอบไม่จำกัด</li><li>ไฟล์ไม่จำกัด</li><li>การผสานการทำงานของแอปบนเดสก์ท็อป</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "คำอธิบาย",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "ราคา",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "ระดับเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "ชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "ประหยัดการเรียกเก็บเงินรายปี 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "ป้ายการเรียกเก็บเงิน",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "ตัวเลือกราคา 2",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "ตาราง",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "ลิงก์ของปุ่ม",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "สมัคร",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "ข้อความบนปุ่ม",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "สกุลเงิน",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "ดาวน์โหลด<p><strong>ฟรีไม่จำกัด</strong> แถมรายการอื่นๆ อีกมากมาย!</p><ul><li>ขนาดไฟล์สูงสุด 25 MB</li><li>คลื่นความถี่ 2 GB</li><li>การบันทึกหน้าจอ 15 วินาที</li><li>การบันทึกวิดีโอเว็บแคม 15 วินาที</li><li>การสร้างตราผลิตภัณฑ์บน CloudApp</li><li>สร้างคำอธิบายประกอบไม่จำกัด</li><li>ไฟล์ไม่จำกัด</li><li>การผสานการทำงานของแอปบนเดสก์ท็อป</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "คำอธิบาย",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "ราคา",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "องค์กร",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "ชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "การเปิดใช้ตัวเลือกนี้จะช่วยให้คุณสามารถแทนที่รูปแบบธีมค่าเริ่มต้นได้ การปิดใช้ตัวเลือกนี้จะเชื่อมต่อโมดูลกลับไปเป็นรูปแบบธีมค่าเริ่มต้นอีกครั้ง",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "แทนที่รูปแบบค่าเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "สีตัวเลือกที่ใช้งานอยู่",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "สีพื้นหลังของส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "สีข้อความส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "ตัวเลือกรูปแบบ",
+    "description": "",
+    "placeholders": null
+  }
+}

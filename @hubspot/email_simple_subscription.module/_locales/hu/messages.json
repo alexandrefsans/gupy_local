@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "Leiratkozás a biztonsági mentésről",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Gombfelirat",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Leiratkozás az e-mailről",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.label": {
+    "message": "E-mail-beviteli helyőrző szöveg",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.default": {
+    "message": "Az Ön e-mail-címe:",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Leiratkozás",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.default": {
+    "message": "email@pelda.com",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Fejléc",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.label": {
+    "message": "E-mail-beviteli súgószöveg",
+    "description": "",
+    "placeholders": null
+  }
+}

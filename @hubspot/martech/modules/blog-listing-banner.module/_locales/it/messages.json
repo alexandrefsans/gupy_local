@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Banner degli elenchi di blog",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Sovrascrivi lo stile predefinito",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Immagine",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Sfumatura colore",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Tipo di sfondo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Immagine sfondo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Colore 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Colore 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Colori sfumature",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opzioni stile",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Il valore è in pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Destra/Sinistra",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Spaziatura interna",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Il valore è in pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "In alto/In basso",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Colore del sottotitolo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Colore del titolo",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Se non viene fornito alcun testo del sottotitolo, verrà impostato automaticamente alla meta description del blog dalle impostazioni del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Sottotitolo",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Se non viene fornito alcun testo del titolo, verrà impostato automaticamente al titolo del blog dalle impostazioni del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titolo",
+    "description": "",
+    "placeholders": null
+  }
+}

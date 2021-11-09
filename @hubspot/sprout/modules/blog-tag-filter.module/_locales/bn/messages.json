@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "ব্লগ ট্যাগ ফিল্টার",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "এই অনুযায়ী ব্রাউজ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "লেবেল পাঠ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "সব ",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "প্লেসহোল্ডার টেক্সট",
+    "description": "",
+    "placeholders": null
+  }
+}

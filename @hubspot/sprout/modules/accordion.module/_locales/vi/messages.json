@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Ngăn xếp",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Tận dụng phần mềm trực quan siêu tuyệt vời giúp bạn tiết kiệm thời gian và sẽ giúp doanh nghiệp của bạn phát triển.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Nội dung",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Mở rộng theo mặc định",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Làm cách nào để tôi có thể tạo một mẫu tuyệt đẹp?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Đầu trang",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Khi bật tùy chọn này, bạn có thể ghi đè kiểu chủ đề mặc định. Khi tắt tùy chọn này, mô-đun sẽ kết nối lại với kiểu chủ đề mặc định.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ghi đè kiểu mặc định",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Màu đầu trang",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Màu đầu trang",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Màu biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Đang hoạt động",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Màu đầu trang",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Màu biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Di chuột",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Màu biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  }
+}

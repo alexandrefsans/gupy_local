@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Blog Pagination",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Next text",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Previous text",
+    "description": "",
+    "placeholders": null
+  }
+}

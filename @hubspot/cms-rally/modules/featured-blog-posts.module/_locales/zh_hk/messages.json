@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "連結",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "連結圖示",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "連結文字",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "文章顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "精選網誌文章",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "選取你想展示精選文章的網誌",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "選取網誌",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "如果你只想從網誌精選一個特定的標記，請在此處選取。",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "選取標記",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Julkaisuluettelo samasta aiheesta",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Liittyvät artikkelit",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Lue lisää",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Lisää aiheesta -teksti",
+    "description": "",
+    "placeholders": null
+  }
+}

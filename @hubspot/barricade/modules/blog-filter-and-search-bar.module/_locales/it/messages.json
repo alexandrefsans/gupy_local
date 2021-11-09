@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "Filtro del blog e barra di ricerca",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label": {
+    "message": "Filtro di tag del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.default": {
+    "message": "Sfoglia per:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.label": {
+    "message": "Testo etichetta",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.default": {
+    "message": "Tutto",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.label": {
+    "message": "Testo placeholder",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.blog_posts.label": {
+    "message": "Articoli blog",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.knowledge_articles.label": {
+    "message": "Articoli della knowledge base",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.label": {
+    "message": "I risultati di ricerca includono",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.landing_pages.label": {
+    "message": "Landing page",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.website_pages.label": {
+    "message": "Pagine web",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.field_label.label": {
+    "message": "Testo etichetta",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.include_search_button.label": {
+    "message": "Includi pulsante di ricerca",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.label": {
+    "message": "Campo di ricerca",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.default": {
+    "message": "Cerca",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.label": {
+    "message": "Testo placeholder",
+    "description": "",
+    "placeholders": null
+  }
+}

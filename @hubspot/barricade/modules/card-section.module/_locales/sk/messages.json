@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Sekcia kariet",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Obrázok",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Karta",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Ďalšie informácie",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Text „Ďalšie informácie“",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Odkaz Ďalšie informácie",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontextové reklamy môžu byť ziskové. Dokážu vám pomôcť zaplatiť za hosting a údržbu vášho webu, no dokážu zarobiť aj oveľa viac.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Text",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Toto je názov",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Názov",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Registreer gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knoppieteks",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Vir spanne wat ekstra sekuriteit, beheer en ondersteuning benodig.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Produkbeskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Eienskaplys-ikoonkolpunt",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 gebruikers ingesluit",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Eienskappe",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Pryskaart",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Prys",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Agtergrondkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Knoppie-agtergrondkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Knoppietekskleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Produkvlak",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ mnd.",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Prystydraamwerk",
+    "description": "",
+    "placeholders": null
+  }
+}

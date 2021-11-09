@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "দলের সদস্য",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>জোশুয়া বেক</h3><p> সি.ই.ও, সহ-প্রতিষ্ঠাতা </p><p>জোশুয়ার প্রযুক্তি শিল্পে 20 বছরেরও বেশি অভিজ্ঞতা রয়েছে। মানুষের বৃদ্ধিতে সহায়তা করার মিশনে তিনি 2015 সালে এই সংস্থাটি শুরু করতে সহায়তা করেছিলেন। অতিরিক্ত সময়ে তিনি তার বাচ্চাদের সাথে বেড়াতে, সমুদ্র সৈকতে যেতে এবং রান্না করতে পছন্দ করেন।</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "টিমের সদস্য বিষয়বস্তু",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "দলের সদস্যের চিত্র",
+    "description": "",
+    "placeholders": null
+  }
+}

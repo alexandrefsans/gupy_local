@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "我們曾協助的公司：",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "標題文字",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora 標誌",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "在此處上載標誌圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "標誌圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "標誌橫額",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "橫額背景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "橫額前景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Galeria logotypów",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo Salesforce",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Obrazy logo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Kolor tła baneru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Kolor pierwszego tła baneru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.bottom": {
+    "message": "Nakładanie na sekcję poniżej",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.none": {
+    "message": "Brak nakładania się",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.top": {
+    "message": "Nakładanie na sekcję powyżej",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.help_text": {
+    "message": "Ustawienia pozwalające na nakładanie się banera na obszar powyżej lub poniżej",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.label": {
+    "message": "Ustawienia nakładania się banerów",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "Zastąp styl domyślny",
+    "description": "",
+    "placeholders": null
+  }
+}

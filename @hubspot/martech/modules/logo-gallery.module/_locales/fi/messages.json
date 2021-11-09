@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Logogalleria",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Tunnustanut",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Yläotsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora-logo",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logokuvat",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Bannerin taustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Bannerin edustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tallenna asetukset",
+    "description": "",
+    "placeholders": null
+  }
+}

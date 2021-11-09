@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "מקטע כרטיס",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "קישור לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "למידע נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "טקסט לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "תמונה",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "כרטיס",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "פרסום הקשרי יכול להיות רווחי. הוא יכול להשתלם מבחינת עלויות האירוח והתחזוקה של אתר האינטרנט שלך והוא יכול להשתלם בדרכים רבות אחרות.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "טקסט",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "זוהי כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  }
+}

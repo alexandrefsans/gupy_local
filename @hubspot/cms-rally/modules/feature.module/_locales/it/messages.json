@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Sfrutta il fantastico e intuitivo software che ti fa risparmiare tempo e salverà la tua attività. È una promessa.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Descrizione funzionalità",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Icona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Colore sfondo",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Colore bordo",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Colore",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Icona funzionalità",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Immagine funzionalità",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Icona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Immagine",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Nessuna",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Icona/immagine in primo piano",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Rapido e semplice",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Titolo funzionalità",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Funzionalità",
+    "description": "",
+    "placeholders": null
+  }
+}

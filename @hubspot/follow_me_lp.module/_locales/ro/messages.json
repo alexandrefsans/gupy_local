@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Centru",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Stânga",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Dreapta",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Aliniere",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Căutare",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Alb și negru",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Culoare",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Cenușiu",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Alb",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "Personalizat",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Schemă culori",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Căutare",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Selectare culoare personalizată",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Pictogramă și text",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Doar text",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Afișare",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Stil font",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Circular",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Original",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Pătrat",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Formă pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Căutare",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Urmărire - LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Scală",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Rețea socială",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Pictogramă personalizată",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "E-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Site web",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Rețea",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Imagine rețea",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Text ajutător",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Spațiere",
+    "description": "",
+    "placeholders": null
+  }
+}

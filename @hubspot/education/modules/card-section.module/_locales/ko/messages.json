@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "카드 섹션",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "콘텐츠",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "링크",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "링크 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "설명",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "귀하의 성공에 관심을 갖고 있는 교사",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "제목",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "실내 강의",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "아이콘",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "이미지와 아이콘",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "이 옵션을 활성화하면 기본 테마 스타일을 재정의할 수 있습니다. 이 옵션을 비활성화하면 모듈이 기본 테마 스타일에 다시 연결됩니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "기본 스타일 재정의",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "강조색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "아이콘 채우기 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  }
+}

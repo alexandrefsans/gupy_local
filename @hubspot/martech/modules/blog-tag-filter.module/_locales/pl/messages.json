@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filtr tagów na blogach",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Przeglądaj wg",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Tekst etykiety",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Wszystkie",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Tekst zastępczy",
+    "description": "",
+    "placeholders": null
+  }
+}

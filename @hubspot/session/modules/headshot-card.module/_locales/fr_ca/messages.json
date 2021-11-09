@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "Carte de prise de vue",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "<p>Contrairement à la croyance populaire, le Lorem Ipsum n'est pas un simple texte aléatoire. Il trouve ses racines dans un morceau de littérature latine classique datant de 45 avant J.-C., ce qui lui donne plus de 2000 ans.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Description",
+    "description": "",
+    "placeholders": null
+  },
+  "headshot.default.alt": {
+    "message": "lecture_accueil",
+    "description": "",
+    "placeholders": null
+  },
+  "headshot.label": {
+    "message": "Capture d'écran",
+    "description": "",
+    "placeholders": null
+  },
+  "human_name.default": {
+    "message": "Mort Ricky",
+    "description": "",
+    "placeholders": null
+  },
+  "human_name.label": {
+    "message": "Nom",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Directeur de l'éducation",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titre",
+    "description": "",
+    "placeholders": null
+  }
+}

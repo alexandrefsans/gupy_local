@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Galeria de imagens",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Edifício de dormitório no campus",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "exato",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Imagem",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Списък на публикации в блог",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Избор на блог",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Преглед на всички",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Текст на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "По блог и етикет",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "По блог",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "Филтър",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "Прочетете повече",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Текст на прочетете повече",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "Етикет",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "В новините",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "Текст на заглавие",
+    "description": "",
+    "placeholders": null
+  }
+}

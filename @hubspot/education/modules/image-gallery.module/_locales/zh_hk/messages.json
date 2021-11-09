@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "圖片庫",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "校園裡的宿舍建築",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "剛好",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "圖片",
+    "description": "",
+    "placeholders": null
+  }
+}

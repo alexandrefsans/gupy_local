@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "Atsiliepimų slankiklis",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Įjungę šią parinktį galėsite perrašyti numatytuosius temos stilius. Išjungus parinktį modulis bus vėl prijungtas prie numatytųjų temos stilių.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Perrašyti numatytąjį stilių",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "Naršymo aktyvumo spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "Naršymo spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.default.alt": {
+    "message": "Vietos rezervavimo ženklo vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.label": {
+    "message": "Autoriaus vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.default": {
+    "message": "Dawn Doe",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.label": {
+    "message": "Autoriaus vardas, pavardė",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.label": {
+    "message": "Autorius",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.default": {
+    "message": "<h4>„Pokalbių kiekis padidėjo 310 %!“</h4><p>„Rally“ komanda rūpinosi mūsų verslu tarsi savuoju. Problemos buvo sprendžiamos kantriai, pritaikant žinias ir supratingai. LABAI rekomenduoju šią komandą.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.label": {
+    "message": "Atsiliepimo tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.label": {
+    "message": "Atsiliepimai",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.default.alt": {
+    "message": "Vietos rezervavimo ženklo vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.label": {
+    "message": "Atsiliepimų vaizdas",
+    "description": "",
+    "placeholders": null
+  }
+}

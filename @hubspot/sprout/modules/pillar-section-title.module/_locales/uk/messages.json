@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Назва розділу стовпчику",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Увімкнення цієї опції дозволить заміняти стилі тем за замовчуванням. Вимкнення цього параметра призведе до перепідключення модуля до стилів тем за замовчуванням.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Замінити стиль за замовчуванням",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Колір",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметри стилю",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Назва розділу",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Заголовок розділу має описувати ваш розділ і відрізнятися від інших заголовків розділів на цій сторінці. Заголовок буде автоматично доданий до меню в модулі «Меню у вигляді колонки».",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

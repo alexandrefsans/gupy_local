@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Razdelek kartice",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Vsebina",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Povezava",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Več o tem",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Besedilo povezave",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Opis",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Učitelji, ki skrbijo za vaš uspeh",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Predavanje v učilnici",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Slika in ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Če omogočite to možnost, boste lahko preglasili privzete sloge tem. Če onemogočite to možnost, boste modul znova povezali s privzetimi slogi tem.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Preglasi privzeti slog",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Barva poudarka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Barva polnila ikone",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  }
+}

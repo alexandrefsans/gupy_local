@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "事件",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "地址",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "日期和時間",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "事件圖示",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "事件",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "連結",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "深入了解",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "連結文字",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "半年度教育慶典",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "標題內容",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "標題圖示",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "標題連結",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "查看全部",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "標題連結文字",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "即將到來的事件",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  }
+}

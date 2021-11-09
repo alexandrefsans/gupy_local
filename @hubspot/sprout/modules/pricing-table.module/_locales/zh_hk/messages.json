@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "價格表格",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "每月帳單",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "帳單標籤",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "價格選項一",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "表格",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "按鈕連結",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "登記",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "按鈕文字",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "貨幣",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>免費無限</strong>下載，還有更多內容！</p><ul><li>檔案大小上限 25 MB</li><li>2 GB 頻寬</li><li>15 秒螢幕錄影</li><li>15 秒網絡攝影機錄影</li><li>CloudApp 品牌包裝</li><li>無限附註</li><li>無限檔案</li><li>桌面應用程式整合</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "描述",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "價格",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "入門",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "每年帳單節省 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "帳單標籤",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "價格選項二",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "表格",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "按鈕連結",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "登記",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "按鈕文字",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "貨幣",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>免費無限</strong>下載，還有更多內容！</p><ul><li>檔案大小上限 25 MB</li><li>2 GB 頻寬</li><li>15 秒螢幕錄影</li><li>15 秒網絡攝影機錄影</li><li>CloudApp 品牌包裝</li><li>無限附註</li><li>無限檔案</li><li>桌面應用程式整合</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "描述",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "價格",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "企業",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "啟用此選項可以覆寫預設主題樣式。停用此選項會將模組重新連接預設主題樣式。",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆寫預設樣式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "啟用中選項顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "標題背景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "標題文字顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "S'inscrire gratuitement",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Texte du bouton",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Pour les équipes qui ont besoin de plus de sécurité, de contrôle et de soutien.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Description du produit",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Caractéristiques de l'icône de liste",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 utilisateurs inclus",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Caractéristiques",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Carte de prix",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 $",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Prix",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Couleur de fond",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Couleur de fond des boutons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Couleur du texte des boutons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Options de style",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratuit",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Niveau de produit",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/mo",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Prix et délais",
+    "description": "",
+    "placeholders": null
+  }
+}

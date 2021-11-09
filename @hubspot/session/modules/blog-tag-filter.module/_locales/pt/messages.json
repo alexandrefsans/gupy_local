@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Filtro da etiqueta do blog",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.default": {
+    "message": "Selecionar categoria",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.label": {
+    "message": "Texto do marcador de posição",
+    "description": "",
+    "placeholders": null
+  }
+}

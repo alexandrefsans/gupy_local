@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Najnovije objave",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Odaberite blog na temelju kojeg će se prikazivati objave",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Broj objava za prikazivanje",
+    "description": "",
+    "placeholders": null
+  }
+}

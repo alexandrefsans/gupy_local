@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Natpis unosa na blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Nadjačaj zadani stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Prijelaz boja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Vrsta pozadine",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Boja pozadine",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Boja 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Boja 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Boje prijelaza",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilske opcije",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Vrijednost je u pikselima",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Lijevo/desno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Odmak",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Vrijednost je u pikselima",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Vrh/dno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Boja podnapisa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Boja naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Ako nema teksta podnaslova, ovo će se kao zadano postaviti na vaš metaopis bloga iz postavki bloga.",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Podnaslov",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Ako nema teksta naslova, ovo će se kao zadano postaviti na vaš naslov bloga iz postavki bloga",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

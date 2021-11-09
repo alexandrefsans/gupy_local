@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "網誌標記篩選",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "以標記篩選",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "標籤會隱藏而看不見，但會用於螢幕閱讀器以協助保持欄位的無障礙功能",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "標籤文字",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "全部",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "預留位置文字",
+    "description": "",
+    "placeholders": null
+  }
+}

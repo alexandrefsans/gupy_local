@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Bảng giá",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Thanh toán hằng tháng",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Nhãn thanh toán",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Tùy chọn giá 1",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Bảng",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Liên kết nút",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Đăng ký",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Văn bản trên nút",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "USD",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Tiền tệ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p>Các bản tải xuống <strong>miễn phí không giới hạn</strong> và thêm nhiều nội dung khác!</p><ul><li>Kích cỡ tệp tối đa 25 MB</li><li>Băng thông 2 GB</li><li>Quay màn hình 15 giây</li><li>Quay video webcam 15 giây</li><li>Xây dựng thương hiệu CloudApp</li><li>Chú thích không giới hạn</li><li>Tệp không giới hạn</li><li>Tích hợp ứng dụng cho máy tính</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Mô tả",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Giá",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Giá khởi đầu",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Tiêu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Thanh toán hằng năm, tiết kiệm 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Nhãn thanh toán",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Tùy chọn giá 2",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Bảng",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Liên kết nút",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Đăng ký",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Văn bản trên nút",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "USD",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Tiền tệ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p>Các bản tải xuống <strong>miễn phí không giới hạn</strong> và thêm nhiều nội dung khác!</p><ul><li>Kích cỡ tệp tối đa 25 MB</li><li>Băng thông 2 GB</li><li>Quay màn hình 15 giây</li><li>Quay video webcam 15 giây</li><li>Xây dựng thương hiệu CloudApp</li><li>Chú thích không giới hạn</li><li>Tệp không giới hạn</li><li>Tích hợp ứng dụng cho máy tính</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Mô tả",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Giá",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Doanh nghiệp",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Tiêu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Khi bật tùy chọn này, bạn có thể ghi đè kiểu chủ đề mặc định. Khi tắt tùy chọn này, mô-đun sẽ kết nối lại với kiểu chủ đề mặc định.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ghi đè kiểu mặc định",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Màu tùy chọn hoạt động",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Màu nền sau của đầu trang",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Màu văn bản đầu trang",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Blog-Tag-Filter",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Nach Tag filtern",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Das Label ist nicht sichtbar, es kann jedoch von Bildschirmleseprogramm erkannt werden, damit das Feld barrierefrei bleibt.",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Label-Text",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Alle",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Platzhaltertext",
+    "description": "",
+    "placeholders": null
+  }
+}

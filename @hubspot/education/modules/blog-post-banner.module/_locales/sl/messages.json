@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "Pasica objave v spletnem dnevniku",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Barva ozadja po meri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Slika ozadja po meri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Predstavljena slika",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Katero vrsto pasice želite uporabiti?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Barva ozadja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Slika ozadja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Odmik",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Vrednost v slikovnih pikah",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Zgoraj/Spodaj",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Spanlid",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>HUB, Medestigter</p><p>Joshua het meer as 20 jaar ervaring in die tegnologiebedryf. Hy het hierdie maatskappy in 2015 help begin met die missie om mense te help groei. In sy vrye tyd geniet hy aktiwiteite saam met sy kinders, die strand en kosmaak.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Spanlidinhoud",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Spanlidbeeld",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "استفد من البرنامج الرائع الفائق البديهي الذي يوفر لك الوقت والذي سينقذ أعمالك. هذا وعد.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "وصف الميزة",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "لون الخلفية",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "لون الحد",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "اللون",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "أيقونة الميزة",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "صورة الميزة",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "صورة",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "لا يوجد",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "صورة/أيقونة الميزة",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "سريع وبسيط",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "عنوان الميزة",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "الميزة",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Bagian kartu",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Gambar",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kartu",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Pelajari selengkapnya",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Pelajari teks selengkapnya",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Tautan pelajari selengkapnya",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Iklan kontekstual bisa jadi menguntungkan. Iklan ini dapat menutup biaya hosting dan pemeliharaan untuk situs web Anda atau dapat menutup lebih banyak biaya.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Teks",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Ini adalah judul",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Judul",
+    "description": "",
+    "placeholders": null
+  }
+}

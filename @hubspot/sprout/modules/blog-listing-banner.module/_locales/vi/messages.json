@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Biểu ngữ danh sách blog",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Hình ảnh nền",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Giá trị tính bằng pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Bên trái/Bên phải",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Khoảng đệm",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Giá trị tính bằng pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Trên cùng/Dưới cùng",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Màu phụ đề",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Màu tiêu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Phụ đề",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tiêu đề",
+    "description": "",
+    "placeholders": null
+  }
+}

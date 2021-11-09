@@ -1,0 +1,51 @@
+{% macro recent_post(post, count, total) %}
+  {% if count == 1 %}
+  <section class="blog-index blog-index--related-posts">
+    <h2 class="blog-index__title blog-index__title--related-posts">{{ module.heading }}</h2>
+  {% endif %}
+      <article class="blog-index__post blog-index__post--card">
+        <header class="blog-index__post-header">
+          <h2 class="blog-index__post-title"><a href="{{ post.absolute_url }}">{{ post.name }}</a></h2>
+          {% if content.blog_author.avatar %}
+            <span class="blog-index__post-author-image">
+              <img src="{{ post.blog_author.avatar }}" width="30" height="30" loading="lazy" alt="Picture of {{ post.blog_author.display_name }}">
+            </span>
+          {% endif %}
+          <div class="blog-index__post-meta">
+            <a class="blog-index__post-author-name" href="{{ group.absolute_url }}/author/{{ post.blog_post_author.slug }}">{{ post.blog_post_author.display_name }}</a>
+            <time class="blog-index__post-date" datetime="{{ post.publish_date }}">{{ post.publish_date_localized }}</time>
+          </div>
+        </header>
+        <div class="blog-index__post-body">
+          {% if post.featured_image and group.use_featured_image_in_summary %}
+            <img class="blog-index__post-image" src="{{ post.featured_image }}" loading="lazy" alt="{{ post.name }}">
+          {% endif %}
+          <div class="blog-index__post-content">
+            <div class="blog-index__post-tags">
+              {% icon
+                name='tag',
+                purpose='decorative',
+                style='SOLID'
+              %}
+              {% for tag in post.tag_list %}
+                <a class="blog-index__post-tag-link" href="{{ blog_tag_url(group.id, tag.slug) }}">{{ tag.name }}</a>
+              {% endfor %}
+            </div>
+            {{ post.post_list_content|truncatehtml(170) }}
+          </div>
+        </div>
+        <footer class="blog-index__post-footer">
+          <a class="blog-index__post-button button" href="{{ post.absolute_url }}">{{ module.read_more_text }}</a>
+          <div class="blog-index__post-comment-count">
+            {% set comments_number =  post.comment_list|length %}
+            {% set comments_label = 'Comment' if comments_number == 1 else 'Comments' %}
+            {{ comments_number }} {{ comments_label }}
+          </div>
+        </footer>
+      </article>
+  {% if count == total %}
+    </section>
+  {% endif %}
+{% endmacro %}
+
+{% related_blog_posts limit=2, post_formatter="recent_post", no_wrapper=True %}

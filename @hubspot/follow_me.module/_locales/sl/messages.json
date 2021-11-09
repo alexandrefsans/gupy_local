@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Sledi mi",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Odpri povezave v novem oknu",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Naslov modula",
+    "description": "",
+    "placeholders": null
+  }
+}

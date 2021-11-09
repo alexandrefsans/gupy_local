@@ -1,0 +1,27 @@
+{
+  "banner_heading.default": {
+    "message": "<h4>Lorem ipsum dolor sit amet, consectetur.</h4>",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_heading.label": {
+    "message": "배너 제목",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.banner_image.label": {
+    "message": "이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.label": {
+    "message": "배너 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Tech 배너",
+    "description": "",
+    "placeholders": null
+  }
+}

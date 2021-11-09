@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Galerie de imagini",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Clădire cămin în campus",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "exact",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Imagine",
+    "description": "",
+    "placeholders": null
+  }
+}

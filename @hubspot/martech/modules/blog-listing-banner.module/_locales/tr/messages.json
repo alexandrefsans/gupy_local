@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Blog listeleme başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Varsayılan stili geçersiz kıl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Görüntü",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Renk gradyanı",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Arka plan türü",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Arka plan görüntüsü",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Renk 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Renk 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Gradyan renkleri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Değer piksel cinsindendir",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Sol/Sağ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Doldurma",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Değer piksel cinsindendir",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Üst/Alt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Altyazı rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Başlık rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Altyazı metni sağlanmadıysa bu, varsayılan olarak blog ayarlarından blog meta açıklamanız olacaktır",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Altyazı",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Başlık metni sağlanmazsa bu, varsayılan olarak blog ayarlarından blog başlığınız olacaktır",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  }
+}

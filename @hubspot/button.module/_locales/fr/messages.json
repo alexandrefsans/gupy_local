@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Bouton",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Options de style",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "Remplacer le style par défaut",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Ajouter un bouton de lien ici",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Texte du bouton",
+    "description": "",
+    "placeholders": null
+  },
+  "link.label": {
+    "message": " ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_color.label": {
+    "message": "Couleur du bouton",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_font.label": {
+    "message": "Police du bouton",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_hover_color.label": {
+    "message": "Couleur du bouton lors du passage du curseur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.text_hover_color.label": {
+    "message": "Couleur du texte lors du passage du curseur",
+    "description": "",
+    "placeholders": null
+  }
+}

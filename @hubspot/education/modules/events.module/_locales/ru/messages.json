@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "События",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Адрес",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Дата и время",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Значок события",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "События",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Ссылка",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Текст ссылки",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "ТОРЖЕСТВЕННОЕ ОБРАЗОВАТЕЛЬНОЕ МЕРОПРИЯТИЕ, ПРОХОДЯЩЕЕ РАЗ В ПОЛГОДА",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Содержимое заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Значок заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Ссылка заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Смотреть все",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Текст ссылки заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Предстоящие события",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

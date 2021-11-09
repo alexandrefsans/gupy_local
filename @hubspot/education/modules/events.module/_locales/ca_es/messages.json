@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Esdeveniments",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Adreça",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Data i hora",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Icona d'esdeveniment",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Esdeveniments",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Enllaç",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Text de l'enllaç",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "GALA D'EDUCACIÓ SEMESTRAL",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Títol",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Contingut del títol",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Icona de títol",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Enllaç de títol",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Visualitza-ho tot",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Text d'enllaç de títol",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Pròxims esdeveniments",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Títol",
+    "description": "",
+    "placeholders": null
+  }
+}

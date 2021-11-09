@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Акордеон",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Використовуйте інтуїтивно зрозуміле надзвичайне програмне забезпечення, яке економить ваш час і допоможе зростати вашому бізнесу.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Зміст",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Розгорнуто за замовчуванням",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Як зробити чудовий шаблон?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Увімкнення цієї опції дозволить заміняти стилі тем за замовчуванням. Вимкнення цього параметра призведе до перепідключення модуля до стилів тем за замовчуванням.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Замінити стиль за замовчуванням",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Колір заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Колір заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Колір значка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Активно",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Колір заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Колір значка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "При наведенні",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Колір значка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметри стилю",
+    "description": "",
+    "placeholders": null
+  }
+}

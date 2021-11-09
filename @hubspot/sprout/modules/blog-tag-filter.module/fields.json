@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Label text",
+    "name": "label_text",
+    "type": "text",
+    "default": "Browse by"
+  },
+  {
+    "label": "Placeholder text",
+    "name": "placeholder_text",
+    "type": "text",
+    "default": "All"
+  }
+]

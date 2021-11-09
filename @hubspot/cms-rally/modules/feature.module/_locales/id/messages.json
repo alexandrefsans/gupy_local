@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Manfaatkan perangkat lunak super luar biasa intuitif yang menghemat waktu Anda dan akan menyelamatkan bisnis Anda. Dijamin.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Deskripsi Fitur",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Warna latar belakang",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Warna Batasan",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Warna",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ikon fitur",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Gambar fitur",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Gambar",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Tidak Ada",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Fitur Gambar/Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Cepat dan Mudah",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Judul Fitur",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Fitur",
+    "description": "",
+    "placeholders": null
+  }
+}

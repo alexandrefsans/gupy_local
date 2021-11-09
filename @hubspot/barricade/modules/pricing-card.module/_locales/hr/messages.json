@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Kartica sa cijenama",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Veza gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Besplatna prijava",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Tekst gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Za timove kojima je potrebna dodatna sigurnost, upravljanje i podrška.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Opis proizvoda",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Grafička oznaka ikone popisa značajki",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 uključenih korisnika",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Značajke",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Cijena",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Velika",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Uobičajena",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Mala",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Veličina gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Primarno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Sekundarno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Jednostavno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Stil gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcije stila",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Besplatno",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Razina proizvoda",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "mjesečno",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Vremenski raspon cijene",
+    "description": "",
+    "placeholders": null
+  }
+}

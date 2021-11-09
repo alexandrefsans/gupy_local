@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Díjszabás",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Gombhivatkozás",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Iratkozzon fel ingyenesen",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Gombfelirat",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Az extra biztonságot, vezérlést és támogatást igénylő csapatoknak.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Termékleírás",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Funkciólista ikon listajele",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 felhasználó tartozik hozzá",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Funkciók",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Ár",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Nagy",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Normál",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Kicsi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Gombméret",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Elsődleges",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Másodlagos",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Egyszerű",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Gombstílus",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stílusbeállítások",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Ingyenes",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Termékcsomag",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ hó",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Ár időkerete",
+    "description": "",
+    "placeholders": null
+  }
+}

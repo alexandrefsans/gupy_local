@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Logógaléria",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Elismeri a következő:",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Fejléc",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora logó",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logóképek",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Szalag háttérszíne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Szalag előtérszíne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stílusbeállítások",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,41 @@
+<!--
+  templateType: global_partial
+  label: Header no navigation
+-->
+<header class="header header--no-navigation">
+
+  {# Top dnd area #}
+  {% dnd_area 'header_dnd_top_no_nav'
+    label='Top header',
+    class='header__dnd--top'
+  %}
+  {% end_dnd_area %}
+  {# End top dnd area #}
+
+  <div class="header__container">
+
+    {# Logo #}
+    <div class="header__logo">
+      {% module 'header_logo'
+        path='@hubspot/logo',
+        img={
+          'alt': 'Sprout logo',
+          'height': '82',
+          'src': get_asset_url('../../images/sprout-theme-logo.png'),
+          'width': '205'
+        }
+      %}
+    </div>
+    {# End logo #}
+
+  </div>
+
+  {# Bottom dnd area #}
+  {% dnd_area 'header_dnd_bottom_no_nav'
+    label='Bottom header',
+    class='header__dnd--bottom'
+  %}
+  {% end_dnd_area %}
+  {# End bottom dnd area #}
+
+</header>

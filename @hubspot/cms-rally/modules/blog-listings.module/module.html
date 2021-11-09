@@ -1,0 +1,186 @@
+{# Set layout style #}
+{% if module.layout_style == 'card' %}
+  {% set list_type = 'blog-index__post--card' %}
+{% elif module.layout_style == 'list' %}
+  {% set list_type = 'blog-index__post--list' %}
+{% endif %}
+
+{# Author/tag listing heading #}
+{% if blog_author or tag %}
+<div class="blog-index__subheader">
+  {% if blog_author %}
+    <p>{{ module.blog_author_listing.subheading }}</p>
+    <h2>{{ blog_author.display_name }}</h2>
+    <p>{{ blog_author.bio }}</p>
+    {% if blog_author.has_social_profiles %}
+      <div class="author-social-links">
+        {% if blog_author.website %}
+          <a href="{{ blog_author.website }}" target="_blank" rel="noopener">
+            {% icon
+              name='link',
+              purpose='semantic',
+              style='SOLID',
+              title='Follow my website',
+              width='10'
+            %}
+          </a>
+        {% endif %}
+        {% if blog_author.facebook %}
+          <a href="{{ blog_author.facebook }}" target="_blank" rel="noopener">
+            {% icon
+              name='facebook-f',
+              purpose='semantic',
+              style='SOLID',
+              title='Follow me on Facebook',
+              width='10'
+            %}
+          </a>
+        {% endif %}
+        {% if blog_author.linkedin %}
+          <a href="{{ blog_author.linkedin }}" target="_blank" rel="noopener">
+            {% icon
+              name='linkedin-in',
+              purpose='semantic',
+              style='SOLID',
+              title='Follow me on LinkedIn',
+              width='18'
+            %}
+          </a>
+        {% endif %}
+        {% if blog_author.twitter %}
+          <a href="{{ blog_author.twitter }}" target="_blank" rel="noopener">
+            {% icon
+              name='twitter',
+              purpose='semantic',
+              style='SOLID',
+              title='Follow me on Twitter',
+              width='18'
+            %}
+          </a>
+        {% endif %}
+      </div>
+    {% endif %}
+  {% elif tag %}
+    <p>{{ module.blog_tag_listing.subheading }}</p>
+    <h2>{{ page_meta.html_title|split(' | ')|last }}</h2>
+  {% endif %}
+</div>
+{% endif %}
+{# End author/tag listing heading #}
+
+<section class="blog-index__listings">
+  {% for content in contents %}
+
+    {# Set featured image #}
+    {# This checks to see if a user is opted into the blog listing editing experience. If they are it uses the conditional from the module. If they are not it uses the conditional from blog settings #}
+    {% set show_featured_image = false %}
+    {% if content.featured_image %}
+      {% if blog.listing_page_id %}
+        {% if module.featured_image %}
+          {% set show_featured_image = true %}
+        {% endif %}
+      {% else %}
+        {% if group.use_featured_image_in_summary %}
+          {% set show_featured_image = true %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+    {# End set featured image #}
+
+    <article class="blog-index__post {{ list_type }} {% if show_featured_image == false %}blog-index__post--no-image{% endif %}">
+      <div class="blog-index__post__wrapper">
+        <a href="{{ content.absolute_url }}" {% if show_featured_image == true %}style="background-image: url('{{ content.post_list_summary_featured_image }}');"{% endif %} >
+
+          {# Read more button #}
+          {% if module.read_more %}
+            <button class="button">
+              {% icon
+              name='share',
+              style='SOLID',
+              extra_classes='button__icon'
+              %}
+              {{ module.read_more_text }}
+            </button>
+          {% endif %}
+          {# End read more button #}
+
+        </a>
+
+        {# Tags #}
+        {% if module.tags and content.tag_list %}
+          <div class="blog-tags">
+            {% for tag in content.tag_list %}
+              <a class="blog-tag" href="{{ blog_tag_url(group.id, tag.slug) }}">
+                {% icon
+                  name='square',
+                  purpose='decorative',
+                  style='SOLID'
+                %}
+                {{ tag.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+        {# End tags #}
+
+        {# Article body #}
+        <div class="blog-index__post__post-details {{ list_type }}__post-details">
+
+          {# Title #}
+          {% if module.post_title %}
+            <h2><a href="{{ content.absolute_url }}">{{ content.name }}</a></h2>
+          {% endif %}
+          {# End title #}
+
+          {# Summary #}
+          {# This checks to see if a user is opted into the blog listing editing experience. If they are it uses the conditional from the module. If they are not it uses the conditional from blog settings #}
+          {% if blog.listing_page_id %}
+            {% if module.description %}
+              {% if content.post_body is string_containing "<!--more-->" %}
+                {{ content.post_list_content }}
+              {% else %}
+                {{ content.post_list_content|truncatehtml(115) }}
+              {% endif %}
+            {% endif %}
+          {% else %}
+            {% if content_group.show_summary_in_listing %}
+              {% if content.post_body is string_containing "<!--more-->" %}
+                {{ content.post_list_content }}
+              {% else %}
+                {{ content.post_list_content|truncatehtml(115) }}
+              {% endif %}
+            {% endif %}
+          {% endif %}
+          {# End summary #}
+
+        </div>
+        {# End article body #}
+
+      </div>
+
+      <div class="blog-meta">
+
+        {# Author #}
+        {% if module.author %}
+          <a href="{{ blog_author_url(group.id, content.blog_post_author.slug) }}" class="blog-meta__author">
+            {% if content.blog_author.avatar %}
+            <span class="author__avatar">
+              <img src="{{ content.blog_author.avatar }}" width="30" loading="lazy" alt="Picture of {{ content.blog_author.display_name }}">
+            </span>
+            {% endif %}
+            {{ content.blog_post_author.display_name }}
+          </a>
+        {% endif %}
+        {# End author #}
+
+        {# Date #}
+        {% if module.publish_date %}
+          <time class="blog-meta__timestamp" datetime="{{ content.publish_date }}">{{ content.publish_date_localized }}</time>
+        {% endif %}
+        {# End date #}
+
+      </div>
+
+    </article>
+  {% endfor %}
+</section>

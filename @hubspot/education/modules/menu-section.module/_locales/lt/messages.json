@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Meniu skirsnis",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "Mobiliojo įrenginio meniu dublikatas",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Pagrindinis meniu laukas",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Ακορντεόν",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Αξιοποιήστε το διαισθητικό σούπερ φοβερό λογισμικό που εξοικονομεί χρόνο και θα σας βοηθήσει να αναπτύξετε την επιχείρησή σας.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Περιεχόμενο",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Σε ανάπτυξη από προεπιλογή",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Πώς μπορώ να δημιουργήσω ένα φοβερό πρότυπο;",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Κεφαλίδα",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Η ενεργοποίηση αυτής της επιλογής θα σας επιτρέψει να παρακάμψετε τα προεπιλεγμένα στυλ θέματος. Η απενεργοποίηση αυτής της επιλογής θα επανασυνδέσει τη λειτουργική μονάδα στα προεπιλεγμένα στυλ θέματος.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Παράκαμψη προεπιλεγμένου στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Χρώμα κεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Χρώμα κεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Χρώμα εικονιδίου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Ενεργό",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Χρώμα κεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Χρώμα εικονιδίου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Κατάδειξη",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Χρώμα εικονιδίου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  }
+}

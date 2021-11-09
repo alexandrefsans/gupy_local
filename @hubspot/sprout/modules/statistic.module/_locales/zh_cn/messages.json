@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "统计",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "启用此选项允许您覆盖默认主题样式。禁用此选项会将模块重新连接到默认主题样式。",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆盖默认样式",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Customer satisfaction rating</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "统计描述",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "统计数量",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "统计百分比",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "统计单位",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "条形图颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "条形填充色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  }
+}

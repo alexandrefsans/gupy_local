@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Odkaz",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Ikona odkazu",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Text odkazu",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Farby príspevkov",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Vybrané blogové príspevky",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Vyberte blog, z ktorého chcete publikovať príspevky",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Vyberte blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Ak chcete uviesť len konkrétnu značku zo svojho blogu, vyberte ju tu.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Vyberte značku",
+    "description": "",
+    "placeholders": null
+  }
+}

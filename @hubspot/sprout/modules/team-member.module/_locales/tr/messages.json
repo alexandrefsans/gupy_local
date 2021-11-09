@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Ekip üyesi",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Joshua, teknoloji endüstrisinde 20 yıldan fazla deneyime sahiptir. İnsanların gelişmesine yardımcı olma misyonuyla bu şirketin 2015 yılında kurulmasına yardımcı oldu. Boş zamanlarında çocuklarıyla zaman geçirmeyi, plaja gitmeyi ve yemek yapmayı sever.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Özgeçmiş",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "CEO, Kurucu Ortak",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Konum",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Görüntü",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Ad",
+    "description": "",
+    "placeholders": null
+  }
+}

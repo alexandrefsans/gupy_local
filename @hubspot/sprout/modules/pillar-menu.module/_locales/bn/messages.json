@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "পিলার মেনু ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "রং ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "নীচের সীমানা",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "ড্যাশ যুক্ত ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "ডটযুক্ত",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "দ্বিগুণ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "খাঁজ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "ইনসেট",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "কিছুই না",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "সূচনা",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "রিজ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "সলিড",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "শৈলী",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "মান পিক্সেলে",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "প্রস্থ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "সূচিপত্র",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "পৃষ্ঠায় 'পিলার বিভাগ' মডিউল যুক্ত করার সময় মেনু আইটেমগুলি স্বয়ংক্রিয়ভাবে তৈরি হয়",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  }
+}

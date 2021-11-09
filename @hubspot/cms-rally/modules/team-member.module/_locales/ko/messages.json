@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "팀 구성원",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>CEO, 공동 설립자</p><p>Joshua는 20년 이상 기술 산업에 종사해 왔습니다. 그는 사람들의 성장을 돕는다는 사명감을 가지고 2015년에 이 회사의 출발을 도왔습니다. 그는 여유 시간에 자신의 아이들과 시간을 보내고 해변에 놀러 가고 요리하는 것을 즐깁니다.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "팀 구성원 콘텐츠",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "팀 구성원 이미지",
+    "description": "",
+    "placeholders": null
+  }
+}

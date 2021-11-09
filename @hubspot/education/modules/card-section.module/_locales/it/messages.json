@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Sezione Scheda",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Contenuto",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Link",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Per saperne di più",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Testo link",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Descrizione",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Maestri che hanno a cuore il tuo successo",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Titolo",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Una lezione in aula",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Immagine",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Icona",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Immagine e icona",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Abilitare questa opzione ti consentirà di sovrascrivere gli stili del tema predefiniti. Disabilitare questa opzione ricollegherà il modulo agli stili del tema predefiniti.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Sovrascrivi lo stile predefinito",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Imposta il colore in primo piano",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Colore di riempimento icona",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opzioni stile",
+    "description": "",
+    "placeholders": null
+  }
+}

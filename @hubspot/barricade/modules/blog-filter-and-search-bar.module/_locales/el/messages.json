@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "Φίλτρο ιστολογίου και γραμμή αναζήτησης",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label": {
+    "message": "Φίλτρο ετικέτας ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.default": {
+    "message": "Αναζήτηση ανά:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.label": {
+    "message": "Κείμενο ετικέτας",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.default": {
+    "message": "Τα πάντα",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.label": {
+    "message": "Κείμενο κράτησης θέσης",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.blog_posts.label": {
+    "message": "Αναρτήσεις ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.knowledge_articles.label": {
+    "message": "Άρθρα γνώσης",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.label": {
+    "message": "Τα αποτελέσματα αναζήτησης περιλαμβάνουν",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.landing_pages.label": {
+    "message": "Σελίδες εισόδου",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.website_pages.label": {
+    "message": "Σελίδες ιστότοπου",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.field_label.label": {
+    "message": "Κείμενο ετικέτας",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.include_search_button.label": {
+    "message": "Συμπερίληψη του κουμπιού αναζήτησης",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.label": {
+    "message": "Πεδίο αναζήτησης",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.default": {
+    "message": "Αναζήτηση",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.label": {
+    "message": "Κείμενο κράτησης θέσης",
+    "description": "",
+    "placeholders": null
+  }
+}

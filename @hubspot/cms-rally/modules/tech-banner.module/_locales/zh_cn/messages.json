@@ -1,0 +1,27 @@
+{
+  "banner_heading.default": {
+    "message": "<h4>Lorem ipsum dolor sit amet, consectetur.</h4>",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_heading.label": {
+    "message": "横幅标题",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.banner_image.label": {
+    "message": "图片",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.label": {
+    "message": "横幅图片",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "科技横幅",
+    "description": "",
+    "placeholders": null
+  }
+}

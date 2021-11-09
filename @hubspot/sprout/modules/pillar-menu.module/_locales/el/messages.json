@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Μενού σε στήλες",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Χρώμα",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Κάτω περιθώριο",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Με παύλες",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Διάστικτo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Διπλό",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Αυλάκι",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Εσοχή",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Κανένα",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Εξοχή",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Κορυφή",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Συμπαγές",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Η τιμή είναι σε pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Πλάτος",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Πίνακας περιεχομένων",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Τα στοιχεία μενού δημιουργούνται αυτόματα κατά την προσθήκη της λειτουργικής ενότητας 'Ενότητα στήλης' στη σελίδα",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tίτλος",
+    "description": "",
+    "placeholders": null
+  }
+}

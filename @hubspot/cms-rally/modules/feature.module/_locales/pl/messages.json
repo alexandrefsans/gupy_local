@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Wykorzystaj niesamowite intuicyjne oprogramowanie, które pozwoli Ci zaoszczędzić czas i uratuje Twoją firmę. Obiecujemy.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Opis tytułu",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Kolor tła",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Kolor obramowania",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Kolor",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ikona artykułu",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Obraz funkcji",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Obraz",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Brak",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Wyróżniony obraz/ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Szybkie i proste",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Tytuł artykułu",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Artykuł",
+    "description": "",
+    "placeholders": null
+  }
+}

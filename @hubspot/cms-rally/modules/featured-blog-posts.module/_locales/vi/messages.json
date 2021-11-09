@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Liên kết",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Biểu tượng liên kết",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Văn bản liên kết",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Màu bài đăng",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Bài đăng blog nổi bật",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Chọn blog có bài đăng bạn muốn đưa vào",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Chọn blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Nếu bạn chỉ muốn đưa vào một thẻ cụ thể từ blog của mình, hãy chọn ở đây.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Chọn thẻ",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Logotypgalleri",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Erkänd av",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agrifloras logotyp",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logotypbilder",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Bannerns bakgrundsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Bannerns förgrundsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  }
+}

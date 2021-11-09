@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Viimeisimmät julkaisut",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Valitse blogi, josta julkaisuja otetaan",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Otettavien julkaisujen määrä",
+    "description": "",
+    "placeholders": null
+  }
+}

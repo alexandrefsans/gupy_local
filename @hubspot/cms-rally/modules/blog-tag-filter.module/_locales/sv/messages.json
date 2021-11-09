@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filter för bloggetikett",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtrera efter tagg",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Etiketten är dold visuellt men används för skärmläsare för att hålla fältet tillgängligt",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Etikettext",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Alla",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Platshållartext",
+    "description": "",
+    "placeholders": null
+  }
+}

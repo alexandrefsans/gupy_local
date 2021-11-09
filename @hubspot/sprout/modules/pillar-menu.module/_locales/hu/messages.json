@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Oszlopmenü",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Szín",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Alsó szegély",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Szaggatott",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Pontozott",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dupla",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Bemélyített",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Süllyesztett",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Nincs",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Kiemelkedő",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Kidomborodó",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Egyszínű",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Stílus",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Érték pixelben kifejezve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Szélesség",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stílusbeállítások",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Tartalomjegyzék",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "A menüelemek automatikusan létrejönnek, amikor hozzáadja az „Oszlopszakasz” modult az oldalhoz",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Cím",
+    "description": "",
+    "placeholders": null
+  }
+}

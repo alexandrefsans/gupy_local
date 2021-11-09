@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Blog etiket filtresi",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Şuna göre göz at",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Etiket metni",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Tümü",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Yer tutucu metni",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Blogiluettelon banneri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Taustakuva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tyyliasetukset",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Arvo on pikseleinä",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Vasen/oikea",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Täyttö",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Arvo on pikseleinä",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Ylhäältä/alhaalta",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Alaotsikon väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Otsikon väri",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Alaotsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  }
+}

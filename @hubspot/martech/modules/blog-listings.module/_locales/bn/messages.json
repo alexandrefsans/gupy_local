@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "ব্লগ তালিকা",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "লেখক",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "এই ক্ষেত্রটি আপনার লেখক লিস্টিং পৃষ্ঠায় আপনাকে লেবেল পরিবর্তন করতে দেয়।",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "ব্লগ লেখক লিস্টিং",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "দ্বারা পোস্ট ",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "সাবহেডিং ",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "এই ক্ষেত্রটি আপনার ট্যাগ লিস্টিং পৃষ্ঠায় আপনাকে লেবেল পরিবর্তন করতে দেয়।",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "ব্লগ ট্যাগ লিস্টিং",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "পোস্টগুলি যে সম্পর্কে:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "সাবহেডিং ",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "বর্ণনা",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "ফিচার যুক্ত ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "কার্ড ",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "তালিকা ",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "লেআউটের ধরন",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "শিরোনাম পোস্ট করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "প্রকাশের তারিখ",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "আরও পড়ুন",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "আরও পড়ুন",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "আরও পাঠ্য পড়ুন",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "ট্যাগগুলি ",
+    "description": "",
+    "placeholders": null
+  }
+}

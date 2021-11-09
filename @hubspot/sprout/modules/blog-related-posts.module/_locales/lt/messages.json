@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Su tinklaraščiu susiję įrašai",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Susiję straipsniai",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Antraštė",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Skaityti daugiau",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Srities „Skaityti daugiau“ tekstas",
+    "description": "",
+    "placeholders": null
+  }
+}

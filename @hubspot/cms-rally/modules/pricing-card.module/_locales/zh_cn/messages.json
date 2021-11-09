@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "免费注册",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "按钮文本",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "适用于需要额外安全性、控制和支持的团队。",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "产品说明",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "功能列表图标项目符号",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "包含 10 名用户",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "功能",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "定价卡片",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 美元",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "价格",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "背景颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "按钮背景颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "按钮文本颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "免费",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "产品等级",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/月",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "价格时间范围",
+    "description": "",
+    "placeholders": null
+  }
+}

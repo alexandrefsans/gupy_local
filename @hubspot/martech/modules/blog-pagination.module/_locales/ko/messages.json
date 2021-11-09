@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "블로그 페이지 매김",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "다음 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "이전 텍스트",
+    "description": "",
+    "placeholders": null
+  }
+}

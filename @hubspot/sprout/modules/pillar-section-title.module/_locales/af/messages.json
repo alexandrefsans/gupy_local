@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Pilaarafdeling-titel",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Deur hierdie opsie te aktiveer, kan jy standaardtemastyle oorheers. As jy hierdie opsie deaktiveer, word die module weer terug aan die standaardtemastyle geskakel.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ignoreer standaardstyl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Kleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Afdelingtitel",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Jou afdelingstitel moet jou afdeling beskryf en uniek wees, dus van die ander afdelingstitels op die blad verskil. Die titel sal outomaties by die kieslys in die 'Pilaarkieslys'-module gevoeg word.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Zarejestruj się bezpłatnie",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Tekst przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Dla zespołów, które potrzebują dodatkowego bezpieczeństwa, kontroli i wsparcia.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Opis produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Punkt ikony listy funkcji",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Obejmuje 10 użytkowników",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Cechy",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Karta cen",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Cena",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Kolor tła",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Kolor tła przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Kolor tekstu przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Darmowe",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Szczebel produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ mc",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Zakres czasowy cen",
+    "description": "",
+    "placeholders": null
+  }
+}

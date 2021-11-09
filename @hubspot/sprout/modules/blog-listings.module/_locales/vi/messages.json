@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Danh sách blog",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Tác giả",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Các trường này cho phép bạn thay đổi nhãn trên các trang danh sách tác giả.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Danh sách tác giả blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Bài đăng của",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Tiêu đề phụ",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Các trường này cho phép bạn thay đổi nhãn trên các trang danh sách thẻ đánh dấu.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Danh sách thẻ đánh dấu blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Bài đăng về",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Tiêu đề phụ",
+    "description": "",
+    "placeholders": null
+  },
+  "comments.label": {
+    "message": "Nhận xét",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.default": {
+    "message": "Nhận xét",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.label": {
+    "message": "Văn bản nhận xét",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Mô tả",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Hình ảnh nổi bật",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Thẻ",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Danh sách",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Kiểu bố cục",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Tiêu đề bài đăng",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Ngày phát hành",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Đọc thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Đọc thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Văn bản đọc thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Thẻ",
+    "description": "",
+    "placeholders": null
+  }
+}

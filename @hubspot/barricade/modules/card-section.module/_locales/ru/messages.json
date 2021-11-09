@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Раздел карт",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Карточка",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Текст «Подробнее»",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Ссылка «Подробнее»",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Контекстная реклама может быть прибыльной. Она может окупать расходы на размещение и техническое обслуживание веб-сайта и даже приносить гораздо больше.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Текст",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Это заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

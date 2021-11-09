@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Karta tvorby cien",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Odkaz na tlačidlo",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Zaregistrujte sa zdarma",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Text tlačidla",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Pre tímy, ktoré vyžadujú ďalšie zabezpečenie, možnosti ovládania a podporu.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Popis produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Odrážka ikony zoznamu funkcií",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Zahrnutých 10 používateľov",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Funkcie",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Cena",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Veľké",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Štandardné",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Malé",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Veľkosť tlačidla",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Primárne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Sekundárne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Jednoduché",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Štýl tlačidla",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Zdarma",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Úroveň produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/mes.",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Časový rámec ceny",
+    "description": "",
+    "placeholders": null
+  }
+}

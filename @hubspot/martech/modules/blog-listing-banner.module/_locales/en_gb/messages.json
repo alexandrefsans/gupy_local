@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Blog Listing Banner",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Override default style",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Image",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Colour gradient",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Background type",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Background image",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Colour 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Colour 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Gradient colours",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Style options",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Value is in pixels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Left/Right",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Padding",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Value is in pixels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Top/Bottom",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Subtitle colour",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Title colour",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "If no subtitle text is provided, this will default to your blog meta description from blog settings",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Subtitle",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "If no title text is provided, this will default to your blog title from blog settings",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Title",
+    "description": "",
+    "placeholders": null
+  }
+}

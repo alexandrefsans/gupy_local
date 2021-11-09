@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Povezava",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Ikona povezave",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Besedilo povezave",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Ikona povezave",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Predstavljene objave v spletnem dnevniku",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Izberite spletni dnevnik, iz katerega želite objavljati objave",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Izberite spletni dnevnik",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Če bi radi iz svojega spletnega dnevnika označili samo določeno oznako, jo izberite tukaj.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Izberite oznako",
+    "description": "",
+    "placeholders": null
+  }
+}

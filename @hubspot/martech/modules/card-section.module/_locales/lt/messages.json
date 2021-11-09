@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Kortelės skirsnis",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Mygtuko nuoroda",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Sužinokite daugiau",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Mygtuko tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kortelė",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontekstinės reklamos gali būti pelningos. Iš šių reklamų gautu pelnu galima padengti svetainės prieglobos ir priežiūros išlaidas arba apmokėti daugelį kitų paslaugų.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Tai pavadinimas",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Pavadinimas",
+    "description": "",
+    "placeholders": null
+  }
+}

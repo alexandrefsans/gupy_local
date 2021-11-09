@@ -1,0 +1,27 @@
+{
+  "banner_heading.default": {
+    "message": "<h4>Lorem ipsum dolor sit amet, consectetur.</h4>",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_heading.label": {
+    "message": "Nadpis banneru",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.banner_image.label": {
+    "message": "Obrázek",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.label": {
+    "message": "Obrázky banneru",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Technický banner",
+    "description": "",
+    "placeholders": null
+  }
+}

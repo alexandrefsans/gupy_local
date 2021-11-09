@@ -1,0 +1,96 @@
+<!--
+  templateType: global_partial
+  label: Website header
+-->
+
+<header class="header">
+
+  {# Top bar #}
+  <div class="header__top-bar">
+
+    {# Top dnd area #}
+    {% dnd_area 'header_dnd-top'
+      label='Top header',
+      class='header__dnd header__dnd--top'
+    %}
+    {% end_dnd_area %}
+    {# End top dnd area #}
+
+    <div class="header__container">
+      {% module 'navigation-secondary'
+        path='../../modules/menu-section',
+        label='Top bar navigation'
+      %}
+    </div>
+
+  </div>
+  {# End top bar #}
+
+  {# Main header section #}
+  <div class="header__main-bar">
+    <div class="header__container">
+      <div class="header__logo">
+        {% module 'header_logo'
+          path='@hubspot/logo',
+          label='Logo',
+          img={
+            'alt': 'Martech logo',
+            'height': '82',
+            'src': get_asset_url('../../images/logo.svg'),
+            'width': '205'
+          }
+        %}
+      </div>
+
+      {# Main navigation #}
+      <div class="header__menu">
+
+        <input type="checkbox" id="nav-toggle">
+        <label class="header__navigation-toggle" for="nav-toggle">
+          <span class="header__mobile-menu-icon"></span>
+        </label>
+        <div class="header__navigation">
+          {% module 'header_navigation_primary'
+            path='../../modules/menu-section',
+            label='Primary navigation'
+          %}
+          {% module 'navigation-secondary'
+            path='../../modules/menu-section',
+            label='Top bar navigation',
+            duplicate_mobile_menu=true,
+            extra_classes='header__navigation--secondary-mobile'
+          %}
+        </div>
+
+        {# Language toggle #}
+        {% if content.translated_content.values()|selectattr('published')|length || is_listing_view && group.translations %}
+          <div class="header__language-switcher">
+            <div class="header__language-switcher-label">
+              {% module 'language-switcher'
+                label='Language switcher',
+                path='@hubspot/language_switcher',
+                display_mode='localized'
+              %}
+              <div class="header__language-switcher-label-current"> {{ locale_name(locale) }}</div>
+            </div>
+          </div>
+        {% endif %}
+        {# End language toggle #}
+
+      </div>
+      {# End main navigation #}
+
+    </div>
+
+      {# Bottom dnd area #}
+      {% dnd_area 'header_dnd-main'
+        label='Main header content',
+        class='header__dnd header__dnd--main'
+      %}
+      {% end_dnd_area %}
+      {# End bottom dnd area #}
+
+  </div>
+  {# End main header section #}
+
+</header>

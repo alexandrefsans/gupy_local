@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Registrirajte se brezplačno",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Besedilo gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Za ekipe, ki potrebujejo dodatno varnost, nadzor in podporo.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Opis izdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ikona postavke seznama značilnosti",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Vključenih 10 uporabnikov",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Značilnosti",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Cenovka",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Cena",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Barva ozadja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Barva ozadja gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Barva besedila gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Brezplačno",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Stopnja izdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ mo",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Časovni okvir cene",
+    "description": "",
+    "placeholders": null
+  }
+}

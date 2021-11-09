@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "Бігунок з відгуком",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Увімкнення цієї опції дозволить заміняти стилі тем за замовчуванням. Вимкнення цього параметра призведе до перепідключення модуля до стилів тем за замовчуванням.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Замінити стиль за замовчуванням",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметри стилю",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "Активний колір навігації",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "Колір навігації",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.default.alt": {
+    "message": "Зображення заповнювача місця",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.label": {
+    "message": "Зображення автора",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.default": {
+    "message": "Дон Доу",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.label": {
+    "message": "Імʼя автора",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.label": {
+    "message": "Автор",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.default": {
+    "message": "<h4>«Підвищення конверсії на 310%!»</h4><p>Команда Rally ставиться до вашого бізнесу, як до власного. Вони розвʼязали це питання з витримкою, знанням та емпатією. Я НАСТІЙНО рекомендую їх усім.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.label": {
+    "message": "Текст відгуку",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.label": {
+    "message": "Відгуки",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.default.alt": {
+    "message": "Зображення заповнювача місця",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.label": {
+    "message": "Зображення відгуку",
+    "description": "",
+    "placeholders": null
+  }
+}

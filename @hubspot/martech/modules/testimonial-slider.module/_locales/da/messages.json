@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Anbefalelsesskyder",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Hvis du aktiverer denne indstilling, kan du tilsidesætte standardtemastilarter. Deaktivering af denne indstilling indstiller modulet til standardtemastilarter igen.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Tilsidesæt standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_color.label": {
+    "message": "Baggrundsfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "Farve for aktiv navigation",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "Navigationsfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.quote_color.label": {
+    "message": "Tilbudsfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.text_color.label": {
+    "message": "Skriftfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author.default": {
+    "message": "Mary Kindler",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author.label": {
+    "message": "Forfatter",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author_title.default": {
+    "message": "Stifter af Syntecho",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author_title.label": {
+    "message": "Forfatters titel",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.content.default": {
+    "message": "<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dapibus posuere mi, in pretium ante posuere a. Aliquam a risus at eros molestie pretium. Aliquam a risus at eros molestie pretium dolor set amiut. </p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.content.label": {
+    "message": "Anbefalelsestekst",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.label": {
+    "message": "Anbefalelser",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.testimonial_image.default.alt": {
+    "message": "Pladsholderbillede",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.testimonial_image.label": {
+    "message": "Anbefalelsesbillede",
+    "description": "",
+    "placeholders": null
+  }
+}

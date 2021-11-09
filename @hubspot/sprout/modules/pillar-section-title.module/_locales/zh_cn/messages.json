@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Pillar 部分标题",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "启用此选项允许您覆盖默认主题样式。禁用此选项会将模块重新连接到默认主题样式。",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆盖默认样式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "部分标题",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "您的部分标题应该对部分进行描述，并且与页面上的其他部分标题不同。该标题将自动添加到“Pillar 菜单”模块中的菜单。",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "标题",
+    "description": "",
+    "placeholders": null
+  }
+}

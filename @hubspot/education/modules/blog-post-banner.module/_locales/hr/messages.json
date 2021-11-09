@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "Natpis objave na blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Prilagođena boja pozadine",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Prilagođena pozadinska slika",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Istaknuta slika",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Koju vrstu natpisa želite upotrijebiti?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Boja pozadine",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Pozadinska slika",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcije stila",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Odmak",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Vrijednost je u pikselima",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Vrh/dno",
+    "description": "",
+    "placeholders": null
+  }
+}

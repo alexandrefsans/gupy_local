@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "אקורדיון",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "נצל את התוכנה המדהימה והאינטואיטיבית שתחסוך לך זמן ותעזור להגדיל את העסק שלך.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "תוכן",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "מורחב כברירת מחדל",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "איך אפשר ליצור תבנית מדהימה?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "הפעלת אפשרות זו תאפשר לך לעקוף את סגנונות ערכת הנושא המהווים ברירת מחדל. השבתת אפשרות זו תחבר מחדש את המודול לסגנונות ערכת הנושא המהווים ברירת מחדל.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "עקוף סגנון ברירת מחדל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "צבע כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "צבע כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "צבע סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "פעיל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "צבע כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "צבע סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "ריחוף",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "צבע סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  }
+}

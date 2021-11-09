@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Logo-galleri",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Anerkjent av",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Topptekst",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora-logo",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logobilder",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Bakgrunnsfarge for logo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Forgrunnsfarge for banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Alternativer for skrift",
+    "description": "",
+    "placeholders": null
+  }
+}

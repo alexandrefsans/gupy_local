@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "Blog yazısı başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Özel arka plan rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Özel arka plan görüntüsü",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Öne çıkarılan görüntü",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Hangi tür başlık kullanmak istersiniz?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Arka plan rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Arka plan görüntüsü",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Doldurma",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Değer piksel cinsindendir",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Üst/Alt",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Oštevilčenje strani spletnega dnevnika",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Naslednje besedilo",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Predhodno besedilo",
+    "description": "",
+    "placeholders": null
+  }
+}

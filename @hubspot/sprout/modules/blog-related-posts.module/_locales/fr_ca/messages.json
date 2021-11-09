@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Articles liés au blogue",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Articles connexes",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Titre",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "En lire plus",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Lire plus de texte",
+    "description": "",
+    "placeholders": null
+  }
+}

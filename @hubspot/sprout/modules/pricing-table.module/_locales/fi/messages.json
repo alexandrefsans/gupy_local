@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Hinnoittelutaulukko",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Kuukausittainen laskutus",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Laskutusnimike",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Hinnoitteluvaihtoehto yksi",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Taulukko",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Painikelinkki",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Rekisteröidy",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Painiketeksti",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Valuutta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Ilmaiset rajattomat</strong> lataukset ja paljon muuta!</p><ul><li>Tiedostokoko enintään 25 Mt</li><li>Kaistanleveys 2 Gt</li><li>15 sekunnin näytöntallennukset</li><li>15 sekunnin verkkokameravideon tallennus</li><li>CloudApp-brändäys</li><li>Rajattomat merkinnät</li><li>Rajattomat tiedostot</li><li>Työpöytäsovellusintegraatiot</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Kuvaus",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Hinta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Aloitus",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Vuosittainen säästö laskutuksesta 15 %",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Laskutusnimike",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Hinnoitteluvaihtoehto kaksi",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Taulukko",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Painikelinkki",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Rekisteröidy",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Painiketeksti",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Valuutta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Ilmaiset rajattomat</strong> lataukset ja paljon muuta!</p><ul><li>Tiedostokoko enintään 25 Mt</li><li>Kaistanleveys 2 Gt</li><li>15 sekunnin näytöntallennukset</li><li>15 sekunnin verkkokameravideon tallennus</li><li>CloudApp-brändäys</li><li>Rajattomat merkinnät</li><li>Rajattomat tiedostot</li><li>Työpöytäsovellusintegraatiot</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Kuvaus",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Hinta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Yritys",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Kun otat tämän vaihtoehdon käyttöön, voit korvata oletusarvoiset teemat. Kun vaihtoehto poistetaan käytöstä, moduuli palaa oletusarvoisiin teemoihin.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Korvaa oletustyyli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Aktiivisen valinnan väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Otsikon taustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Otsikkotekstin väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tyyliasetukset",
+    "description": "",
+    "placeholders": null
+  }
+}

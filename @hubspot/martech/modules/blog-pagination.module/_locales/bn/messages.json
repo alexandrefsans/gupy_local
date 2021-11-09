@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "ব্লগ পত্র ক্রম ",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "পরবর্তী পাঠ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "পূর্ববর্তী পাঠ্য",
+    "description": "",
+    "placeholders": null
+  }
+}

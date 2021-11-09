@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Баннер описания блога",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Переопределить стиль по умолчанию",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Цветовой градиент",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Тип фона",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Фоновое изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Цвет 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Цвет 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Градиентные цвета",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Значение в пикселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Слева/справа",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Заполнение",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Значение в пикселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Сверху/снизу",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Цвет подзаголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Цвет заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Если  текст субтитров не предоставлен, по умолчанию будет использовано метаописание вашего блога из настроек блога",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Подзаголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Если текст заголовка не предоставлен, по умолчанию будет использоваться заголовок блога из настроек блога",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

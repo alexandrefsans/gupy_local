@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "স্বজ্ঞাত অসাধারণ সফ্টওয়্যারটি ব্যবহার করুন যা আপনার সময় সাশ্রয় করে এবং আপনার ব্যবসায় উদ্ধার করবে। আমরা প্রতিশ্রুতি দিচ্ছি।",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "ফিচার বর্ণনা",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "আইকন",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "পটভূমির রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "বর্ডার রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "বৈশিষ্ট্য আইকন",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "ফিচার ইমেজ ",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "আইকন",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "ছবি",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "কোনটাই না",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "ফিচার করা চিত্র / আইকন ",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "দ্রুত এবং সহজ ",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "ফিচার শিরোনাম ",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "ফিচার করুন ",
+    "description": "",
+    "placeholders": null
+  }
+}

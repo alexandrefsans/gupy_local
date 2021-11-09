@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Плъзгач на препоръка",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Разрешаването на тази опция ще ви позволи да презапишете стиловете на тема по подразбиране. Забраняването на тази опция ще свърже отново модула със стиловете на тема по подразбиране.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Презаписване на стила по подразбиране",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "Активен цвят на навигация",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "Цвят на навигация",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.label": {
+    "message": "Изображение на автора",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.default": {
+    "message": "Алан Диксън",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.label": {
+    "message": "Име на автор",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.label": {
+    "message": "Автор",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.default": {
+    "message": "<h3>Иха, това е изумително!</h3><p>Екипът на Rally помогна на бизнеса ни все едно е техен собствен. Справиха се с проблема с упоритост, знания и съпричастност. СИЛНО ги препоръчвам на всички.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.label": {
+    "message": "Текст на препоръка",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.label": {
+    "message": "Препоръки",
+    "description": "",
+    "placeholders": null
+  }
+}

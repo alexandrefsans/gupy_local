@@ -1,0 +1,14 @@
+{% set my_tags = blog_tags('default', 250) %}
+{% set currentURL = content.absolute_url|regex_replace('^(http|https):', '') %}
+
+<form class="blog-tag-filter">
+  <label for="tag-select" class="blog-tag-filter__title">{{ module.label_text }}</label>
+  <div class="blog-tag-filter__select-wrapper">
+    <select name="tag-select" id="tag-select" class="blog-tag-filter__select">
+      <option {% if currentURL == group.absolute_url|regex_replace('^(http|https):', '') %}selected="selected"{% endif %} value="{{ group.absolute_url }}">{{ module.placeholder_text }}</option>
+      {% for item in my_tags %}
+        <option {% if currentURL == blog_tag_url(group.id, item.slug)|regex_replace('^(http|https):', '') %}selected="selected"{% endif %} value="{{ blog_tag_url(group.id, item.slug) }}">{{ item }}</option>
+      {% endfor %}
+    </select>
+  </div>
+</form>

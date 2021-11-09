@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "Rugsteun uittekening",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knoppieteks",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "E-posuittekening",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.label": {
+    "message": "Plekhouerteks vir e-posdata",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.default": {
+    "message": "Jou e-posadres:",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Teken uit",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.default": {
+    "message": "email@example.com",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Opskrif",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.label": {
+    "message": "Hulpteks vir e-posdata",
+    "description": "",
+    "placeholders": null
+  }
+}

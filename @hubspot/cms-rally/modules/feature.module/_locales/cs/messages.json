@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Využijte úžasně intuitivní software, který vám ušetří čas a pomůže vám zachránit podnikání. Čestné skautské.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Popis funkce",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Barva pozadí",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Barva ohraničení",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Barva",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ikona funkce",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Obrázek funkce",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Obrázek",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "–",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Ikona / obrázek funkce",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Rychlé a snadné",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Název funkce",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Funkce",
+    "description": "",
+    "placeholders": null
+  }
+}

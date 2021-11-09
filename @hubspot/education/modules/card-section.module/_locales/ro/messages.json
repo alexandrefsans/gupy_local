@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Secțiune card",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Conținut",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Link",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Aflați mai multe",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Text link",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Descriere",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Profesori cărora le pasă de succesul dvs.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Titlu",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Curs în sala de clasă",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Imagine",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Imagine și pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Activarea acestei opțiuni vă va permite să înlocuiți temele implicite. Dezactivarea acestei opțiuni va reconecta modulul cu temele implicite.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Înlocuire stil implicit",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Culoare accent",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Culoare umplere pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  }
+}

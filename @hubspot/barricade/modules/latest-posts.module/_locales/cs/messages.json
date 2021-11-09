@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Nejnovější příspěvky",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Vyberte blog, ze kterého chcete stáhnout příspěvky",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Počet příspěvků ke stažení",
+    "description": "",
+    "placeholders": null
+  }
+}

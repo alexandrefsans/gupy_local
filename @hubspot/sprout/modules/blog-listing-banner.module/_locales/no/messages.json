@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Banner for bloggoppføring",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Bakgrunnsbilde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Alternativer for stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Verdi er i piksler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Venstre/høyre",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Utfylling",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Verdi er i piksler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Topp/bunn",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Undertekstfarge",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Tittelfarge",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Undertekst",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tittel",
+    "description": "",
+    "placeholders": null
+  }
+}

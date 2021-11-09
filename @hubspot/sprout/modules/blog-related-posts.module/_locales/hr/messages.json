@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Povezane objave na blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Povezani članci",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Pročitaj više",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Tekst Pročitajte više",
+    "description": "",
+    "placeholders": null
+  }
+}

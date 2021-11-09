@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Blog listeleri",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Yazar",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Bu alanlar, yazar listeleme sayfalarınızdaki etiketleri değiştirmenize olanak tanır.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Blog yazar listelemesi",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Tarafından gönderiler",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Altbaşlık",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Bu alanlar, künye listeleme sayfalarınızdaki etiketleri değiştirmenize olanak tanır.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Blog künye listelemesi",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Hakkındaki gönderiler",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Altbaşlık",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Açıklama",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Öne çıkarılan görüntü",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Kart",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Liste",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Düzen stili",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Gönderi başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Yayın tarihi",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Daha fazlasını okuyun",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Daha fazlasını okuyun",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Daha fazla metin oku",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Etiketler",
+    "description": "",
+    "placeholders": null
+  }
+}

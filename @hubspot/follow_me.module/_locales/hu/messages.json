@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Követés",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Hivatkozások megnyitása új ablakban",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Modul fejléce",
+    "description": "",
+    "placeholders": null
+  }
+}

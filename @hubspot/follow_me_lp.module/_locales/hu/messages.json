@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Közép",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Bal",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Jobb",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Igazítás",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Keresés",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Fekete-fehér",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Szín",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Szürke",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Fehér",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "Egyéni",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Színséma",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Keresés",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Egyéni szín kiválasztása",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Ikon és szöveg",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Csak szöveg",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Megjelenítés",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Betűstílus",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Kör alakú",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Eredeti",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Négyzet",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Ikon alakja",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Keresés",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Követés – Kezdőlap",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Méretezés",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Közösségi hálózat",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL-cím",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Egyedi ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "E-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Honlap",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Hálózat",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Hálózat képe",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Kapcsolódó szöveg",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Térköz",
+    "description": "",
+    "placeholders": null
+  }
+}

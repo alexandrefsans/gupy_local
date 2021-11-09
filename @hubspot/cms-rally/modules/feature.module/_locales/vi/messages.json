@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Tận dụng phần mềm trực quan siêu tuyệt vời giúp bạn tiết kiệm thời gian và sẽ giúp đỡ doanh nghiệp của bạn. Chắc chắn như vậy.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Mô tả tính năng",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Màu nền sau",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Màu viền",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Màu",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Biểu tượng tính năng",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Hình ảnh tính năng",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Hình ảnh",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Không có",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Hình ảnh/Biểu tượng nổi bật",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Nhanh và đơn giản",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Tiêu đề tính năng",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Tính năng",
+    "description": "",
+    "placeholders": null
+  }
+}

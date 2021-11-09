@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Publicaciones relacionadas con el blog",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Publicaciones relacionadas",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Encabezado",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Más información",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Leer más texto",
+    "description": "",
+    "placeholders": null
+  }
+}

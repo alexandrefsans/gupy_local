@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Ligação",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Ícone da ligação",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Texto da ligação",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Cores da publicação",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Publicações do blog em destaque",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Selecione o blog do qual gostaria de solicitar publicações",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Selecionar blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Se gostaria de destacar apenas uma etiqueta específica do seu blog, selecione-a aqui.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Selecionar etiqueta",
+    "description": "",
+    "placeholders": null
+  }
+}

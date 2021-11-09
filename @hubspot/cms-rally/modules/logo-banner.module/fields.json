@@ -1,0 +1,81 @@
+[
+  {
+    "label": "Header text",
+    "name": "header_text",
+    "type": "text",
+    "required": true,
+    "default": "We've helped companies like:"
+  },
+  {
+    "label": "Logo images",
+    "name": "logo_images",
+    "type": "image",
+    "help_text": "Upload logo images here",
+    "occurrence": { "min": 1, "max": 6 },
+    "resizable": true,
+    "responsive": true,
+    "show_loading" : true,
+    "default": [
+      {
+        "src": "https://f.hubspotusercontent10.net/hubfs/7303166/Logos/white/agriflora.png",
+        "alt": "Agriflora logo",
+        "loading" : "disabled",
+        "max_height": 50,
+        "max_width": 89,
+        "size_type": "auto_custom_max"
+      },
+      {
+        "src": "https://f.hubspotusercontent10.net/hubfs/7303166/Logos/white/cloud_city.png",
+        "alt": "Cloud City logo",
+        "loading" : "disabled",
+        "max_height": 50,
+        "max_width": 47,
+        "size_type": "auto_custom_max"
+      },
+      {
+        "src": "https://f.hubspotusercontent10.net/hubfs/7303166/Logos/white/craftscan.png",
+        "alt": "Craftscan logo",
+        "loading" : "disabled",
+        "max_height": 46,
+        "max_width": 59,
+        "size_type": "auto_custom_max"
+      },
+      {
+        "src": "https://f.hubspotusercontent10.net/hubfs/7303166/Logos/white/vedantra_studio.png",
+        "alt": "Vedantra Studio logo",
+        "loading" : "disabled",
+        "max_height": 50,
+        "max_width": 197,
+        "size_type": "auto_custom_max"
+      }
+    ]
+  },
+  {
+    "id": "style",
+    "name": "style",
+    "label": "Style options",
+    "required": false,
+    "locked": false,
+    "type": "group",
+    "children": [
+      {
+        "label": "Banner background color",
+        "name": "banner_bg_color",
+        "type": "color",
+        "default": {
+          "color": "#000000",
+          "opacity": 100
+        }
+      },
+      {
+        "label": "Banner foreground color",
+        "name": "banner_fg_color",
+        "type": "color",
+        "default": {
+          "color": "#FFFFFF",
+          "opacity": 40
+        }
+      }
+    ]
+  }
+]

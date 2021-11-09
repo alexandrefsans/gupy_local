@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "ブログ一覧",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "作成者",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "これらのフィールドを使用して、執筆者のリストページのラベルを変更できます。",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "ブログ執筆者リスト",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "投稿者",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "サブ見出し",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "これらのフィールドを使用して、タグのリストページのラベルを変更できます。",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "ブログ タグ リスト",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "投稿内容：",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "サブ見出し",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "説明",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "キービジュアル",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "カード",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "リスト",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "レイアウトのスタイル",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "投稿のタイトル",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "公開日",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "続きを読む",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "続きを読む",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "続きのテキストを読む",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "タグ",
+    "description": "",
+    "placeholders": null
+  }
+}

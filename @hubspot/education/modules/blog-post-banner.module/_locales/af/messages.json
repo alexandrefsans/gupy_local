@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "Blogplasingsbanier",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Pasmaak-agtergrondkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Pasmaak-agtergrondbeeld",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Vertoonde beeld",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Watter soort banier wil jy graag gebruik?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Agtergrondkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Agtergrondbeeld",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Opvulling",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Waarde is in pieksels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Bo/Onder",
+    "description": "",
+    "placeholders": null
+  }
+}

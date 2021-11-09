@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Tinklaraščių sąrašo reklamjuostė",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Fono vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Reikšmė pateikta pikseliais",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Kairė / dešinė",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Užpildymas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Reikšmė pateikta pikseliais",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Viršus / apačia",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Paantraštės spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Pavadinimo spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Antrinis pavadinimas",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Pavadinimas",
+    "description": "",
+    "placeholders": null
+  }
+}

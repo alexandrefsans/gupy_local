@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Stebrni meni",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Barva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Spodnja obroba",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Črtkano",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Pikčasto",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dvojno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Vbočena obroba",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Vložek",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Brez",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Začetek",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Izbočena obroba",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Enobarvno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Slog",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Vrednost v slikovnih pikah",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Širina",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Kazalo",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Elementi menija so samodejno ustvarjeni, ko na stran dodate modul 'Stebrni odsek\"",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

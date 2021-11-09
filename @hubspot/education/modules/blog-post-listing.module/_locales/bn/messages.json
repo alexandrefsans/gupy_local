@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "ব্লগ পোস্ট লিস্টিং",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "ব্লগ নির্বাচন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "সব কিছু দেখান",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "বোতাম টেক্সট",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "ব্লগ এবং ট্যাগের দ্বারা ",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "ব্লগ দ্বারা",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "ফিল্টার ",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "আরও পড়ুন",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "আরও পাঠ্য পড়ুন",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "ট্যাগ ",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "খবরে ",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "শিরোনাম পাঠ",
+    "description": "",
+    "placeholders": null
+  }
+}

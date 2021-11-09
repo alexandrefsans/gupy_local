@@ -1,0 +1,13 @@
+<div class="profile-card">
+  <div class="profile-card__upper">
+    {% set loadingAttr = module.headshot.loading != 'disabled' ? 'loading="{{ module.headshot.loading }}"' : '' %}
+    <img class="profile-card__image" src="{{ module.headshot.src }}" alt="{{ module.headshot.alt }}" {{ loadingAttr }}>
+  </div>
+  <h3 class="profile-card__name">{{ module.human_name }}</h3>
+  <h5 class="profile-card__title">{{ module.title }}</h5>
+  <div class="profile-card__text">
+    {% rich_text
+      value="{{ module.description }}"
+    %}
+  </div>
+</div>

@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Меню в виде колонок",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Цвет",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Нижняя граница",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Штриховая",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Пунктирная",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Двойная линия",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Сплошная с тенью",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Внутрь",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Нет",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Наружу",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Узорная с тенью",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Сплошная",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Стиль",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Значение в пикселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Ширина",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Содержание",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Элементы меню автоматически создаются при добавлении на страницу модуля «Раздел в виде колонки»",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

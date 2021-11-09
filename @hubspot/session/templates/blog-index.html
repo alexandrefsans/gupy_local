@@ -1,0 +1,104 @@
+<!--
+  templateType: blog_listing
+  isAvailableForNewContent: true
+  label: Session - blog listing
+  screenshotPath: ../images/template-previews/blog-index.png
+-->
+{% set template_css = '../../css/templates/blog.css' %}
+{% extends './layouts/base.html' %}
+
+{# Maps the background image options from theme settings #}
+{% if theme.global.blog.blog_banner_images.blog_banner_bg == 'image' %}
+  {% set bg_image = theme.global.blog.blog_banner_images.listing_bg.src %}
+{% else %}
+  {% set bg_image = '' %}
+{% endif %}
+
+{% block body %}
+<main class="body-container-wrapper">
+  {% dnd_area 'dnd_area'
+    label='Main section',
+    class='body-container body-container--blog-index'
+  %}
+
+    {# Blog Header #}
+    {% dnd_section
+      background_color={{ theme.global.blog.blog_banner_images.blog_banner_bg_color.color }},
+      background_image={
+        'backgroundPosition': 'MIDDLE_CENTER',
+        'backgroundSize': 'cover',
+        'imageUrl': bg_image
+      },
+      margin={
+        'bottom': 45
+      },
+      padding={
+        'top': 68,
+        'bottom': 24,
+      }
+    %}
+      {% dnd_column %}
+        {% dnd_row %}
+          {% dnd_module path='@hubspot/rich_text' %}
+            {% module_attribute 'html' %}
+              <div style="text-align: center;">
+                <h1>{{ group.public_title }}</h1>
+              </div>
+            {% end_module_attribute %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row
+          margin={
+            'top': 24
+          }
+        %}
+          {% dnd_module
+            path='../modules/blog-tag-filter',
+            width=6
+          %}
+          {% end_dnd_module %}
+          {% dnd_module
+            path='@hubspot/search_input',
+            label='Blog search',
+            content_types={
+              'blog_posts': true,
+              'knowledge_articles': false,
+              'landing_pages': false,
+              'website_pages': false
+            },
+            extra_classes='blog-search'
+            offset=6,
+            width=6
+          %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# End Blog Header #}
+
+    {# Blog Listings and Pagination #}
+    {% dnd_section
+      padding={
+        'top': 0,
+        'right': 0,
+        'bottom': 0,
+        'left': 0
+      },
+      vertical_alignment='TOP'
+    %}
+      {% dnd_column %}
+        {% dnd_row %}
+          {% dnd_module path='../modules/blog-listings' %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+        {% dnd_row %}
+          {% dnd_module path='../modules/blog-pagination' %}
+          {% end_dnd_module %}
+        {% end_dnd_row %}
+      {% end_dnd_column %}
+    {% end_dnd_section %}
+    {# End Blog Listings and Pagination #}
+
+  {% end_dnd_area %}
+</main>
+{% endblock body %}

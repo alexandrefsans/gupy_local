@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Najnovšie príspevky",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Vyberte blog, z ktorého sa prevezmú príspevky",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Počet príspevkov na prevzatie",
+    "description": "",
+    "placeholders": null
+  }
+}

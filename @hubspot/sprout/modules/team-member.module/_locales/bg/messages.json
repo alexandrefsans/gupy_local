@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Член на екипа",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Джошуа има над 20-годишен опит в технологичния отрасъл. Помогна с основаването на тази компания през 2015 г. с мисията да помага на хората да израстват. В свободното си време обича да прекарва време с децата си, да ходи на плаж и да готви.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Биография",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "Главен изпълнителен директор, съосновател",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Позиция",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Джошуа Бек",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Име",
+    "description": "",
+    "placeholders": null
+  }
+}

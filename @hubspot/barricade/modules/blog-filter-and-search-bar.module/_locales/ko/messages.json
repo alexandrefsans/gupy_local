@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "블로그 필터 및 검색 바",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label": {
+    "message": "블로그 태그 필터",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.default": {
+    "message": "검토자:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.label": {
+    "message": "레이블 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.default": {
+    "message": "모두",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.label": {
+    "message": "플레이스홀더 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.blog_posts.label": {
+    "message": "블로그 게시물",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.knowledge_articles.label": {
+    "message": "지식 문서",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.label": {
+    "message": "검색 결과 포함",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.landing_pages.label": {
+    "message": "랜딩 페이지",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.website_pages.label": {
+    "message": "웹사이트 페이지",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.field_label.label": {
+    "message": "레이블 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.include_search_button.label": {
+    "message": "검색 버튼 포함",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.label": {
+    "message": "검색 레이블",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.default": {
+    "message": "검색",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.label": {
+    "message": "플레이스홀더 텍스트",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Galeri Logo",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo staf penjualan",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Gambar Logo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Warna Latar Belakang Spanduk",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Warna Latar Depan Spanduk",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Pilihan model",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.bottom": {
+    "message": "Tumpang tindih bagian di bawah ini",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.none": {
+    "message": "Tidak Ada Tumpang Tindih",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.top": {
+    "message": "Tumpang tindih bagian di atas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.help_text": {
+    "message": "Pengaturan agar spanduk dapat tumpang tindih dengan area di atas atau di bawahnya",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.label": {
+    "message": "Pengaturan Tumpang Tindih Spanduk",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "Ganti gaya default",
+    "description": "",
+    "placeholders": null
+  }
+}

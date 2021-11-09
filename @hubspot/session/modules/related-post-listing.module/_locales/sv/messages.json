@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Relaterade inläggslistor",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Relaterade artiklar",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Rubrik",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Läs mer",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Läs mer text",
+    "description": "",
+    "placeholders": null
+  }
+}

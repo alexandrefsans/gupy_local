@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Використовуйте інтуїтивно зрозуміле надзвичайне програмне забезпечення, яке економить ваш час і врятує ваш бізнес. Обіцяємо.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Опис функції",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Значок",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Колір фону",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Колір межі",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Колір",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Значок функції",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Зображення функції",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Значок",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Зображення",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Немає",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Зображення/значок функції",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Швидко та просто",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Заголовок функції",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Функція",
+    "description": "",
+    "placeholders": null
+  }
+}

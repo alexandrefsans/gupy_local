@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Título da secção de sustentação",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Se ativar esta opção, poderá contornar os estilos do tema predefinido. Se desativar esta opção, irá voltar a ligar o módulo aos estilos do tema predefinido.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Contornar estilo predefinido",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Cor",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opções de estilo",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Título da secção",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "O título da secção deve descrever a secção e deve ser único em relação aos outros títulos de secções na página. O título será adicionado automaticamente ao menu no módulo \"Menu de sustentação\".",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Título",
+    "description": "",
+    "placeholders": null
+  }
+}

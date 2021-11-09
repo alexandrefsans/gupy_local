@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Избор на карта",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Съдържание",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Връзка",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Научете повече",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Текст на връзка",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Описание",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Учители, които искат да успеете",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Заглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Присъствена лекция",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Икона",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Изображение и икона",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Разрешаването на тази опция ще ви позволи да презапишете стиловете на тема по подразбиране. Забраняването на тази опция ще свърже отново модула със стиловете на тема по подразбиране.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Презаписване на стила по подразбиране",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Акцентен цвят",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Цвят на запълване на икона",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  }
+}

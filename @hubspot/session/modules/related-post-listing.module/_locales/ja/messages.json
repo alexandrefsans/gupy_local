@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "関連記事一覧",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "関連記事",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "見出し",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "続きを読む",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "続きのテキストを読む",
+    "description": "",
+    "placeholders": null
+  }
+}

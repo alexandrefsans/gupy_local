@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Nuoroda",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Nuorodos piktograma",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Nuorodos tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Įrašo spalvos",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Atrinkti tinklaraščio įrašai",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Pasirinkite tinklaraštį, iš kurio norite, kad būtų atrinkti įrašai",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Pasirinkti tinklaraštį",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Jei norite atrinkti tik specifinę tinklaraščio žymę, pasirinkite čia.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Pasirinkti žymę",
+    "description": "",
+    "placeholders": null
+  }
+}

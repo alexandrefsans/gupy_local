@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "สมาชิกในทีม",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>ประธานเจ้าหน้าที่บริหารและผู้ร่วมก่อตั้ง</p><p>Joshua มีประสบการณ์มากกว่า 20 ปีในอุตสาหกรรมเทคโนโลยี เขาช่วยก่อตั้งบริษัทนี้ในปี 2015 ด้วยพันธกิจที่ต้องการช่วยให้ผู้คนเติบโต ในเวลาว่าง เขาชอบออกไปเที่ยวกับลูกๆ ไปเที่ยวทะเล และทำอาหาร</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "เนื้อหาของสมาชิกในทีม",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "รูปภาพของสมาชิกในทีม",
+    "description": "",
+    "placeholders": null
+  }
+}

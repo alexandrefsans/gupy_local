@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Armonică",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Profitați de software-ul super intuitiv care vă economisește timp și care va ajuta la creșterea afacerii dvs.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Conținut",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Extins în mod implicit",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Cum realizez un șablon uimitor?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Antet",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Activarea acestei opțiuni vă va permite să înlocuiți temele implicite. Dezactivarea acestei opțiuni va reconecta modulul cu temele implicite.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Înlocuire stil implicit",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Culoare antet",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Culoare antet",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Culoare pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Activ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Culoare antet",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Culoare pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Trecere",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Culoare pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  }
+}

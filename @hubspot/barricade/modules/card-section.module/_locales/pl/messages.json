@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Sekcja kart",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Obraz",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Karta",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Dowiedz się więcej",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Tekst Dowiedz się więcej",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Łącze Dowiedz się więcej",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Reklama kontekstowa może być opłacalna. Może pokryć koszty hostingu i utrzymania witryny internetowej lub może przynieść dużo większe zyski.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Tekst",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "To jest tytuł",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Tytuł",
+    "description": "",
+    "placeholders": null
+  }
+}

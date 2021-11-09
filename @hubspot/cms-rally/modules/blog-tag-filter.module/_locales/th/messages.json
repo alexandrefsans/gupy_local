@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "ตัวกรองแท็กในบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "กรองตามแท็ก",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "ป้ายถูกซ่อนไว้ แต่ระบบจะนำมาใช้กับตัวอ่านหน้าจอเพื่อให้เข้าถึงช่องข้อมูลได้",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "ข้อความป้าย",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "ทั้งหมด",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "ข้อความตัวยึดตำแหน่ง",
+    "description": "",
+    "placeholders": null
+  }
+}

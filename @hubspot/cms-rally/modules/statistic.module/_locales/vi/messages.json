@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Số liệu thống kê",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Khi bật tùy chọn này, bạn có thể ghi đè kiểu chủ đề mặc định. Khi tắt tùy chọn này, mô-đun sẽ kết nối lại với kiểu chủ đề mặc định.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ghi đè kiểu mặc định",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Đánh giá sự hài lòng của khách hàng</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Mô tả số liệu thống kê",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Số liệu thống kê",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Phần trăm thống kê",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Đơn vị của số liệu thống kê",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Màu của thanh",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Màu tô cho thanh",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "Màu văn bản thống kê",
+    "description": "",
+    "placeholders": null
+  }
+}

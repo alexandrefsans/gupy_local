@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "แกลเลอรีรูปภาพ",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "อาคารหอพักในพื้นที่สถานศึกษา",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "แน่นอน",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "รูปภาพ",
+    "description": "",
+    "placeholders": null
+  }
+}

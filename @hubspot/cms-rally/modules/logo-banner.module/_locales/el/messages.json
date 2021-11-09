@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Έχουμε βοηθήσει εταιρείες όπως οι:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Κείμενο κεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Λογότυπο Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Αποστολή εικόνων λογότυπων εδώ",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Εικόνες λογότυπων",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Μπάνερ λογότυπου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Χρώμα φόντου μπάνερ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Χρώμα πρώτου πλάνου μπάνερ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  }
+}

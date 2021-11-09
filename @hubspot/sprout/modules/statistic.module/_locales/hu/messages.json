@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Statisztika",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Az opció engedélyezésével lehetősége lesz felülírni az alapértelmezett témastílusokat. Az opció letiltásával a modul visszavált az alapértelmezett témastílusokra.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Alapértelmezett stílus felülírása",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Ügyfél-elégedettségi osztályzat</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Statisztika leírása",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Statisztika száma",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Statisztika százaléka",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "ezer",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Statisztikai egység",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Sáv színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Sáv kitöltőszíne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stílusbeállítások",
+    "description": "",
+    "placeholders": null
+  }
+}

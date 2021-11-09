@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Γκαλερί εικόνων",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Κτίριο κοιτώνα στο κάμπους",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "ακριβές",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Εικόνα",
+    "description": "",
+    "placeholders": null
+  }
+}

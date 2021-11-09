@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Филтър за етикети на блог",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Търсене по:",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Текст на етикет",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Всичко",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Текст в контейнер",
+    "description": "",
+    "placeholders": null
+  }
+}

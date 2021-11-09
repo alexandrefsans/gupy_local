@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Primary menu field",
+    "name": "primary_menu_field",
+    "type": "menu",
+    "required": true,
+    "default": "default"
+  },
+  {
+    "label": "Duplicate mobile menu",
+    "name": "duplicate_mobile_menu",
+    "type": "boolean",
+    "locked": true,
+    "default": false
+  }
+]

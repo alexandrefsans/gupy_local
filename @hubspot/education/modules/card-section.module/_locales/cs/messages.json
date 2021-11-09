@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Oddíl karet",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Obsah",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Odkaz",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Text odkazu",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Popis",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Učitelé, kteří mají zájem na tom, abyste uspěli",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Nadpis",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Přednáška ve třídě",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Obrázek",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Obrázek a ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Pokud povolíte tuto možnost, budete moci přepsat výchozí styly motivů. Zakázáním této možnosti se modul připojí zpět k výchozím stylům motivů.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Přepsat výchozí styl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Barva zvýraznění",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Barva výplně ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti stylů",
+    "description": "",
+    "placeholders": null
+  }
+}

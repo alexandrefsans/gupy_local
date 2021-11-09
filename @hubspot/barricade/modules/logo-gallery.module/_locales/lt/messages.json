@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Logotipų galerija",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "„Salesforce“ logotipas",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logotipų vaizdai",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Reklamjuostės fono spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Reklamjuostės priekinio plano spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.bottom": {
+    "message": "Perdengti apatinį skirsnį",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.none": {
+    "message": "Perdengimų nėra",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.top": {
+    "message": "Perdengti viršutinį skirsnį",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.help_text": {
+    "message": "Nuostatos, leidžiančios reklamjuostei perdengti viršutinę arba apatinę sritį",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.label": {
+    "message": "Reklamjuostės perdengimo nuostatos",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "Perrašyti numatytąjį stilių",
+    "description": "",
+    "placeholders": null
+  }
+}

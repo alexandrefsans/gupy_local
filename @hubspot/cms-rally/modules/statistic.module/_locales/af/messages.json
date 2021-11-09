@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Statistiek",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Deur hierdie opsie te aktiveer, kan jy standaardtemastyle oorheers. As jy hierdie opsie deaktiveer, word die module weer terug aan die standaardtemastyle geskakel.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ignoreer standaardstyl",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Kliënttevredenheidsgradering</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Statistiekbeskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Statistieksyfer",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Statistiekpersentasie",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Statistiekeenheid",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Balkkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Balkvulkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "Statistiektekskleur",
+    "description": "",
+    "placeholders": null
+  }
+}

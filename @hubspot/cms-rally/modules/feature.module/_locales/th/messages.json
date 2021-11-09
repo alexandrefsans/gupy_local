@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "ใช้ประโยชน์จากซอฟต์แวร์ที่ยอดเยี่ยมที่ใช้งานง่ายที่จะช่วยคุณประหยัดเวลาและจะช่วยธุรกิจของคุณ รับรองได้เลย",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "แสดงคำอธิบาย",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "ไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "สีพื้นหลัง",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "สีขอบ",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "สี",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "แสดงไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "แสดงรูปภาพ",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "ไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "รูปภาพ",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "ไม่มี",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "รูปภาพ/ไอคอนที่แสดง",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "เร็วและง่าย",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "แสดงชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "ฟีเจอร์",
+    "description": "",
+    "placeholders": null
+  }
+}

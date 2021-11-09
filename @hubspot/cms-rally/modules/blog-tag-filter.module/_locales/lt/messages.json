@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Tinklaraščio žymės filtras",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtruoti pagal žymę",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Etiketė vizualiai yra paslėpta, tačiau ji naudojama ekrano skaitytuvuose, kad laukelis liktų prieinamas",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Etiketės tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Viskas",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Vietos rezervavimo ženklo tekstas",
+    "description": "",
+    "placeholders": null
+  }
+}

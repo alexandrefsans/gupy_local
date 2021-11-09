@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "قائمة العمود",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "اللون",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "الحد السُفلي",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "متقطع",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "منقط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "مزدوج",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "مجرى",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "مجموعة داخلية",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "لا يوجد",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "مجموعة خارجية",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "حافة مرتفعة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "متصل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "القيمة بالبكسل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "العرض",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "جدول المحتويات",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "يتم إنشاء عناصر القائمة تلقائيًا عند إضافة وحدة \"قسم العمود\" إلى الصفحة",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Galerie obrázků",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Budova kolejí v kampusu",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "přesný",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Obrázek",
+    "description": "",
+    "placeholders": null
+  }
+}

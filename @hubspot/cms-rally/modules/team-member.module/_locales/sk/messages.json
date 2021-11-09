@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Člen tímu",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>, výkonný riaditeľ a zakladateľ</p><p>Joshua má viac než 20 rokov skúseností v technologickom odvetví. V roku 2015 pomohol rozbehnúť spoločnosť s poslaním pomáhať v rozvoji ľudí. Vo voľnom čase miluje tráviť čas so svojimi deťmi, chodiť na pláž a variť.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Obsah člena tímu",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Obrázok člena tímu",
+    "description": "",
+    "placeholders": null
+  }
+}

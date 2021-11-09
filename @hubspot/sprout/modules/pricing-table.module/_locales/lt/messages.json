@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Kainų lentelė",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Mėnesinis atsiskaitymas",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Atsiskaitymo žyma",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Pirmas kainų variantas",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Lentelė",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Mygtuko nuoroda",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Užsiregistruoti",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Mygtuko tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "USD",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Valiuta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Nemokami ir neriboti</strong> atsisiuntimai ir ne tik!</p><ul><li>Didžiausias failo dydis – 25 MB</li><li>2 GB pralaidumas</li><li>15 sekundžių ekrano įrašai</li><li>15 sekundžių įrašai internetine kamera</li><li>„CloudApp“ prekės ženklas</li><li>Neriboti komentarai</li><li>Neriboti failai</li><li>Integravimas su stacionaraus kompiuterio programa</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Aprašas",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Kaina",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Pradedantysis",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Pavadinimas",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Atsiskaitymas kasmet, sutaupykite 15 %",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Atsiskaitymo žyma",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Antras kainų variantas",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Lentelė",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Mygtuko nuoroda",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Užsiregistruoti",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Mygtuko tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "USD",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Valiuta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<strong>Nemokami ir neriboti</strong> atsisiuntimai ir ne tik!<ul><li>Didžiausias failo dydis <p><li>– 25 MB</li>2 GB pralaidumas<li>15 sekundžių ekrano įrašai</li><li>15 sekundžių įrašai internetine kamera</li><li>„CloudApp“ prekės ženklas</li><li>Neriboti komentarai</li><li>Neriboti failai</li><li>Integravimas su stacionaraus kompiuterio programa</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Aprašas",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Kaina",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Įmonė",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Pavadinimas",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Įjungę šią parinktį galėsite perrašyti numatytuosius temos stilius. Išjungus parinktį modulis bus vėl prijungtas prie numatytųjų temos stilių.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Perrašyti numatytąjį stilių",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Aktyvaus varianto spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Antraštės fono spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Antraštės teksto spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  }
+}

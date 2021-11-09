@@ -1,0 +1,252 @@
+{
+  "name": {
+    "message": "معرض الصور",
+    "description": "",
+    "placeholders": null
+  },
+  "gallery_options.columns.label": {
+    "message": "الأعمدة",
+    "description": "",
+    "placeholders": null
+  },
+  "gallery_options.enable_lightbox.label": {
+    "message": "تمكين lightbox",
+    "description": "",
+    "placeholders": null
+  },
+  "gallery_options.fixed_image_height.label": {
+    "message": "ارتفاع ثابت للصورة",
+    "description": "",
+    "placeholders": null
+  },
+  "gallery_options.image_height.label": {
+    "message": "ارتفاع الصورة",
+    "description": "",
+    "placeholders": null
+  },
+  "gallery_options.label": {
+    "message": "خيارات المعرض",
+    "description": "",
+    "placeholders": null
+  },
+  "images.caption.default": {
+    "message": "تسمية توضيحية تصف الصورة.",
+    "description": "",
+    "placeholders": null
+  },
+  "images.caption.help_text": {
+    "message": "ستظهر التسمية التوضيحية أسفل الصورة في lightbox",
+    "description": "",
+    "placeholders": null
+  },
+  "images.caption.label": {
+    "message": "التسمية التوضيحية",
+    "description": "",
+    "placeholders": null
+  },
+  "images.image.default.alt": {
+    "message": "مجموعة من زملاء العمل يتحدثون في مكان ترفيهي",
+    "description": "",
+    "placeholders": null
+  },
+  "images.image.label": {
+    "message": "الصورة",
+    "description": "",
+    "placeholders": null
+  },
+  "images.label": {
+    "message": "الصور",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.gallery.label": {
+    "message": "معرض",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.gallery.spacing.label": {
+    "message": "التباعد",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.gallery.spacing.space_between_images.label": {
+    "message": "المسافة بين الصور",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.gallery.spacing.spacing.label": {
+    "message": "التباعد",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.images.alignment.alignment.label": {
+    "message": "محاذاة",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.images.alignment.label": {
+    "message": "محاذاة",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.images.corner.label": {
+    "message": "الزاوية",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.images.corner.radius.label": {
+    "message": "نصف قطر",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.images.label": {
+    "message": "الصور",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.label": {
+    "message": "الأنماط",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.background.color.label": {
+    "message": "اللون",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.background.label": {
+    "message": "الخلفية",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.background.color.label": {
+    "message": "اللون",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.background.label": {
+    "message": "الخلفية",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.corner.label": {
+    "message": "الزاوية",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.corner.radius.label": {
+    "message": "نصف قطر",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.fill.color.label": {
+    "message": "اللون",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.fill.label": {
+    "message": "ملء",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.label": {
+    "message": "أيقونة الإغلاق",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.help_text": {
+    "message": "استخدم إعدادات الضبط المسبقة لضبط مظهر العنصر المحدد بسرعة على القيم المحددة مسبقًا.",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_color.choices.dark": {
+    "message": "داكن",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_color.choices.light": {
+    "message": "فاتح",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_color.label": {
+    "message": "لون الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_shape.choices.circle": {
+    "message": "دائرة",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_shape.choices.square": {
+    "message": "مربع",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_shape.label": {
+    "message": "شكل الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_size.choices.large": {
+    "message": "كبير",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_size.choices.regular": {
+    "message": "عادي",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_size.choices.small": {
+    "message": "صغير",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.icon_size.label": {
+    "message": "حجم الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.presets.label": {
+    "message": "عمليات الضبط المسبقة",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.size.label": {
+    "message": "الحجم",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.size.size.label": {
+    "message": "الحجم",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.spacing.label": {
+    "message": "التباعد",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.close_icon.spacing.spacing.label": {
+    "message": "التباعد",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.label": {
+    "message": "Lightboxes",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.text.font.label": {
+    "message": "الخط",
+    "description": "",
+    "placeholders": null
+  },
+  "styles.lightboxes.text.label": {
+    "message": "النص",
+    "description": "",
+    "placeholders": null
+  }
+}

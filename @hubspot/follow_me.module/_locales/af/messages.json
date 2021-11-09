@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Volg my",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Maak skakels oop in nuwe venster",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Module-opskrif",
+    "description": "",
+    "placeholders": null
+  }
+}

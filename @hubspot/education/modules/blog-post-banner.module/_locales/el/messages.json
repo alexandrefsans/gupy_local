@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "Μπάνερ ανάρτησης ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Προσαρμοσμένο χρώμα φόντου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Προσαρμοσμένη εικόνα φόντου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Προτεινόμενη εικόνα",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Ποιον τύπο banner θέλετε να χρησιμοποιήσετε;",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Χρώμα φόντου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Εικόνα φόντου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Αναπλήρωση",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Η τιμή είναι σε pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Επάνω/Κάτω",
+    "description": "",
+    "placeholders": null
+  }
+}

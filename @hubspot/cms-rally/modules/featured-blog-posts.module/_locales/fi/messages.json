@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Linkki",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Linkkikuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Linkitä teksti",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Julkaisun värit",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Esiteltävät blogijulkaisut",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Valitse blogi, jonka julkaisuja haluat esitellä",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Valitse blogi",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Jos haluat sisällyttää blogistasi vain tietyn tunnisteen, valitse se tässä.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Valitse tunniste",
+    "description": "",
+    "placeholders": null
+  }
+}

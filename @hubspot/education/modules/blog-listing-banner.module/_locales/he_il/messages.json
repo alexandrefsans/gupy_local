@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "כרזת רישום בבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "תמונת רקע",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "הערך הוא בפיקסלים",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "שמאל/ימין",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "ריווח",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "הערך הוא בפיקסלים",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "עליון/תחתון",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "צבע כותרת משנה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "צבע כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "כותרת משנה",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  }
+}

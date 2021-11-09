@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Aşağıdaki şirketlere yardımcı olduk:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Başlık metni",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora logosu",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Logo görüntülerini buraya yükleyin",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logo görüntüleri",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Logo başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Başlık arka plan rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Başlık ön plan rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  }
+}

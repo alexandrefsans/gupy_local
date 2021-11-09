@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "اشترك مجانًا",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "نص الزر",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "للفرق التي تحتاج إلى المزيد من الأمان والتحكم والدعم.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "وصف المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "التعداد النقطي لأيقونة قائمة الميزات",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "تم تضمين 10 مستخدمين",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "الميزات",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "بطاقة التسعير",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 دولار",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "السعر",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "لون الخلفية",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "لون خلفية الزر",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "لون نص الزر",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "مجاني",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "مستوى المنتج",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ الشهر",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "الإطار الزمني للسعر",
+    "description": "",
+    "placeholders": null
+  }
+}

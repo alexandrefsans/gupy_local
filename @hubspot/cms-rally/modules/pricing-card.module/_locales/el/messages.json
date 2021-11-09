@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Εγγραφείτε δωρεάν",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Κείμενο κουμπιού",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Για ομάδες που χρειάζονται επιπλέον ασφάλεια, έλεγχο και υποστήριξη.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Περιγραφή προϊόντος",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Κουκκίδα εικονιδίου λίστας δυνατοτήτων",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Συμπεριλαμβάνονται 10 χρήστες",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Δυνατότητες",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Κάρτα τιμολόγησης",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0$",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Τιμή",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Χρώμα φόντου",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Χρώμα φόντου κουμπιού",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Χρώμα κειμένου κουμπιού",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Δωρεάν",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Βαθμίδα προϊόντος",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ μήνα",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Χρονικό πλαίσιο τιμών",
+    "description": "",
+    "placeholders": null
+  }
+}

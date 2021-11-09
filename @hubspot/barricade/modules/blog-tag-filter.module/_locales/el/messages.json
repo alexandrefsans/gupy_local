@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Φίλτρο ετικέτας blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Αναζήτηση ανά:",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Κείμενο ετικέτας",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Τα πάντα",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Κείμενο κράτησης θέσης",
+    "description": "",
+    "placeholders": null
+  }
+}

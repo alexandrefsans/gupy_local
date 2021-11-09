@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Galéria log",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Uznáva",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Hlavička",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo spoločnosti Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Obrázky log",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Farba pozadia banera",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Farba popredia banera",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  }
+}

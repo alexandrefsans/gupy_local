@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Član ekipe",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Joshua ima več kot 20 let izkušenj v tehnološki industriji. Leta 2015 je pomagal ustanoviti to podjetje z namenom pomagati ljudem rasti. V prostem času se rad druži s svojimi otroci, hodi na plažo in kuha.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Bio",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "Izvršni direktor, soustanovitelj",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Položaj",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Ime",
+    "description": "",
+    "placeholders": null
+  }
+}

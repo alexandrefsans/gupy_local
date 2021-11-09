@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Najnowsze wpisy",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Wybierz blog, z którego mają być pobierane wpisy",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Liczba wpisów do pobrania",
+    "description": "",
+    "placeholders": null
+  }
+}

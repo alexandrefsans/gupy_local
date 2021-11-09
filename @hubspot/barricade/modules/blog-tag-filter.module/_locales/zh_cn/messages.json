@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "博客标签筛选器",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "浏览方式：",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "标签文本",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "全部内容",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "占位符文本",
+    "description": "",
+    "placeholders": null
+  }
+}

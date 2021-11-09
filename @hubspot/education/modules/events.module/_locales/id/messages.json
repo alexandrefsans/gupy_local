@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Peristiwa",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Alamat",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Tanggal dan waktu",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Ikon Peristiwa",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Peristiwa",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Tautan",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Pelajari selengkapnya",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Teks tautan",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "GALA PENDIDIKAN SETENGAH TAHUNAN",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Judul",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Konten judul",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Ikon judul",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Tautan judul",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Tampilkan semua",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Teks tautan judul",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Peristiwa yang akan datang",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Judul",
+    "description": "",
+    "placeholders": null
+  }
+}

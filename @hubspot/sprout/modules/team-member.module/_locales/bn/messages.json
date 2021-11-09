@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "দলের সদস্য",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>প্রযুক্তি শিল্পে জোশুয়ার 20 বছরেরও বেশি অভিজ্ঞতা রয়েছে। মানুষের বৃদ্ধিতে সহায়তা করার মিশনে তিনি ২০১৫ সালে এই সংস্থাটি শুরু করতে সহায়তা করেছিলেন। অবসর সময়ে তিনি তার বাচ্চাদের সাথে বেড়াতে, সৈকতে যেতে এবং রান্না করতে পছন্দ করেন।</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "সংক্ষিপ্ত জীবনী",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "সি ই ও, সহ-প্রতিষ্ঠাতা",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "অবস্থান",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "ছবি ",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "জশুয়া বেক",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "নাম ",
+    "description": "",
+    "placeholders": null
+  }
+}

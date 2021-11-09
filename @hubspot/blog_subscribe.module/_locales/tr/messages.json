@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Blog e-posta aboneliği",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Varsayılan bir blog şablonunda kullanıldığında mevcut blogu veya başka bir yerde kullanıldığında birincil blogu kullanır.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Abone olun!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Görüntülenecek blogu seçin",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Kullanıcılar için satır içi yanıt",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Abone olduğunuz için teşekkürler!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Yukarıdaki formda görüntülenecek başlık",
+    "description": "",
+    "placeholders": null
+  }
+}

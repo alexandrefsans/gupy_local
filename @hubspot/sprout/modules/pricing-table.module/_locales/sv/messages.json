@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Pristabell",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Månadsfakturering",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Faktureringsetikett",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Prissättningsalternativ ett",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Tabell",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Knapplänk",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Registrera dig",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Knapptext",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Valuta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Gratis obegränsade</strong> nedladdningar, plus mer grejer!</p><ul><li>Max. 25 MB filstorlek</li><li>2 GB bandbredd</li><li>15 sekunders skärminspelning</li><li>15 sekunders webbkameravideoinspelning</li><li>CloudApp-märke</li><li>Obegränsade anteckningar</li><li>Obegränsade filer</li><li>Integrering av skrivbordsprogram</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Beskrivning",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Pris",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Nybörjare",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Spara 15 % på årlig fakturering",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Faktureringsetikett",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Prissättningsalternativ två",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Tabell",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Knapplänk",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Registrera dig",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Knapptext",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Valuta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Gratis obegränsade</strong> nedladdningar, plus mer grejer!</p><ul><li>Max. 25 MB filstorlek</li><li>2 GB bandbredd</li><li>15 sekunders skärminspelning</li><li>15 sekunders webbkameravideoinspelning</li><li>CloudApp-märke</li><li>Obegränsade anteckningar</li><li>Obegränsade filer</li><li>Integrering av skrivbordsprogram</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Beskrivning",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Pris",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Företag",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Om du aktiverar detta alternativ kan du skriva över standardtemastil. Om du inaktiverar detta alternativ återansluts modulen på nytt till standardtemastilar.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Skriv över standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Färg för aktivt alternativ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Titelbakgrundens färg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Titeltextens färg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  }
+}

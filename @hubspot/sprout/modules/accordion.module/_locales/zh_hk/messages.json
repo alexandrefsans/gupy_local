@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "摺疊",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "善用這個直覺式的強效軟件，幫助你節省時間及發展業務。",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "內容",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "預設展開",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "如何製作出色的範本？",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "啟用此選項可以覆寫預設主題樣式。停用此選項會將模組重新連接預設主題樣式。",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆寫預設樣式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "標題顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "標題顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "圖示顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "啟用中",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "標題顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "圖示顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "暫留",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "圖示顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  }
+}

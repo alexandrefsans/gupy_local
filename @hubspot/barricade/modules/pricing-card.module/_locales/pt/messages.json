@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Cartão com a lista de preços",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Ligação do botão",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Inscreva-se gratuitamente",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Texto do botão",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Para as equipas que necessitam de segurança, controlo e suporte adicionais.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Descrição do produto",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Marca de lista dos ícones da lista de destaques",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 utilizadores incluídos",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Destaques",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Preço",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Grande",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Normal",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Pequeno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Tamanho do botão",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Principal",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Secundário",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Simples",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Estilo do botão",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opções de estilo",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratuito",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Escalão do produto",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ mo",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Período de tempo de preço",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "ব্লগ ট্যাগ ফিল্টার",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "ট্যাগ দ্বারা ফিল্টার",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "লেবেলটি দৃশ্যত লুকানো থাকে তবে এটি স্ক্রিন পাঠকদের জন্য ক্ষেত্রটি অ্যাক্সেসযোগ্য রাখার জন্য ব্যবহৃত হয়",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "লেবেল পাঠ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "সব ",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "প্লেসহোল্ডার টেক্সট",
+    "description": "",
+    "placeholders": null
+  }
+}

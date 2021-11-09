@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Video",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.label": {
+    "message": "Videotype",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.choices.embed": {
+    "message": "Embed",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.choices.hubspot_video": {
+    "message": "HubSpot video",
+    "description": "",
+    "placeholders": null
+  },
+  "hubspot_video.label": {
+    "message": "HubSpot video",
+    "description": "",
+    "placeholders": null
+  },
+  "embed_field.label": {
+    "message": "Embed",
+    "description": "",
+    "placeholders": null
+  },
+  "oembed_thumbnail.label": {
+    "message": "Brugerdefineret miniature",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.oembed_thumbnail_play_button_color.label": {
+    "message": "Farve på afspilningsknap",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.label": {
+    "message": "Pladsholdertekst",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.label": {
+    "message": "Titel på videopladsholder",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.default": {
+    "message": "Ingen video valgt",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.label": {
+    "message": "Beskrivelse for videopladsholder",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.default": {
+    "message": "Vælg en videotype i sidepanelet.",
+    "description": "",
+    "placeholders": null
+  }
+}

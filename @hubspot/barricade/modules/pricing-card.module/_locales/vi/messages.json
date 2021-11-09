@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Thẻ giá",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Liên kết nút",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Đăng ký miễn phí",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Văn bản trên nút",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Dành cho nhóm cần tăng cường bảo mật, kiểm soát và hỗ trợ.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Mô tả sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Dấu đầu dòng biểu tượng danh sách tính năng",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Có 10 người dùng",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Tính năng",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Giá",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Lớn",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Thường",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Nhỏ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Kích cỡ nút",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Chính",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Cấp hai",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Đơn giản",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Kiểu nút",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Miễn phí",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Bậc sản phẩm",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/tháng",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Khung thời gian giá",
+    "description": "",
+    "placeholders": null
+  }
+}

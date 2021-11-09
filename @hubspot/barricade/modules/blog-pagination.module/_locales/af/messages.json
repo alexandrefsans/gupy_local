@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Blogbladsytal",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Volgende teks",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Vorige teks",
+    "description": "",
+    "placeholders": null
+  }
+}

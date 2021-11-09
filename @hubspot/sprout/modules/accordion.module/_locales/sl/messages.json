@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Harmonika",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Izkoristite intuitivno izjemno programsko opremo, ki vam prihrani čas in pomaga pri razvoju vašega podjetja.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Vsebina",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Privzeto razširjeno",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Kako lahko izdelam izjemno predlogo?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Če omogočite to možnost, boste lahko preglasili privzete sloge tem. Če onemogočite to možnost, boste modul znova povezali s privzetimi slogi tem.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Preglasi privzeti slog",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Barva naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Barva naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Barva ikone",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktivno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Barva naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Barva ikone",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Lebdenje",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Barva ikone",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  }
+}

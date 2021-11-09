@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Relateret opslagsliste",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Relaterede artikler",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Overskrift",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Læs mere",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Læs mere tekst",
+    "description": "",
+    "placeholders": null
+  }
+}

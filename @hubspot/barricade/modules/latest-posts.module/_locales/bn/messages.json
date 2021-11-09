@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "সাম্প্রতিক পোস্টগুলি",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "পোস্টগুলি টানতে ব্লগ নির্বাচন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "টানার মতো পোস্টের সংখ্যা",
+    "description": "",
+    "placeholders": null
+  }
+}

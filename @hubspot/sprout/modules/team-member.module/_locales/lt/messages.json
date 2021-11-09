@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Komandos narys",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Joshua daugiau nei 20 metų dirba technologijų pramonės srityje. 2015 m. jis prisidėjo įkuriant šią įmonę, siekdamas padėti žmonėms augti. Laisvalaikį vyrui patinka leisti su vaikais, eiti į paplūdimį ir ruošti valgius.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Biografija",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "Generalinis direktorius, vienas iš steigėjų",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Padėtis",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Vardas, pavardė",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "ব্লগ পোস্ট ব্যানার",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "কাস্টম ব্যাকগ্রাউন্ডের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "কাস্টম পটভূমি চিত্র",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "ফিচার করা ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "আপনি কোন ধরনের ব্যানার ব্যবহার করতে চান?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "পটভূমির রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "ব্যাকগ্রাউন্ড ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "প্যাডিং",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "মান পিক্সেলে",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "উপর/নিচ",
+    "description": "",
+    "placeholders": null
+  }
+}

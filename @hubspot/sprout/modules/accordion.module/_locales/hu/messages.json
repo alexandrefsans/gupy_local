@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Harmonika",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Használja ki az intuitív, egyszerűen lenyűgöző szoftvert, amellyel időt takaríthat meg, és amely segíti az üzlete növekedését.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Tartalom",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Alapértelmezetten kibontva",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Hogyan készíthetek kiváló sablont?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Fejléc",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Az opció engedélyezésével lehetősége lesz felülírni az alapértelmezett témastílusokat. Az opció letiltásával a modul visszavált az alapértelmezett témastílusokra.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Alapértelmezett stílus felülírása",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Fejléc színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Fejléc színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Ikon színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktív",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Fejléc színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Ikon színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Rámutatás",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Ikon színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stílusbeállítások",
+    "description": "",
+    "placeholders": null
+  }
+}

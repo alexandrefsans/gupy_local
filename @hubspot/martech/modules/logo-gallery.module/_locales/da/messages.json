@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Logogalleri",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Anerkendt af",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Overskrift",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora-logo",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logobilleder",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Baggrundsfarve for banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Forgrundsfarve for banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  }
+}

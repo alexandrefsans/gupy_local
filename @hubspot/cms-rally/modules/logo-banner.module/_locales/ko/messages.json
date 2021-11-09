@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "다음과 같은 기업들에게 도움을 주었습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "제목 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora 로고",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "여기서 로그 이미지 업로드",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "로고 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "로고 배너",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "배너 배경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "배너 전경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Listas de blogs",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Autor",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Estos campos te permiten cambiar las etiquetas en las páginas de contenido de autores.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Contenido de autores de blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Publicaciones por",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Subtítulo",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Estos campos te permiten cambiar las etiquetas en las páginas de contenido de etiquetas.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Contenido de etiquetas de blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Publicaciones acerca de",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Subtítulo",
+    "description": "",
+    "placeholders": null
+  },
+  "comments.label": {
+    "message": "Comentarios",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.default": {
+    "message": "Comentarios",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.label": {
+    "message": "Texto de comentarios",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Descripción",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Imagen destacada",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Tarjeta",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Lista",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Estilo de diseño",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Título del post",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Fecha de publicación",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Más información",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Más información",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Leer más texto",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Etiquetas",
+    "description": "",
+    "placeholders": null
+  }
+}

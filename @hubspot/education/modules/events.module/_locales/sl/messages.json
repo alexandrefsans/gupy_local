@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Dogodki",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Datum in čas",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Ikona dogodka",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Dogodki",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Povezava",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Več o tem",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Besedilo povezave",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "POLLETNA IZOBRAŽEVALNA GALA PRIREDITEV",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Vsebina naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Ikona naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Povezava naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Poglej vse",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Besedilo povezave naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Prihajajoči dogodki",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

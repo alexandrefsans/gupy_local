@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Paginació del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Text següent",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Text anterior",
+    "description": "",
+    "placeholders": null
+  }
+}

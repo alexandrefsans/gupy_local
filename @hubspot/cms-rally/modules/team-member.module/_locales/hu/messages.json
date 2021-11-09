@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Csapattag",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>CEO, Társalapító</p><p>Joshua több, mint 20 éves tapasztalattal rendelkezik a technológiai iparágban. 2015-ben segített a vállalat életre hívásában, amely az emberek fejlődését hivatott előmozdítani. Szabadidejét szívesen tölti gyermekeivel, a strandon, és szenvedélye a főzés.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Csapattag tartalma",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Csapattag képe",
+    "description": "",
+    "placeholders": null
+  }
+}

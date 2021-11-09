@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "প্রশংসাপত্র স্লাইডার",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "এই বিকল্পটি সক্ষম করা আপনাকে ডিফল্ট থিম শৈলীর ওভাররাইড করতে দেয়। এই বিকল্পটি অক্ষম করা মডিউলটিকে ডিফল্ট থিম শৈলীতে ফের সংযুক্ত করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "ডিফল্ট শৈলী ওভাররাইড করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_color.label": {
+    "message": "পটভূমির রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইলের বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "সক্রিয় রঙ নেভিগেশন",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "নেভিগেশনের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.quote_color.label": {
+    "message": "রঙ উদ্ধৃত করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.text_color.label": {
+    "message": "টেক্সটের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author.default": {
+    "message": "মেরি কিন্ডলার",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author.label": {
+    "message": "লেখক",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author_title.default": {
+    "message": "সিনটেকোর প্রতিষ্ঠাতা",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.author_title.label": {
+    "message": "লেখকের শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.content.default": {
+    "message": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dapibus posuere mi, in pretium ante posuere a. Aliquam a risus at eros molestie pretium. Aliquam a risus at eros molestie pretium dolor set amiut. </p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.content.label": {
+    "message": "প্রশংসাপত্র পাঠ্য ",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.label": {
+    "message": "প্রশংসাপত্র",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.testimonial_image.default.alt": {
+    "message": "প্লেসহোল্ডার ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_carousel.testimonial_image.label": {
+    "message": "প্রশংসাপত্র চিত্র",
+    "description": "",
+    "placeholders": null
+  }
+}

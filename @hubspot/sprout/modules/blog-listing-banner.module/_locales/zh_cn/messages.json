@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "博客列表横幅",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "背景图片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "值以像素为单位",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "左/右",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "填充",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "值以像素为单位",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "上/下",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "副标题颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "标题颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "副标题",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "标题",
+    "description": "",
+    "placeholders": null
+  }
+}

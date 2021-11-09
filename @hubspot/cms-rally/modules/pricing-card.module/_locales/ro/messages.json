@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Înscrieți-vă gratuit",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Text buton",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Pentru echipele care au nevoie de securitate, control și asistență suplimentare.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Descriere produs",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Marcator pictogramă listă de caracteristici",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 utilizatori incluși",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Caracteristici",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Card prețuri",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Preț",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Culoare fundal",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Culoare fundal buton",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Culoare text buton",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratuit",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Nivel produs",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/lună",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Cadru temporal preț",
+    "description": "",
+    "placeholders": null
+  }
+}

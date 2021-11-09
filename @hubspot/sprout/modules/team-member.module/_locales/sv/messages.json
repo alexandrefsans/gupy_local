@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Teammedlem",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Joshua har mer än 20 års erfarenhet inom teknikbranschen. Han hjälpte till att starta detta företag 2015 med syftet att hjälpa människor att växa. På sin fritid gillar han att vara medd sina barn, vara på stranden och laga mat.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Biografi",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "VD, medgrundare",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Position",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Bild",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Namn",
+    "description": "",
+    "placeholders": null
+  }
+}

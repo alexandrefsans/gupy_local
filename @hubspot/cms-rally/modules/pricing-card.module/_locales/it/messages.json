@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Registrati gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Testo pulsante",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Per i team che necessitano di sicurezza, controllo e assistenza aggiuntivi.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Descrizione prodotto",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Elenco puntato icona elenco funzionalità",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 utenti inclusi",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Funzionalità",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Carta prezzi",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$ 0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Prezzo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Colore di sfondo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Colore sfondo pulsante",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Colore testo pulsante",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opzioni stile",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Livello prodotto",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": " al mese",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Intervallo di tempo prezzo",
+    "description": "",
+    "placeholders": null
+  }
+}

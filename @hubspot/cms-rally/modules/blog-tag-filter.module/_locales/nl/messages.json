@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filter blogtags",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filteren op tag",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Het label is visueel verborgen, maar wordt voor schermlezers gebruikt om het veld toegankelijk te maken",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Labeltekst",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Alles",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Tekst tijdelijke aanduiding",
+    "description": "",
+    "placeholders": null
+  }
+}

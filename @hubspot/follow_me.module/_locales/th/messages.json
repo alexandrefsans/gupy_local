@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "ติดตามฉัน",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "เปิดลิงก์ในหน้าต่างใหม่",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "ส่วนหัวโมดูล",
+    "description": "",
+    "placeholders": null
+  }
+}

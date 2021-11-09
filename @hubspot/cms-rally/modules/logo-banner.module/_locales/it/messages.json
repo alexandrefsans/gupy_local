@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Abbiamo aiutato aziende come:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Testo intestazione",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Carica le immagini del logo qui",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Immagini logo",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Banner logo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Colore sfondo banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Colore primo piano banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opzioni stile",
+    "description": "",
+    "placeholders": null
+  }
+}

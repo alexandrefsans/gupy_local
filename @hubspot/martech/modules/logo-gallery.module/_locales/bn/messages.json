@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "লোগো গ্যালারী",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "দ্বারা স্বীকৃত",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "হেডার",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "এগ্রিফ্লোরা লোগো",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "লোগো ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "ব্যানার ব্যাকগ্রাউন্ড রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "ব্যানার ফোরগ্রাউন্ডের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইলের বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  }
+}

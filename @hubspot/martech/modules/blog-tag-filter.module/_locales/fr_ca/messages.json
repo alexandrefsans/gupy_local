@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filtre d'étiquette de blogue",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Parcourir par",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Texte de l'étiquette",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Tout",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Texte d'espace réservé",
+    "description": "",
+    "placeholders": null
+  }
+}

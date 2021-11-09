@@ -1,0 +1,23 @@
+<div class="logo-banner">
+  <div class="container flex mobile-col">
+    <div class="logo-banner__label"><h5>{% if module.header %}{{ module.header }}{% endif %}</h5></div>
+    {% for logo in module.logo_images %}
+    {% if logo.src %}
+      {% set sizeAttrs = 'width="{{ logo.width }}" height="{{ logo.height }}"' %}
+      {% set loadingAttr = logo.loading != 'disabled' ? 'loading="{{ logo.loading }}"' : '' %}
+      <div class="logo-banner__image">
+        <img src="{{ logo.src }}" alt="{{ logo.alt }}" {{ sizeAttrs }} {{ loadingAttr }}>
+      </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+</div>
+
+{% require_css %}
+<style>
+  #hs_cos_wrapper_{{ name }} .logo-banner {
+    background-color: rgba({{ module.style.banner_bg_color.color|convert_rgb }},{{ module.style.banner_bg_color.opacity * 0.01 }});
+    color: rgba({{ module.style.banner_fg_color.color|convert_rgb }},{{ module.style.banner_fg_color.opacity * 0.01 }});
+  }
+</style>
+{% end_require_css %}

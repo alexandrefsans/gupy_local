@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Beeldgalery",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Koshuisgebou op kampus",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "presies",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Beeld",
+    "description": "",
+    "placeholders": null
+  }
+}

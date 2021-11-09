@@ -1,0 +1,67 @@
+[
+  {
+    "label": "Header",
+    "name": "header",
+    "type": "text",
+    "default": "Recognized By"
+  },
+  {
+    "label": "Logo images",
+    "helptext": "Upload logo images here",
+    "name": "logo_images",
+    "required": false,
+    "responsive": false,
+    "resizable": true,
+    "type": "image",
+    "occurrence": { "min": 1, "max": 6 },
+    "show_loading" : true,
+    "default": [
+      {
+        "alt": "Agriflora logo",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Logos/color/agriflora.png"
+      },
+      {
+        "alt": "Cloud City logo",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Logos/color/cloud_city.png"
+      },
+      {
+        "alt": "Craftscan logo",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Logos/color/craftscan.png"
+      },
+      {
+        "alt": "Vedantra Studio logo",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Logos/color/vedantra_studio.png"
+      }
+    ]
+  },
+  {
+    "id": "style",
+    "name": "style",
+    "label": "Style options",
+    "type": "group",
+    "children": [
+      {
+        "label": "Banner background color",
+        "name": "banner_bg_color",
+        "type": "color",
+        "default": {
+          "color": "#E9EFF5",
+          "opacity": 100
+        }
+      },
+      {
+        "label": "Banner foreground color",
+        "name": "banner_fg_color",
+        "type": "color",
+        "default": {
+          "color": "#FFFFFF",
+          "opacity": 40
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "統計數據",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "啟用此選項可以覆寫預設主題樣式。停用此選項會將模組重新連接預設主題樣式。",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆寫預設樣式",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>客戶滿意度評分</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "統計數據描述",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "統計數據數字",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "統計數據百分比",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "統計數據單位",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "列顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "列填滿顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "統計數據文字顏色",
+    "description": "",
+    "placeholders": null
+  }
+}

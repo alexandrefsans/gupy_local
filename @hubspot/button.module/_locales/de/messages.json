@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Button",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_color.label": {
+    "message": "Button-Farbe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_font.label": {
+    "message": "Button-Schriftart",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_hover_color.label": {
+    "message": "Button-Farbe bei Darüberbewegen des Mauszeigers",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiloptionen",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "Standardstil überschreiben",
+    "description": "",
+    "placeholders": null
+  },
+  "style.text_hover_color.label": {
+    "message": "Textfarbe bei Darüberbewegen des Mauszeigers",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Fügen Sie hier einen Button-Link hinzu",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Button-Text",
+    "description": "",
+    "placeholders": null
+  },
+  "link.label": {
+    "message": " ",
+    "description": "",
+    "placeholders": null
+  }
+}

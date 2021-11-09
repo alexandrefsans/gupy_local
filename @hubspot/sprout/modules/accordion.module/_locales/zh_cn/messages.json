@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Accordion",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "利用超棒的直观性软件，帮您节省时间并拓展业务。",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "内容",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "默认已展开",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "如何制作出色的模板？",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "标题",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "启用此选项允许您覆盖默认主题样式。禁用此选项会将模块重新连接到默认主题样式。",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆盖默认样式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "标题颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "标题颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "图标颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "活动",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "标题颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "图标颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "悬停",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "图标颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  }
+}

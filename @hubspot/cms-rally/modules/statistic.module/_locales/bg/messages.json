@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Статистика",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Разрешаването на тази опция ще ви позволи да презапишете стиловете на тема по подразбиране. Забраняването на тази опция ще свърже отново модула със стиловете на тема по подразбиране.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Презаписване на стила по подразбиране",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Оценка на удовлетвореността на клиента</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Описание на статистика",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Номер на статистика",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Процент на статистика",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "хил.",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Единица на статистика",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Цвят на лента",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Цвят на запълване на лента",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "Цвят на текст на статистика",
+    "description": "",
+    "placeholders": null
+  }
+}

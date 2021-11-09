@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Središče",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Levo",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Desno",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Poravnava",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Išči",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Črno in belo",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Barva",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Siva",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Belo",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "Po meri",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Barvna shema",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Išči",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Izberite barvo po meri",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Ikona in besedilo",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Samo besedilo",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Prikaz",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Slog pisave",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Krožna",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Izvirnik",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Kvadrat",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Oblika ikone",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Išči",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Sledi mi - LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Lestvica",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Družbeno omrežje",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Ikona po meri",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "E-pošta",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Spletno mesto",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Omrežje",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Omrežna slika",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Podporno besedilo",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Razmik",
+    "description": "",
+    "placeholders": null
+  }
+}

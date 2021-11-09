@@ -1,0 +1,27 @@
+{
+  "banner_heading.default": {
+    "message": "<h4>Lorem ipsum dolor sit amet, consectetur.</h4>",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_heading.label": {
+    "message": "Заглавие на банер",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.banner_image.label": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.label": {
+    "message": "Изображения на банер",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Технически банер",
+    "description": "",
+    "placeholders": null
+  }
+}

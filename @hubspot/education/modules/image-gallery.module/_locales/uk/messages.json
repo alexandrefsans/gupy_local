@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Галерея зображень",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Гуртожиток у кампусі",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "точно",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Зображення",
+    "description": "",
+    "placeholders": null
+  }
+}

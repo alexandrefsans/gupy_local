@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "ตรงกลาง",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "ซ้าย",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "ขวา",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "การจัดแนว",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "ค้นหา",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "ขาวดำ",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "สี",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "สีเทา",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "สีขาว",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "แบบกำหนดเอง",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "ชุดสี",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "ค้นหา",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "เลือกสีแบบกำหนดเอง",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "ไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "ไอคอนและข้อความ",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "เฉพาะข้อความ",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "จอแสดงผล",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "รูปแบบตัวอักษร",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "แบบวงกลม",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "ดั้งเดิม",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "สี่เหลี่ยมจัตุรัส",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "รูปร่างไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "ค้นหา",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "ติดตามฉัน - LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "ขนาด",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "เครือข่ายสังคมออนไลน์",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "ไอคอนที่กำหนดเอง",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "อีเมล",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "เว็บไซต์",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "เครือข่าย",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "รูปภาพเครือข่าย",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "ข้อความประกอบ",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "ระยะห่าง",
+    "description": "",
+    "placeholders": null
+  }
+}

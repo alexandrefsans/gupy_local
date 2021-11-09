@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Link",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Pictogramă link",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Text link",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Culori postare",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Postări nominalizate blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Selectați blogul din care doriți să nominalizați postări",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Selectare blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Dacă doriți să nominalizați doar o etichetă specifică din blogul dvs., selectați-o aici.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Selectare etichetă",
+    "description": "",
+    "placeholders": null
+  }
+}

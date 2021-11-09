@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Lista powiązanych wpisów",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Powiązane artykuły",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Nagłówek",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Dowiedz się więcej",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Tekst dowiedz się więcej",
+    "description": "",
+    "placeholders": null
+  }
+}

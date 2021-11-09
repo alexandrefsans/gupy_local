@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Anggota Tim",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Joshua memiliki lebih dari 20 tahun pengalaman di industri teknologi. Ia turut mendirikan perusahaan ini pada tahun 2015 dengan misi membantu orang berkembang. Di saat senggang, ia senang menghabiskan waktu bersama anak-anaknya, pergi ke pantai, dan memasak</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Bio",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "CEO, Rekan Pendiri",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Posisi",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Gambar",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Nama",
+    "description": "",
+    "placeholders": null
+  }
+}

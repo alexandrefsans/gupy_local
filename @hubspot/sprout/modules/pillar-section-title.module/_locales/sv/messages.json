@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Titel för Pelarsektion",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Om du aktiverar detta alternativ kan du skriva över standardtemastil. Om du inaktiverar detta alternativ återansluts modulen på nytt till standardtemastilar.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Skriv över standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Färg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Sektionstitel",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Din sektionstitel bör beskriva din sektion och bör inte vara samma som andra sektionstitlar på sidan. Titel läggs automatiskt till i menyn i modulen \"Pelarmeny\".",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

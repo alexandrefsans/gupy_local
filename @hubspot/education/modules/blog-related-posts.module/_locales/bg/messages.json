@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Свързани с блог публикации",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Свързани публикации",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Заглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Прочетете повече",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Текст на прочетете повече",
+    "description": "",
+    "placeholders": null
+  }
+}

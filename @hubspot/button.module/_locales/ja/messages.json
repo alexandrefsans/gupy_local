@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "ボタン",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_color.label": {
+    "message": "ボタンの色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_font.label": {
+    "message": "ボタンのフォント",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_hover_color.label": {
+    "message": "カーソルを置いた場合のボタンの色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "スタイルオプション",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "既定のスタイルを上書き",
+    "description": "",
+    "placeholders": null
+  },
+  "style.text_hover_color.label": {
+    "message": "カーソルを置いた場合のテキストの色",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "ここにボタンリンクを追加",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "ボタンテキスト",
+    "description": "",
+    "placeholders": null
+  },
+  "link.label": {
+    "message": " ",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Phần thẻ",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Liên kết nút",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Văn bản trên nút",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Hình ảnh",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Thẻ",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Quảng cáo theo bối cảnh có thể đem lại lợi nhuận. Phương thức này có thể chi trả cho dịch vụ lưu trữ và chi phí bảo trì website của bạn hoặc cho rất nhiều việc khác.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Văn bản",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Đây là tiêu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Tiêu đề",
+    "description": "",
+    "placeholders": null
+  }
+}

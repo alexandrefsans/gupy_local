@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "網誌清單",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "作者",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "這些欄位可讓您更改作者名單頁面的標籤。",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "網誌作者名單",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "文章作者：",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "副標題",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "這些欄位可讓您更改標記清單頁面的標籤。",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "網誌標記清單",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "文章主題：",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "副標題",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "描述",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "精選圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "卡",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "清單",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "版面配置樣式",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "文章標題",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "發佈日期",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "閱讀更多",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "閱讀更多",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "閱讀更多文字",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "標記",
+    "description": "",
+    "placeholders": null
+  }
+}

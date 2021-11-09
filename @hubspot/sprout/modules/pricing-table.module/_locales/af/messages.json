@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Prystabel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Maandelikse faktuur",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Faktuuretiket",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Prysopsie een",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Tabel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Knoppie-skakel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Registreer",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Knoppieteks",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Geldeenheid",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Gratis onbeperkte</strong>aflaaie, plus nog meer!</p><ul><li>25 MB maksimum lêergrootte</li><li>2 GB bandwydte</li><li>15 sekonde skermopnames</li><li>15 sekonde webkameravideo-opname</li><li>CloudApp-handelsmerk</li><li>Onbeperkte annotasies</li><li>Onbeperkte lêers</li><li>Lessenaar-app-integrasies</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Beskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Prys",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Begin",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Jaarlikse faktuur, spaar 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Faktuuretiket",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Prysopsie twee",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Tabel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Knoppie-skakel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Registreer",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Knoppieteks",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Geldeenheid",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Gratis onbeperkte</strong>aflaaie, plus nog meer!</p><ul><li>25 MB maksimum lêergrootte</li><li>2 GB bandwydte</li><li>15 sekonde skermopnames</li><li>15 sekonde webkameravideo-opname</li><li>CloudApp-handelsmerk</li><li>Onbeperkte annotasies</li><li>Onbeperkte lêers</li><li>Lessenaar-app-integrasies</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Beskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Prys",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Onderneming",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Deur hierdie opsie te aktiveer, kan jy standaardtemastyle oorheers. As jy hierdie opsie deaktiveer, word die module weer terug aan die standaardtemastyle geskakel.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ignoreer standaardstyl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Aktief-opsiekleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Agtergrondkleur van opskrif",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Opskriftekskleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  }
+}

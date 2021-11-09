@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "شعار قائمة المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "صورة الخلفية",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "القيمة بالبكسل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "يسار/يمين",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "ترك مساحة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "القيمة بالبكسل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "أعلى/أسفل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "لون العنوان الفرعي",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "لون العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "العنوان الفرعي",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Tengah",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Kiri",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Kanan",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Penjajaran",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Cari",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Hitam dan putih",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Warna",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Abu-Abu",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Putih",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "Kustom",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Skema warna",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Cari",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Pilih warna kustom",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Ikon dan teks",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Hanya teks",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Tampilan",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Gaya huruf",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Bundar",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Asli",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Kotak",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Bentuk ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Cari",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Ikuti Saya - LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Skala",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Jejaring Sosial",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Ikon Kustom",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "Email",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Situs web",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Jaringan",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Gambar Jaringan",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Teks pendukung",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Spasi",
+    "description": "",
+    "placeholders": null
+  }
+}

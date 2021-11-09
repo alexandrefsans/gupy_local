@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Последвайте ме",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Отваряне на връзки в нов прозорец",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Горен колонтитул на модул",
+    "description": "",
+    "placeholders": null
+  }
+}

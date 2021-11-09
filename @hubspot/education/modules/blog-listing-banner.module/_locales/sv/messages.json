@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Banner för blogglista",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Bakgrundsbild",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Värdet är i pixlar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Vänster/Höger",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Utfyllning",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Värdet är i pixlar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Högst upp/Längst ned",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Undertextfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Titelfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Undertext\n",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

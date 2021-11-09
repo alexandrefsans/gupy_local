@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Tinklaraščio puslapiai",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Kitas tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Ankstesnis tekstas",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "블로그 태그 필터",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.default": {
+    "message": "범주 선택",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.label": {
+    "message": "플레이스홀더 텍스트",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Blog-e-posintekening",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Die standaardkeuse sal die huidige blog in 'n blogsjabloon gebruik, of die primêre blog as dit elders gebruik word.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Teken hier in!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Kies blog om te wys",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Inlynse antwoord vir gebruikers",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Dankie vir jou intekening!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel om aan bokant van vorm te wys",
+    "description": "",
+    "placeholders": null
+  }
+}

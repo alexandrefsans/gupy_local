@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Prisfastsættelsestabel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Månedlig fakturering",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Faktureringsetiket",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Prissætningsmulighed et",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Tabel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Knaplink",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Tilmeld dig",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Knaptekst",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Valuta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Gratis ubegrænsede</strong> downloads, plus andre sager!</p><ul><li>Maks. filstørrelse på 25 MB</li><li>2 GB båndbredde</li><li>15 sekunders skærmoptagelse</li><li>15 sekunders webcam-videooptagelse</li><li>CloudApp-branding</li><li>Ubegrænsede annoteringer</li><li>Ubegrænsede filer</li><li>Desktop-appintegrationes</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Beskrivelse",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Pris",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Årlig fakturering, spar 15 %",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Faktureringsetiket",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Prissætningsmulighed to",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Tabel",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Knaplink",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Tilmeld dig",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Knaptekst",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Valuta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Gratis ubegrænsede</strong> downloads, plus andre sager!</p><ul><li>Maks. filstørrelse på 25 MB</li><li>2 GB båndbredde</li><li>15 sekunders skærmoptagelse</li><li>15 sekunders webcam-videooptagelse</li><li>CloudApp-branding</li><li>Ubegrænsede annoteringer</li><li>Ubegrænsede filer</li><li>Desktop-appintegrationes</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Beskrivelse",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Pris",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Virksomhed",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Hvis du aktiverer denne indstilling, kan du tilsidesætte standardtemastilarter. Deaktivering af denne indstilling indstiller modulet til standardtemastilarter igen.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Tilsidesæt standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Farve for aktiv mulighed",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Baggrundsfarve for overskrift",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Farve på overskriftstekst",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Galerie log",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Rozpoznáno uživatelem",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Záhlaví",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Obrázky log",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Barva pozadí banneru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Barva popředí banneru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti stylů",
+    "description": "",
+    "placeholders": null
+  }
+}

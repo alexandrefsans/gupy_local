@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "หีบเพลง",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "ใช้ประโยชน์จากซอฟต์แวร์ที่ยอดเยี่ยมที่ใช้งานง่ายที่จะช่วยคุณประหยัดเวลาและจะช่วยสร้างธุรกิจของคุณให้เติบโต",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "เนื้อหา",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "ขยายตามค่าเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "ฉันจะสร้างเทมเพลตที่ยอดเยี่ยมได้อย่างไร",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "ส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "การเปิดใช้ตัวเลือกนี้จะช่วยให้คุณสามารถแทนที่รูปแบบธีมค่าเริ่มต้นได้ การปิดใช้ตัวเลือกนี้จะเชื่อมต่อโมดูลกลับไปเป็นรูปแบบธีมค่าเริ่มต้นอีกครั้ง",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "แทนที่รูปแบบค่าเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "สีของส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "สีของส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "สีไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "ใช้งานอยู่",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "สีของส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "สีไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "วางเมาส์เหนือ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "สีไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "ตัวเลือกรูปแบบ",
+    "description": "",
+    "placeholders": null
+  }
+}

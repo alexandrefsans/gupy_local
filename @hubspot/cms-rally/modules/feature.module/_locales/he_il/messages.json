@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "נצל את התוכנה המדהימה והאינטואיטיבית שתחסוך לך זמן ותציל את העסק שלך. באחריות.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "תיאור תכונה",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "צבע רקע",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "צבע גבול",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "צבע",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "סמל תכונה",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "תמונת תכונה",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "תמונה",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "ללא",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "תמונה/סמל מוצגים",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "מהיר ופשוט",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "כותרת תכונה",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "תכונה",
+    "description": "",
+    "placeholders": null
+  }
+}

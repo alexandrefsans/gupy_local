@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Ultimi post",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Seleziona un blog da cui estrarre post",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Numero di post da estrarre",
+    "description": "",
+    "placeholders": null
+  }
+}

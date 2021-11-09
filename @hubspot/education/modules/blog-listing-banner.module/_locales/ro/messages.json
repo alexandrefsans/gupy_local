@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Banner listare blog",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Imagine fundal",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Valoarea este în pixeli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Stânga/dreapta",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Spațiere",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Valoarea este în pixeli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Sus/jos",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Culoare subtitrare",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Culoare titlu",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Subtitrare",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titlu",
+    "description": "",
+    "placeholders": null
+  }
+}

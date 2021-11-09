@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "ตัวกรองแท็กในบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.default": {
+    "message": "เลือกหมวดหมู่",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.label": {
+    "message": "ข้อความตัวยึดตำแหน่ง",
+    "description": "",
+    "placeholders": null
+  }
+}

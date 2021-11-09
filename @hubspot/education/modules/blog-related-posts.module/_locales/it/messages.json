@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Articoli correlati al blog",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Articoli correlati",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Titolo",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Per saperne di più",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Continua a leggere per saperne di più",
+    "description": "",
+    "placeholders": null
+  }
+}

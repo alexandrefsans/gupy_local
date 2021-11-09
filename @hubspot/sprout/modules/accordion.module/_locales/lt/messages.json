@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Akordeonas",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Pasinaudokite intuityvia ir nuostabia programine įranga, kuri taupys jūsų laiką ir padės verslui augti.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Turinys",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Išplėsti pagal numatytuosius",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Kaip sukurti nuostabų šabloną?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Antraštė",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Įjungę šią parinktį galėsite perrašyti numatytuosius temos stilius. Išjungus parinktį modulis bus vėl prijungtas prie numatytųjų temos stilių.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Perrašyti numatytąjį stilių",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Antraštės spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Antraštės spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Piktogramos spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktyvus",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Antraštės spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Piktogramos spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Sklendimas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Piktogramos spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  }
+}

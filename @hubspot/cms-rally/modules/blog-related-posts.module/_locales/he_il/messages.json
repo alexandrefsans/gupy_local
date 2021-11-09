@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "פוסטים שקשורים לבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "פוסטים קשורים",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "לפרטים נוספים",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "קרא טקסט נוסף",
+    "description": "",
+    "placeholders": null
+  }
+}

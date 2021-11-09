@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "Varnostna kopija odjava",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Besedilo gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Odjava po e-pošti",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.label": {
+    "message": "Besedilo nadomestnega znaka za vnos e-pošte",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.default": {
+    "message": "Vaš e-poštni naslov:",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Odjava",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.default": {
+    "message": "email@example.com",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.label": {
+    "message": "Besedilo pomoči za vnos e-pošte",
+    "description": "",
+    "placeholders": null
+  }
+}

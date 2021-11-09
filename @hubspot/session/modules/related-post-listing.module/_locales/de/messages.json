@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Verwandtes Beitrags-Listing",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Verwandte Artikel",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Überschrift",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Weiterlesen",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Weiterlesen-Text",
+    "description": "",
+    "placeholders": null
+  }
+}

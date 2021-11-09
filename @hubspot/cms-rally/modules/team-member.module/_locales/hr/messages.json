@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Član tima",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>Izvršni direktor i suosnivač</p><p>Joshua ima više od 20 godina iskustva u industriji tehnologije. Pomogao je pokrenuti ovu tvrtku 2015. s misijom da pomaže ljudima da napreduju. U slobodno vrijeme voli se družiti sa svojom djecom, ići na plažu i kuhati.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Sadržaj člana tima",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Slika člana tima",
+    "description": "",
+    "placeholders": null
+  }
+}

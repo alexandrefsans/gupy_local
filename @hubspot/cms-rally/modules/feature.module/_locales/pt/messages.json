@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Tire partido do software intuitivo super fantástico que o ajuda a poupar tempo e a salvar a sua empresa. É uma promessa.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Descrição do destaque",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ícone",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Cor de fundo",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Cor do limite",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Cor",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ícone de destaque",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Imagem de destaque",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ícone",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Imagem",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Nenhum",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Imagem/ícone em destaque",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Rápido e simples",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Título do destaque",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Destaque",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "ส่วนบัตร",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "รูปภาพ",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "บัตร",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "เรียนรู้เพิ่มเติม",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "ข้อความเรียนรู้เพิ่มเติม",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "ลิงก์เรียนรู้เพิ่มเติม",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "การโฆษณาตามบริบทอาจสร้างผลกำไร โดยสามารถใช้ชำระเงินสำหรับการโฮสต์และค่าซ่อมบำรุงเว็บไซต์ของคุณ หรือสามารถใช้ชำระเงินค่าสิ่งอื่นๆ อีกมากมาย",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "ข้อความ",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "นี่เป็นชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "ชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  }
+}

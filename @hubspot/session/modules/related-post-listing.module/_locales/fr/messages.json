@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Listing des articles associés",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Articles liés",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "En-tête",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "En savoir plus",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Texte En savoir plus",
+    "description": "",
+    "placeholders": null
+  }
+}

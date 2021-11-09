@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Описание записи блога",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Выбрать блог",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Смотреть все",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Текст кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "По блогу и тегу",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "По блогу",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "Фильтр",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "Читать еще",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Читать текст дальше",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "Тег",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "В новостях",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "Текст заголовка",
+    "description": "",
+    "placeholders": null
+  }
+}

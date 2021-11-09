@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Ценоразпис ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Месечно фактуриране",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Етикет на фактуриране",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Ценова опция едно",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Таблица",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Връзка на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Регистриране",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Текст на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Валута",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Безплатни неограничени</strong> изтегляния и други!</p><ul><li>25 MB максимален размер на файл</li><li>2 GB честотна лента</li><li>15-секундни записвания на екрана</li><li>15-секундно видео записване на уеб камерата</li><li>CloudApp брандиране</li><li>Неограничени анотации</li><li>Неограничени файлове</li><li>Интеграции с десктоп приложения</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Описание",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Цена",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Начална",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Заглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Годишното фактуриране спестява 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Етикет на фактуриране",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Ценова опция две",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Таблица",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Връзка на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Регистриране",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Текст на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Валута",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Безплатни неограничени</strong> изтегляния и други!</p><ul><li>25 MB максимален размер на файл</li><li>2 GB честотна лента</li><li>15-секундни записвания на екрана</li><li>15-секундно видео записване на уеб камерата</li><li>CloudApp брандиране</li><li>Неограничени анотации</li><li>Неограничени файлове</li><li>Интеграции с десктоп приложения</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Описание",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Цена",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Корпоративна",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Заглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Разрешаването на тази опция ще ви позволи да презапишете стиловете на тема по подразбиране. Забраняването на тази опция ще свърже отново модула със стиловете на тема по подразбиране.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Презаписване на стила по подразбиране",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Цвят на активна опция",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Цвят на фон на горен колонтитул",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Цвят на текст на горен колонтитул",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Đăng ký email với blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Lựa chọn Mặc định sẽ sử dụng blog hiện tại khi được dùng trong mẫu blog hoặc blog chính khi được dùng ở nơi khác.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Đăng ký ở đây!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Chọn blog để hiển thị",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Phản hồi nội tuyến cho người dùng",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Cảm ơn bạn đã đăng ký!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tiêu đề để hiển thị ở phía trên biểu mẫu",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Банер на списъка с блогове",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Фоново изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Стойността е в пиксели",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Ляво/дясно",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Отстояние",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Стойността е в пиксели",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Горе/долу",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Цвят на подзаглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Цвят на заглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Подзаглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заглавие",
+    "description": "",
+    "placeholders": null
+  }
+}

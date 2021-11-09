@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Titlu secțiune pilon",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Activarea acestei opțiuni vă va permite să înlocuiți temele implicite. Dezactivarea acestei opțiuni va reconecta modulul cu temele implicite.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Înlocuire stil implicit",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Culoare",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Titlu secțiune",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Titlul secțiunii trebuie să descrie secțiunea dvs. și trebuie să fie unic față de alte titluri de secțiuni de pe pagină. Titlul va fi adăugat automat la meniu în modulul „Meniu pilon”.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titlu",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Таблица ценообразования",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Ежемесячное выставление счетов",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Метка выставления счетов",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Вариант ценообразования 1",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Таблица",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Ссылка кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Регистрация",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Текст кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Валюта",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Неограниченное число бесплатных</strong> загрузок и многое другое!</p><ul><li>Макс. размер файла 25 Мбайт</li><li>Пропускная способность 2 Гбит/с</li><li>Запись экрана 15 секунд</li><li>Запись видео с веб-камеры 15 секунд</li><li>Фирменная символика CloudApp</li><li>Неограниченное число примечаний</li><li>Неограниченное число файлов</li><li>Интеграция с приложениями настольного компьютера</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Описание",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Цена",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Экономия за год 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Метка выставления счетов",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Вариант ценообразования 2",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Таблица",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Ссылка кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Регистрация",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Текст кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Валюта",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Неограниченное число бесплатных</strong> загрузок и многое другое!</p><ul><li>Макс. размер файла 25 Мбайт</li><li>Пропускная способность 2 Гбит/с</li><li>Запись экрана 15 секунд</li><li>Запись видео с веб-камеры 15 секунд</li><li>Фирменная символика CloudApp</li><li>Неограниченное число примечаний</li><li>Неограниченное число файлов</li><li>Интеграция с приложениями настольного компьютера</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Описание",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Цена",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Enterprise",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Включение этого параметра позволит переопределять стили тем по умолчанию. Отключение этого параметра приведет к переподключению модуля к стилям тем по умолчанию.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Переопределить стиль по умолчанию",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Цвет активного параметра",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Цвет фона заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Цвет текста заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  }
+}

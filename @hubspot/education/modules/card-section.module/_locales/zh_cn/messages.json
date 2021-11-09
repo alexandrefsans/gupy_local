@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "卡片部分",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "内容",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "链接",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "了解更多",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "链接文本",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "描述",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "关心您的成功的教师",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "标题",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "课堂讲座",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "图片",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "图标",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "图片和图标",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "启用此选项允许您覆盖默认主题样式。禁用此选项会将模块重新连接到默认主题样式。",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆盖默认样式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "强调色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "图标填充色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  }
+}

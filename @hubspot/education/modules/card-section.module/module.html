@@ -1,0 +1,56 @@
+<div class="icon-card">
+  <div class="icon-card__upper">
+    {% set loadingAttr = module.hero.hero_image.loading != 'disabled' ? 'loading="{{ module.hero.hero_image.loading }}"' : '' %}
+    <img class="icon-card__image" src="{{ module.hero.hero_image.src }}" alt="{{ module.hero.hero_image.alt }}" {{ loadingAttr }}>
+  </div>
+  <div class="icon-card__lower">
+    <div class="icon-card__icon">
+      {% icon
+        name='{{ module.hero.icon_field.name }}',
+        purpose='decorative'
+        style='{{ module.hero.icon_field.type }}',
+        unicode='{{ module.hero.icon_field.unicode }}'
+      %}
+    </div>
+    <h5 class="icon-card__title">{{ module.content.title }}</h5>
+    <div class="icon-card__text">
+      {% rich_text value='{{ module.content.text }}' %}
+    </div>
+
+    {% set href = module.content.link_field.url.href %}
+    {% if module.content.link_field.url.type is equalto 'EMAIL_ADDRESS' %}
+      {% set href = 'mailto:' + href %}
+    {% endif %}
+
+    {% set rel = [] %}
+    {% if module.content.link_field.no_follow %}
+      {% do rel.append("nofollow") %}
+    {% endif %}
+    {% if module.content.link_field.open_in_new_tab %}
+      {% do rel.append("noopener") %}
+    {% endif %}
+
+    <a class="icon-card__link" href="{{ href }}"
+      {% if module.content.link_field.open_in_new_tab %}target="_blank"{% endif %}
+      {% if rel %}rel="{{ rel|join(' ') }}"{% endif %}
+      >
+      {{ module.content.link_text }}
+    </a>
+  </div>
+</div>
+
+{% if module.override_default_style %}
+{% require_css %}
+<style>
+  #hs_cos_wrapper_{{ name }} .icon-card__lower {
+    border-top-color: rgba({{ module.style.accent.color|convert_rgb }}, {{ module.style.accent.opacity / 100 }});
+  }
+  #hs_cos_wrapper_{{ name }} .icon-card__icon {
+    background-color: rgba({{ module.style.accent.color|convert_rgb }}, {{ module.style.accent.opacity / 100 }});
+  }
+  #hs_cos_wrapper_{{ name }} .icon-card__icon svg{
+    fill: {{ module.style.icon_fill.color }};
+  }
+</style>
+{% end_require_css %}
+{% endif %}

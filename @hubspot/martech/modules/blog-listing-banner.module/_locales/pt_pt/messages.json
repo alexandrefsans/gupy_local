@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Faixa de listagem do blog",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Contornar estilo predefinido",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Imagem",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Gradiente de cor",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Tipo de fundo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Imagem de fundo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Cor 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Cor 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Gradação das cores",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opções de estilo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "O valor é em píxeis",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Esquerda/Direita",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Preenchimento",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "O valor é em píxeis",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Cima/Baixo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Cor da legenda",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Cor do título",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Se não for fornecido qualquer texto de legenda, este será predefinido para a descrição meta do seu blog a partir das definições do blog",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Legenda",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Se não for fornecido qualquer texto de título, este será predefinido para o título do seu blog a partir das definições do blog",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Título",
+    "description": "",
+    "placeholders": null
+  }
+}

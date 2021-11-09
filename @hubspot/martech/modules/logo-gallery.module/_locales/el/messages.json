@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Συλλογή λογότυπων",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Αναγνωρισμένα από",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Κεφαλίδα",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Λογότυπο Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Εικόνες λογότυπων",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Χρώμα φόντου μπάνερ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Χρώμα πρώτου πλάνου μπάνερ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  }
+}

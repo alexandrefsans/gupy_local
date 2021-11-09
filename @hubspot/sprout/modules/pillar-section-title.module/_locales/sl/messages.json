@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Naslov stebrnega razdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Če omogočite to možnost, boste lahko preglasili privzete sloge tem. Če onemogočite to možnost, boste modul znova povezali s privzetimi slogi tem.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Preglasi privzeti slog",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Barva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Naslov razdelka",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Naslov razdelka mora opisovati vaš razdelek in biti edinstven glede na naslove drugih razdelkov na strani. Naslov bo samodejno dodan v meni v modulu \"Stebrni meni\".",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

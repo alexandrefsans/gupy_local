@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Naslov odjeljka stupa",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Ako omogućite ovu opciju, moći ćete nadjačati zadane stilove teme. Onemogućavanjem opcije ponovno ćete povezati modul sa zadanim stilovima teme.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Nadjačaj zadani stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Boja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcije stila",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Naslov odjeljka",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Naslov odjeljka treba opisati odjeljak i razlikovati se od drugih naslova odjeljaka na stranici. Naslov će se automatski dodati na izbornik u modulu „Izbornik stupa“.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

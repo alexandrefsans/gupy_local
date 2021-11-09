@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Am ajutat companii precum:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Text antet",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Încărcați imagini logo aici",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Imagini logo",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Banner logo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Culoare fundal banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Culoare prim-plan banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  }
+}

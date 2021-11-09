@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filtru etichete blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Navigare prin",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Text etichetă",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Toate",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Text substituent",
+    "description": "",
+    "placeholders": null
+  }
+}

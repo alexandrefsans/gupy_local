@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Аккордеон",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Используйте возможности превосходного интуитивно понятного программного обеспечения, которое позволяет сэкономить время и поддерживает рост бизнеса.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Содержимое",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Развернуто по умолчанию",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Как сделать отличный шаблон?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Включение этого параметра позволит переопределять стили тем по умолчанию. Отключение этого параметра приведет к переподключению модуля к стилям тем по умолчанию.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Переопределить стиль по умолчанию",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Цвет заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Цвет заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Цвет значка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Активно",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Цвет заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Цвет значка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "При наведении",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Цвет значка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  }
+}

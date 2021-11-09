@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Kortdel",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Innhold",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Lenke",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Finn ut mer",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Koblingstekst",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Beskrivelse",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Lærere som bryr seg om at du lykkes",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Tittel",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Et foredrag i klasserommet",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Bilde",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Bilde og ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Ved å aktivere dette alternativet kan du overstyre standard temastiler. Ved å deaktivere dette alternativet vil modulen tilbakestilles til standard temastiler.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Overstyr standard stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Uthevingsfarge",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Fyllfarge for ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Alternativer for stil",
+    "description": "",
+    "placeholders": null
+  }
+}

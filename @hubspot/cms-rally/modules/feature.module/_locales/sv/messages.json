@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Utnyttja det intuitiva, fantastiska programmet som sparar tid åt dig och som kommer att rädda din verksamhet. Lovar.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Funktionens beskrivning",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Bakgrundsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Kantfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Färg",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Funktionens ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Funktionens bild",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Bild",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Ingen",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Framhävd bild/ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Snabbt och enkelt",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Funktionstitel",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Funktion",
+    "description": "",
+    "placeholders": null
+  }
+}

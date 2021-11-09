@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Baner zoznamu blogov",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Obrázok pozadia",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Hodnota je v pixeloch",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Vľavo/vpravo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Odsadenie",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Hodnota je v pixeloch",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Hore/dole",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Farba podnadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Farba nadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Podnadpis",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Názov",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Urmărire",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Deschidere linkuri în fereastră nouă",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Antet modul",
+    "description": "",
+    "placeholders": null
+  }
+}

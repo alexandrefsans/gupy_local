@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Blog Related Posts",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Related Posts",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Heading",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Read more",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Read more text",
+    "description": "",
+    "placeholders": null
+  }
+}

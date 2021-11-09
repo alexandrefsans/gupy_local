@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Események",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Cím",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Dátum és idő",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Esemény ikonja",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Események",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Hivatkozás",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "További tudnivalók",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Hivatkozás szövege",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "FÉLÉVENKÉNTI OKTATÁSI GÁLA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Cím",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Fejléc tartalma",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Fejléc ikonja",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Fejléc hivatkozása",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Összes megtekintése",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Fejléc hivatkozásának szövege",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Közelgő események",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Fejléc",
+    "description": "",
+    "placeholders": null
+  }
+}

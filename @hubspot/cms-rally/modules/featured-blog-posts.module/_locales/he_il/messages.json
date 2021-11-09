@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "קישור",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "סמל קישור",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "טקסט קישור",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "צבעי פוסט",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "פוסטים מוצגים מהבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "בחר את הבלוג שממנו ברצונך להציג פוסטים",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "בחר בלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "אם ברצונך להציג רק תגית ספציפית מהבלוג שלך, בחר אותה כאן.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "בחר תגית",
+    "description": "",
+    "placeholders": null
+  }
+}

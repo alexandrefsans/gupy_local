@@ -1,0 +1,27 @@
+{
+  "banner_heading.default": {
+    "message": "<h4>Lorem ipsum dolor sit amet, consectetur.</h4>",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_heading.label": {
+    "message": "Reklamjuostės antraštė",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.banner_image.label": {
+    "message": "Vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.label": {
+    "message": "Reklamjuostės vaizdai",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Technologijų reklamjuostė",
+    "description": "",
+    "placeholders": null
+  }
+}

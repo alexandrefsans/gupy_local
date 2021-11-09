@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Στατιστικά",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Η ενεργοποίηση αυτής της επιλογής θα σας επιτρέψει να παρακάμψετε τα προεπιλεγμένα στυλ θέματος. Η απενεργοποίηση αυτής της επιλογής θα επανασυνδέσει τη λειτουργική μονάδα στα προεπιλεγμένα στυλ θέματος.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Παράκαμψη προεπιλεγμένου στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Αξιολόγηση ικανοποίησης των πελατών</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Περιγραφή στατιστικών",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Αριθμός στατιστικών",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Ποσοστό στατιστικών",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Μονάδα στατιστικών",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Χρώμα γραμμής",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Χρώμα γεμίσματος γραμμής",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.statistic_text_color.label": {
+    "message": "Χρώμα κειμένου στατιστικών",
+    "description": "",
+    "placeholders": null
+  }
+}

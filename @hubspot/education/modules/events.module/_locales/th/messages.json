@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "กิจกรรม",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "ที่อยู่",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "วันที่และเวลา",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "ไอคอนกิจกรรม",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "กิจกรรม",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "ลิงก์",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "เรียนรู้เพิ่มเติม",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "ข้อความลิงก์",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "งานเลี้ยงด้านการศึกษาประจำครึ่งปี",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "ชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "เนื้อหาส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "ไอคอนส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "ลิงก์ส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "ดูทั้งหมด",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "ข้อความลิงก์ส่วนหัว",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "กิจกรรมที่กำลังจะมาถึง",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "หัวเรื่อง",
+    "description": "",
+    "placeholders": null
+  }
+}

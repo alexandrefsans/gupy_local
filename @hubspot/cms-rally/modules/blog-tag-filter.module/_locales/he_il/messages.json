@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "מסנן תגיות בלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "סנן לפי תגית",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "התווית מוסתרת באופן חזותי אך נעשה בה שימוש עבור קוראי מסך לשמירה על נגישות השדה",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "טקסט תווית",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "הכל",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "טקסט מציין מיקום",
+    "description": "",
+    "placeholders": null
+  }
+}

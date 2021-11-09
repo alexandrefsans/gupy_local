@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filtr tagów na blogach",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtrowanie według tagu",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Etykieta jest ukryta, ale jest używana przez czytniki, aby zachować dostępność pola",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Tekst etykiety",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Wszystkie",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Tekst zastępczy",
+    "description": "",
+    "placeholders": null
+  }
+}

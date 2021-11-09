@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "필러 메뉴",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "색상",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "하단 테두리",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "파선",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "점선",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "이중",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "홈",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "삽도",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "없음",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "시초",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "리지",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "실선",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "스타일",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "값은 픽셀 단위입니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "너비",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "목차",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "페이지에 '필러 섹션' 모듈을 추가하면 메뉴 항목이 자동으로 생성됩니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "제목",
+    "description": "",
+    "placeholders": null
+  }
+}

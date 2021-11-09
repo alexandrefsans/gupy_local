@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Galeria obrazów",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Budynek akademika na terenie kampusu",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "dokładne",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Obraz",
+    "description": "",
+    "placeholders": null
+  }
+}

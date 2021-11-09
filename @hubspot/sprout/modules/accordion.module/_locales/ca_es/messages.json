@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Accordion",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Aprofita l'intuïtiu i excel·lent programari que et permetrà estalviar temps i t'ajudarà a expandir el teu negoci.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Contingut",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Ampliat per defecte",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Com puc crear una plantilla genial?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Capçalera",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "En habilitar aquesta opció, podràs substituir els estils de tema per defecte. Si la inhabilites, el mòdul es tornarà a connectar amb els estils de tema per defecte. ",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Substitueix l'estil per defecte",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Color de la capçalera",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Color de la capçalera",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Color de la icona",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Actiu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Color de la capçalera",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Color de la icona",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Apuntar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Color de la icona",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions d'estil",
+    "description": "",
+    "placeholders": null
+  }
+}

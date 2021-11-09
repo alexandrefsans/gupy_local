@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Banner for blogginnlegg",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "Knappeikon",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Tilbake til blogg",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knappetekst",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Tilpasset bakgrunnsfarge",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Tilpasset bakgrunnsbilde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Utvalgt bilde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Hvilke type bannere ønsker du å bruke?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Bakgrunnsfarge",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Bakgrunnsbilde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Alternativer for stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Utfylling",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Verdi er i piksler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Topp/bunn",
+    "description": "",
+    "placeholders": null
+  }
+}

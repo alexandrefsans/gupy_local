@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "博客标签筛选器",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "按标签过滤",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "标签已隐藏，但该标签用于屏幕阅读器以确保字段可访问",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "标签文本",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "全部",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "占位符文本",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Tabuľka cien",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Mesačná fakturácia",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Štítok fakturácie",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Možnosť určovania cien 1",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Tabuľka",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Odkaz na tlačidlo",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Zaregistrovať sa",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Text tlačidla",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Mena",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Bezplatné neobmedzené</strong> sťahovanie a viac obsahu!</p><ul><li>Max. veľkosť súboru 25 MB</li><li>Šírka pásma 2 GB</li><li>15 s záznamy obrazovky</li><li>15 s videozáznamy webkamery</li><li>Značka CloudApp</li><li>Neobmedzené poznámky</li><li>Neobmedzený počet súborov</li><li>Integrácie aplikácie pre počítače</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Popis",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Cena",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Spúšťač",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Názov",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Úspora pri ročnom účtovaní 15 %",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Štítok fakturácie",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Možnosť určovania cien 2",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Tabuľka",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Odkaz na tlačidlo",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Zaregistrovať sa",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Text tlačidla",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Mena",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Bezplatné neobmedzené</strong> sťahovanie a viac obsahu!</p><ul><li>Max. veľkosť súboru 25 MB</li><li>Šírka pásma 2 GB</li><li>15 s záznamy obrazovky</li><li>15 s videozáznamy webkamery</li><li>Značka CloudApp</li><li>Neobmedzené poznámky</li><li>Neobmedzený počet súborov</li><li>Integrácie aplikácie pre počítače</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Popis",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Cena",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Podnik",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Názov",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Zapnutím tejto možnosti umožníte prepisovať predvolené štýly motívov. Ak ju vypnete, modul znova pripojíte k predvoleným štýlom motívov.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Prepísať predvolený štýl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Farba aktívnej možnosti",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Farba pozadia hlavičky",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Farba textu hlavičky",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  }
+}

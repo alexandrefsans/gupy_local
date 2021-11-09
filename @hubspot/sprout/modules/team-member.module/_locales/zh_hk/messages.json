@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "團隊成員",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Joshua 在科技業有超過 20 年經驗。他在 2015 年幫助成立這間公司，目的是助人發展。他在空餘時間喜歡與自己的孩子玩樂、去沙灘和烹飪。</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "簡歷",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "CEO，共同創辦人",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "位置",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "姓名",
+    "description": "",
+    "placeholders": null
+  }
+}

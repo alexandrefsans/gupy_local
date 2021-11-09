@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Objave, povezane s spletnim dnevnikom",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Povezane objave",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Preberi več",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Preberi več besedila",
+    "description": "",
+    "placeholders": null
+  }
+}

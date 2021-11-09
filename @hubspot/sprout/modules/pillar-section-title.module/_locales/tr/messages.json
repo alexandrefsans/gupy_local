@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Sütun bölümü başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Bu seçeneğin etkinleştirilmesi, varsayılan tema stillerini geçersiz kılmanıza olanak tanır. Bu seçeneği devre dışı bırakmak, modülü varsayılan tema stillerine yeniden bağlayacaktır.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Varsayılan stili geçersiz kıl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Renk",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Bölüm başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Bölüm başlığınız bölümünüzü tanımlamalı ve sayfadaki diğer bölüm başlıklarından farklı olmalıdır. Başlık, 'Sütun menüsü' modülündeki menüye otomatik olarak eklenecektir.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  }
+}

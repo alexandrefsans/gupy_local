@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Kaartjie-afdeling",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Knoppie-skakel",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Knoppieteks",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Beeld",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kaart",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontekstuele advertensies kan winsgewend wees. Dit kan jou gasheer- en instandhoudingskostes van jou webwerf en nog baie meer betaal.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Teks",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Dit is 'n titel",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

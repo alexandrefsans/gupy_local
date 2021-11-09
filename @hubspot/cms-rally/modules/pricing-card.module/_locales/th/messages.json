@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "สมัครฟรี",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "ข้อความบนปุ่ม",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "สำหรับทีมที่ต้องการความปลอดภัย การควบคุม และการสนับสนุนเพิ่มเติม",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "รายละเอียดผลิตภัณฑ์",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "หัวข้อไอคอนรายการฟีเจอร์",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "รวมผู้ใช้ 10 คน",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "ฟีเจอร์",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "บัตรราคา",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "ราคา",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "สีพื้นหลัง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "สีพื้นหลังของปุ่ม",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "สีข้อความบนปุ่ม",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "ตัวเลือกรูปแบบ",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "ฟรี",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "ระดับผลิตภัณฑ์",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/เดือน",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "ช่วงเวลาของราคา",
+    "description": "",
+    "placeholders": null
+  }
+}

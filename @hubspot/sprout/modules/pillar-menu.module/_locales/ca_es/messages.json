@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Menú de pilar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Color",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Vora inferior",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Discontínua",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "De punts",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Doble",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Ranura",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Interior",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Cap",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Exterior",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Cresta",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Sòlid",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Estil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "El valor està expressat en píxels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Amplada",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Índex",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Els elements de menú es creen automàticament en afegir el mòdul \"Secció pilar\" a la pàgina",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Títol",
+    "description": "",
+    "placeholders": null
+  }
+}

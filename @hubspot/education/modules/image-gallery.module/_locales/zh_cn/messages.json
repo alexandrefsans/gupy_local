@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "图片库",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "校园宿舍楼",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "精确",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "图片",
+    "description": "",
+    "placeholders": null
+  }
+}

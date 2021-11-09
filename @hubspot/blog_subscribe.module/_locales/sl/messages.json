@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Naročnina na e-poštni dnevnik",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Privzeto bo uporabljen trenutni spletni dnevnik, če se uporablja v predlogi spletnega dnevnika, ali primarni spletni dnevnik, če se uporablja drugje.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Naročite se tukaj!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Izberite spletni dnevnik za prikaz",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Vgrajeni odziv za uporabnike",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Hvala, da ste se naročili!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Naslov za prikaz nad obrazcem",
+    "description": "",
+    "placeholders": null
+  }
+}

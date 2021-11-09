@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Kártyaszakasz",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Gombhivatkozás",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "További tudnivalók",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Gombfelirat",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Kép",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kártya",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "A kontextuális reklám nyereséges lehet. Fedezheti a weboldal üzemeltetési és fenntartási költségeit, vagy akár még több mindent is állhat.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Szöveg",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Ez egy cím",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Cím",
+    "description": "",
+    "placeholders": null
+  }
+}

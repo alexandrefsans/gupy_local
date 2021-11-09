@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "ส่วนบัตร",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "เนื้อหา",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "ลิงก์",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "เรียนรู้เพิ่มเติม",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "ข้อความลิงก์",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel2<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "คำอธิบาย",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "ครูผู้สอนที่ใส่ใจกับความสำเร็จของคุณ",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "ชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "การบรรยายในชั้นเรียน",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "รูปภาพ",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "ไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "รูปภาพและไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "การเปิดใช้ตัวเลือกนี้จะช่วยให้คุณสามารถแทนที่รูปแบบธีมค่าเริ่มต้นได้ การปิดใช้ตัวเลือกนี้จะเชื่อมต่อโมดูลกลับไปเป็นรูปแบบธีมค่าเริ่มต้นอีกครั้ง",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "แทนที่รูปแบบค่าเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "สีเน้น",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "สีพื้นไอคอน",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "ตัวเลือกรูปแบบ",
+    "description": "",
+    "placeholders": null
+  }
+}

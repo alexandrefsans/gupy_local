@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Публікації, пов’язані з блогом",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Пов’язані публікації",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Додаткова інформація",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Текст додаткової інформації",
+    "description": "",
+    "placeholders": null
+  }
+}

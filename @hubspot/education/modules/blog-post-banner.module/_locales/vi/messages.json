@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "Biểu ngữ bài đăng blog",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Màu nền sau tùy chỉnh",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Hình ảnh nền tùy chỉnh",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Hình ảnh nổi bật",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Bạn muốn sử dụng loại biểu ngữ nào?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Màu nền sau",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Hình ảnh nền",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Khoảng đệm",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Giá trị tính bằng pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Trên cùng/Dưới cùng",
+    "description": "",
+    "placeholders": null
+  }
+}

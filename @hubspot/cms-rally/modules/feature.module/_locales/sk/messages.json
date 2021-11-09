@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Využite intuitívny a neuveriteľný softvér, ktorý vám šetrí čas a zachráni vašu firmu. Zaručene.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Popis vybraného článku",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Farba pozadia",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Farba ohraničenia",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Farba",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ikona vybraného článku",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Vybraný obrázok",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Obrázok",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Žiadne",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Obrázok/ikona vybraného článku",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Rýchlo a jednoducho",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Názov vybraného článku",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Vybraný článok",
+    "description": "",
+    "placeholders": null
+  }
+}

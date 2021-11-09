@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Galeria logotypów",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Rozpoznane przez",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Nagłówek",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Obrazy logo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Kolor tła baneru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Kolor pierwszego planu baneru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  }
+}

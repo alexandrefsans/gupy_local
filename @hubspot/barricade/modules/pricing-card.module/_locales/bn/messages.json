@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "মূল্য নির্ধারণের কার্ড",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "বোতাম লিঙ্ক",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "বিনামূল্যে সাইন আপ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "বোতাম টেক্সট",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "যে সমস্ত টিমের অতিরিক্ত সুরক্ষা, নিয়ন্ত্রণ এবং সহায়তা প্রয়োজন",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "পণ্যের বর্ণনা",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "তালিকা আইকন বুলেট ফিচার করে",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 জন ব্যবহারকারী অন্তর্ভুক্ত করা হয়েছে ",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "বৈশিষ্ট্যগুলি ",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "দাম ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "বড় ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "নিয়মিত ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "ছোট",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "বোতামের আকার",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "প্রাথমিক",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "অপ্রধান",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "সহজ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "বোতাম শৈলী",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "বিনামূল্যে",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "পণ্য স্তর",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/mo",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "মূল্য সময়সীমা",
+    "description": "",
+    "placeholders": null
+  }
+}

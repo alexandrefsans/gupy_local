@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Segueix-me",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Obre els enllaços en una finestra nova",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Capçalera del mòdul",
+    "description": "",
+    "placeholders": null
+  }
+}

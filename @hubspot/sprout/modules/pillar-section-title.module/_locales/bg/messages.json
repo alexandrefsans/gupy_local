@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Заглавие на основен раздел",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Разрешаването на тази опция ще ви позволи да презапишете стиловете на тема по подразбиране. Забраняването на тази опция ще свърже отново модула със стиловете на тема по подразбиране.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Презаписване на стила по подразбиране",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Цвят",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Заглавие на раздел",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Заглавието на вашия раздел трябва да описва вашия раздел и трябва да се различава от останалите заглавия на раздели на страницата. Заглавието автоматично ще бъде добавено към менюто в модула „Основно меню“.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заглавие",
+    "description": "",
+    "placeholders": null
+  }
+}

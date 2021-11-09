@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Akordeón",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Využite intuitívny a neuveriteľný softvér, ktorý vám šetrí čas a pomôže v rozvoji vašej firmy.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Obsah",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Predvolene rozbalené",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Ako vytvoriť úžasnú šablónu?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Hlavička",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Zapnutím tejto možnosti umožníte prepisovať predvolené štýly motívov. Ak ju vypnete, modul znova pripojíte k predvoleným štýlom motívov.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Prepísať predvolený štýl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Farba hlavičky",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Farba hlavičky",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Farba ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktívne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Farba hlavičky",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Farba ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Umiestniť kurzor",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Farba ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Užsiregistruokite nemokamai",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Mygtuko tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Komandoms, kurioms reikalinga papildoma sauga, kontrolė ir pagalba.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Produkto aprašas",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Funkcijų sąrašo piktogramos ženklelis",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Įtraukta 10 naudotojų",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Funkcijos",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Kainų kortelė",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 $",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Kaina",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Fono spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Mygtuko fono spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Mygtuko teksto spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Nemokamai",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Produkto pakopa",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "per mėn.",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Kainos taikymo laikotarpis",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Görüntü galerisi",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Kampüste yurt binası",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "tam olarak",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Görüntü",
+    "description": "",
+    "placeholders": null
+  }
+}

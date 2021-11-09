@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "লোগো গ্যালারী",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "সেলসফোর্সের লোগো ",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "লোগো ছবিগুলি ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "ব্যানারের পটভূমি রং ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "ব্যানারের পটভূমি রং ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.bottom": {
+    "message": "নীচের অংশটি ওভারল্যাপ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.none": {
+    "message": "কোনও ওভারল্যাপ নেই",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.choices.top": {
+    "message": "উপরের অংশটি ওভারল্যাপ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.help_text": {
+    "message": "ব্যানারটিকে উপরের বা নীচে ওভারল্যাপ করার অনুমতি দেওয়ার জন্য সেটিংস",
+    "description": "",
+    "placeholders": null
+  },
+  "style.logo_banner_overlap.label": {
+    "message": "ব্যানার ওভারল্যাপ সেটিংস",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "ডিফল্ট শৈলী ওভাররাইড করুন",
+    "description": "",
+    "placeholders": null
+  }
+}

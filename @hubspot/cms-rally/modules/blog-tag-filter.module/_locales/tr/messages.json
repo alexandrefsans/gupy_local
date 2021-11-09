@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Blog etiket filtresi",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Etikete göre filtrele",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Etiket görsel olarak gizlidir ancak alanın erişilebilir kalması amacıyla ekran okuyucular için kullanılır",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Etiket metni",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Tümü",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Yer tutucu metni",
+    "description": "",
+    "placeholders": null
+  }
+}

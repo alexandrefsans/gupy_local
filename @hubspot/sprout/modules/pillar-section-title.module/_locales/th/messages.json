@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "ชื่อของส่วนหลักสำคัญ",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "การเปิดใช้ตัวเลือกนี้จะช่วยให้คุณสามารถแทนที่รูปแบบธีมค่าเริ่มต้นได้ การปิดใช้ตัวเลือกนี้จะเชื่อมต่อโมดูลกลับไปเป็นรูปแบบธีมค่าเริ่มต้นอีกครั้ง",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "แทนที่รูปแบบค่าเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "สี",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "ตัวเลือกรูปแบบ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "ชื่อส่วน",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "ชื่อส่วนของคุณควรอธิบายถึงส่วนของคุณและควรแตกต่างจากชื่อส่วนอื่นๆ บนเพจ ซึ่งชื่อจะถูกเพิ่มไปยังเมนูในโมดูล 'เมนูหลักสำคัญ' โดยอัตโนมัติ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "ชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  }
+}

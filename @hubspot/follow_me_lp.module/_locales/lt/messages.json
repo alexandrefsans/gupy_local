@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Vidurys",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Kairė",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Dešinė",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Lygiuotė",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Paieška",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Nespalvota",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Pilka",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Balta",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "Pasirinktinis",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Spalvų schema",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Paieška",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Pasirinkti pasirinktinę spalvą",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Piktograma",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Piktograma ir tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Tik tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Ekranas",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Šrifto stilius",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Apskrita",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Originali",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Kvadratas",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Piktogramos forma",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Paieška",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Stebėti mane – nukreipimo psl.",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Mastelis",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Socialinis tinklas",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "„Facebook“",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Pasirinktinė piktograma",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "„Instagram“",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "„LinkedIn“",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "El. paštas",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "„Twitter“",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Svetainė",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "„YouTube“",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Tinklas",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Tinklo vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Papildantis tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Tarpai",
+    "description": "",
+    "placeholders": null
+  }
+}

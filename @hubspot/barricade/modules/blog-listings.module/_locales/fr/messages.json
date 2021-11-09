@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Listings de blog",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Auteur",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Ces champs vous permettent de modifier les libellés des pages de votre listing de balises.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Listing de balise de blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Articles sur",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Sous-titre",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Description",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Image en vignette",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Carte",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Liste",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Style de mise en page",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Titre d'article",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Date de publication",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "En savoir plus",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "En savoir plus",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Texte En savoir plus",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Balises",
+    "description": "",
+    "placeholders": null
+  }
+}

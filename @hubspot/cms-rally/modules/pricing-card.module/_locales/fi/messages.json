@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Tilaa ilmaiseksi",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Painiketeksti",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Tiimeille, jotka kaipaavat lisäsuojausta, hallintaa ja tukea.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Tuotteen kuvaus",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ominaisuusluettelon luettelomerkki",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Kattaa 10 käyttäjää",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Ominaisuudet",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Hinnoittelukortti",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 $",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Hinta",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Taustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Painikkeen taustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Painiketekstin väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tallenna asetukset",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Ilmainen",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Tuotetaso",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/kk",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Hinnan aikaraja",
+    "description": "",
+    "placeholders": null
+  }
+}

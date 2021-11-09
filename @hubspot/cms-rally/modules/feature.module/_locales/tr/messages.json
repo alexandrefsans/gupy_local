@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Size zaman kazandıracak ve işinizi kolaylaştıracak sezgisel süper harika yazılımdan yararlanın. Söz veriyoruz.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Özellik açıklaması",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Simge",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Arka plan rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Sınır rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Renk",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Özellik simgesi",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Özellik görüntüsü",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Simge",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Görüntü",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Hiçbiri",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Öne çıkarılan görüntü/simge",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Hızlı ve basit",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Özellik başlığı",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Özellik",
+    "description": "",
+    "placeholders": null
+  }
+}

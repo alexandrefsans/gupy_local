@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "כרזת פוסט בבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "צבע רקע מותאם אישית",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "תמונת רקע מותאמת אישית",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "תמונה מוצגת",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "באיזה סוג כרזה ברצונך להשתמש?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "צבע רקע",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "תמונת רקע",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "ריווח",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "הערך הוא בפיקסלים",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "עליון/תחתון",
+    "description": "",
+    "placeholders": null
+  }
+}

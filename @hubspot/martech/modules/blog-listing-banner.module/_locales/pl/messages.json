@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Baner z listą blogów",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Zastąp styl domyślny",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Obraz",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Gradient koloru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Typ tła",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Obraz tła",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Kolor 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Kolor 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Kolory gradientów",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Wartość w pikselach",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Do lewej / do prawej",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Wypełnienie",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Wartość w pikselach",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Góra/dół",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Kolor napisów",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Kolor tytułu",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Jeśli nie podano podtytułu, będzie to domyślny podtytuł Twojego bloga pobrany z meta opisu ustawień bloga",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Podtytuł",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Jeśli nie podano tytułu, będzie to domyślny tytuł Twojego bloga pobrany z ustawień bloga",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tytuł",
+    "description": "",
+    "placeholders": null
+  }
+}

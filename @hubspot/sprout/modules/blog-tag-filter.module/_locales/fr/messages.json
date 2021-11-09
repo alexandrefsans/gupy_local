@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filtre de balise de blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Rechercher par",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Texte du libellé",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Tous",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Texte d'espace réservé",
+    "description": "",
+    "placeholders": null
+  }
+}

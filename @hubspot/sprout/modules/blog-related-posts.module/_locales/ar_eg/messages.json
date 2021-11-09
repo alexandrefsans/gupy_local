@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "المنشورات المتعلقة بالمدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "المقالات ذات الصلة",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "قراءة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "قراءة المزيد من النصوص",
+    "description": "",
+    "placeholders": null
+  }
+}

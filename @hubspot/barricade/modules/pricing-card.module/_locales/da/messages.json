@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Prisfastsættelseskort",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Knaplink",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Tilmeld dig gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knaptekst",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "For teams, som behøver yderligere sikkerhed, kontrol og støtte.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Produktbeskrivelse",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Punkt for ikon for liste over funktioner",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 brugere inkluderet",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Funktioner",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Pris",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Stor",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Almindelig",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Lille",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Knapestørrelse",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Primær",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Sekundær",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Enkel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Knapstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Produktniveau",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ md",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Tidsdramme for pris",
+    "description": "",
+    "placeholders": null
+  }
+}

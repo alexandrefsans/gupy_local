@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Logotipų galerija",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Atpažino",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Antraštė",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "„Agriflora“ logotipas",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logotipų vaizdai",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Reklamjuostės fono spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Reklamjuostės priekinio plano spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  }
+}

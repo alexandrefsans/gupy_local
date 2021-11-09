@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "卡片部分",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "按钮链接",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "了解详情",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "按钮文本",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "图片",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "卡片",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "内容广告可以盈利。其盈利可以用于支付网站的托管和维护费用，也可以用于支付其他许多费用。",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "文本",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "这是标题",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "标题",
+    "description": "",
+    "placeholders": null
+  }
+}

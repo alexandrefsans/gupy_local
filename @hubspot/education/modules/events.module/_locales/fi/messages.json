@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Tapahtumat",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Osoite",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Päivämäärä ja aika",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Tapahtumakuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Tapahtumat",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Linkki",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Lue lisää",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Linkkiteksti",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "PUOLIVUOSITTAINEN KOULUTUSGAALA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Otsikon sisältö",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Otsikkokuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Otsikkolinkki",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Näytä kaikki",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Otsikon linkkiteksti",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Tulevat tapahtumat",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  }
+}

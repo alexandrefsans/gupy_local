@@ -1,0 +1,42 @@
+{
+  "appid.default": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "appid.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "appid.label": {
+    "message": "App ID",
+    "description": "",
+    "placeholders": null
+  },
+  "appid.placeholder": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "appid.validation_regex": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "facebook_enabled.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "facebook_enabled.label": {
+    "message": "Facebook enabled",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Membership social logins",
+    "description": "",
+    "placeholders": null
+  }
+}

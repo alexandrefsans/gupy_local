@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Blogbejegyzés listaeleme",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Blog kiválasztása",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Összes megtekintése",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Gombfelirat",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "Blog és címke szerint",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "Blog szerint",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "Szűrő",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "További információ",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "További információ szöveg",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "Címke",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "A hírekben",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "Cím szövege",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Podział strony bloga",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Następny tekst",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Poprzedni tekst",
+    "description": "",
+    "placeholders": null
+  }
+}

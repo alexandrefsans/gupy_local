@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Profitați de software-ul super intuitiv care vă ajută să economisiți timp și care vă va salva afacerea. Este o promisiune.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Descriere caracteristică",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Culoare fundal",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Culoare margine",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Culoare",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Pictogramă caracteristică",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Imagine caracteristică",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Pictogramă",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Imagine",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Niciuna",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Imagine/pictogramă caracteristică",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Rapid și simplu",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Titlu caracteristică",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Caracteristică",
+    "description": "",
+    "placeholders": null
+  }
+}

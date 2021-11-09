@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Menü bölümü",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "Yinelenen mobil menü",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Birincil menü alanı",
+    "description": "",
+    "placeholders": null
+  }
+}

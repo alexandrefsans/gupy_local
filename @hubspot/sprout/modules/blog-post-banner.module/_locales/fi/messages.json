@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Blogijulkaisun banneri",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "Painikekuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Takaisin blogiin",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Painiketeksti",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Mukautettu taustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Mukautettu taustakuva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Esiteltävä kuva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Millaista banneria haluat käyttää?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Taustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Taustakuva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tyyliasetukset",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Täyttö",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Arvo on pikseleinä",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Ylhäältä/alhaalta",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "רישום פוסט בבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "בחר בלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "הצג הכול",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "טקסט לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "לפי בלוג ותגית",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "לפי בלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "סנן",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "קרא פרטים נוספים",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "קרא טקסט נוסף",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "תגית",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "בחדשות",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "טקסט כותרת",
+    "description": "",
+    "placeholders": null
+  }
+}

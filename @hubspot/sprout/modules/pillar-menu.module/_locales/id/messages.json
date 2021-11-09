@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Menu Pillar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Warna",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Batas Bawah",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Putus-putus",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Bertitik-titik",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Ganda",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Alur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Sisipan",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Tidak Ada",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Awal",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Puncak memanjang",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Solid",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Gaya",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Nilai dalam satuan piksel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Lebar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opsi gaya",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Daftar Isi",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Item menu secara otomatis dibuat saat menambahkan modul 'Bagian pilar' ke halaman",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Judul",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Используйте возможности превосходного интуитивно понятного программного обеспечения, которое позволяет сэкономить время и поддерживает рост бизнеса. Убедитесь сами.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Описание подборки",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Значок",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Цвет фона",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Цвет границы",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Цвет",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Значок подборки",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Изображение подборки",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Значок",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Нет",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Изображение/значок из подборки",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Быстро и просто",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Название подборки",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Подборка",
+    "description": "",
+    "placeholders": null
+  }
+}

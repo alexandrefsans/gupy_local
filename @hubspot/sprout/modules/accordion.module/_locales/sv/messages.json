@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Dragspel",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Dra nytta av den mycket intuitiva programvaran som sparar tid och hjälper din verksamhet att växa.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Innehåll",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Utökad som standard",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Hur gör jag en fantastisk mall?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Om du aktiverar detta alternativ kan du skriva över standardtemastil. Om du inaktiverar detta alternativ återansluts modulen på nytt till standardtemastilar.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Skriv över standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Titelfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Titelfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Ikonfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktiv",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Titelfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Ikonfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Hovra",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Ikonfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  }
+}

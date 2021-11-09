@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Τίτλος ενότητας στήλης",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Η ενεργοποίηση αυτής της επιλογής θα σας επιτρέψει να παρακάμψετε τα προεπιλεγμένα στυλ θέματος. Η απενεργοποίηση αυτής της επιλογής θα επανασυνδέσει τη λειτουργική μονάδα στα προεπιλεγμένα στυλ θέματος.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Παράκαμψη προεπιλεγμένου στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Χρώμα",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Τίτλος ενότητας",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Ο τίτλος της ενότητάς σας θα πρέπει να περιγράφει την ενότητά σας και να είναι μοναδικός, διαφορετικός από τους τίτλους των άλλων ενοτήτων στη σελίδα. Ο τίτλος θα προστεθεί αυτόματα στο μενού της λειτουργικής μονάδας 'Μενού σε στήλες'.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tίτλος",
+    "description": "",
+    "placeholders": null
+  }
+}

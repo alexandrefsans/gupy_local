@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Oddíl nabídky",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "Duplikovat mobilní nabídku",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Pole primární nabídky",
+    "description": "",
+    "placeholders": null
+  }
+}

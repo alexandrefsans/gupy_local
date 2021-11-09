@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Membre de l'equip",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>En Joshua té més de 20 anys d'experiència al sector tecnològic. L'any 2015 va col·laborar en la creació d'aquesta empresa amb l'objectiu d'ajudar les persones a créixer. En el seu temps lliure  li agrada estar amb els seus fills, anar a la platja i cuinar.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Biografia",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "Director executiu, cofundador",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Posició",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Imatge",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Nom",
+    "description": "",
+    "placeholders": null
+  }
+}

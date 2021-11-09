@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filtru etichete blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtrare după etichetă",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Eticheta nu este vizibilă dar este utilizată de cititoarele de ecran pentru a menține câmpul accesibil",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Text etichetă",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Toate",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Text substituent",
+    "description": "",
+    "placeholders": null
+  }
+}

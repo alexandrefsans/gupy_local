@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Kortdel",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Bilde",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kort",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Finn ut mer",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Finn ut mer-tekst",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Finn ut mer-lenke",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontekstuell annonsering kan være lønnsomt. Det kan enten betale verts- og vedlikeholdskostnadene for nettstedet ditt, eller det kan betale for mye mer.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Tekst",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Dette er en tittel",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Tittel",
+    "description": "",
+    "placeholders": null
+  }
+}

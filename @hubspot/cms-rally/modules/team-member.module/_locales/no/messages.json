@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Teammedlem",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>Adm. dir., medgrunnlegger</p><p>Joshua har over 20 års erfaring i teknologibransjen. Han var med og startet dette selskapet i 2015, med en misjon om å hjelpe mennesker med å vokse. På fritiden liker han å være sammen med barna sine, være på stranda og matlaging.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Innhold for teammedlem",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Bilde av teammedlem",
+    "description": "",
+    "placeholders": null
+  }
+}

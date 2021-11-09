@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Blogin sivunumerointi",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Seuraava teksti",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Edellinen teksti",
+    "description": "",
+    "placeholders": null
+  }
+}

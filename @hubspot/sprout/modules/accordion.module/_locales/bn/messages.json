@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "অ্যাকর্ডিয়ন",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "স্বজ্ঞাত অসাধারণ সফ্টওয়্যারটি ব্যবহার করুন যা আপনার সময় সাশ্রয় করে এবং আপনার ব্যবসায় উদ্ধার করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "বিষয়বস্তু",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "ডিফল্টরূপে প্রসারিত",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "আমি কীভাবে একটি দুর্দান্ত টেম্পলেট তৈরি করব?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "এই বিকল্পটি সক্ষম করা আপনাকে ডিফল্ট থিম শৈলীর ওভাররাইড করতে দেয়। এই বিকল্পটি অক্ষম করা মডিউলটিকে ডিফল্ট থিম শৈলীতে ফের সংযুক্ত করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "ডিফল্ট শৈলী ওভাররাইড করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "প্রোফাইল নাম",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "প্রোফাইল নাম",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "আইকন রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "চালু ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "প্রোফাইল নাম",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "আইকন রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "হোভার করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "আইকন রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  }
+}

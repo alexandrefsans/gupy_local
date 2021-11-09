@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Zdarzenia",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Adres",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Data i godzina",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Ikona zdarzenia",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Zdarzenia",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Łącze",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Dowiedz się więcej",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Tekst łącza",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "GALA SEMESTRALNA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Tytuł",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Treść nagłówka",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Ikona nagłówka",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Łącze nagłówka",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Wyświetl wszystko",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Tekst łącza nagłówka",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Nadchodzące wydarzenia",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Nagłówek",
+    "description": "",
+    "placeholders": null
+  }
+}

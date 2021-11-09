@@ -1,0 +1,27 @@
+{
+  "banner_heading.default": {
+    "message": "<h4>Lorem ipsum dolor sit amet, consectetur.</h4>",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_heading.label": {
+    "message": "ব্যানার হেডিং",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.banner_image.label": {
+    "message": "ছবি",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.label": {
+    "message": "ব্যানার ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "টেক ব্যানার ",
+    "description": "",
+    "placeholders": null
+  }
+}

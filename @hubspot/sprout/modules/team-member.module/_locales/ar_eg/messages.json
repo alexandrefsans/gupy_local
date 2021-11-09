@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "عضو فريق",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>يتمتع Joshua بخبرة تزيد عن 20 عامًا في مجال التكنولوجيا. وساعد في بدء هذه الشركة في عام 2015 بهدف مساعدة الناس على النمو. ويحب في أوقات فراغه الخروج مع أطفاله والذهاب إلى الشاطئ والطهي.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "السيرة الذاتية",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "الرئيس التنفيذي، الشريك المؤسس",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "الموضع",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "صورة",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "الاسم",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Tinklaraščio žymės filtras",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.default": {
+    "message": "Pasirinkti kategoriją",
+    "description": "",
+    "placeholders": null
+  },
+  "default_filter_text.label": {
+    "message": "Vietos rezervavimo ženklo tekstas",
+    "description": "",
+    "placeholders": null
+  }
+}

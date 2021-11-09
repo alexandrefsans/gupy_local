@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Begivenheder",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Adresse",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Dato og tidspunkt",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Ikon for begivenhed",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Begivenheder",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Link",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Få mere at vide",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Link-tekst",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "HALVÅRLIG UDDANNELSEGALLA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Overskriftsindhold",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Overskriftsikon",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Overskriftslink",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Vis alle",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Link-tekst på overskrift",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Kommende begivenheder",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Overskrift",
+    "description": "",
+    "placeholders": null
+  }
+}

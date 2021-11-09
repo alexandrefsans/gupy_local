@@ -1,0 +1,91 @@
+[
+  {
+    "label": "Layout style",
+    "name": "layout_style",
+    "type": "choice",
+    "choices": [
+      [ "list", "List" ],
+      [ "card", "Card" ]
+    ],
+    "display": "select",
+    "required": true,
+    "default": "list"
+  },
+  {
+    "label": "Post title",
+    "name": "post_title",
+    "type": "boolean",
+    "display": "checkbox",
+    "default": true
+  },
+  {
+    "label": "Description",
+    "name": "description",
+    "type": "boolean",
+    "display": "checkbox",
+    "default": true
+  },
+  {
+    "label": "Author",
+    "name": "author",
+    "type": "boolean",
+    "display": "checkbox",
+    "default": true
+  },
+  {
+    "label": "Publish date",
+    "name": "publish_date",
+    "type": "boolean",
+    "display": "checkbox",
+    "default": true
+  },
+  {
+    "label": "Featured image",
+    "name": "featured_image",
+    "type": "boolean",
+    "display": "checkbox",
+    "default": true
+  },
+  {
+    "label": "Tags",
+    "name": "tags",
+    "type": "boolean",
+    "display": "checkbox",
+    "default": true
+  },
+  {
+    "label": "Read more",
+    "name": "read_more",
+    "id": "read_more",
+    "type": "boolean",
+    "display": "checkbox",
+    "default": true
+  },
+  {
+    "label": "Read more text",
+    "name": "read_more_text",
+    "type": "text",
+    "required" : true,
+    "visibility": {
+      "controlling_field": "read_more",
+      "controlling_value_regex": "true",
+      "operator": "EQUAL"
+    },
+    "default": "Read More"
+  },
+  {
+    "label": "Blog tag listing",
+    "name": "blog_tag_listing",
+    "type": "group",
+    "help_text": "These fields allow you to change the labels on your tag listing pages.",
+    "children": [
+      {
+        "label": "Subheading",
+        "name": "subheading",
+        "type": "text",
+        "required" : true,
+        "default": "Posts about"
+      }
+    ]
+  }
+]

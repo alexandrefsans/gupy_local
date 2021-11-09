@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "الاشتراك بالبريد الإلكتروني للمدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "يقوم الإعداد الافتراضي باستخدام المدونة الحالية عندما تُستخدم في قالب مدونة أو المدونة الأساسية عندما تُستخدم في مكان آخر.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "اشترك هنا!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "تحديد مدونة لعرضها",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "استجابة مضمنة للمستخدمين",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "شكرًا على الاشتراك!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "العنوان المطلوب عرضه أعلى النموذج",
+    "description": "",
+    "placeholders": null
+  }
+}

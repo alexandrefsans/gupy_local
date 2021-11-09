@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Читать меня",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Открывать ссылки в новом окне",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок модуля",
+    "description": "",
+    "placeholders": null
+  }
+}

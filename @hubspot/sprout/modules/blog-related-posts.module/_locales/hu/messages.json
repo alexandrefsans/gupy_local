@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Bloghoz kapcsolódó bejegyzések",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Kapcsolódó cikkek",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Fejléc",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "További információ",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "További információ szöveg",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Theo dõi tôi",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Mở liên kết trong cửa sổ mới",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tiêu đề mô-đun",
+    "description": "",
+    "placeholders": null
+  }
+}

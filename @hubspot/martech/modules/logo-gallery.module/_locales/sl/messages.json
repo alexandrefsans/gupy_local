@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Galerija logotipov",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Potrdil/a",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logotip Agriflore",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Slike logotipa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Barva ozadja pasice",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Barva ospredja pasice",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti sloga",
+    "description": "",
+    "placeholders": null
+  }
+}

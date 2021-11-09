@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Członek zespołu",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Joshua ma ponad 20 lat doświadczenia w branży technologicznej. Pomógł założyć firmę w 2015 roku z misją pomagania ludziom w rozwoju. Poza pracą uwielbia spędzać czas z dziećmi, chodzić na plażę i gotować.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Bio",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "Dyrektor generalny, współzałożyciel",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Pozycja",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Obraz",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Joshua Beck",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Nazwa",
+    "description": "",
+    "placeholders": null
+  }
+}

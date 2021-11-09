@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Enllaç",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Icona d'enllaç",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Text de l'enllaç",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Colors d'entrada",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Entrades de blog destacades",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Selecciona el blog del qual vulguis destacar entrades",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Selecciona un blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Si només vols destacar una etiqueta concreta del blog, selecciona-la aquí.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Selecciona una etiqueta",
+    "description": "",
+    "placeholders": null
+  }
+}

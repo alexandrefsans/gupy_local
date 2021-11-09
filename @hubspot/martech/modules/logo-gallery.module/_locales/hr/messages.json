@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Galerija logotipa",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Prepoznali",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Zaglavlje",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logotip tvrtke Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Slike logotipa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Pozadinska boja logotipa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Boja prednjeg plana natpisa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilske opcije",
+    "description": "",
+    "placeholders": null
+  }
+}

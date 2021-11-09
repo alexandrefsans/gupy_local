@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Blogtagfilter",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtrer efter tag",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Mærkaten er synligt skjult, men den anvendes til skærmlæsere til at holde feltet tilgængeligt",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Mærkattekst",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Alle",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Pladsholdertekst",
+    "description": "",
+    "placeholders": null
+  }
+}

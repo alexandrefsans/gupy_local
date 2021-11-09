@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "무료 등록",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "버튼 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "추가 보안, 컨트롤 및 지원이 필요한 팀용.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "제품 설명",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "기능 목록 아이콘 불릿",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "사용자 10명 포함됨",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "기능",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "가격 카드",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "가격",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "배경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "버튼 배경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "버튼 텍스트 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "무료",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "제품 계층",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/월",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "가격 시간 범위",
+    "description": "",
+    "placeholders": null
+  }
+}

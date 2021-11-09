@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Помогнахме на компании като:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Текст на горен колонтитул",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Лого на Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Качете изображенията с лога тук",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Изображения с лога",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Банер на лого",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Цвят на фон на банер",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Цвят на преден план на банер",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  }
+}

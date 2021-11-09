@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Banner för blogginlägg",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "Knappikon",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Tillbaka till blogg",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knapptext",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Anpassa bakgrundsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Anpassa bakgrundsbild",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Framhävd bild",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Vilken typ av banner vill du använda?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Bakgrundsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Bakgrundsbild",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Utfyllning",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Värdet är i pixlar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Högst upp/Längst ned",
+    "description": "",
+    "placeholders": null
+  }
+}

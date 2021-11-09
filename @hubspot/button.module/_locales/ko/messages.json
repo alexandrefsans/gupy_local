@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "버튼",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_color.label": {
+    "message": "버튼 색상",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_font.label": {
+    "message": "버튼 글꼴",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  },
+  "style.override_default_style.label": {
+    "message": "기본 스타일 재정의",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "여기에 버튼 링크 추가",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "버튼 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "link.label": {
+    "message": " ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_hover_color.label": {
+    "message": "커서 접촉 시 버튼 색상",
+    "description": "",
+    "placeholders": null
+  },
+  "style.text_hover_color.label": {
+    "message": "커서 접촉 시 텍스트 색상",
+    "description": "",
+    "placeholders": null
+  }
+}

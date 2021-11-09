@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Stránkování blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Další text",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Předcházející text",
+    "description": "",
+    "placeholders": null
+  }
+}

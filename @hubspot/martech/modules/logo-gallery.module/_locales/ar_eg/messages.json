@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "معرض الشعارات",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "معترف به من قِبل",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "رأس الصفحة",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "شعار Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "صور الشعار",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "لون خلفية اللافتة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "لون مقدمة اللافتة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  }
+}

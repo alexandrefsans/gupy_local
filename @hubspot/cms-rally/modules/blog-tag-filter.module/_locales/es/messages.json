@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filtro de etiquetas del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtrar por etiqueta",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "La etiqueta está visualmente oculta pero se utiliza para que los lectores de pantalla mantengan el campo accesible",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Texto de la etiqueta",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Todo",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Texto del parámetro de sustitución",
+    "description": "",
+    "placeholders": null
+  }
+}

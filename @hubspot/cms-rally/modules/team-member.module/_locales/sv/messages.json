@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Teammedlem",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>Vd, medgrundare</p><p>Joshua har över 20 års erfarenhet inom teknikbranschen. Han hjälpte till att starta det här företaget 2015 med uppdraget att hjälpa personer att växa. På frtitiden gillar han att umgås med sina barn, vara på stranden och laga mat.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Teammedlemmars innehåll",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Teammedlemsbild",
+    "description": "",
+    "placeholders": null
+  }
+}

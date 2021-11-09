@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "免費登記",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "按鈕文字",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "最適合需要更多保安、控制權和支援的團隊。",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "產品描述",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "功能清單圖示點列",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "包括 10 位用戶",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "功能",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "價格卡",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "價格",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "背景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "按鈕背景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "按鈕文字顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "免費",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "產品級數",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/月",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "價格時間範圍",
+    "description": "",
+    "placeholders": null
+  }
+}

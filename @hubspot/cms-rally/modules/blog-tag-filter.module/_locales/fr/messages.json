@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filtre de balise de blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtrer par balise",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Le libellé est masqué, mais est utilisé pour les lecteurs d'écrans afin que le champ reste accessible",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Texte du libellé",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Tous",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Texte d'espace réservé",
+    "description": "",
+    "placeholders": null
+  }
+}

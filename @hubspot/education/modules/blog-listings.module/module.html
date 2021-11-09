@@ -1,0 +1,142 @@
+{# Set layout style #}
+{% if module.layout_style == 'card' %}
+  {% set list_type = 'post--card' %}
+{% elif module.layout_style == 'list' %}
+  {% set list_type = 'post' %}
+{% endif %}
+
+<section class="blog-index">
+
+  {# Blog author heading #}
+  {% if blog_author %}
+      <div class="blog-index__author-header">
+        {% if blog_author.avatar %}
+          <span class="blog-index__author-header__avatar">
+            <img src="{{ blog_author.avatar }}" width="45" loading="eager" alt="Picture of {{ blog_author.display_name }}">
+          </span>
+        {% endif %}
+        <h1 class="blog-index__author-header__author-title">{{ blog_author.display_name }}</h1>
+        <h4 class="blog-index__author-header__author-subtitle">{{ blog_author.bio }}</h4>
+      </div>
+  {% endif %}
+  {# End blog author heading #}
+
+  {# Tag listing heading #}
+  {% if tag %}
+    <div class="blog-index__tag-header">
+      <div class="blog-index__tag-subtitle">{{ module.blog_tag_listing.subheading }}</div>
+      <h1 class="blog-index__tag-heading">{{ page_meta.html_title|split(' | ')|last }}</h1>
+    </div>
+  {% endif %}
+  {# End tag listing heading #}
+
+  {% for content in contents %}
+
+    {# Blog listing article #}
+    <article class="blog-index__{{ list_type }}">
+
+      {# Article header #}
+      <div class="blog-index__post-header">
+
+        {# Featured image #}
+        {# This checks to see if a user is opted into the blog listing editing experience. If they are it uses the conditional from the module. If they are not it uses the conditional from blog settings #}
+        {% if blog.listing_page_id %}
+          {% if content.featured_image and module.featured_image %}
+            <a href="{{ content.absolute_url }}">
+              <div class="blog-index__post-image-wrapper">
+                <img class="blog-index__post-image" src="{{ content.featured_image }}" height="200" loading="lazy" alt="{{ content.featured_image_alt_text }}">
+              </div>
+            </a>
+          {% endif %}
+        {% else %}
+          {% if content.featured_image and group.use_featured_image_in_summary %}
+            <a href="{{ content.absolute_url }}">
+              <div class="blog-index__post-image-wrapper">
+                <img class="blog-index__post-image" src="{{ content.featured_image }}" height="200" loading="lazy" alt="{{ content.featured_image_alt_text }}">
+              </div>
+            </a>
+          {% endif %}
+        {% endif %}
+        {# End featured image #}
+
+      </div>
+      {# End article header #}
+
+      <div class="blog-index__info">
+
+        {# Tags #}
+        {% if module.tags and content.tag_list %}
+          <div class="blog-index__topic">
+            {% for topic in content.topic_list %}
+              <a class="blog-index__topic-link" href="{{ blog_tag_url(group.id, topic.slug) }}">{{ topic.name }}</a>{% if not loop.last %},{% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+        {# End tags #}
+
+        {# Date #}
+        {% if module.publish_date %}
+          <time class="blog-index__date" datetime="{{ content.publish_date }}">{{ content.publish_date_localized }}</time>
+        {% endif %}
+        {# End date #}
+
+      </div>
+
+      <div class="blog-index__post-content  blog-index__post-content--large">
+
+        {# Title #}
+        {% if module.post_title %}
+          <h3 class="blog-index__post-title">
+            <a href="{{ content.absolute_url }}">{{ content.name }}</a>
+          </h3>
+        {% endif %}
+        {# End title #}
+
+        {# Author #}
+        {% if module.author %}
+          <div class="blog-index__author-info">
+            {% if content.blog_author.avatar %}
+              <span class="blog-index__author-avatar">
+                <img src="{{ content.blog_author.avatar }}" width="30" loading="lazy" alt="Picture of {{ content.blog_author.avatar  }}">
+              </span>
+            {% endif %}
+            <a class="blog-index__author-name" href="{{ blog_author_url(group.id, content.blog_post_author.slug) }}">
+              <div>{{ content.blog_post_author.display_name }}</div>
+            </a>
+          </div>
+        {% endif %}
+        {# End author #}
+
+        {# Summary #}
+        {# This checks to see if a user is opted into the blog listing editing experience. If they are it uses the conditional from the module. If they are not it uses the conditional from blog settings #}
+        {% if blog.listing_page_id %}
+          {% if module.description %}
+            {% if content.post_body is string_containing "<!--more-->" %}
+              <div class="blog-index__post-summary">{{ content.post_list_content }}</div>
+            {% else %}
+              <div class="blog-index__post-summary">{{ content.post_list_content|truncate(250, false,'') }}</div>
+            {% endif %}
+          {% endif %}
+        {% else %}
+          {% if content_group.show_summary_in_listing %}
+            {% if content.post_body is string_containing "<!--more-->" %}
+              <div class="blog-index__post-summary">{{ content.post_list_content }}</div>
+            {% else %}
+              <div class="blog-index__post-summary">{{ content.post_list_content|truncate(250, false,'') }}</div>
+            {% endif %}
+          {% endif %}
+        {% endif %}
+        {# End summary #}
+
+        {# Read more button #}
+        {% if module.read_more %}
+          <a href="{{ content.absolute_url }}" class="button button--simple button--read-more">{{ module.read_more_text }}</a>
+        {% endif %}
+        {# End read more button #}
+
+      </div>
+    </article>
+    {# End blog listing article #}
+
+  {% endfor %}
+</section>

@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Посилання",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Значок посилання",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Текст посилання",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Кольори публікацій",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Вибрані публікації в блозі",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Виберіть блог для розміщення публікацій із нього",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Виберіть блог",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Якщо ви хочете розмістити лише певний тег зі свого блогу, виберіть його тут.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Вибрати тег",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Llista d'entrades relacionades",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Articles relacionats",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Títol",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Més informació",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Text de més informació",
+    "description": "",
+    "placeholders": null
+  }
+}

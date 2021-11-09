@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "Perfil",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "<p>Ao contrário do que se pensa, Lorem Ipsum não é apenas texto aleatório. Tem raízes numa obra de literatura clássica em latim do ano 45 AC, o que significa que tem mais de 2000 anos.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Descrição",
+    "description": "",
+    "placeholders": null
+  },
+  "headshot.default.alt": {
+    "message": "home_lecture",
+    "description": "",
+    "placeholders": null
+  },
+  "headshot.label": {
+    "message": "Headshot",
+    "description": "",
+    "placeholders": null
+  },
+  "human_name.default": {
+    "message": "Mort Ricky",
+    "description": "",
+    "placeholders": null
+  },
+  "human_name.label": {
+    "message": "Nome",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Departamento de Educação Principal",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Título",
+    "description": "",
+    "placeholders": null
+  }
+}

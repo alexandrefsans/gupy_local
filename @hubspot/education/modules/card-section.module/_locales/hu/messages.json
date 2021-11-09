@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Kártyaszakasz",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Tartalom",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Hivatkozás",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "További tudnivalók",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Hivatkozás szövege",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Leírás",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Olyan tanárok, akik számára fontos a hallgató sikere",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Cím",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Osztálytermi előadás",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Kép",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Kép és ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Az opció engedélyezésével lehetősége lesz felülírni az alapértelmezett témastílusokat. Az opció letiltásával a modul visszavált az alapértelmezett témastílusokra.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Alapértelmezett stílus felülírása",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Kiemelőszín",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Ikon kitöltőszíne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stílusbeállítások",
+    "description": "",
+    "placeholders": null
+  }
+}

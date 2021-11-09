@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Aprofita l'intuïtiu i excel·lent programari que et permetrà estalviar temps i rescatar el teu negoci. De debò.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Descripció de la característica",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Icona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Color de fons",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Color de la vora",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Color",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Icona de característica",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Imatge de característica",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Icona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Imatge",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Cap",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Imatge/icona destacada",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Ràpid i senzill",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Títol de característica",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Característica",
+    "description": "",
+    "placeholders": null
+  }
+}

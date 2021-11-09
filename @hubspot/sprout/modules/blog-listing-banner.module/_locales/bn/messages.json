@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "ব্লগ লিস্টিং ব্যানার",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "ব্যাকগ্রাউন্ড ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "মান পিক্সেলে",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "বাম/ডান",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "প্যাডিং",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "মান পিক্সেলে",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "উপর/নিচ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "সাবটাইটেল রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "শিরোনামের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "সাবটাইটেল",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  }
+}

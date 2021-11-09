@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Підписка на електронну пошту в блозі",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "За замовчуванням буде використаний поточний блог, коли він використовується в шаблоні блогу, або основний блог, коли він використовується в іншому місці.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Підпишіться тут!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Виберіть блог для показу",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Вбудована відповідь для користувачів",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Дякуємо за підписку!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок для відображення над формою",
+    "description": "",
+    "placeholders": null
+  }
+}

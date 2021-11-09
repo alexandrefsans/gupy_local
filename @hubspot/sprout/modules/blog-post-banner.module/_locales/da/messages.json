@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Banner til blogindlæg",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "Knapikon",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Tilbage til bloggen",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knaptekst",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Brugertilpasset baggrundsfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Brugertilpasset baggrundsbillede",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Vist billede",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Hvilken type banner vil du gerne bruge?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Baggrundsfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Baggrundsbillede",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Udfyldning",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Værdi i pixler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Top/bund",
+    "description": "",
+    "placeholders": null
+  }
+}

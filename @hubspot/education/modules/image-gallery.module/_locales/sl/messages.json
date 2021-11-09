@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Galerija slik",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Študentski dom v naselju",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "natančno",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  }
+}

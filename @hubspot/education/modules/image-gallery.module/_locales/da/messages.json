@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Billedgalleri",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Kollegiebygning på campus",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "nøjagtig",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Billede",
+    "description": "",
+    "placeholders": null
+  }
+}

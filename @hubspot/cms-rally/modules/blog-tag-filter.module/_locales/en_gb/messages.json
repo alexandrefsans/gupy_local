@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Blog Tag Filter",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filter by tag",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "The label is visually hidden but it is used for screen readers to keep the field accessible",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Label text",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "All",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Placeholder text",
+    "description": "",
+    "placeholders": null
+  }
+}

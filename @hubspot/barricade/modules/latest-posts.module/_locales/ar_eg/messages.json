@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "أحدث المنشورات",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "حدد مدونة لسحب منشورات منها",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "عدد المنشورات المطلوب سحبها",
+    "description": "",
+    "placeholders": null
+  }
+}

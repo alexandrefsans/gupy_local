@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Logogalery",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Erken deur",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Opskrif",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora-logo",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logobeelde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Agtergrondkleur van banier",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Voorgrondkleur van banier",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  }
+}

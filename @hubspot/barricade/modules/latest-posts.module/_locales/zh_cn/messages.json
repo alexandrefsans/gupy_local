@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "最新文章",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "选择要从中提取文章的博客",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "要提取的文章数",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "博文列表",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "选择博客",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "查看全部",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "按钮文本",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "按博客和标签筛选",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "按博客筛选",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "过滤器",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "阅读更多",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "阅读更多文本",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "标签",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "新闻报道",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "标题文本",
+    "description": "",
+    "placeholders": null
+  }
+}

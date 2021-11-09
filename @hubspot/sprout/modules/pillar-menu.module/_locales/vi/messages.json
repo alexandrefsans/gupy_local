@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Menu cột",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Màu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Viền dưới",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Nét đứt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Chấm chấm",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Kép",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Rãnh",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "3D chìm",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Không có",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "3D nổi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Gờ nổi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Liền nét",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Kiểu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Giá trị tính bằng pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Chiều rộng",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Mục lục",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Các mục menu được tạo tự động khi thêm mô-đun 'Phần cột' vào trang",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tiêu đề",
+    "description": "",
+    "placeholders": null
+  }
+}

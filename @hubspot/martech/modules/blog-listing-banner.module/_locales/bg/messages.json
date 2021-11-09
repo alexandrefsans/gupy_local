@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Банер на списъка с блогове",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Презаписване на стила по подразбиране",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Цветови градиент",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Тип фон",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Фоново изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Цвят 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Цвят 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Градиентни цветове",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Стойността е в пиксели",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Ляво/дясно",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Отстояние",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Стойността е в пиксели",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Горе/долу",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Цвят на подзаглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Цвят на заглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Ако не е предоставен текст на субтитри, това ще бъде по подразбиране метаописанието на вашия блог от настройките на блога",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Подзаглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Ако не е предоставен текст на заглавие, това ще бъде по подразбиране заглавието на вашия блог от настройките на блога",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заглавие",
+    "description": "",
+    "placeholders": null
+  }
+}

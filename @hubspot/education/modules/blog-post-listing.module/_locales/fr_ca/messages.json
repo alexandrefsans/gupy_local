@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Liste des articles de blogue",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Sélectionner un blogue",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Tout voir",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Texte du bouton",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "Par blogue et étiquette",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "Par blogue",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "Filtrer",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "En lire plus",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Texte En lire plus",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "Étiquette",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "Dans l'actualité",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "Texte du titre",
+    "description": "",
+    "placeholders": null
+  }
+}

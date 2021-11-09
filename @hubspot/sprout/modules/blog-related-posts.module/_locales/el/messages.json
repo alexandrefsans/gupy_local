@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Αναρτήσεις σχετικές με το ιστολόγιο",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Σχετικά άρθρα",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Επικεφαλίδα",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Περισσότερες λεπτομέρειες",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Κείμενο για διάβασμα περισσότερων",
+    "description": "",
+    "placeholders": null
+  }
+}

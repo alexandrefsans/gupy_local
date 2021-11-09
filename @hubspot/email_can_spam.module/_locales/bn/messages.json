@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "অফিস অবস্থানের তথ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "html.default": {
+    "message": "<p id=\"footer\" style=\"font-family: Geneva, Verdana, Arial, Helvetica, sans-serif; text-align: center; font-size: 12px; line-height: 1.34em; color: {{ secondary_font_color }}; display: block;\">{{site_settings.company_name}}&nbsp;&nbsp;{{site_settings.company_street_address_1}}&nbsp;{{site_settings.company_street_address_2}}&nbsp;{{site_settings.company_city}}&nbsp;{{site_settings.company_state}}&nbsp;&nbsp;{{site_settings.company_zip}}&nbsp;&nbsp;{{site_settings.company_country}}<br><br>আপনার সাবস্ক্রাইব থাকার কারণে আপনি এই ইমেলটি {{ subscription_name }}-এর কাছ থেকে পেয়েছেন{{site_settings.company_name}}। <br><br>আপডেট করুন আপনার <a target=\"_blank\" href=\"{{ unsubscribe_link }}\" style=\"text-decoration: underline; whitespace: nowrap; color: {{ secondary_font_color }};\" data-unsubscribe=\"true\">ইমেল পছন্দগুলি </a>আপনার পাওয়া ইমেলগুলির ধরন নির্বাচন করতে।<br><br>&nbsp;<a target=\"_blank\" href=\"{{ unsubscribe_link_all }}\" style=\"text-decoration: underline; whitespace: nowrap; color: {{ secondary_font_color }};\" data-unsubscribe=\"true\">ভবিষ্যতের সমস্ত ইমেলের থেকে আনসাবস্ক্রাইব করুন</a>&nbsp;</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "html.label": {
+    "message": "অবস্থান টেক্সট",
+    "description": "",
+    "placeholders": null
+  }
+}

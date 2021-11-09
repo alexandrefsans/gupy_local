@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Odber e-mailov blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Predvolená možnosť použije aktuálny blog pri použití v šablóne blogu alebo hlavný blog pri použití inde.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Aktivujte si odber tu!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Vyberte blog na zobrazenie",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Odpoveď v riadku pre používateľov",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Ďakujeme za odber!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Názov na zobrazenie nad formulárom",
+    "description": "",
+    "placeholders": null
+  }
+}

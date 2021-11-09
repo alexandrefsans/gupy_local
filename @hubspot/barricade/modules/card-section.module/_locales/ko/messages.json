@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "카드 섹션",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "카드",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "자세히 알아보기",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "자세히 알아보기 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "자세히 알아보기 링크",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "상황별 광고로 수익을 거둘 수 있습니다. 웹사이트 호스팅 및 유지 관리 비용이 해결될 수도 있고 더 많은 수익이 발생할 수도 있습니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "이것은 제목입니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "제목",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Hem ajudat empreses com ara:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Text de la capçalera",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logotip d'Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Carrega les imatges del logotip aquí",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Imatges de logotip",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Bàner de logotip",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Color de fons del bàner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Color de primer pla del bàner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  }
+}

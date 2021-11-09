@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Зарегистрироваться бесплатно",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Текст кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Для команд, которым требуются дополнительные безопасность, контроль и поддержка.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Описание продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Маркированный список значков подборок",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Входит 10 пользователей",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Подборки",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Карточка ценообразования",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Цена",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Цвет фона",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Цвет фона кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Цвет текста кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Бесплатно",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Уровень продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ мес.",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Период действия цены",
+    "description": "",
+    "placeholders": null
+  }
+}

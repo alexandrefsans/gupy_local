@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Elenchi blog",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Autore",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Questi campi ti consentono di modificare le etichette nelle pagine di elenco degli autori.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Elenco autori di blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Articoli di",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Sottotitolo",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Questi campi ti consentono di modificare le etichette nelle pagine di elenco dei tag.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Elenco tag di blog",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Post su:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Sottotitolo",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Descrizione",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Immagine in primo piano",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Scheda",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Elenco",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Stile layout",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Titolo articolo",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Data di pubblicazione",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Per saperne di più",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Per saperne di più",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Continua a leggere per saperne di più",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Tag",
+    "description": "",
+    "placeholders": null
+  }
+}

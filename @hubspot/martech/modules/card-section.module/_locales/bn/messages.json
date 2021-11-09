@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "কার্ড বিভাগ",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "বোতাম লিঙ্ক",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "আরও জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "বাটন টেক্সট",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "ছবি",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "কার্ড ",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "প্রাসঙ্গিক বিজ্ঞাপন লাভজনক হতে পারে। এটি হয় আপনার ওয়েবসাইটের জন্য আপনার হোস্টিং এবং রক্ষণাবেক্ষণের জন্য অর্থ প্রদান করতে পারে বা এটি আরও অনেক বেশি দিতে পারে।",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "টেক্সট",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "এটি একটি শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  }
+}

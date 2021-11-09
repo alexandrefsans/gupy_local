@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Раздел карт",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Содержимое",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Ссылка",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Подробнее",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Текст ссылки",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Описание",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Учителя, которым важен ваш успех",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Аудиторная лекция",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Значок",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Изображение и значок",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Включение этого параметра позволит переопределять стили тем по умолчанию. Отключение этого параметра приведет к переподключению модуля к стилям тем по умолчанию.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Переопределить стиль по умолчанию",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Цвет выделения",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Цвет заполнения значка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  }
+}

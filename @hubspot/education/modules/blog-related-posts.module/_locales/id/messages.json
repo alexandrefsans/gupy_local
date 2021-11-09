@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Posting Terkait Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Postingan Terkait",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Judul",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Baca Selengkapnya",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Baca teks selengkapnya",
+    "description": "",
+    "placeholders": null
+  }
+}

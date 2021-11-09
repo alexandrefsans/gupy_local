@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Phần menu",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "Menu di động trùng lặp",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Trường menu chính",
+    "description": "",
+    "placeholders": null
+  }
+}

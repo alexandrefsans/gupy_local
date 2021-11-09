@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Zoznam súvisiacich príspevkov",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Súvisiace články",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Nadpis",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Ďalšie informácie",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Text Ďalšie informácie",
+    "description": "",
+    "placeholders": null
+  }
+}

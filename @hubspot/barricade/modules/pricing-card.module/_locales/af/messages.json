@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Pryskaart",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Knoppie-skakel",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Registreer gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knoppieteks",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Vir spanne wat ekstra sekuriteit, beheer en ondersteuning benodig.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Produkbeskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Beskik oor lysikoonkolpunt",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 gebruikers ingesluit",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Eienskappe",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Prys",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Groot",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Gewone",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Klein",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Knoppiegrootte",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Primêre",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Sekondêre",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Eenvoudig",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Knoppiestyl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Produkvlak",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ mnd.",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Prystydraamwerk",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "เมนูหลักสำคัญ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "สี",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "ขอบด้านล่าง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "เส้นประ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "จุดไข่ปลา",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "สองเท่า",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "ช่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "รายการแทรก",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "ไม่มี",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "เริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "แนว",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "เข้ม",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "รูปแบบ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "ค่าเป็นพิกเซล",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "ความกว้าง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "ตัวเลือกรูปแบบ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "สารบัญ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "รายการเมนูจะถูกสร้างอัตโนมัติเมื่อเพิ่มโมดูล 'ส่วนหลักสำคัญ' ลงในเพจ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "ชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  }
+}

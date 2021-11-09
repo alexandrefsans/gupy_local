@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Централно",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Ляво",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Дясно",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Подравняване",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Търсене",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Черно и бяло",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Цвят",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Сив",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Бял",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "По избор",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Цветова схема",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Търсене",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Цвят по избор",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Икона",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Икона и текст",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Само текст",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Дисплей",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Стил на шрифт",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Кръгов",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Оригинален",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Квадратен",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Форма на икона",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Търсене",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Последвайте ме – LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Мащабиране",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Социална мрежа",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL адрес",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Персонализирана икона",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "Имейл",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Уеб сайт",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Мрежа",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Мрежово копие",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Поддържащ текст",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Разредка",
+    "description": "",
+    "placeholders": null
+  }
+}

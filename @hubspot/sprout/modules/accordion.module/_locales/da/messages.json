@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Harmonika",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Udnyt den intuitive superseje software, som sparer dig tid og som vil hjælpe med at få din forretning til at vokse.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Indhold",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Udvidet som standard",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Hvordan laver jeg en sej skabelon?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Overskrift",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Hvis du aktiverer denne indstilling, kan du tilsidesætte standardtemastilarter. Deaktivering af denne indstilling indstiller modulet til standardtemastilarter igen.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Tilsidesæt standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Overskriftsfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Overskriftsfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Ikonfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktiv",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Overskriftsfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Ikonfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Hold over",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Ikonfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  }
+}

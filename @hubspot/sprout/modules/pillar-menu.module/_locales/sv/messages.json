@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Pelarmeny",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Färg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Nederkant",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Streckad",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Prickad",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dubbel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Skåra",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Inlägg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Ingen",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Inledning",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Kant",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Enfärgad",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Värdet är i pixlar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Bredd",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Tabellinnehåll",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Menyobjekt skapas automatiskt när modulen Pelarsektionen läggs till på sidan ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

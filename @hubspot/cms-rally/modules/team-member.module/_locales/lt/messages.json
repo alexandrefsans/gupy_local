@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Komandos narys",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>Generalinis direktorius, vienas iš steigėjų</p><p>Joshua daugiau nei 20 metų dirba technologijų pramonės srityje. 2015 m. jis prisidėjo įkuriant šią įmonę, siekdamas padėti žmonėms augti. Laisvalaikį vyrui patinka leisti su vaikais, eiti į paplūdimį ir ruošti valgius.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Komandos nario turinys",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Komandos nario vaizdas",
+    "description": "",
+    "placeholders": null
+  }
+}

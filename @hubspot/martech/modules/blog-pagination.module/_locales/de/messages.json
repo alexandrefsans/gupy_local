@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Blog-Seitennummerierung",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Weiter-Text",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Zurück-Text",
+    "description": "",
+    "placeholders": null
+  }
+}

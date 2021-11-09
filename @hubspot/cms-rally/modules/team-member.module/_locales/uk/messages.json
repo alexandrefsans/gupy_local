@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Член команди",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Джошуа Бек</h3><p>Виконавчий директор, співзасновник</p><p>Джошуа працює в галузі високих технологій уже понад 20 років. Він допоміг заснувати компанію 2015 року з метою сприяти зростанню інших людей. У вільний час він любить займатися зі своїми дітьми, засмагати й купатися на пляжі, а також готувати.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Контент члена команди",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Зображення члена команди",
+    "description": "",
+    "placeholders": null
+  }
+}

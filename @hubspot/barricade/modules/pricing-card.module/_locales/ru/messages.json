@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Карточка ценообразования",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Ссылка кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Зарегистрироваться бесплатно",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Текст кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Для команд, которым требуются дополнительные безопасность, контроль и поддержка.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Описание продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Маркированный список значков подборок",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Входит 10 пользователей",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Подборки",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Цена",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Большой",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Обычный",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Маленький",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Размер кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Основной",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Дополнительные",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Простой",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Стиль кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Бесплатно",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Уровень продукта",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ мес.",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Временные рамки цены",
+    "description": "",
+    "placeholders": null
+  }
+}

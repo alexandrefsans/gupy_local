@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "로고 갤러리",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "승인자",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "제목",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora 로고",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "로고 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "배너 배경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "배너 전경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  }
+}

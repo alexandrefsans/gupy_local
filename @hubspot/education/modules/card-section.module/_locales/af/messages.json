@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Kaartjie-afdeling",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Inhoud",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Skakel",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Skakelteks",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Beskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Onderwysers wat omgee oor jou sukses",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "'n Klaskamerlesing",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Beeld",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Ikoon",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Beeld en ikoon",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Deur hierdie opsie te aktiveer, kan jy standaardtemastyle oorheers. As jy hierdie opsie deaktiveer, word die module weer terug aan die standaardtemastyle geskakel.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ignoreer standaardstyl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Aksentkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Ikoonvulkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  }
+}

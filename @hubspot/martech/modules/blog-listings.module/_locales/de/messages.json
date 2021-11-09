@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Blog-Listings",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Autor",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Über diese Felder können Sie die Labels auf Ihren Autor-Listing-Seiten ändern.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Blog-Autor-Listing",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Beiträge von",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Unterüberschrift",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Über diese Felder können Sie die Labels auf Ihren Tag-Listing-Seiten ändern.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Blog-Tag-Listing",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Beiträge über:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Unterüberschrift",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Beschreibung",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Feature-Bild",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Karte",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Liste",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Layoutstil",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Beitragstitel",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Veröffentlichungsdatum",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Weiterlesen",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Weiterlesen",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Weiterlesen-Text",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Tags",
+    "description": "",
+    "placeholders": null
+  }
+}

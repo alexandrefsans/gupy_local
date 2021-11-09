@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "ตัวกรองแท็กในบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "เรียกดูตาม",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "ข้อความป้าย",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "ทั้งหมด",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "ข้อความตัวยึดตำแหน่ง",
+    "description": "",
+    "placeholders": null
+  }
+}

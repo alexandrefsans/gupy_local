@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Мы уже помогли следующим компаниям:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Текст заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Логотип Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Загрузите изображения логотипа сюда",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Изображения логотипа",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Баннер логотипа",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Цвет фона баннера",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Цвет переднего плана баннера",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  }
+}

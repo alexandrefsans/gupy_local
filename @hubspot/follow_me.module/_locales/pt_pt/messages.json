@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Seguir-me",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Abrir ligações numa nova janela",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Cabeçalho do módulo",
+    "description": "",
+    "placeholders": null
+  }
+}

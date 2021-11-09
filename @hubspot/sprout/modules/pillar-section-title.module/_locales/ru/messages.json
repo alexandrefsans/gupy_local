@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Заголовок раздела в виде колонки",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Включение этого параметра позволит переопределять стили тем по умолчанию. Отключение этого параметра приведет к переподключению модуля к стилям тем по умолчанию.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Переопределить стиль по умолчанию",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Цвет",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметры стиля",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Заголовок раздела",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Заголовок раздела должен описывать раздел и отличаться от других заголовков разделов на данной странице. Заголовок автоматически добавляется в меню в модуле «Меню в виде колонок».",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

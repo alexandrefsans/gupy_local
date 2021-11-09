@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Izbornik stupa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Boja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Donji obrub",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Isprekidano",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Točkasto",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dvostruko",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Udubljeno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Uvučeno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Ništa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Ispupčeno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Reljefasto",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Ispunjeno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Vrijednost je u pikselima",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Širina",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcije stila",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Tablica sadržaja",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Stavke izbornika izrađuju se automatski prilikom dodavanja modula „Odjeljak stupa“ na stranicu ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

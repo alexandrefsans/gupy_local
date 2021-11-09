@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Τελευταία άρθρα",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Επιλέξτε blog από το οποίο θα αντληθούν αναρτήσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Αριθμός αναρτήσεων προς άντληση",
+    "description": "",
+    "placeholders": null
+  }
+}

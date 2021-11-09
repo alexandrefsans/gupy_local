@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Bloglysinskrywingbanier",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ignoreer standaardstyl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Beeld",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Kleurgradiënt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Agtergrondtipe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Agtergrondbeeld",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Kleur 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Kleur 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Gradiëntkleure",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Waarde is in pieksels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Links/Regs",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Opvulling",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Waarde is in pieksels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Bo/Onder",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Subtitelkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Titelkleur",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Indien daar geen subtitelteks is nie, sal jou blogmetabeskrywing by bloginstellings outomaties gebruik word",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Subtitel",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Indien daar geen titelteks is nie, sal jou blogtitel by bloginstellings outomaties gebruik word",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

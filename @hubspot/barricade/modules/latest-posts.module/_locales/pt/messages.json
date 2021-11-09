@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Publicações mais recentes",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Selecione o blog do qual gostaria de solicitar publicações",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Número de publicações a solicitar",
+    "description": "",
+    "placeholders": null
+  }
+}

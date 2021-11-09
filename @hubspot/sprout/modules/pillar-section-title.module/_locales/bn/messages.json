@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "পিলার বিভাগের শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "এই বিকল্পটি সক্ষম করা আপনাকে ডিফল্ট থিম শৈলীর ওভাররাইড করতে দেয়। এই বিকল্পটি অক্ষম করা মডিউলটিকে ডিফল্ট থিম শৈলীতে ফের সংযুক্ত করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "ডিফল্ট শৈলী ওভাররাইড করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "রং ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "বিভাগ শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "আপনার বিভাগের শিরোনামটি আপনার বিভাগটি বর্ণনা করা উচিত এবং পৃষ্ঠার অন্যান্য বিভাগের শিরোনামগুলির থেকে স্বতন্ত্র হওয়া উচিত। শিরোনামটি স্বয়ংক্রিয়ভাবে 'পিলার মেনু' মডিউলটিতে মেনুতে যুক্ত হবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  }
+}

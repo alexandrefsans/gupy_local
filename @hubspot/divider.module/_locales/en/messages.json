@@ -1,0 +1,117 @@
+{
+  "alignment.choices.center": {
+    "message": "Center",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Left",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Right",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Alignment",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "color.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "color.label": {
+    "message": "Color",
+    "description": "",
+    "placeholders": null
+  },
+  "height.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "height.label": {
+    "message": "Height (px)",
+    "description": "",
+    "placeholders": null
+  },
+  "line_type.choices.dashed": {
+    "message": "Dashed",
+    "description": "",
+    "placeholders": null
+  },
+  "line_type.choices.dotted": {
+    "message": "Dotted",
+    "description": "",
+    "placeholders": null
+  },
+  "line_type.choices.solid": {
+    "message": "Solid",
+    "description": "",
+    "placeholders": null
+  },
+  "line_type.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "line_type.label": {
+    "message": "Line type",
+    "description": "",
+    "placeholders": null
+  },
+  "line_type.placeholder": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Divider",
+    "description": "",
+    "placeholders": null
+  },
+  "padding.help_text": {
+    "message": "Max of 20 pixels",
+    "description": "",
+    "placeholders": null
+  },
+  "padding.label": {
+    "message": "Padding (px)",
+    "description": "",
+    "placeholders": null
+  },
+  "show_padding.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "show_padding.label": {
+    "message": "Show padding?",
+    "description": "",
+    "placeholders": null
+  },
+  "width.help_text": {
+    "message": "Percentage of the area the divider is placed into.",
+    "description": "",
+    "placeholders": null
+  },
+  "width.label": {
+    "message": "Width (%)",
+    "description": "",
+    "placeholders": null
+  }
+}

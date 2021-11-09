@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Registrace zdarma",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Text tlačítka",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Pro týmy, které potřebují více zabezpečení, kontroly a podpory.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Popis produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ikona odrážky seznamu funkcí",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 uživatelů včetně",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Funkce",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Karta s cenou",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 USD",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Cena",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Barva pozadí",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Barva pozadí tlačítka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Barva textu tlačítka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti stylů",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Zdarma",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Úroveň produktu",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ měs.",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Cenový rozsah",
+    "description": "",
+    "placeholders": null
+  }
+}

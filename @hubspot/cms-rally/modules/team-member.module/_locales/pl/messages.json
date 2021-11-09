@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Członek zespołu",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>dyrektor generalny, współzałożyciel</p><p>Joshua ma ponad 20 lat doświadczenia w branży technologicznej. Pomógł założyć firmę w 2015 roku z misją pomagania ludziom w rozwoju. Poza pracą uwielbia spędzać czas z dziećmi, chodzić na plażę i gotować.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Treść członka zespołu",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Obraz członka zespołu",
+    "description": "",
+    "placeholders": null
+  }
+}

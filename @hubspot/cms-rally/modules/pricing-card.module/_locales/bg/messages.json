@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Регистрирайте се безплатно",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Текст на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "За екипи, които се нуждаят от допълнителна защита, контрол и поддръжка.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Описание на продукт",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Водеща точка с икона на списък с функции",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 включени потребители",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Функции",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Карта с цена",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 $",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Цена",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Цвят на фон",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Цвят на фон на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Цвят на текст на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Безплатно",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Продуктово ниво",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "на месец",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Времева рамка на цените",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Baner blogového príspevku",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "Ikona tlačidla",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Späť na blog",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Text tlačidla",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Vlastná farba pozadia",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Vlastný obrázok pozadia",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Vybraný obrázok",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Ktorý typ banera chcete použiť?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Farba pozadia",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Obrázok pozadia",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Odsadenie",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Hodnota je v pixeloch",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Hore/dole",
+    "description": "",
+    "placeholders": null
+  }
+}

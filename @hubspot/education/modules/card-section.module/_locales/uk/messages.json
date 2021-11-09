@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Розділ карток",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Зміст",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Посилання",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Додаткова інформація",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Текст посилання",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Опис",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Учителі, які піклуються про ваш успіх",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Аудиторна лекція",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Зображення",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Значок",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Зображення та значок",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Увімкнення цієї опції дозволить заміняти стилі тем за замовчуванням. Вимкнення цього параметра призведе до перепідключення модуля до стилів тем за замовчуванням.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Замінити стиль за замовчуванням",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Колір виділеного тексту",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Колір заповнення значка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметри  стилю",
+    "description": "",
+    "placeholders": null
+  }
+}

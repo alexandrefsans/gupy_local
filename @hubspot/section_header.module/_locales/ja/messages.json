@@ -1,0 +1,67 @@
+{
+  "header.default": {
+    "message": "明確で目立つヘッダー",
+    "description": null,
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "セクション ヘッダー コンテンツ",
+    "description": null,
+    "placeholders": null
+  },
+  "subheader.default": {
+    "message": "より控えめなサブヘッダー",
+    "description": null,
+    "placeholders": null
+  },
+  "subheader.label": {
+    "message": "セクションサブヘッダー",
+    "description": null,
+    "placeholders": null
+  },
+  "name": {
+    "message": "セクションヘッダー",
+    "description": null,
+    "placeholders": null
+  },
+  "heading_level.choices.h1": {
+    "message": "H1",
+    "description": "",
+    "placeholders": null
+  },
+  "heading_level.choices.h2": {
+    "message": "H2",
+    "description": "",
+    "placeholders": null
+  },
+  "heading_level.choices.h3": {
+    "message": "H3",
+    "description": "",
+    "placeholders": null
+  },
+  "heading_level.choices.h4": {
+    "message": "H4",
+    "description": "",
+    "placeholders": null
+  },
+  "heading_level.choices.h5": {
+    "message": "H5",
+    "description": "",
+    "placeholders": null
+  },
+  "heading_level.choices.h6": {
+    "message": "H6",
+    "description": "",
+    "placeholders": null
+  },
+  "heading_level.help_text": {
+    "message": "見出しのレベルを選択します。H1が最大で、次に大きいのがH2のように続きます",
+    "description": "",
+    "placeholders": null
+  },
+  "heading_level.label": {
+    "message": "見出しのレベル",
+    "description": "",
+    "placeholders": null
+  }
+}

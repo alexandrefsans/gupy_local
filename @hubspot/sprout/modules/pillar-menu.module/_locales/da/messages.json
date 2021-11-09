@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Søjlemenu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Farve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Bundkant",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Stiplet",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Prikket",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dobbelt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Groove",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Indlagt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Ingen",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Begyndelse",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Ryg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Fast",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Værdi i pixler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Bredde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Indholdsfortegnelse",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Menuelementer oprettes automatisk, når modulet \"Søjleafsnit\" tilføjes til siden",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

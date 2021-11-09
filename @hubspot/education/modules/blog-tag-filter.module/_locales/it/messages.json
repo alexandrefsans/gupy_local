@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filtro di tag del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtra per tag",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Testo etichetta",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Tutti",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Testo placeholder",
+    "description": "",
+    "placeholders": null
+  }
+}

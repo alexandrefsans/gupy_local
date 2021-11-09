@@ -1,0 +1,503 @@
+<!--
+  templateType: global_partial
+  label: Footer
+-->
+<footer class="footer">
+
+  {% module 'enable_footer_dnd'
+    path='../../modules/enable-dnd',
+    label='Drag and drop',
+    export_to_template_context=true,
+    no_wrapper=true
+  %}
+
+  {% if widget_data.enable_footer_dnd.enable_dnd %}
+
+    {# Drag and Drop Footer #}
+    {% dnd_area 'footer_dnd'
+      label='Footer',
+      class='footer__container footer__container--dnd'
+    %}
+      {% dnd_section %}
+        {% dnd_column %}
+
+          {# Footer Top Section #}
+          {% dnd_row
+            padding={
+              'default': {
+                'top': 40,
+                'bottom': 80
+              },
+              'mobile': {
+                'top': 80,
+                'right': 20,
+                'bottom': 80,
+                'left': 20
+              }
+            }
+          %}
+
+            {# Logo and Social Follow #}
+            {% dnd_column
+              offset=0,
+              width=4
+            %}
+              {% dnd_row
+                margin={
+                  'default': {
+                    'bottom': 60
+                  },
+                  'mobile': {
+                    'bottom': 40
+                  }
+                }
+              %}
+                {% dnd_module
+                  path='@hubspot/logo',
+                  img={
+                    'alt': 'Education logo',
+                    'height': '33',
+                    'src': get_asset_url('../../images/logo.png'),
+                    'width': '205'
+                  }
+                %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+              {% dnd_row
+                margin={
+                  'mobile': {
+                    'bottom': 40
+                  }
+                }
+              %}
+                {% dnd_module
+                  path='../../modules/social-follow',
+                  social_links=[
+                    {
+                      'social_account': 'facebook-f',
+                      'accessibility': {
+                        'title': 'Follow us on Facebook'
+                      }
+                    },
+                    {
+                      'social_account': 'linkedin-in',
+                      'accessibility': {
+                        'title': 'Follow us on LinkedIn'
+                      }
+                    },
+                    {
+                      'social_account': 'twitter',
+                      'accessibility': {
+                        'title': 'Follow us on Twitter'
+                      }
+                    },
+                    {
+                      'social_account': 'instagram',
+                      'accessibility': {
+                        'title': 'Follow us on Instagram'
+                      }
+                    }
+                  ]
+                %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+            {% end_dnd_column %}
+            {# End Logo and Social Follow #}
+
+            {# Menu Column One #}
+            {% dnd_column
+                offset=4,
+                width=2
+            %}
+              {% dnd_row %}
+                {% dnd_module
+                  path='@hubspot/header',
+                  label='Menu title column one',
+                  header_tag='h4',
+                  overrideable=True,
+                  value='Menu Title'
+                %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+              {% dnd_row %}
+                {% dnd_module
+                  path='@hubspot/simple_menu',
+                  label='Menu column one',
+                  orientation='vertical',
+                  overrideable=True
+                %}
+                  {% module_attribute 'menu_tree' is_json=True %}
+                    [
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false}
+                    ]
+                  {% end_module_attribute %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+            {% end_dnd_column %}
+            {# End Menu Column One #}
+
+            {# Menu Column Two #}
+            {% dnd_column
+              offset=6,
+              width=2
+            %}
+              {% dnd_row %}
+                {% dnd_module
+                  path='@hubspot/header',
+                  label='Menu title column two',
+                  header_tag='h4',
+                  overrideable=True,
+                  value='Menu Title'
+                %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+              {% dnd_row %}
+                {% dnd_module
+                  path='@hubspot/simple_menu',
+                  label='Menu column two',
+                  orientation='vertical',
+                  overrideable=True
+                %}
+                  {% module_attribute 'menu_tree' is_json=True %}
+                    [
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false}
+                    ]
+                  {% end_module_attribute %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+            {% end_dnd_column %}
+            {# End Menu Column Two #}
+
+            {# Menu Column Three #}
+            {% dnd_column
+              offset=8,
+              width=2
+            %}
+              {% dnd_row %}
+                {% dnd_module
+                  path='@hubspot/header',
+                  label='Menu title column three',
+                  header_tag='h4',
+                  overrideable=True,
+                  value='Menu Title'
+                %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+              {% dnd_row %}
+                {% dnd_module
+                  path='@hubspot/simple_menu',
+                  label='Menu column three',
+                  orientation='vertical',
+                  overrideable=True
+                %}
+                  {% module_attribute 'menu_tree' is_json=True %}
+                    [
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false}
+                    ]
+                  {% end_module_attribute %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+            {% end_dnd_column %}
+            {# End Menu Column Three #}
+
+            {# Menu Column Four #}
+            {% dnd_column
+              offset=10,
+              width=2
+            %}
+              {% dnd_row %}
+                {% dnd_module
+                  path='@hubspot/header',
+                  label='Menu title column four',
+                  header_tag='h4',
+                  overrideable=True,
+                  value='Menu Title'
+                %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+              {% dnd_row %}
+                {% dnd_module
+                  path='@hubspot/simple_menu',
+                  label='Menu column four',
+                  orientation='vertical',
+                  overrideable=True
+                %}
+                  {% module_attribute 'menu_tree' is_json=True %}
+                    [
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                      {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false}
+                    ]
+                  {% end_module_attribute %}
+                {% end_dnd_module %}
+              {% end_dnd_row %}
+            {% end_dnd_column %}
+            {# End Menu Column Four #}
+
+          {% end_dnd_row %}
+          {# End Footer Top Section #}
+
+          {# Divider #}
+          {% dnd_row
+            padding={
+              'mobile': {
+                'right': 20,
+                'left': 20
+              }
+            }
+          %}
+            {% dnd_module
+              path='@hubspot/divider',
+              fields={
+                'color': {
+                  'color': '#1D1D1D',
+                  'opacity': 100
+                },
+                'height': 1,
+                'width': 100
+              }
+            %}
+            {% end_dnd_module %}
+          {% end_dnd_row %}
+          {# End Divider #}
+
+          {# Footer Bottom Section #}
+          {% dnd_row
+            padding={
+              'default': {
+                'top': 20,
+                'bottom': 20
+              },
+              'mobile': {
+                'top': 20,
+                'right': 20,
+                'bottom': 20,
+                'left': 20
+              }
+            }
+          %}
+
+            {# Copyright #}
+            {% dnd_module
+              path='@hubspot/text',
+              label='Copyright',
+              offset=0,
+              value='Copyright © {{ year }}, {{ site_settings.company_name }}',
+              width=3
+            %}
+            {% end_dnd_module %}
+            {# End Copyright #}
+
+            {# Privacy Policy #}
+            {% dnd_module
+              path='@hubspot/rich_text',
+              label='Legal information',
+              offset=3,
+              width=9
+            %}
+              {% module_attribute 'html' %}
+                <a href="#">Privacy Policy</a> &nbsp;| &nbsp;<a href="#">Terms of Use</a>
+              {% end_module_attribute %}
+            {% end_dnd_module %}
+            {# End Privacy Policy #}
+
+          {% end_dnd_row %}
+          {# End Footer Bottom Section #}
+
+        {% end_dnd_column %}
+      {% end_dnd_section %}
+    {% end_dnd_area %}
+    {# End Drag and Drop Footer #}
+
+  {% else %}
+
+    {# Static Footer #}
+    <div class="footer__container footer__container--static">
+
+      {# Footer Top Section #}
+      <div class="footer__top-section">
+        <div class="row-fluid span12">
+            <div class="column span4">
+              <div class="footer__logo">
+                {% module 'footer_logo'
+                  path='@hubspot/logo',
+                  img={
+                    'alt': 'Education logo',
+                    'height': '33',
+                    'src': get_asset_url('../../images/logo.png'),
+                    'width': '205'
+                  }
+                %}
+              </div>
+              <div class="footer__follow-me">
+                {% module 'footer_social'
+                  path='../../modules/social-follow',
+                  social_links=[
+                    {
+                      'social_account': 'facebook-f',
+                      'accessibility': {
+                        'title': 'Follow us on Facebook'
+                      }
+                    },
+                    {
+                      'social_account': 'linkedin-in',
+                      'accessibility': {
+                        'title': 'Follow us on LinkedIn'
+                      }
+                    },
+                    {
+                      'social_account': 'twitter',
+                      'accessibility': {
+                        'title': 'Follow us on Twitter'
+                      }
+                    },
+                    {
+                      'social_account': 'instagram',
+                      'accessibility': {
+                        'title': 'Follow us on Instagram'
+                      }
+                    }
+                  ]
+                %}
+              </div>
+            </div>
+            <div class="footer__navigation column span2">
+              {% module 'footer_menu_header_one'
+                path='@hubspot/header',
+                label='Menu title column one',
+                header_tag='h4',
+                overrideable=True,
+                value='Menu Title'
+              %}
+              {% module_block module 'footer_menu_one'
+                path='@hubspot/simple_menu',
+                label='Menu column one',
+                orientation='vertical',
+                overrideable=True
+              %}
+                {% module_attribute 'menu_tree' is_json=True %}
+                  [
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false}
+                  ]
+                {% end_module_attribute %}
+              {% end_module_block %}
+            </div>
+            <div class="footer__navigation column span2">
+              {% module 'footer_menu_header_two'
+                path='@hubspot/header',
+                label='Menu title column two',
+                header_tag='h4',
+                overrideable=True,
+                value='Menu Title'
+              %}
+              {% module_block module 'footer_menu_two'
+                path='@hubspot/simple_menu',
+                label='Menu column two',
+                orientation='vertical',
+                overrideable=True
+              %}
+                {% module_attribute 'menu_tree' is_json=True %}
+                  [
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false}
+                  ]
+                {% end_module_attribute %}
+              {% end_module_block %}
+            </div>
+            <div class="footer__navigation column span2">
+              {% module 'footer_menu_header_three'
+                path='@hubspot/header',
+                label='Menu title column three',
+                header_tag='h4',
+                overrideable=True,
+                value='Menu Title'
+              %}
+              {% module_block module 'footer_menu_three'
+                path='@hubspot/simple_menu',
+                label='Menu column three',
+                orientation='vertical',
+                overrideable=True
+              %}
+                {% module_attribute 'menu_tree' is_json=True %}
+                  [
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false}
+                  ]
+                {% end_module_attribute %}
+              {% end_module_block %}
+            </div>
+            <div class="footer__navigation column span2">
+              {% module 'footer_menu_header_four'
+                path='@hubspot/header',
+                label='Menu title column four',
+                header_tag='h4',
+                overrideable=True,
+                value='Menu Title'
+              %}
+              {% module_block module 'footer_menu_four'
+                path='@hubspot/simple_menu',
+                label='Menu column four',
+                orientation='vertical',
+                overrideable=True
+              %}
+                {% module_attribute 'menu_tree' is_json=True %}
+                  [
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false},
+                    {"contentType": null, "subCategory": null, "pageLinkName": null, "pageLinkId": null, "isPublished": false, "categoryId": null, "linkParams": null, "linkLabel": "Linked Page", "linkTarget": null, "linkUrl": "#", "children": [], "isDeleted": false}
+                  ]
+                {% end_module_attribute %}
+              {% end_module_block %}
+            </div>
+        </div>
+      </div>
+      {# End Footer Top Section #}
+
+      {# Footer Bottom Section #}
+      <div class="footer__bottom-section">
+        <div class="row-fluid span12">
+          <div class="column span3">
+            {% module 'footer_copyright'
+              path='@hubspot/text',
+              label='Copyright',
+              value='Copyright © {{ year }}, {{ site_settings.company_name }}'
+            %}
+          </div>
+          <div class="column span9">
+            {% module_block module 'footer_legal_information'
+              path='@hubspot/rich_text',
+              label='Legal information'
+            %}
+              {% module_attribute 'html' %}
+                <a href="#">Privacy Policy</a> &nbsp;| &nbsp;<a href="#">Terms of Use</a>
+              {% end_module_attribute %}
+            {% end_module_block %}
+          </div>
+        </div>
+      </div>
+      {# End Footer Bottom Section #}
+
+    </div>
+    {# End Static Footer #}
+
+  {% endif %}
+
+</footer>

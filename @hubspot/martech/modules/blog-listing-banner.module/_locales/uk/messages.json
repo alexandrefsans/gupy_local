@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Банер переліку блогів",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Замінити стиль за замовчуванням",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Зображення",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Градієнт кольору",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Тип фону",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Зображення фону",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Колір 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Колір 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Градієнтні кольори",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметри стилю",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Значення вказано в пікселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Ліворуч/Праворуч",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Заповнення місця",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Значення вказано в пікселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Верх/Низ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Колір підзаголовку",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Колір заголовку",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Відсутність тексту для субтитрів надалі буде типовим за замовчуванням для налаштувань мета-опису вашого блогу",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Підзаголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Відсутність тексту надалі буде типовим за замовчуванням для налаштувань мета-опису вашого блогу",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

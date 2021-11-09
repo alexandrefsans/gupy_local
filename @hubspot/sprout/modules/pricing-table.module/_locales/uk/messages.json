@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Таблиця ціноутворення",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Виставлення рахунків щомісяця",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Ярлик виставлення рахунків",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Варіант ціноутворення 1",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Таблиця",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Посилання на кнопку",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Зареєструватися",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Текст кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Валюта",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Необмежена кількість</strong> безкоштовних завантажень, і багато іншого!</p><ul><li>Макс. розмір файлу 25 Мбайт</li><li>Пропускна здатність 2 Гбайт</li><li>Запис екрану за 15 секунд</li><li>Запис відео вебкамери за 15 секунд</li><li>Фірмова символіка CloudApр</li><li>Необмежена кількість анотацій</li><li>Необмежена кількість файлів</li><li>Інтеграція із застосунками настільного комп'ютера </li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Опис",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Ціна",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Стартер",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "При щорічній оплаті заощаджується 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Ярлик виставлення рахунків",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Варіант ціноутворення 2",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Таблиця",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Посилання на кнопку",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Зареєструватися",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Текст кнопки",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Валюта",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Необмежена кількість</strong> безкоштовних завантажень, і багато іншого!</p><ul><li>Макс. розмір файлу 25 Мбайт</li><li>Пропускна здатність 2 Гбайт</li><li>Запис екрану за 15 секунд</li><li>Запис відео вебкамери за 15 секунд</li><li>Фірмова символіка CloudApр</li><li>Необмежена кількість анотацій</li><li>Необмежена кількість файлів</li><li>Інтеграція із застосунками настільного комп'ютера </li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Опис",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Ціна",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Підприємство",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Увімкнення цієї опції дозволить вам замінити стилі тем за замовчуванням. При вимкненні цієї опції модуль буде знову підключено до стилів тем за замовчуванням.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Замінити стиль за замовчуванням",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Колір активної опції",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Колір фону заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Колір текста заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметри стилю",
+    "description": "",
+    "placeholders": null
+  }
+}

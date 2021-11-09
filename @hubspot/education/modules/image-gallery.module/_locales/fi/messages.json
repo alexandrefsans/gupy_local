@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Kuvagalleria",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Asuntola kampuksella",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "täsmäävä",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Kuva",
+    "description": "",
+    "placeholders": null
+  }
+}

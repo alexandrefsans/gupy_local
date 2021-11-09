@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "ตัวกรองบล็อกและแถบค้นหา",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label": {
+    "message": "ตัวกรองแท็กในบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.default": {
+    "message": "เรียกดูตาม:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.label_text.label": {
+    "message": "ข้อความป้าย",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.default": {
+    "message": "ทุกสิ่ง",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_filter.placeholder_text.label": {
+    "message": "ข้อความตัวยึดตำแหน่ง",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.blog_posts.label": {
+    "message": "โพสต์ในบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.knowledge_articles.label": {
+    "message": "บทความให้ความรู้",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.label": {
+    "message": "ผลการค้นหาประกอบด้วย",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.landing_pages.label": {
+    "message": "หน้าเริ่มต้น",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.content_types.website_pages.label": {
+    "message": "หน้าเว็บไซต์",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.field_label.label": {
+    "message": "ข้อความป้าย",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.include_search_button.label": {
+    "message": "มีปุ่มค้นหา",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.label": {
+    "message": "ช่องค้นหา",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.default": {
+    "message": "ค้นหา",
+    "description": "",
+    "placeholders": null
+  },
+  "search_field.placeholder.label": {
+    "message": "ข้อความตัวยึดตำแหน่ง",
+    "description": "",
+    "placeholders": null
+  }
+}

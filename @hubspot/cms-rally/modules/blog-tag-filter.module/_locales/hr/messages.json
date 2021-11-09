@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filtar oznaka na blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtriraj prema oznaci",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Oznaka je vizualno skrivena, ali upotrebljava se za čitače zaslona kako bi polje ostalo dostupno",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Tekst oznake",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Sve",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Tekst rezerviranog mjesta",
+    "description": "",
+    "placeholders": null
+  }
+}

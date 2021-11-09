@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filtar oznaka na blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Pregledaj prema:",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Tekst oznake",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Sve",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Tekst rezerviranog mjesta",
+    "description": "",
+    "placeholders": null
+  }
+}

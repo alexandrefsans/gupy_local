@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Video",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.label": {
+    "message": "Tipo de video",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.choices.embed": {
+    "message": "Incrustar",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.choices.hubspot_video": {
+    "message": "Video de HubSpot",
+    "description": "",
+    "placeholders": null
+  },
+  "hubspot_video.label": {
+    "message": "Video de HubSpot",
+    "description": "",
+    "placeholders": null
+  },
+  "embed_field.label": {
+    "message": "Incrustar",
+    "description": "",
+    "placeholders": null
+  },
+  "oembed_thumbnail.label": {
+    "message": "Miniatura personalizada",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.label": {
+    "message": "Opciones de estilo",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.oembed_thumbnail_play_button_color.label": {
+    "message": "Color del botón Reproducir",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.label": {
+    "message": "Texto del parámetro de sustitución",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.label": {
+    "message": "Título del parámetro de sustitución del video",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.default": {
+    "message": "No se seleccionaron videos",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.label": {
+    "message": "Descripción del parámetro de sustitución del video",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.default": {
+    "message": "Selecciona un tipo de video en la barra lateral.",
+    "description": "",
+    "placeholders": null
+  }
+}

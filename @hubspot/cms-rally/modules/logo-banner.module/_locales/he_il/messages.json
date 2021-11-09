@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "עזרנו לחברות כגון:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "טקסט כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "סמל Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "העלה תמונות סמלים לכאן",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "תמונות סמלים",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "כרזת סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "צבע רקע של כרזה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "צבע קדמה של כרזה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  }
+}

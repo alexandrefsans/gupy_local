@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Banner til blogoptegnelse",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Tilsidesæt standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Billede",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Farvegraduering",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Baggrundstype",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Baggrundsbillede",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Farve 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Farve 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Gradueringsfarver",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilmuligheder",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Værdi i pixler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Venstre/højre",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Udfyldning",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Værdi i pixler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Top/bund",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Farve på undertitel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Titelfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Hvis der ikke angives en undertiteltekst, anvendes din blogmetabeskrivelse fra blogindstillingerne",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Undertekst",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Hvis der ikke angives en titeltekst, anvendes din blogtitel fra blogindstillingerne",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

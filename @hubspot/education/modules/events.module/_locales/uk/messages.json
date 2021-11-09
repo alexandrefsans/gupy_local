@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Заходи",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Адреса",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Дата й час",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Значок заходу",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Заходи",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Посилання",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Додаткова інформація",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Текст посилання",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "УРОЧИСТИЙ ОСВІТНІЙ ЗАХІД, ЩО ПРОХОДИТЬ РАЗ НА ПІВРІЧЧЯ",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Зміст заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Значок заголовка",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Посилання на заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Переглянути все",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Текст посилання на заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Майбутні події",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

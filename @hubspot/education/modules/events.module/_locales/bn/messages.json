@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "ঘটনাবলী",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "ঠিকানা ",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "তারিখ এবং সময়",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "ইভেন্ট আইকন",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "ঘটনাবলী",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "লিংক ",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "আরও জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "লিংক টেক্সট ",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "সেমি-বার্ষিক শিক্ষানুষ্ঠান",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "হেডিংয়ের বিষয়বস্তু",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "হেডিং আইকন",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "হেডিং লিংক",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "সব কিছু দেখান",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "হেডিং লিঙ্ক পাঠ্য",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "আসন্ন ঘটনাবলী",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "হেডিং ",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "แบนเนอร์ของโพสต์ในบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "ไอคอนปุ่ม",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "กลับไปยังบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "ข้อความบนปุ่ม",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "สีพื้นหลังแบบกำหนดเอง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "ภาพพื้นหลังแบบกำหนดเอง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "รูปภาพที่แสดง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "แบนเนอร์ประเภทใดที่คุณต้องการใช้",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "สีพื้นหลัง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "รูปภาพพื้นหลัง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "ตัวเลือกรูปแบบ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "ช่องว่างภายใน",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "ค่าเป็นพิกเซล",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "ด้านบน/ด้านล่าง",
+    "description": "",
+    "placeholders": null
+  }
+}

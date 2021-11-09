@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "মেনু বিভাগ",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "নকল মোবাইল মেনু",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "প্রাথমিক মেনু ফিল্ড ",
+    "description": "",
+    "placeholders": null
+  }
+}

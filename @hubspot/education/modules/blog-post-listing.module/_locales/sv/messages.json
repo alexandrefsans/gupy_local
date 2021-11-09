@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Lista med blogginlägg",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Välj bogg",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Se allt",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knapptext",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "Efter blogg och tagg",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "Efter blogg",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "Filter",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "Läs mer",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Läs mer text",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "Tagg",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "I Nyheter",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "Titeltext",
+    "description": "",
+    "placeholders": null
+  }
+}

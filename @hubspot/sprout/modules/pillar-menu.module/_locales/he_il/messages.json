@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "תפריט יסוד",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "צבע",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "גבול תחתון",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "מקווקו",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "מנוקד",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "כפול",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Groove",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "שיבוץ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "ללא",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "התחלה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "רכס",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "מלא",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "סגנון",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "הערך הוא בפיקסלים",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "רוחב",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "תוכן עניינים",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "פריטי תפריט נוצרים באופן אוטומטי בעת הוספת המודול 'מקטע יסוד' לדף.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  }
+}

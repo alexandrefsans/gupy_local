@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Használja ki az intuitív, egyszerűen lenyűgöző szoftvert, amellyel időt takaríthat meg, és amely mentőövet nyújt az üzletének. Bízhat benne.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Funkcióleírás",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Háttér színe",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Szegély színe",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Szín",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Funkcióikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Funkciókép",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Kép",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Nincs",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Kiemelt kép/ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Gyors és egyszerű",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Funkciócím",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Funkció",
+    "description": "",
+    "placeholders": null
+  }
+}

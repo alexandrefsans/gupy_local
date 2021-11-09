@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Връзка",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Икона на връзка",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Текст на връзка",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Цветове на публикация",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Приоритизирани публикации в блог",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Изберете блога, от който искате да изберете публикации за приоритизиране",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Избор на блог",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Ако искате да включите само конкретен етикет от вашия блог, изберете го тук.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Избор на етикет",
+    "description": "",
+    "placeholders": null
+  }
+}

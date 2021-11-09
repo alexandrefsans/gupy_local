@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Hivatkozás",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Hivatkozás ikonja",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Hivatkozás szövege",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Bejegyzés színei",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Kiemelt blogbejegyzések",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Válassza ki azt a blogot, amelyből szeretne kiemelni bejegyzéseket",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Blog kiválasztása",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Ha csak egy adott címkét szeretne kiemelni a blogból, itt kiválaszthatja.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Címke kiválasztása",
+    "description": "",
+    "placeholders": null
+  }
+}

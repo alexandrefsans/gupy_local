@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Vaizdų galerija",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Bendrabučio pastatas universiteto miestelyje",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "tiksliai",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Vaizdas",
+    "description": "",
+    "placeholders": null
+  }
+}

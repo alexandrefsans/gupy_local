@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "徽标图片库",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "识别方式",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "标题",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora 徽标",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "徽标图片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "横幅背景图片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "横幅前景图片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  }
+}

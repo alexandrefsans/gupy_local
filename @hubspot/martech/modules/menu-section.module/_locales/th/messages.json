@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "ส่วนเมนู",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "คัดลอกเมนูบนมือถือ",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "ช่องเมนูหลัก",
+    "description": "",
+    "placeholders": null
+  }
+}

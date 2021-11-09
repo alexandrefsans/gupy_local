@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Статистика",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Увімкнення цієї опції дозволить вам замінити стилі тем за замовчуванням. При вимкненні цієї опції модуль буде знову підключено до стилів тем за замовчуванням.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Замінити стиль за замовчуванням",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Рейтинг задоволення клієнтів</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Опис статистики",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Статистичний номер",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Статистичний відсоток",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "тис.",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Статистична одиниця",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Колір панелі",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Колір заповнення панелі",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметри стилю",
+    "description": "",
+    "placeholders": null
+  }
+}

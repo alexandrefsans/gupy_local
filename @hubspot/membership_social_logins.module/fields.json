@@ -1,0 +1,45 @@
+[
+  {
+      "id": "6aee1521-fe67-c05d-5e13-471ba70fab10",
+      "name": "facebook_appid",
+      "label": "Facebook App ID",
+      "inline_help_text": "https://developers.facebook.com/docs/javascript/reference/FB.init/v7.0",
+      "required": true,
+      "locked": false,
+      "validation_regex": "",
+      "allow_new_line": false,
+      "show_emoji_picker": false,
+      "type": "text",
+      "default": null
+  },
+  {
+      "id": "15c1cb75-0497-d127-8e52-1d8fc36e2001",
+      "name": "facebook_enabled",
+      "label": "Facebook enabled",
+      "required": false,
+      "locked": false,
+      "type": "boolean",
+      "default": false
+  },
+  {
+      "id": "30dd0830-39a9-94c4-692a-b9467c133fd7",
+      "name": "google_clientid",
+      "label": "Google Client ID",
+      "inline_help_text": "https://developers.google.com/identity/sign-in/web/sign-in#specify_your_apps_client_id",
+      "required": true,
+      "locked": false,
+      "validation_regex": "",
+      "allow_new_line": false,
+      "show_emoji_picker": false,
+      "type": "text",
+      "default": null
+  },
+  {
+      "id": "1593c4cb-b1d6-9432-d704-680d9a3900a0",
+      "name": "google_enabled",
+      "label": "Google enabled",
+      "required": false,
+      "type": "boolean",
+      "default": false
+  }
+] 

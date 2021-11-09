@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filtre d'etiquetes de blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtra per etiqueta",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "L'etiqueta està oculta però s'utilitza perquè els lectors de pantalla mantinguin el camp accessible",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Text de l'etiqueta",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Tot",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Text del contenidor",
+    "description": "",
+    "placeholders": null
+  }
+}

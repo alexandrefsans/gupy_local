@@ -1,0 +1,113 @@
+{# Set layout style #}
+{% if module.layout_style == 'card' %}
+  {% set list_type = '--2-col' %}
+{% elif module.layout_style == 'list' %}
+  {% set list_type = '' %}
+{% endif %}
+
+{# Tag listing heading #}
+{% if tag %}
+  <div class="blog-index__tag-header">
+    <h6 class="blog-index__tag-subtitle">{{ module.blog_tag_listing.subheading }}</h6>
+    <h2 class="blog-index__tag-heading">{{ page_meta.html_title|split(' | ')|last }}</h2>
+  </div>
+{% endif %}
+{# End tag listing heading #}
+
+<section class="blog-index{{ list_type }}">
+  {% for content in contents %}
+
+    {# Blog listing article #}
+    <article class="blog-index{{ list_type }}__post">
+
+      {# Featured image #}
+      {# This checks to see if a user is opted into the blog listing editing experience. If they are it uses the conditional from the module. If they are not it uses the conditional from blog settings #}
+      {% if blog.listing_page_id %}
+        {% if content.featured_image and module.featured_image %}
+          <a class="blog-index{{ list_type }}__post-image-wrapper" href="{{ content.absolute_url }}">
+            <img class="blog-index{{ list_type }}__post-image" src="{{ content.featured_image }}" loading="lazy" alt="{{ content.featured_image_alt_text }}">
+          </a>
+        {% endif %}
+      {% else %}
+        {% if content.featured_image and group.use_featured_image_in_summary %}
+          <a class="blog-index{{ list_type }}__post-image-wrapper" href="{{ content.absolute_url }}">
+            <img class="blog-index{{ list_type }}__post-image" src="{{ content.featured_image }}" loading="lazy" alt="{{ content.featured_image_alt_text }}">
+          </a>
+        {% endif %}
+      {% endif %}
+      {# End featured image #}
+
+      {# Article body #}
+      <div class="blog-index{{ list_type }}__post-content">
+        {# Tags #}
+        {% if module.tags and content.tag_list %}
+          <div class="blog-tags">
+            {% for tag in content.tag_list %}
+              <a class="blog-tag" href="{{ blog_tag_url(group.id, tag.slug) }}">{{ tag.name }}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
+        {# End tags #}
+
+        {# Author #}
+        {% if module.author and content.blog_author %}
+          <div class="blog-author">
+            {% if content.blog_author.avatar %}
+              <div class="blog-author__image">
+                <img src="{{ content.blog_author.avatar }}" height="60" loading="lazy" alt="Image of {{ content.blog_author.display_name }}">
+              </div>
+            {% endif %}
+            <div class="blog-author__name">
+              <h5>{{ content.blog_author.display_name }}</h5>
+            </div>
+          </div>
+        {% endif %}
+        {# End author #}
+
+        {# Date #}
+        {% if module.publish_date %}
+          <div class="blog-index{{ list_type }}__post__date">
+            <time datetime="{{ content.publish_date }}">{{ content.publish_date_localized }}</time>
+          </div>
+        {% endif %}
+        {# End date #}
+
+        {# Title #}
+        {% if module.post_title %}
+          <h3 class="blog-index{{ list_type }}__post-content__title">
+            <a href="{{ content.absolute_url }}">{{ content.name }}</a>
+          </h3>
+        {% endif %}
+        {# End title #}
+
+        {# Summary #}
+        {# This checks to see if a user is opted into the blog listing editing experience. If they are it uses the conditional from the module. If they are not it uses the conditional from blog settings #}
+        {% if blog.listing_page_id %}
+          {% if module.description %}
+            <div class="blog-summary">
+              {{ content.post_list_content|truncatehtml(150) }}
+            </div>
+          {% endif %}
+        {% else %}
+          {% if content_group.show_summary_in_listing %}
+            <div class="blog-summary">
+              {{ content.post_list_content|truncatehtml(150) }}
+            </div>
+          {% endif %}
+        {% endif %}
+        {# End summary #}
+
+        {# Read more button #}
+        {% if module.read_more %}
+          <a class="button button--simple" href="{{ content.absolute_url }}"> {{ module.read_more_text }} </a>
+        {% endif %}
+        {# End read more button #}
+
+      </div>
+      {# End article body #}
+
+    </article>
+    {# End blog listing article #}
+
+  {% endfor %}
+</section>

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Попередні посади",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Виберіть блог для перенесення публікацій",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Кількість публікацій для перенесення",
+    "description": "",
+    "placeholders": null
+  }
+}

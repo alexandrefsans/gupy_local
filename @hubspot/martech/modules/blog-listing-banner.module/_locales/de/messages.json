@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Blog-Listing-Banner",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Standardstil überschreiben",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Bild",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Farbverlauf",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Hintergrundtyp",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Hintergrundbild",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Farbe 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Farbe 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Farbverläufe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiloptionen",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Wert in Pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Links/rechts",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Auffüllung",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Wert in Pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Oben/Unten",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Untertitelfarbe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Titelfarbe",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Wenn kein Untertiteltext angegeben wird, wird automatisch die Blog-Meta-Beschreibung von den Blog-Einstellungen angezeigt.",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Untertitel",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Wenn kein Titeltext angegeben wird, wird automatisch der Blog-Titel von den Blog-Einstellungen angezeigt.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}

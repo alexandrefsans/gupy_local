@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Senaste inläggen",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Välj blogg att hämta inlägg från",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Antal inlägg att hämta",
+    "description": "",
+    "placeholders": null
+  }
+}

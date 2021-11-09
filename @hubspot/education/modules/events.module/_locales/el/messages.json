@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Εκδηλώσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Διεύθυνση",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Ημερομηνία και ώρα",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Εικονίδιο εκδήλωσης",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Εκδηλώσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Σύνδεσμος",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Περισσότερες λεπτομέρειες",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Κείμενο συνδέσμου",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "ΕΞΑΜΗΝΙΑΙΟ ΕΚΠΑΙΔΕΥΤΙΚΙ ΓΚΑΛΑ",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Tίτλος",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Περιεχόμενο επικεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Εικονίδιο επικεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Σύνδεσμος επικεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Προβολή όλων",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Κείμενο συνδέσμου επικεφαλίδας",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Επερχόμενες εκδηλώσεις",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Επικεφαλίδα",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Основно меню",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Цвят",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Долна граница",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Прекъсвана",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "С пунктир",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Двойна",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Groove",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Inset",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Без",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Outset",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Ridge",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Плътна",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Стил",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Стойността е в пиксели",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Ширина",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Съдържание",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Елементите на менюто автоматично се създават, когато се добави модулът „Основен раздел“ към страницата",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заглавие",
+    "description": "",
+    "placeholders": null
+  }
+}

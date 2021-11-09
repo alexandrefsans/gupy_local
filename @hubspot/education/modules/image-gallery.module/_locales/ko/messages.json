@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "이미지 갤러리",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "캠퍼스 내 기숙사 건물",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "정확한",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "이미지",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Korttivalinta",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Painikelinkki",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Lue lisää",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Painiketeksti",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Kuva",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kortti",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontekstuaalinen mainonta voi olla tuottoisaa. Sillä voi maksaa joko sivuston ylläpito- ja hallinnointikulut tai paljon enemmänkin.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Teksti",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Tämä on työnimike",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  }
+}

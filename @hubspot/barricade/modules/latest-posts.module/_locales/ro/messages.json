@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Postări recente",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Selectare blog pentru obținerea postărilor",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Număr de postări de obținut",
+    "description": "",
+    "placeholders": null
+  }
+}

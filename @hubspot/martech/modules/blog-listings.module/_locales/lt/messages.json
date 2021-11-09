@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Tinklaraščių sąrašai",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Autorius",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Naudojant šiuos laukus galima pakeisti etiketes savo autorių sąrašo puslapiuose.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Tinklaraščio autorių sąrašas",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Įrašus sukūrė:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Paantraštė",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Naudojant šiuos laukus galima pakeisti etiketes savo žymų sąrašo puslapiuose.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Tinklaraščio žymų sąrašas",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Įrašai apie:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Paantraštė",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Aprašas",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Atrinktas vaizdas",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Kortelė",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Sąrašas",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Išdėstymo stilius",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Įrašo pavadinimas",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Publikavimo data",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Skaityti daugiau",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Skaityti daugiau",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Srities „Skaityti daugiau“ tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Žymės",
+    "description": "",
+    "placeholders": null
+  }
+}

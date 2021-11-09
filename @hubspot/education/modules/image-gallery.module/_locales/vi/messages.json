@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Thư viện hình ảnh",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Tòa nhà ký túc xá trong khuôn viên trường",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "chính xác",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Hình ảnh",
+    "description": "",
+    "placeholders": null
+  }
+}

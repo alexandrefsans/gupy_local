@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "الفَعالِيّات",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "التاريخ والوقت",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "أيقونة الفعالية",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "الفَعالِيّات",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "الرابط",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "نص الرابط",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "فعالية التعليم النصف سنوية",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "محتوى العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "أيقونة العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "رابط العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "عرض الكل",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "نص رابط العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "الفَعالِيّات القادمة",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Secțiune card",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Link buton",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Aflați mai multe",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Text buton",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Imagine",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Card",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Publicitatea contextuală poate fi profitabilă. Aceasta poate acoperi costurile de găzduire și mentenanță pentru site-ul web sau chiar mai multe costuri.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Text",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Acesta este un titlu",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Titlu",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Prati me",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Otvara poveznice u novom prozoru",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Zaglavlje modula",
+    "description": "",
+    "placeholders": null
+  }
+}

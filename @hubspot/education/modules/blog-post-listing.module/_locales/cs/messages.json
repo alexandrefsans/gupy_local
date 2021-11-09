@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Výpis příspěvků blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Vybrat blog",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Zobrazit vše",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Text tlačítka",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "Podle blogů a značek",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "Podle blogů",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "Filtrovat",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Text Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "Značka",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "V novinkách",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "Text nadpisu",
+    "description": "",
+    "placeholders": null
+  }
+}

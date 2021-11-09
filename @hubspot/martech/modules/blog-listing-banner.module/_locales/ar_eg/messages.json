@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "شعار قائمة المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "تجاوز النمط الافتراضي",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "الصورة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "التدرج اللوني",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "نوع الخلفية",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "صورة الخلفية",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "اللون 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "اللون 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "الألوان المتدرجة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "القيمة بالبكسل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "يسار/يمين",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "ترك مساحة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "القيمة بالبكسل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "أعلى/أسفل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "لون العنوان الفرعي",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "لون العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "إذا لم يتم توفير نص العنوان الفرعي، فسيقوم هذا بالتعيين الافتراضي إلى الوصف التعريفي لمدونتك من إعدادات المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "العنوان الفرعي",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "إذا لم يتم توفير نص العنوان، فسيقوم هذا بالتعيين الافتراضي إلى عنوان مدونتك من إعدادات المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  }
+}

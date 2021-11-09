@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Statystyka",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Włączenie tej opcji pozwoli na zastąpienie domyślnych stylów motywów. Wyłączenie tej opcji spowoduje ponowne połączenie modułu z domyślnymi stylami motywów.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Zastąp styl domyślny",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>Ocena satysfakcji klienta</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "Opis statystyki",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "Numer statystyczny",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "Procent statystyki",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "Jednostka statystyczna",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "Kolor paska",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "Kolor wypełnienia paska",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  }
+}

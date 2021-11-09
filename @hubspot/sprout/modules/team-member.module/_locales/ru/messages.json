@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Член команды",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.default": {
+    "message": "<p>Джошуа работает в отрасли высоких технологий уже более 20 лет. Он помог основать компанию в 2015 г. с целью способствовать росту других людей. В свободное время он любит заниматься со своими детьми, купаться и загорать на пляже, а также готовить.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "bio.label": {
+    "message": "Биографические данные",
+    "description": "",
+    "placeholders": null
+  },
+  "position.default": {
+    "message": "Исполнительный директор, соучредитель",
+    "description": "",
+    "placeholders": null
+  },
+  "position.label": {
+    "message": "Должность",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.default": {
+    "message": "Джошуа Бек",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_name.label": {
+    "message": "Имя",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Akordeon",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Size zaman kazandıracak ve işinizi büyütmenize yardımcı olacak sezgisel harika bir yazılımdan yararlanın.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "İçerik",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Varsayılan olarak genişletilmiş",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Nasıl harika bir şablon hazırlarım?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Bu seçeneğin etkinleştirilmesi, varsayılan tema stillerini geçersiz kılmanıza olanak tanır. Bu seçeneği devre dışı bırakmak, modülü varsayılan tema stillerine yeniden bağlayacaktır.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Varsayılan stili geçersiz kıl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Başlık rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Başlık rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Simge rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktif",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Başlık rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Simge rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Üzerine gel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Simge rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  }
+}

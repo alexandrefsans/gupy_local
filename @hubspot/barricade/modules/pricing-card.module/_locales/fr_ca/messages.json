@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Carte de prix",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Lien du bouton",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "S'inscrire gratuitement",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Texte du bouton",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Pour les équipes qui ont besoin d'une sécurité, d'un contrôle et d'un soutien supplémentaires.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Description du produit",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Caractéristiques de l'icône de liste",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 utilisateurs inclus",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Caractéristiques",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 $",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Prix",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Grand",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Normal",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Petit",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Taille des boutons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Primaire",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Secondaire",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Simple",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Style des boutons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Options de style",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratuit",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Niveau du produit",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/mo",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Prix et délais",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": {
+    "message": "Výber ponuky",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Pole primárnej ponuky",
+    "description": "",
+    "placeholders": null
+  }
+}

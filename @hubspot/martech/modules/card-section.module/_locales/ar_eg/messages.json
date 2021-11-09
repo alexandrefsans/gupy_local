@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "قسم البطاقات",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "رابط الزر",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "نص الزر",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "صورة",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "البطاقة",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "يمكن أن تكون الإعلانات السياقية مربحة. حيث يمكنها إما دفع تكاليف الاستضافة والصيانة لموقعك الإلكتروني أو يمكنها الدفع للمزيد.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "النص",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "هذا عنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Ссылка",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Значок ссылки",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Текст ссылки",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Цвета записи",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Записи блога из подборки",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Выберите блог, записи которого следует добавлять в подборку",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Выбрать блог",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Если в подборку требуется добавить только определенный тег из блога, выберите его здесь.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Выбрать тег",
+    "description": "",
+    "placeholders": null
+  }
+}

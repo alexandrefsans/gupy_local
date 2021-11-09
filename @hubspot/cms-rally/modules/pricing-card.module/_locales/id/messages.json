@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Mendaftar bebas biaya",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Teks tombol",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Untuk tim yang membutuhkan keamanan, kontrol, dan dukungan tambahan.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Deskripsi produk",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Menampilkan titik ikon berurutan",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "Dapat digunakan 10 pengguna",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Fitur",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Kartu Harga",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Harga",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Warna latar belakang",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Warna latar belakang tombol",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Warna teks tombol",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opsi gaya",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Bebas",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Kelompok produk",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ bln",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Jangka waktu harga",
+    "description": "",
+    "placeholders": null
+  }
+}

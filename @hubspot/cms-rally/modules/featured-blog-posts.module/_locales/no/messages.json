@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Kobling",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Lenkeikon",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Koblingstekst",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Innleggsfarger",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Utvalgte blogginnlegg",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Velg bloggen du ønsker å fremheve innlegg fra",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Velg blogg",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Hvis du bare ønsker å fremheve et bestemt merke fra bloggen din, velger du det her.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Velg merke",
+    "description": "",
+    "placeholders": null
+  }
+}

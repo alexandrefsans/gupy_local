@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "עקוב אחריי",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "פתח קישורים בחלון חדש",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "כותרת מודול",
+    "description": "",
+    "placeholders": null
+  }
+}

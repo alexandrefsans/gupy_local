@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Pagination du blogue",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Texte suivant",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Texte précédent",
+    "description": "",
+    "placeholders": null
+  }
+}

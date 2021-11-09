@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Haitari",
+    "description": "",
+    "placeholders": null
+  },
+  "content.default": {
+    "message": "Ota käyttöön intuitiivinen huippumahtava ohjelmisto, joka säästää sinulta aikaa ja auttaa yritystäsi kasvamaan.",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Sisältö",
+    "description": "",
+    "placeholders": null
+  },
+  "expanded.label": {
+    "message": "Oletuksena laajennettu",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Miten loistava malli luodaan?",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Kun otat tämän vaihtoehdon käyttöön, voit korvata oletusarvoiset teemat. Kun vaihtoehto poistetaan käytöstä, moduuli palaa oletusarvoisiin teemoihin.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Korvaa oletustyyli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accordion_color.label": {
+    "message": "Otsikon väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.accordion_color.label": {
+    "message": "Otsikon väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.icon_color.label": {
+    "message": "Kuvakkeen väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active.label": {
+    "message": "Aktiivinen",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.accordion_color.label": {
+    "message": "Otsikon väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.icon_color.label": {
+    "message": "Kuvakkeen väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.hover.label": {
+    "message": "Osoita",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_color.label": {
+    "message": "Kuvakkeen väri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tyyliasetukset",
+    "description": "",
+    "placeholders": null
+  }
+}

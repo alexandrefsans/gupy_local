@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Sezione Schede",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Immagine",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Scheda",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Scopri di più",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Scopri di più testo",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Scopri di più link",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "La pubblicità contestuale può essere redditizia. Può pagare per l'hosting e i costi di manutenzione del sito web o può pagare per molto altro.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Testo",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Questo è un titolo",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Titolo",
+    "description": "",
+    "placeholders": null
+  }
+}

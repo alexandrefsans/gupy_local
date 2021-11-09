@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Łącze",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Ikona łącza",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Tekst łącza",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Kolory wpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Wyróżnione wpisy na blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Wybierz blog, z którego chcesz wyświetlać wpisy",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Wybierz blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Jeśli chcesz umieścić na swoim blogu tylko konkretny tag, wybierz go tutaj.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Wybierz tag",
+    "description": "",
+    "placeholders": null
+  }
+}

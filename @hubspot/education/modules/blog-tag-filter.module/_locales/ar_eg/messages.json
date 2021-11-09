@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "عامل تصفية علامة المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "تصفية حسب العلامة",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "نص التسمية",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "الجميع",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "نص العنصر النائب",
+    "description": "",
+    "placeholders": null
+  }
+}

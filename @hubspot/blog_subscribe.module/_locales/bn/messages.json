@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "ব্লগের ইমেল সাবস্ক্রিপশন",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "যখন কোনও ব্লগ টেমপ্লেটে ব্যবহার করা হবে ডিফল্ট বর্তমান ব্লগটি ব্যবহার করবে অথবা যখন অন্যত্র ব্যবহৃত হবে তখন প্রাথমিক ব্লগ ব্যবহার করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "এখানে সাবস্ক্রাইব করুন!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "প্রদর্শন করার জন্য ব্লগ নির্বাচন করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "ব্যবহারকারীদের জন্য ইনলাইন উত্তর",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "সাবস্ক্রাইব করার জন্য ধন্যবাদ!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "ফর্মের উপরে প্রদর্শনের জন্য শিরোনাম",
+    "description": "",
+    "placeholders": null
+  }
+}

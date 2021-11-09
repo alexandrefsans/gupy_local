@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Menyavsnitt",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "Duplicerad mobilmeny",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Primärt menyfält",
+    "description": "",
+    "placeholders": null
+  }
+}

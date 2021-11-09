@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Nuutste plasings",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Kies blog om plasings van te trek",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Aantal plasings om te trek",
+    "description": "",
+    "placeholders": null
+  }
+}

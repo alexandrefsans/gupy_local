@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Bannière du répertoire de blogues",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Remplacer le style par défaut",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Image",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Dégradé de couleurs",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Type de fond",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Image de fond",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Couleur 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Couleur 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Couleurs dégradées",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Options de style",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "La valeur est en pixels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Gauche/Droite",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Marge intérieure",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "La valeur est en pixels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Haut/Bas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Couleur des sous-titres",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Couleur du titre",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Si aucun texte de sous-titre n'est fourni, il s'agira par défaut de la méta-description de votre blog dans les paramètres du blog.",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Sous-titre",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Si aucun texte de titre n'est fourni, il s'agira par défaut du titre de votre blog dans les paramètres du blog.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titre",
+    "description": "",
+    "placeholders": null
+  }
+}

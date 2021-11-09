@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Последние записи",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Выберите блог для извлечения записей",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Число записей для извлечения",
+    "description": "",
+    "placeholders": null
+  }
+}

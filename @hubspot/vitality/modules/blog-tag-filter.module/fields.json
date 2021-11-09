@@ -1,0 +1,9 @@
+[
+  {
+    "label": "All articles text",
+    "name": "all_articles_text",
+    "type": "text",
+    "required" : true,
+    "default": "All Articles"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Registrera dig gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knapptext",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "För team som behöver extra säkerhet, kontroll och support.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Produktbeskrivning",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Med ikon för punktlista",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 användare ingår",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Egenskaper",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Prissättningskort",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Pris",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Bakgrundsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Knapps bakgrundsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Knapps textfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Produktnivå",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/mån",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Pristidsram",
+    "description": "",
+    "placeholders": null
+  }
+}

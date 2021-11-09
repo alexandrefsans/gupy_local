@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Blogbejegyzés szalagja",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Alapértelmezett stílus felülírása",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Kép",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Színátmenet",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Háttér típusa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Háttér képe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "1. szín",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "2. szín",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Gradiens színek",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stílusbeállítások",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Érték pixelben kifejezve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Bal/Jobb",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Kitöltés",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Érték pixelben kifejezve",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Felső/Alsó",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Felirat színe",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Cím színe",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Ha nincs megadva feliratszöveg, ez alapértelmezetten a blog metaleírása lesz a blogbeállításokból",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Felirat",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Ha nincs megadva címszöveg, ez alapértelmezetten a blog címe lesz a blogbeállításokból",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Cím",
+    "description": "",
+    "placeholders": null
+  }
+}

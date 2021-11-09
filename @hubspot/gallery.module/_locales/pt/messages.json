@@ -1,0 +1,152 @@
+{
+  "auto_advance.label": {
+    "message": "Avanço automático",
+    "description": null,
+    "placeholders": null
+  },
+  "caption_position.choices.below": {
+    "message": "Manter sempre as legendas por baixo da imagem",
+    "description": null,
+    "placeholders": null
+  },
+  "caption_position.choices.superimpose": {
+    "message": "Sobrepor legendas sobre as imagens",
+    "description": null,
+    "placeholders": null
+  },
+  "caption_position.label": {
+    "message": "Posição da legenda",
+    "description": null,
+    "placeholders": null
+  },
+  "caption_position.placeholder": {
+    "message": "Pesquisa",
+    "description": null,
+    "placeholders": null
+  },
+  "display_mode.choices.lightbox": {
+    "message": "Galeria da Lightbox",
+    "description": null,
+    "placeholders": null
+  },
+  "display_mode.choices.standard": {
+    "message": "Controlo de deslize padrão",
+    "description": null,
+    "placeholders": null
+  },
+  "display_mode.choices.thumbnail": {
+    "message": "Navegação de miniaturas",
+    "description": null,
+    "placeholders": null
+  },
+  "display_mode.label": {
+    "message": "Modo de apresentação",
+    "description": null,
+    "placeholders": null
+  },
+  "display_mode.placeholder": {
+    "message": "Pesquisa",
+    "description": null,
+    "placeholders": null
+  },
+  "lightboxRows.label": {
+    "message": "Filas para a galeria da Lightbox",
+    "description": null,
+    "placeholders": null
+  },
+  "lightboxrows.label": {
+    "message": "Linhas para galeria do Lightbox",
+    "description": null,
+    "placeholders": null
+  },
+  "loop_slides.label": {
+    "message": "Diapositivos em série",
+    "description": null,
+    "placeholders": null
+  },
+  "num_seconds.label": {
+    "message": "Tempo em segundos entre o deslocamento automático",
+    "description": null,
+    "placeholders": null
+  },
+  "show_pagination.label": {
+    "message": "Mostrar botões de navegação",
+    "description": null,
+    "placeholders": null
+  },
+  "sizing.choices.resize": {
+    "message": "Altura variável",
+    "description": null,
+    "placeholders": null
+  },
+  "sizing.choices.static": {
+    "message": "Altura fixa",
+    "description": null,
+    "placeholders": null
+  },
+  "sizing.label": {
+    "message": "Altura variável",
+    "description": null,
+    "placeholders": null
+  },
+  "sizing.placeholder": {
+    "message": "Pesquisa",
+    "description": null,
+    "placeholders": null
+  },
+  "slides.caption.label": {
+    "message": "Legenda",
+    "description": null,
+    "placeholders": null
+  },
+  "slides.img.label": {
+    "message": "Imagem",
+    "description": null,
+    "placeholders": null
+  },
+  "slides.label": {
+    "message": "Diapositivo",
+    "description": null,
+    "placeholders": null
+  },
+  "slides.link_url.label": {
+    "message": "URL de ligação",
+    "description": null,
+    "placeholders": null
+  },
+  "slides.open_in_new_tab.label": {
+    "message": "Abrir a ligação num novo separador",
+    "description": null,
+    "placeholders": null
+  },
+  "slides.show_caption.label": {
+    "message": "Mostrar legenda",
+    "description": null,
+    "placeholders": null
+  },
+  "transition.choices.fade": {
+    "message": "Desvanecer",
+    "description": null,
+    "placeholders": null
+  },
+  "transition.choices.slide": {
+    "message": "Diapositivo",
+    "description": null,
+    "placeholders": null
+  },
+  "transition.label": {
+    "message": "Transições de diapositivos",
+    "description": null,
+    "placeholders": null
+  },
+  "transition.placeholder": {
+    "message": "Pesquisa",
+    "description": null,
+    "placeholders": null
+  },
+  "name": {
+    "message": "Galeria de imagens",
+    "description": null,
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Odjeljak kartice",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kartica",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Saznajte više",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Tekst Saznajte više",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Veza Saznajte više",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontekstualno oglašavanje može biti unosno. Na taj način možete platiti troškove hostinga i održavanja web-mjesta ili još mnogo više.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Tekst",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Ovo je naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

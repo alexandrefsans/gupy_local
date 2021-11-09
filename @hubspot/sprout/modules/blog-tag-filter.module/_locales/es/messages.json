@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filtro de etiquetas del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Explorar por",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Texto de la etiqueta",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Todo",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Texto del parámetro de sustitución",
+    "description": "",
+    "placeholders": null
+  }
+}

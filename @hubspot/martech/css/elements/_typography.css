@@ -1,0 +1,120 @@
+body {
+  line-height: 1.5;
+  word-break: break-word;
+}
+
+html[lang^='ja'] body,
+html[lang^='zh'] body,
+html[lang^='ko'] body {
+  line-break: strict;
+  word-break: break-all;
+}
+
+/* Paragraphs */
+
+p {
+  margin-bottom: 1.5rem;
+  margin-top: 0;
+}
+
+p.lead,
+p.intro {
+  font-size: 1.25rem;
+}
+
+/* Anchors */
+
+a {
+  transition: color 0.1s ease-in;
+}
+
+a.button:disabled {
+  pointer-events: none;
+}
+
+/* Headings */
+
+h1 {
+  -webkit-font-smoothing: antialiased;
+  font-size: 48px;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: 25px;
+  line-height: 1.2;
+}
+
+h4 {
+  font-size: 20px;
+  margin-bottom: 1.5rem;
+}
+
+h5 {
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+h6 {
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+/* Lists */
+
+ul {
+  list-style-type: disc;
+}
+
+ul li,
+ol li {
+  line-height: 1.5rem;
+}
+
+ul.no-list {
+  list-style: none;
+}
+
+/* Blockquote */
+
+blockquote {
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* Horizontal Rules */
+
+hr {
+  border: 0 none;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
+code {
+  vertical-align: bottom;
+}
+
+sup,
+sub {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}

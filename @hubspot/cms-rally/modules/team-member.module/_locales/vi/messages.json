@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Thành viên nhóm",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>CEO, Nhà đồng sáng lập</p><p>Joshua có hơn 20 năm kinh nghiệm trong ngành công nghệ. Anh đã góp sức mở công ty này vào năm 2015 với sứ mệnh giúp mọi người phát triển. Vào thời gian rảnh, anh thích chơi đùa với các con, ra biển và nấu ăn.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Nội dung thành viên nhóm",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Hình ảnh thành viên nhóm",
+    "description": "",
+    "placeholders": null
+  }
+}

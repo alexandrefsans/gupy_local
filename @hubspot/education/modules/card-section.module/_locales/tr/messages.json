@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Kart bölümü",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "İçerik",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Bağlantı",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Daha fazla bilgi edin",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Bağlantı metni",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Açıklama",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Başarınızı önemseyen öğretmenler",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Bir sınıf dersi",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Görüntü",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Simge",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Görüntü ve simge",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Bu seçeneğin etkinleştirilmesi, varsayılan tema stillerini geçersiz kılmanıza olanak tanır. Bu seçeneği devre dışı bırakmak, modülü varsayılan tema stillerine yeniden bağlayacaktır.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Varsayılan stili geçersiz kıl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Vurgu rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Simge dolgu rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,16 @@
+.hs-facebook-spinner {
+  background: #4267b2;
+  border-radius: 5px;
+  color: white;
+  height: 40px;
+  text-align: center;
+  width: 250px;
+}
+
+.hs-membership-social-container {
+  text-align: center;
+}
+
+.hs-membership-social {
+  display: inline-block;
+}

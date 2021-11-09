@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "عنوان قسم العمود",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "يتيح لك تمكين هذا الخيار تجاوز أنماط السمات الافتراضية. وسيؤدي تعطيل هذا الخيار إلى إعادة توصيل الوحدة بأنماط السمة الافتراضية.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "تجاوز النمط الافتراضي",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "اللون",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "عنوان القسم",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "يجب أن يصف عنوان القسم خاصتك القسم الخاص بك ويجب أن يكون فريدًا عن عناوين الأقسام الأخرى في الصفحة. وسيتم إضافة العنوان تلقائيًا إلى القائمة في وحدة \"قائمة العمود\".",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  }
+}

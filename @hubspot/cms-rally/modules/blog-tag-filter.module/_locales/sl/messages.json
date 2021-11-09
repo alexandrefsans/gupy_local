@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filter oznake spletnega dnevnika",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filtriraj po oznaki",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Nalepka je vizualno skrita, vendar se uporablja za bralnike zaslona, da vzdržuje polje dostopno",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Besedilo nalepke",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Vse",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Besedilo nadomestni znak",
+    "description": "",
+    "placeholders": null
+  }
+}

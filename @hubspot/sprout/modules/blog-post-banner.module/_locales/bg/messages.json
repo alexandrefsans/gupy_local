@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Банер на публикация в блог",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "Икона на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Назад към блога",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Текст на бутон",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Персонализиран цвят на фон",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Персонализирано фоново изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Изображение за публикация",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Какъв тип банер бихте искали да използвате?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Цвят на фон",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Фоново изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Отстояние",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Стойността е в пиксели",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Горе/долу",
+    "description": "",
+    "placeholders": null
+  }
+}

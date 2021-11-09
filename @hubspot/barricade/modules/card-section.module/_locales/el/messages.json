@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Ενότητα κάρτας",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Εικόνα",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Κάρτα",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Περισσότερες λεπτομέρειες",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Κείμενο για περισσότερες λεπτομέρειες",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Σύνδεσμος για περισσότερες λεπτομέρειες",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Η διαφήμιση βάσει περιεχομένου μπορεί να είναι επικερδής. Μπορεί είτε να πληρώσει για το κόστος φιλοξενίας και συντήρησης για τον ιστότοπό σας ή και για πολύ περισσότερα.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Κείμενο",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Αυτός είναι ένας τίτλος",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Tίτλος",
+    "description": "",
+    "placeholders": null
+  }
+}

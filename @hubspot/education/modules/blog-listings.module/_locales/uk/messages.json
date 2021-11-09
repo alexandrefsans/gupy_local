@@ -1,0 +1,87 @@
+{
+  "name": {
+    "message": "Переліки блогів",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Автор",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Ці поля дозволяють змінювати мітки на сторінках переліку тегів.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Перелік тегів блогу",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Публікації про:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Підзаголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Опис",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Вибране зображення",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Картка",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Перелік",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Стиль розмітки",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Заголовок публікації",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Дата публікації",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Додаткова інформація",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Додаткова інформація",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Текст додаткової інформації",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Теги",
+    "description": "",
+    "placeholders": null
+  }
+}

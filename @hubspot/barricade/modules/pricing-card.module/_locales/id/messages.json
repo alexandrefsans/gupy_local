@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Kartu Harga",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "Tautan tombol",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Daftar gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Teks tombol",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Untuk tim yang membutuhkan keamanan, kontrol, dan dukungan tambahan.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Deskripsi produk",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Menampilkan titik ikon daftar",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 pengguna di dalamnya",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Fitur",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Harga",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "Besar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "Reguler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "Kecil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "Ukuran tombol",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "Utama",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "Sekunder",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "Sederhana",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "Model tombol",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Pilihan model",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Kelompok Produk",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ bln",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Jangka waktu harga",
+    "description": "",
+    "placeholders": null
+  }
+}

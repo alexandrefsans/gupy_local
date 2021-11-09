@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Tirez parti de ce logiciel intuitif super génial qui vous fera gagner du temps et sauvera votre entreprise. Promis.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Description des caractéristiques",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Icône",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Couleur de fond",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Couleur de la bordure",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Couleur",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Icône mise en vedette",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Image mise en vedette",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Icône",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Image",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Aucun",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Image/icône en vedette",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Simple et rapide",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Titre mise en vedette",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Caractéristique",
+    "description": "",
+    "placeholders": null
+  }
+}

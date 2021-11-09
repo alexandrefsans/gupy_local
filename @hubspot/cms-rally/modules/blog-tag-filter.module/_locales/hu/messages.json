@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Blogcímke szűrője",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Szűrés címke szerint",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "A címke vizuálisan el van rejtve, de a képernyőolvasók arra használják, hogy hozzáférhető maradjon a mező",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Címke szövege",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Összes",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Helyőrző szöveg",
+    "description": "",
+    "placeholders": null
+  }
+}

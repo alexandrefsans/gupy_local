@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "הפוסטים האחרונים",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "בחר בלוג שממנו יש לשלוף פוסטים",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "מספר הפוסטים שיש לשלוף",
+    "description": "",
+    "placeholders": null
+  }
+}

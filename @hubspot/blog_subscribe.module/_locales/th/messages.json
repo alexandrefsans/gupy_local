@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "การติดตามบล็อกทางอีเมล",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "ค่าเริ่มต้นจะใช้บล็อกปัจจุบันเมื่อใช้ในเทมเพลตบล็อก หรือบล็อกพื้นฐานเมื่อใช้ในส่วนอื่นๆ",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "ติดตามได้ที่นี่!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "เลือกบล็อกที่จะแสดง",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "การตอบผู้ใช้ทีละคำถาม",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "ขอบคุณสำหรับการติดตาม!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "หัวข้อบนแบบฟอร์ม",
+    "description": "",
+    "placeholders": null
+  }
+}

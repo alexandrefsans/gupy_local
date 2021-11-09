@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Logo galerisi",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Tanıyan",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora logosu",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logo görüntüleri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Başlık arka plan rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Başlık ön plan rengi",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stil seçenekleri",
+    "description": "",
+    "placeholders": null
+  }
+}

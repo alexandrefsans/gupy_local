@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Subscripció al correu electrònic del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "El valor per defecte utilitzarà el blog actual quan es faci servir en una plantilla de blog o el blog principal quan es faci servir en qualsevol altre lloc.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Subscriu-te aquí!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Selecciona el blog per mostrar",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Resposta en línia per als usuaris",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Gràcies per subscriure-t'hi!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Títol per mostrar a sobre del formulari",
+    "description": "",
+    "placeholders": null
+  }
+}

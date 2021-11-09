@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "כרטיס תמחור",
+    "description": "",
+    "placeholders": null
+  },
+  "button_link.label": {
+    "message": "קישור ללחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "הירשם בחינם",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "טקסט לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "לצוותים שזקוקים לאבטחה, שליטה ותמיכה נוספות.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "תיאור מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "תבליט סמל של רשימת תכונות",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 משתמשים כלולים",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "תכונות",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 ש\"ח",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "מחיר",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.large": {
+    "message": "גדול",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.regular": {
+    "message": "רגיל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.choices.small": {
+    "message": "קטן",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_size.label": {
+    "message": "גודל לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.primary": {
+    "message": "ראשי",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.secondary": {
+    "message": "משני",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.choices.simple": {
+    "message": "פשוט",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_type.label": {
+    "message": "סגנון לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "חינם",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "רמת מוצר",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "לחודש",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "מסגרת זמן של מחיר",
+    "description": "",
+    "placeholders": null
+  }
+}

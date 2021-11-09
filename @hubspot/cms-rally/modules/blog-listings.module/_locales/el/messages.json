@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Καταχωρήσεις ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Συντάκτης",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Αυτά τα πεδία σας επιτρέπουν να αλλάξετε τις ετικέτες στις σελίδες σας καταχώρησης συντάκτη.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Καταχώρηση συντάκτη ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Αναρτήσεις από",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Δευτερεύουσα επικεφαλίδα",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Αυτά τα πεδία σας επιτρέπουν να αλλάξετε τις ετικέτες στις σελίδες σας καταχώρησης ετικέτας.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Καταχώρηση ετικέτας ιστολογίου",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Αναρτήσεις σχετικά με",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Δευτερεύουσα επικεφαλίδα",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Περιγραφή",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Προτεινόμενη εικόνα",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Κάρτα",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Λίστα",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Στυλ διάταξης",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Τίτλος ανάρτησης",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Ημερομηνία δημοσίευσης",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Διαβάστε περισσότερα",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Διαβάστε περισσότερα",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Κείμενο για διάβασμα περισσότερων",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Ετικέτες",
+    "description": "",
+    "placeholders": null
+  }
+}

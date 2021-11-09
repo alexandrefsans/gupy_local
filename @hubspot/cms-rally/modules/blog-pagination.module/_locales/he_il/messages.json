@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "עימוד הבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "הטקסט הבא",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "הטקסט הקודם",
+    "description": "",
+    "placeholders": null
+  }
+}

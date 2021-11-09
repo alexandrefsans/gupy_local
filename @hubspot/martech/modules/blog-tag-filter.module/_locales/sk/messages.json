@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filter značky blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Prehliadať podľa",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Text štítka",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Všetko",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Text zástupného symbolu",
+    "description": "",
+    "placeholders": null
+  }
+}

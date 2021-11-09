@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Абонамент за имейл от блог",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "По подразбиране ще използваме настоящия блог, когато се използва в шаблон на блог, или основния блок, когато се използва на друго място.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Абонирайте се тук!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Изберете блог за показване",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Вграден отговор за потребители",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Благодарим ви, че се абонирате!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заглавие, което се показва над формуляра",
+    "description": "",
+    "placeholders": null
+  }
+}

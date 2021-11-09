@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Избор на карта",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Карта",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.default": {
+    "message": "Научете повече",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more.label": {
+    "message": "Текст на научете повече",
+    "description": "",
+    "placeholders": null
+  },
+  "card.learn_more_link.label": {
+    "message": "Връзка на научете повече",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Контекстната реклама може да е печеливша. Може да плати за хостинга и поддръжката на вашия уеб сайт или дори за много повече.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Текст",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Това е заглавие",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Заглавие",
+    "description": "",
+    "placeholders": null
+  }
+}

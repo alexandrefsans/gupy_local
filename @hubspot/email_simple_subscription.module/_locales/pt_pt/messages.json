@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "Anular a subscrição da cópia de segurança",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Texto do botão",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Anular a subscrição de e-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.label": {
+    "message": "Texto do marcador de posição de entrada de e-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.default": {
+    "message": "O seu endereço de e-mail:",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Anular a subscrição",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.default": {
+    "message": "email@example.com",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Cabeçalho",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.label": {
+    "message": "Texto de ajuda de entrada de e-mail",
+    "description": "",
+    "placeholders": null
+  }
+}

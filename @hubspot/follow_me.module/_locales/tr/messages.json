@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Beni takip et",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Bağlantıları yeni pencerede aç",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Modül başlığı",
+    "description": "",
+    "placeholders": null
+  }
+}

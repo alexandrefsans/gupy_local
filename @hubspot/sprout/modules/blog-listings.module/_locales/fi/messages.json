@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Blogilistaukset",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Luoja",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Näiden kenttien avulla voit muuttaa kirjoittajaluettelosivujen otsakkeita.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Blogin kirjoittajaluettelo",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Postaukset kirjoittajalta",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Alaotsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Näiden kenttien avulla voit muuttaa tunnisteluettelosivujen otsakkeita.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Blogin tunnisteluettelo",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Postaukset aiheesta",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Alaotsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "comments.label": {
+    "message": "Kommentit",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.default": {
+    "message": "Kommentit",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.label": {
+    "message": "Kommenttiteksti",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Kuvaus",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Esiteltävä kuva",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Kortti",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Luettelo",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Asettelutyyli",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Julkaisun otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Julkaisupäivä",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Lue lisää",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Lisää aiheesta",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Lisää aiheesta -teksti",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Tunnisteet",
+    "description": "",
+    "placeholders": null
+  }
+}

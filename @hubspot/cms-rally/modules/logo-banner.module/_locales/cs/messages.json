@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Pomohli jsme společnostem jako:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Text záhlaví",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Sem nahrajte obrázky log",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Obrázky log",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Banner s logem",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Barva pozadí banneru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Barva popředí banneru",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti stylů",
+    "description": "",
+    "placeholders": null
+  }
+}

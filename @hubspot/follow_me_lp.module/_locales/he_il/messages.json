@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "מרכז",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "שמאל",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "ימין",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "יישור",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "חיפוש",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "שחור-לבן",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "צבע",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "אפור",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "לבן",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "מותאם אישית",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "תוכנית צבע",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "חיפוש",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "בחר צבע מותאם אישית",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "סמל וטקסט",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "טקסט בלבד",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "תצוגה",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "סגנון גופן",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "מעוגל",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "מקורי",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "ריבוע",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "צורת סמל",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "חיפוש",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "עקוב אחריי - LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "קנה מידה",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "רשת חברתית",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "כתובת URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "סמל מותאם אישית",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "דוא\"ל",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "אתר אינטרנט",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "רשת",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "תמונת רשת",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "טקסט תומך",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "מרווח",
+    "description": "",
+    "placeholders": null
+  }
+}

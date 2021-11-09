@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "Ρυθμιστικό μαρτυρίας",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Η ενεργοποίηση αυτής της επιλογής θα σας επιτρέψει να παρακάμψετε τα προεπιλεγμένα στυλ θέματος. Η απενεργοποίηση αυτής της επιλογής θα επανασυνδέσει τη λειτουργική μονάδα στα προεπιλεγμένα στυλ θέματος.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Παράκαμψη προεπιλεγμένου στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Επιλογές στυλ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "Χρώμα ενεργού περιήγησης",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "Χρώμα περιήγησης",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.default.alt": {
+    "message": "Εικόνα κράτησης θέσης",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.label": {
+    "message": "Εικόνα συντάκτη",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.default": {
+    "message": "Αγνή Κυριαζή",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.label": {
+    "message": "Όνομα συντάκτη",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.label": {
+    "message": "Συντάκτης",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.default": {
+    "message": "<h4>\"Οι πελάτες μας αυξήθηκαν κατά 310%!\"</h4><p>Η ομάδα Ράλι αντιμετώπιζε την επιχείρησή μας σαν να ήταν δική της. Αντιμετώπισαν το ζήτημα με θάρρος, γνώση και ενσυναίσθηση. Τους συνιστώ ΑΝΕΠΙΦΥΛΑΚΤΑ σε όλους.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.label": {
+    "message": "Κείμενο μαρτυρίας",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.label": {
+    "message": "Μαρτυρίες",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.default.alt": {
+    "message": "Εικόνα κράτησης θέσης",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.label": {
+    "message": "Εικόνα μαρτυρίας",
+    "description": "",
+    "placeholders": null
+  }
+}

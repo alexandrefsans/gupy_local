@@ -1,0 +1,58 @@
+.icon-card {
+  box-shadow: 0 11px 35px 8px rgba(0, 0, 0, 0.17);
+}
+
+@media (max-width: 767px) {
+  .icon-card {
+    margin-bottom: 1.5rem;
+  }
+}
+
+.icon-card__upper {
+  width: 100%;
+  height: 220px;
+}
+
+.icon-card__image {
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  width: 100%;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .icon-card__upper,
+  .icon-card__image {
+    display: block;
+    height: auto;
+  }
+}
+
+.icon-card__title {
+  padding-top: 2rem;
+  text-align: center;
+}
+
+.icon-card__icon {
+  background-color: #00cb66;
+  height: 42px;
+  margin: 0 auto;
+  width: 42px;
+}
+
+.icon-card__icon svg {
+  fill: #fff;
+  max-width: 100%;
+  padding: 12px;
+}
+
+.icon-card__lower {
+  border-top: 12px solid #00cb66;
+  padding: 0 2rem;
+}
+
+.icon-card__link {
+  display: block;
+  padding-bottom: 2rem;
+  text-align: center;
+}

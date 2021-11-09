@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Udnyt den intuitive superseje software, som sparer dig tid og som vil redde din forretning. Vi lover det.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Beskrivelse af funktion",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Baggrundsfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Kantfarve",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Farve",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ikon for funktion",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Vis billede",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Billede",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Ingen",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Vist billede/ikon",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Hurtigt og enkelt",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Vis titel",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Funktion",
+    "description": "",
+    "placeholders": null
+  }
+}

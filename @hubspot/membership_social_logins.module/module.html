@@ -1,0 +1,67 @@
+<div class="hs-membership-social-container">
+{% if module.facebook_enabled %}
+  <div class="hs-membership-social">
+    {{ require_js("https://connect.facebook.net/en_US/sdk.js", "footer") }}
+    <div class="hs-facebook-login" data-appid="{{ module.facebook_appid }}"></div>
+
+    <form class="hs-facebook-login-form" method="post" action="/_hcms/mem/social/facebook" style="margin:0px">
+      <input class="hs-facebook-access-token" type="hidden" name="accessToken" />
+      <input class="hs-facebook-user-id" type="hidden" name="userId" />
+      <input type="hidden" name="redirect" value="{{ membership_login_redirect }}" />
+    </form>
+    <div class="hs-facebook-spinner">
+      Loading
+      <div
+      class="fb-login-button"
+      data-max-rows="1"
+      data-size="large"
+      data-button-type="login_with"
+      onlogin="onFacebookLogin()"
+      data-scope="email"
+      ></div>
+    </div>
+    <script type="text/javascript">
+      function onFacebookLogin() {
+          FB.getLoginStatus(function(response) {
+              if (response.authResponse !== null) {
+                document.querySelectorAll('.hs-facebook-user-id').forEach(function(input) {
+                    input.value = response.authResponse.userID;
+                });
+                document.querySelectorAll('.hs-facebook-access-token').forEach(function(input) {
+                    input.value = response.authResponse.accessToken;
+                });
+              }
+              document.getElementsByClassName("hs-facebook-login-form")[0].submit();
+          }); 
+      }
+    </script>
+  </div>
+{% endif %}
+
+{% if module.google_enabled %}
+  <div class="hs-membership-social">
+    {{ require_js("https://apis.google.com/js/platform.js", "footer") }}
+    {% require_head %}
+      <meta name="google-signin-client_id" content="{{ module.google_clientid }}.apps.googleusercontent.com">
+    {% end_require_head %}
+    
+
+    <form class="hs-google-login-form" method="post" action="/_hcms/mem/social/google?clientId={{ module.google_clientid }}">
+      <input class="hs-google-id-token" type="hidden" name="googleIdToken" />
+      <input type="hidden" name="redirect" value="{{ membership_login_redirect }}" />
+    </form>
+    <div class="g-signin2" data-onsuccess="onSignIn"></div>
+    <script type="text/javascript">
+      function onSignIn(googleUser) {
+        // logout to prevent login loop because Google automatically calls this function if logged in
+        gapi.auth2.getAuthInstance().disconnect();
+        document.querySelectorAll('.hs-google-id-token').forEach(function(input) {
+          input.value =  googleUser.getAuthResponse().id_token;
+        });
+        document.getElementsByClassName("hs-google-login-form")[0].submit();
+      }
+    </script>
+  </div>
+
+{% endif %}
+</div>

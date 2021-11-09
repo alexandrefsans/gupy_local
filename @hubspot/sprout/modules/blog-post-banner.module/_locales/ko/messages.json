@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "블로그 게시물 배너",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "버튼 아이콘",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "블로그로 돌아가기",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "버튼 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "사용자 정의 배경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "사용자 정의 배경 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "주요 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "어떤 배너 유형을 사용하시겠습니까?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "배경색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "배경 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "채우기",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "값은 픽셀 단위입니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "상단/하단",
+    "description": "",
+    "placeholders": null
+  }
+}

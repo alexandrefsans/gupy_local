@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "দামের তালিকা ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "মাসিক বিলিং",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "বিলিং লেবেল",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "মূল্য নির্ধারণের বিকল্প এক",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "তালিকা ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "বোতাম লিঙ্ক",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "সাইন আপ করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "বোতাম টেক্সট",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "মুদ্রা ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>বিনামূল্যে সীমাহীন </strong>ডাউনলোড, আরও অনেক জিনিস! </p><ul><li>25 এমবি সর্বোচ্চ ফাইলের আকার</li> <li>2 গিগাবাইট ব্যান্ডউইথ</li><li> 15 সেকেন্ড স্ক্রিন রেকর্ডিং</li><li> 15 সেকেন্ড ওয়েবক্যাম ভিডিও রেকর্ডিং</li><li> ক্লাউড অ্যাপ ব্র্যান্ডিং</li><li> সীমাহীন টীকা</li><li> আনলিমিটেড ফাইল</li><li> ডেস্কটপ অ্যাপ সংহতকরণ</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "বর্ণনা",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "দাম ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "স্টার্টার",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "বার্ষিক বিলিং 15% বাঁচায় ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "বিলিং লেবেল",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "মূল্য বিকল্প দুই ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "তালিকা ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "বোতাম লিঙ্ক",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "সাইন আপ করুন ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "বোতাম টেক্সট",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "মুদ্রা ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>বিনামূল্যে সীমাহীন </strong>ডাউনলোড, আরও অনেক জিনিস! </p><ul><li>25 এমবি সর্বোচ্চ ফাইলের আকার </li><li>2 গিগাবাইট ব্যান্ডউইথ</li><li> 15 সেকেন্ড স্ক্রিন রেকর্ডিং</li><li> 15 সেকেন্ড ওয়েবক্যাম ভিডিও রেকর্ডিং</li><li> ক্লাউড অ্যাপ ব্র্যান্ডিং</li><li> সীমাহীন টীকা</li><li> আনলিমিটেড ফাইল</li><li> ডেস্কটপ অ্যাপ সংহতকরণ</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "বর্ণনা",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "দাম ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "এন্টারপ্রাইজ",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "এই বিকল্পটি সক্ষম করা আপনাকে ডিফল্ট থিম শৈলীর ওভাররাইড করতে দেয়। এই বিকল্পটি অক্ষম করা মডিউলটিকে ডিফল্ট থিম শৈলীতে ফের সংযুক্ত করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "ডিফল্ট শৈলী ওভাররাইড করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "সক্রিয় বিকল্পের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "শিরোনামের ব্যাকগ্রাউন্ডের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "শিরোনাম পাঠ্যের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  }
+}

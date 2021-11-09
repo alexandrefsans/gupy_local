@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Galerie logouri",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Recunoscut de",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Antet",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Logo Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Imagini logo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Culoare fundal banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Culoare prim-plan banner",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  }
+}

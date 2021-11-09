@@ -1,0 +1,21 @@
+<section class="team-member">
+  {% if module.team_member_image.src %}
+    {% set sizeAttrs = 'width="{{ module.team_member_image.width }}" height="{{ module.team_member_image.height }}"' %}
+    {% if module.team_member_image.size_type == 'auto' %}
+      {% set sizeAttrs = 'style="max-width: 100%; height: auto;"' %}
+    {% elif module.team_member_image.size_type == 'auto_custom_max' %}
+      {% set sizeAttrs = 'width="{{ module.team_member_image.max_width }}" height="{{ team_member_image.max_height }}" style="max-width: 100%; height: auto;"' %}
+    {% endif %}
+    {% set loadingAttr = module.team_member_image.loading != 'disabled' ? 'loading="{{ module.team_member_image.loading }}"' : '' %}
+    <img class="team-member__image" src="{{ module.team_member_image.src }}" alt="{{ module.team_member_image.alt }}" {{ sizeAttrs }} {{ loadingAttr }}>
+  {% endif %}
+  {% if module.team_member_name %}
+    <h3 class="team-member__name">{{ module.team_member_name }}</h3>
+  {% endif %}
+  {% if module.position %}
+    <p class="team-member__position">{{ module.position }}</p>
+  {% endif %}
+  {% if module.bio %}
+    <div class="team-member__bio">{{ module.bio }}</div>
+  {% endif %}
+</section>

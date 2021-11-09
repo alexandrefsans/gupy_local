@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Galleria immagini",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Dormitorio al campus",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "esatta",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Immagine",
+    "description": "",
+    "placeholders": null
+  }
+}

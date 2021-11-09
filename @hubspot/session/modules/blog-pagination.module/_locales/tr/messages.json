@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Blog sayfalandırma",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "Sonraki metin",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "Önceki metin",
+    "description": "",
+    "placeholders": null
+  }
+}

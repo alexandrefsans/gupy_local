@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "Vittnesmål diabild",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Om du aktiverar detta alternativ kan du skriva över standardtemastil. Om du inaktiverar detta alternativ återansluts modulen på nytt till standardtemastilar.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Skriv över standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "Navigering aktiv färg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "Navigeringsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.label": {
+    "message": "Författarens bild",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.default": {
+    "message": "Alan Dixon",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.label": {
+    "message": "Författares namn",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.label": {
+    "message": "Författare",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.default": {
+    "message": "<h3>Wow, det här är fantastiskt!</h3><p>Rally-teamet behandlade vår verksamhet som om den vore deras egen. De hanterade problemen med fasthet, kunskap och empati. Jag kan VARMT rekommendera dem till andra.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.label": {
+    "message": "Vittnesmålstext",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.label": {
+    "message": "Utlåtanden",
+    "description": "",
+    "placeholders": null
+  }
+}

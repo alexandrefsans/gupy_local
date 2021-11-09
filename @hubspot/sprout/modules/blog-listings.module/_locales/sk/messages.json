@@ -1,0 +1,122 @@
+{
+  "name": {
+    "message": "Zoznam blogov",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "Autor",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "Tieto polia vám umožňujú zmeniť štítky na vašich stránkach so záznamom autora.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "Záznam autora blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "Príspevky od",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "Podhlavička",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "Tieto polia vám umožňujú zmeniť štítky na vašich stránkach so záznamom značiek.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "Záznam značiek blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "Príspevky o",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "Podhlavička",
+    "description": "",
+    "placeholders": null
+  },
+  "comments.label": {
+    "message": "Poznámky",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.default": {
+    "message": "Poznámky",
+    "description": "",
+    "placeholders": null
+  },
+  "comments_text.label": {
+    "message": "Text komentárov",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Popis",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "Vybraný obrázok",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "Karta",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "Zoznam",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "Štýl rozloženia",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "Názov príspevku",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "Dátum zverejnenia",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Ďalšie informácie",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Ďalšie informácie",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Text Ďalšie informácie",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "Značky",
+    "description": "",
+    "placeholders": null
+  }
+}

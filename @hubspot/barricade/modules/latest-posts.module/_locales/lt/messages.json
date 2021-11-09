@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Naujausi įrašai",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Pasirinkite tinklaraštį, iš kurio norite gauti įrašus",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Gautinų įrašų skaičius",
+    "description": "",
+    "placeholders": null
+  }
+}

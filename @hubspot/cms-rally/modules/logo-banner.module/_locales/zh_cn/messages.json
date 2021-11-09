@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "我们已帮助过一些公司，例如：",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "标题文本",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora 徽标",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "在此处上传徽标图片",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "徽标图片",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "徽标横幅",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "横幅背景图片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "横幅前景图片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  }
+}

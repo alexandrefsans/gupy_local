@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Registrer deg gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knappetekst",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "For team med behov for tilleggssikkerhet, -kontroll og -støtte.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Produktbeskrivelse",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ikon for punktliste over egenskaper",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 brukere inkludert",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Egenskaper",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Priskort",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "$0",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Pris",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Bakgrunnsfarge",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Bakgrunnsfarge for knapp",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Tekstfarge for knapp",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Alternativer for skrift",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Kostnadsfritt",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Produktnivå",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/ md.",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Tidsramme for pris",
+    "description": "",
+    "placeholders": null
+  }
+}

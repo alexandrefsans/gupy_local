@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "قسم البطاقات",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "المحتوى",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "الرابط",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "معرفة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "نص الرابط",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "الوصف",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "المعلمون الذين يهتمون بنجاحك",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "العنوان",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "محاضرة في الصف",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "الصورة",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "الصورة والأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "يتيح لك تمكين هذا الخيار تجاوز أنماط السمات الافتراضية. وسيؤدي تعطيل هذا الخيار إلى إعادة توصيل الوحدة النمطية بأنماط السمة الافتراضية.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "تجاوز النمط الافتراضي",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "لون التمييز",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "لون ملء الأيقونة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  }
+}

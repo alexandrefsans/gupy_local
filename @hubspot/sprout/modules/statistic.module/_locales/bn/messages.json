@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "পরিসংখ্যান ",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "এই বিকল্পটি সক্ষম করা আপনাকে ডিফল্ট থিম শৈলীর ওভাররাইড করতে দেয়। এই বিকল্পটি অক্ষম করা মডিউলটিকে ডিফল্ট থিম শৈলীতে ফের সংযুক্ত করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "ডিফল্ট শৈলী ওভাররাইড করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.default": {
+    "message": "<p>গ্রাহক সন্তুষ্টি রেটিং</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_description.label": {
+    "message": "পরিসংখ্যান বিবরণ",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_number.label": {
+    "message": "পরিসংখ্যান সংখ্যা",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_percentage.label": {
+    "message": "পরিসংখ্যান শতাংশ",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.default": {
+    "message": "k",
+    "description": "",
+    "placeholders": null
+  },
+  "statistic_unit.label": {
+    "message": "পরিসংখ্যান ইউনিট",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_color.label": {
+    "message": "বার রং",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bar_fill_color.label": {
+    "message": "বার ফিল রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  }
+}

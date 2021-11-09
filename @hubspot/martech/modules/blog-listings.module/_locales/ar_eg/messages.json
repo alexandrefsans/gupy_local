@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "قائمة المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "author.label": {
+    "message": "المؤلف",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.help_text": {
+    "message": "تسمح لك هذه الحقول بتغيير التسميات على صفحات قائمة المؤلفين الخاصة بك.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.label": {
+    "message": "قائمة مؤلفي المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.default": {
+    "message": "منشورات بواسطة",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_author_listing.subheading.label": {
+    "message": "العنوان الفرعي",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.help_text": {
+    "message": "تسمح لك هذه الحقول بتغيير التسميات على صفحات قائمة العلامات الخاصة بك.",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.label": {
+    "message": "قائمة علامات المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.default": {
+    "message": "منشورات حول:",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_tag_listing.subheading.label": {
+    "message": "العنوان الفرعي",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "الوصف",
+    "description": "",
+    "placeholders": null
+  },
+  "featured_image.label": {
+    "message": "الصورة المميزة",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.card": {
+    "message": "البطاقة",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.choices.list": {
+    "message": "القائمة",
+    "description": "",
+    "placeholders": null
+  },
+  "layout_style.label": {
+    "message": "نمط التخطيط",
+    "description": "",
+    "placeholders": null
+  },
+  "post_title.label": {
+    "message": "عنوان المنشور",
+    "description": "",
+    "placeholders": null
+  },
+  "publish_date.label": {
+    "message": "تاريخ النشر",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "قراءة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "قراءة المزيد",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "قراءة المزيد من النصوص",
+    "description": "",
+    "placeholders": null
+  },
+  "tags.label": {
+    "message": "العلامات",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Blog Tag Filter",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Browse by:",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Label text",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Everything",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Placeholder text",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Tytuł sekcji filara",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Włączenie tej opcji pozwoli na zastąpienie domyślnych stylów motywów. Wyłączenie tej opcji spowoduje ponowne połączenie modułu z domyślnymi stylami motywów.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Zastąp styl domyślny",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Kolor",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Tytuł sekcji",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Tytuł sekcji powinien opisywać sekcję i powinien być unikalny w stosunku do innych tytułów sekcji na stronie. Tytuł zostanie automatycznie dodany do menu w module „Menu filara”.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tytuł",
+    "description": "",
+    "placeholders": null
+  }
+}

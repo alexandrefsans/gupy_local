@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "시간을 절약해 주고 비즈니스를 어려움에서 벗어나게 할 놀랍고 직관적인 소프트웨어를 활용해 보십시오. 정말입니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "기능 설명",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "아이콘",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "배경색",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "테두리 색",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "색상",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "기능 아이콘",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "기능 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "아이콘",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "없음",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "주요 이미지/아이콘",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "빠르고 간단합니다",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "기능 제목",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "기능",
+    "description": "",
+    "placeholders": null
+  }
+}

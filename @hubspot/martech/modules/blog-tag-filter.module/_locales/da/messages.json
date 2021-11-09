@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Blogtagfilter",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Gennemse efter",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Mærkattekst",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Alle",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Pladsholdertekst",
+    "description": "",
+    "placeholders": null
+  }
+}

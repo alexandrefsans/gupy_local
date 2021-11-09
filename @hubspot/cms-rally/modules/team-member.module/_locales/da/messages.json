@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Teammedlem",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>CEO, medstifter</p><p>Joshua har over 20 års erfaring inden for teknikindustrien. Han har hjulpet med at starte denne virksomhed i 2015 med den mission at få mennesker til at vokse. I sin fritid elsker har at tilbringe tid sammen med børnene, at tage til stranden og at lave mad.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Indhold fra teammedlem",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Billede af teammedlem",
+    "description": "",
+    "placeholders": null
+  }
+}

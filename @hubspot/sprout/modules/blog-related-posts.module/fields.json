@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Heading",
+    "name": "heading",
+    "type": "text",
+    "required": true,
+    "default": "Related Articles"
+  },
+  {
+    "label": "Read more text",
+    "name": "read_more_text",
+    "type": "text",
+    "required": true,
+    "default": "Read More"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "شعار منشور المدونة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "لون الخلفية المخصص",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "صورة الخلفية المخصصة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "صورة مميزة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "ما نوع الشعار الذي ترغب في استخدامه؟",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "لون الخلفية",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "صورة الخلفية",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "ترك مساحة",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "القيمة بالبكسل",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "أعلى/أسفل",
+    "description": "",
+    "placeholders": null
+  }
+}

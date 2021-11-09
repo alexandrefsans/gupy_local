@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Sự kiện",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Địa chỉ",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Ngày và giờ",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Biểu tượng sự kiện",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Sự kiện",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Liên kết",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Văn bản liên kết",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "NGÀY HỘI GIÁO DỤC NỬA NĂM MỘT LẦN",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Tiêu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Nội dung đầu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Biểu tượng đầu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Liên kết đầu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Xem tất cả",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Văn bản liên kết đầu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Sự kiện sắp tới",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Đầu đề",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "כרזת רישום בבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "עקוף סגנון ברירת מחדל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "תמונה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "צבע הדרגתי",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "סוג רקע",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "תמונת רקע",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "צבע 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "צבע 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "צבעים הדרגתיים",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "הערך הוא בפיקסלים",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "שמאל/ימין",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "ריווח",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "הערך הוא בפיקסלים",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "עליון/תחתון",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "צבע כותרת משנה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "צבע כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "אם לא הוזן טקסט כותרת משנה, כותרת המשנה המהווה ברירת המחדל תהיה המטה-תיאור של הבלוג מתוך הגדרות הבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "כותרת משנה",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "אם לא הוזן טקסט כותרת, כותרת ברירת המחדל תהיה כותרת הבלוג מתוך הגדרות הבלוג",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  }
+}

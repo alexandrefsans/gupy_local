@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Bàner de llista de blogs",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Substitueix l'estil per defecte",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Imatge",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Gradient de color",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Tipus de fons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Imatge de fons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Color 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Color 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Colors degradats",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "El valor està expressat en píxels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Esquerra/dreta",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Espaiat",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "El valor està expressat en píxels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Superior/inferior",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Color del subtítol",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Color del títol",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Si no es proporciona el text dels subtítols, es definirà per defecte la metadescripció del teu blog des de la configuració del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Subtítol",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Si no es proporciona el text del títol, es definirà per defecte el títol del teu blog des de la configuració del blog",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Títol",
+    "description": "",
+    "placeholders": null
+  }
+}

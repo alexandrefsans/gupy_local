@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Bagian kartu",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Tautan tombol",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Pelajari Selengkapnya",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Teks tombol",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Gambar",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kartu",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Iklan kontekstual bisa jadi menguntungkan. Iklan ini dapat menutup biaya hosting dan pemeliharaan untuk situs web Anda atau dapat menutup lebih banyak biaya.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Teks",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Ini adalah judul",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Judul",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "網誌文章橫額",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "按鈕圖示",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "返回網誌",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "按鈕文字",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "自訂背景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "自訂背景圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "精選圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "你想使用哪種橫額？",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "背景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "背景圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "內邊距",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "值以像素計算",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "頂部/底部",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Membre de l'equip",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>Director executiu, cofundador</p><p>En Joshua té més de 20 anys d'experiència al sector tecnològic. L'any 2015 va col·laborar en la creació d'aquesta empresa amb l'objectiu d'ajudar les persones a créixer. En el seu temps lliure  li agrada estar amb els seus fills, anar a la platja i cuinar.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Contingut del membre de l'equip",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Imatge del membre de l'equip",
+    "description": "",
+    "placeholders": null
+  }
+}

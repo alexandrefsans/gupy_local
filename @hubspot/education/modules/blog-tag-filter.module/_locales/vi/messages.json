@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Bộ lọc thẻ blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Lọc theo thẻ",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Văn bản nhãn",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Tất cả",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Văn bản chỗ dành sẵn",
+    "description": "",
+    "placeholders": null
+  }
+}

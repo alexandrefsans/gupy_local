@@ -1,0 +1,27 @@
+{
+  "banner_heading.default": {
+    "message": "<h4>أبجد هوز حطي كلمن سعفص قرشت ثخذ ضظغ.</h4>",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_heading.label": {
+    "message": "عنوان اللافتة",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.banner_image.label": {
+    "message": "صورة",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.label": {
+    "message": "صور الشعار",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "اللافتة التقنية",
+    "description": "",
+    "placeholders": null
+  }
+}

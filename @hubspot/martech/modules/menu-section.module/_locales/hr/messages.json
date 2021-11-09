@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Odjeljak izbornika",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "Dvostruki izbornik na mobilnom telefonu",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Polje primarnog izbornika",
+    "description": "",
+    "placeholders": null
+  }
+}

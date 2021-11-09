@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "חבר צוות",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>ג'ושוע בק</h3><p>מנכ\"ל, מייסד שותף</p><p>לג'ושוע יש יותר מ-20 שנות ניסיון בתעשיית הטכנולוגיה. הוא עזר להקים חברה זו ב-2015 במטרה לעזור לאנשים לצמוח. בזמנו החופשי הוא אוהב לבלות עם הילדים, ללכת לחוף הים ולבשל.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "תוכן של חבר צוות",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "תמונת חבר צוות",
+    "description": "",
+    "placeholders": null
+  }
+}

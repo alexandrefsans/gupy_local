@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "โพสต์ที่เกี่ยวข้องในบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "บทความที่เกี่ยวข้อง",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "หัวเรื่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "อ่านเพิ่มเติม",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "ข้อความสำหรับอ่านเพิ่มเติม",
+    "description": "",
+    "placeholders": null
+  }
+}

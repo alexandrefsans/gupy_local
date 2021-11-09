@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "Vittnesmål diabild",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Om du aktiverar detta alternativ kan du skriva över standardtemastil. Om du inaktiverar detta alternativ återansluts modulen på nytt till standardtemastilar.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Skriv över standardstil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stilalternativ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "Navigering aktiv färg",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "Navigeringsfärg",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.default.alt": {
+    "message": "Platshållarbild",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.label": {
+    "message": "Författarens bild",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.default": {
+    "message": "Dawn Doe",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.label": {
+    "message": "Författares namn",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.label": {
+    "message": "Författare",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.default": {
+    "message": "<h4>\"Ökade omvandlingar med 310 %!\"</h4><p>Rally-teamet behandlade vår verksamhet som om det vore deras egen. De tacklade problem med fasthet, kunskap och empati. Jag kan VARMT rekommendera dem till andra.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.label": {
+    "message": "Vittnesmålstext",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.label": {
+    "message": "Utlåtanden",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.default.alt": {
+    "message": "Platshållarbild",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.label": {
+    "message": "Utlåtande bild",
+    "description": "",
+    "placeholders": null
+  }
+}

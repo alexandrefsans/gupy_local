@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "แบนเนอร์รายการบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "รูปภาพพื้นหลัง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "ตัวเลือกรูปแบบ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "ค่าเป็นพิกเซล",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "ซ้าย/ขวา",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "ช่องว่างภายใน",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "ค่าเป็นพิกเซล",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "ด้านบน/ด้านล่าง",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "สีคำบรรยาย",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "สีหัวเรื่อง",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "คำบรรยาย",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "ชื่อเรื่อง",
+    "description": "",
+    "placeholders": null
+  }
+}

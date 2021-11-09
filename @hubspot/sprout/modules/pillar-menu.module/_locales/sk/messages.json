@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Ponuka stĺpca",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Farba",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Spodné ohraničenie",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "S pomlčkami",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Bodkované",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dvojnásobné",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Drážka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Vložiť",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Žiadne",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Začiatok",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Hrana",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Neprerušované",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Štýl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Hodnota je v pixeloch",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Šírka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Obsah",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Položky ponuky sa automaticky vytvárajú pri pridaní modulu Sekcia stĺpca na stránku",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Názov",
+    "description": "",
+    "placeholders": null
+  }
+}

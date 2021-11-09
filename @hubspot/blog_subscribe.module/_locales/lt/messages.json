@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Tinklaraščio el. pašto prenumerata",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Taikant numatytąsias nuostatas, naudojant tinklaraščio šablone bus taikomas esamas tinklaraštis, o naudojant kitur – pirminis tinklaraštis.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Užsiprenumeruokite čia!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Pasirinkite rodytiną tinklaraštį",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Įdėtasis atsakymas naudotojams",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Dėkojame, kad užsiprenumeravote!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Virš formos rodytinas pavadinimas",
+    "description": "",
+    "placeholders": null
+  }
+}

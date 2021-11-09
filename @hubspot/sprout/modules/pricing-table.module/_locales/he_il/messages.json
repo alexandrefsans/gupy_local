@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "טבלת תמחור",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "חיוב חודשי",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "תווית חיוב",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "אפשרות תמחור 1",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "טבלה",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "קישור לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "הירשם",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "טקסט לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "ש\"ח",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "מטבע",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p>הורדות <strong>בחינם ללא הגבלה</strong>, ועוד!</p><ul><li>גודל קובץ מקסימלי של ‎25 MB</li><li>רוחב פס של ‎2 GB</li><li>הקלטות מסך של 15 שניות</li><li>הקלטת סרטון של 15 שניות ממצלמת האינטרנט</li><li>מיתוג CloudApp</li><li>ביאורים ללא הגבלה</li><li>קבצים ללא הגבלה</li><li>שילובים של אפליקציות שולחן עבודה</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "תיאור",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "מחיר",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "מתחילים",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "חיסכון של 15% בחיוב השנתי",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "תווית חיוב",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "אפשרות תמחור 2",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "טבלה",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "קישור לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "הירשם",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "טקסט לחצן",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "ש\"ח",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "מטבע",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p>הורדות <strong>בחינם ללא הגבלה</strong>, ועוד!</p><ul><li>גודל קובץ מקסימלי של ‎25 MB</li><li>רוחב פס של ‎2 GB</li><li>הקלטות מסך של 15 שניות</li><li>הקלטת סרטון של 15 שניות ממצלמת האינטרנט</li><li>מיתוג CloudApp</li><li>ביאורים ללא הגבלה</li><li>קבצים ללא הגבלה</li><li>שילובים של אפליקציות שולחן עבודה</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "תיאור",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "מחיר",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "ארגון",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "הפעלת אפשרות זו תאפשר לך לעקוף את סגנונות ערכת הנושא המהווים ברירת מחדל. השבתת אפשרות זו תחבר מחדש את המודול לסגנונות ערכת הנושא המהווים ברירת מחדל.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "עקוף סגנון ברירת מחדל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "צבע אפשרות פעילה",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "צבע רקע של כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "צבע טקסט של כותרת",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  }
+}

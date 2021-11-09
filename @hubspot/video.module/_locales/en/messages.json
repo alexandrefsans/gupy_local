@@ -1,0 +1,152 @@
+{
+  "embed_field.default": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "embed_field.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "embed_field.label": {
+    "message": "Embed",
+    "description": "",
+    "placeholders": null
+  },
+  "hubspot_video.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "hubspot_video.label": {
+    "message": "HubSpot video",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Video",
+    "description": "",
+    "placeholders": null
+  },
+  "oembed_thumbnail.default": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "oembed_thumbnail.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "oembed_thumbnail.label": {
+    "message": "Custom thumbnail",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.label": {
+    "message": "Placeholder text",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.default": {
+    "message": "Select a video type in the sidebar.",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.label": {
+    "message": "Video placeholder description",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.placeholder": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.validation_regex": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.default": {
+    "message": "No video selected",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.label": {
+    "message": "Video placeholder title",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.placeholder": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.validation_regex": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.label": {
+    "message": "Style options",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.oembed_thumbnail_play_button_color.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.oembed_thumbnail_play_button_color.label": {
+    "message": "Play button color",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.choices.embed": {
+    "message": "Embed",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.choices.hubspot_video": {
+    "message": "HubSpot video",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.help_text": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.label": {
+    "message": "Video type",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.placeholder": {
+    "message": "",
+    "description": "",
+    "placeholders": null
+  }
+}

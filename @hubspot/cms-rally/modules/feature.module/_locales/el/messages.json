@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Αξιοποιήστε το διαισθητικό σούπερ φοβερό λογισμικό που εξοικονομεί χρόνο και θα βοηθήσει την επιχείρησή σας. Υπόσχεση.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Περιγραφή δυνατότητας",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Εικονίδιο",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Χρώμα φόντου",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Χρώμα περιθωρίου",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Χρώμα",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Εικονίδιο δυνατότητας",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Εικόνα δυνατότητας",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Εικονίδιο",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Εικόνα",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Κανένα",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Εικόνα/Εικονίδιο δυνατότητας",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Γρήγορο και απλό",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Τίτλος δυνατότητας",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Δυνατότητα",
+    "description": "",
+    "placeholders": null
+  }
+}

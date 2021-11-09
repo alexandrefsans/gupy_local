@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Gebeurtenisse",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Adres",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Datum en tyd",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Gebeurtenisikoon",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Gebeurtenisse",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Skakel",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Vind meer uit",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Skakelteks",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "HALFJAARLIKSE ONDERWYSGALA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Opskrifinhoud",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Opskrifikoon",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Opskrifskakel",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Bekyk alles",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Opskrifskakelteks",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Komende gebeurtenisse",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Opskrif",
+    "description": "",
+    "placeholders": null
+  }
+}

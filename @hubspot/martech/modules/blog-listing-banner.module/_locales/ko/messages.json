@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "블로그 목록 배너",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "기본 스타일 재정의",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "컬러 그라데이션",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "배경 유형",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "배경 이미지",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "색상 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "색상 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "경사도 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "스타일 옵션",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "값은 픽셀 단위입니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "왼쪽/오른쪽",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "채우기",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "값은 픽셀 단위입니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "상단/하단",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "부제목 색",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "제목 색",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "부제목 텍스트가 제공되지 않은 경우 블로그 설정의 블로그 메타 설명이 기본값으로 지정됩니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "부제목",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "제목 텍스트가 제공되지 않은 경우 블로그 설정의 블로그 제목이 기본값으로 지정됩니다.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "제목",
+    "description": "",
+    "placeholders": null
+  }
+}

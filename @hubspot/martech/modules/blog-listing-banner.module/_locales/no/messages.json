@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Banner for bloggoppføring",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Overstyr standard stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Bilde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Fargegradient",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Bakgrunnstype",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Bakgrunnsbilde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Farge 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Farge 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Gradientfarger",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Alternativer for skrift",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Verdi er i piksler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Venstre/høyre",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Utfylling",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Verdi er i piksler",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Topp/bunn",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Undertekstfarge",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Tittelfarge",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Hvis ingen undertitteltekst er tilgjengelig, vil bloggmetabeskrivelsen fra blogginnstillingene brukes som standard",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Undertekst",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Hvis ingen titteltekst er tilgjengelig, vil bloggtittelen fra blogginnstillingene brukes som standard",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tittel",
+    "description": "",
+    "placeholders": null
+  }
+}

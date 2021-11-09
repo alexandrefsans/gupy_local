@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Natpis unosa na blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Pozadinska slika",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcije stila",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Vrijednost je u pikselima",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Lijevo/desno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Odmak",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Vrijednost je u pikselima",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Vrh/dno",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Boja podnapisa",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Boja naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Podnaslov",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "ลิงก์",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "ไอคอนลิงก์",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "ข้อความลิงก์",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "สีของโพสต์",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "โพสต์ในบล็อกที่แสดง",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "เลือกบล็อกที่คุณต้องการแสดงโพสต์",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "เลือกบล็อก",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "หากคุณต้องการแสดงแท็กเฉพาะจากบล็อกของคุณเท่านั้น ให้เลือกแท็กดังกล่าวที่นี่",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "เลือกแท็ก",
+    "description": "",
+    "placeholders": null
+  }
+}

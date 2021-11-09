@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Vertikalaus skirsnio pavadinimas",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Įjungę šią parinktį galėsite perrašyti numatytuosius temos stilius. Išjungus parinktį modulis bus vėl prijungtas prie numatytųjų temos stilių.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Perrašyti numatytąjį stilių",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Spalva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stiliaus parinktys",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Skirsnio pavadinimas",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Skirsnio pavadinimas turi apibūdinti skirsnį ir būti unikalus kitų šio puslapio skirsnio pavadinimų atžvilgiu. Pavadinimas bus automatiškai įtrauktas į meniu modulyje „Vertikalus meniu“.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Pavadinimas",
+    "description": "",
+    "placeholders": null
+  }
+}

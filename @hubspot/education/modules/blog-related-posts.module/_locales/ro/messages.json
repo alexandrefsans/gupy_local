@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Postări asociate blogului",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Postări asociate",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Antet",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Citiți mai multe",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Text citiți mai multe",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Sledujte ma",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Otvárať odkazy v novom okne",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Hlavička modulu",
+    "description": "",
+    "placeholders": null
+  }
+}

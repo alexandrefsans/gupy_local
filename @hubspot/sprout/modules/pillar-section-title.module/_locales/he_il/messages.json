@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "כותרת מקטע יסוד",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "הפעלת אפשרות זו תאפשר לך לעקוף את סגנונות ערכת הנושא המהווים ברירת מחדל. השבתת אפשרות זו תחבר מחדש את המודול לסגנונות ערכת הנושא המהווים ברירת מחדל.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "עקוף סגנון ברירת מחדל",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "צבע",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "אפשרויות סגנון",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "כותרת מקטע",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "כותרת המקטע צריכה לתאר את המקטע ולהיות ייחודית ביחס לכותרות המקטעים האחרות בדף. הכותרת תתווסף באופן אוטומטי לתפריט במודול 'תפריט יסוד'.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  }
+}

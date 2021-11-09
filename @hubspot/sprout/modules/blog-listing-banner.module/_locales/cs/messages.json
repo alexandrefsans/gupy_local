@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Banner s výpisem blogů",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Obrázek pozadí",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti stylů",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Hodnota uvedená v pixelech",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Vlevo/vpravo",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Odsazení obsahu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Hodnota uvedená v pixelech",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Nahoře/dole",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Barva podnadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Barva nadpisu",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Podnadpis",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Nadpis",
+    "description": "",
+    "placeholders": null
+  }
+}

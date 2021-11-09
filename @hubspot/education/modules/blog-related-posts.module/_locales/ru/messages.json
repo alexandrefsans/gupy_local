@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Записи, связанные с блогом",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Публикации по теме",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Читать еще",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Текст «Читать еще»",
+    "description": "",
+    "placeholders": null
+  }
+}

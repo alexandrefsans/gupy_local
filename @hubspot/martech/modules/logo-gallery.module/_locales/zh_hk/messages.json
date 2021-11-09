@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "標誌庫",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "認可者：",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora 標誌",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "標誌圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "橫額背景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "橫額前景顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  }
+}

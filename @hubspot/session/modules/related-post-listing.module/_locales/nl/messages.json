@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Gerelateerde berichtenvermelding",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Gerelateerde artikelen",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Kop",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Meer informatie",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Tekst Meer informatie",
+    "description": "",
+    "placeholders": null
+  }
+}

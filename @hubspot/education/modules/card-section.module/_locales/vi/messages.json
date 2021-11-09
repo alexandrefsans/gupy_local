@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Phần thẻ",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Nội dung",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Liên kết",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Tìm hiểu thêm",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Văn bản liên kết",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Mô tả",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Giáo viên quan tâm đến thành công của bạn",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Tiêu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Bài giảng trên lớp",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Hình ảnh",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Hình ảnh và biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Khi bật tùy chọn này, bạn có thể ghi đè kiểu chủ đề mặc định. Khi tắt tùy chọn này, mô-đun sẽ kết nối lại với kiểu chủ đề mặc định.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ghi đè kiểu mặc định",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Màu chủ đề",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Màu tô biểu tượng",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  }
+}

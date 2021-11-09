@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Lien",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Icône de lien",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Texte du lien ",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Couleurs des publications",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Articles de blogue mis en vedette",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Sélectionnez le blogue sur lequel vous souhaitez publier des applications",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Sélectionner un blogue",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Si vous souhaitez ne présenter qu'un article en particulier de votre blogue, sélectionnez-le ici.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Sélectionner une étiquette",
+    "description": "",
+    "placeholders": null
+  }
+}

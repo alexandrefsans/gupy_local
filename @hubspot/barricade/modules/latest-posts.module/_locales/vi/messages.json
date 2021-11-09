@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Bài đăng mới nhất",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Chọn blog để lấy bài đăng",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Số bài đăng cần lấy",
+    "description": "",
+    "placeholders": null
+  }
+}

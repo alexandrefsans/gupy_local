@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "博客列表横幅",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆盖默认样式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "图片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "颜色渐变",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "背景类型",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "背景图片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "颜色 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "颜色 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "渐变色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "样式选项",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "值以像素为单位",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "左/右",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "填充",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "值以像素为单位",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "上/下",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "副标题颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "标题颜色",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "如果未提供副标题文本，这将默认设为博客设置中的博客源数据描述",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "副标题",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "如果未提供标题文本，这将默认设为博客设置中的博客标题",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "标题",
+    "description": "",
+    "placeholders": null
+  }
+}

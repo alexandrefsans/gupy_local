@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "কার্ড বিভাগ",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "বিষয়বস্তু",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "লিংক ",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "আরও জানুন",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "লিংক টেক্সট ",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "বর্ণনা",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "আপনার সাফল্য সম্পর্কে যত্নশীল শিক্ষক",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "একটি শ্রেণিকক্ষ বক্তৃতা",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "ছবি ",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "আইকন ",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "ইমেজ এবং আইকন ",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "এই বিকল্পটি সক্ষম করা আপনাকে ডিফল্ট থিম শৈলীর ওভাররাইড করতে দেয়। এই বিকল্পটি অক্ষম করা মডিউলটিকে ডিফল্ট থিম শৈলীতে ফের সংযুক্ত করবে।",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "ডিফল্ট শৈলী ওভাররাইড করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "অ্যাকসেন্ট রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "আইকন ভরাট রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইল বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  }
+}

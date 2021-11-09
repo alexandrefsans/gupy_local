@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Galeri Gambar",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Bangunan asrama di kampus",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "tepat",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Gambar",
+    "description": "",
+    "placeholders": null
+  }
+}

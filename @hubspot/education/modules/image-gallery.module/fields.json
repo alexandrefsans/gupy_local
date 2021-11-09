@@ -1,0 +1,58 @@
+[
+  {
+    "label": "Image",
+    "name": "image_field",
+    "type": "image",
+    "occurrence": {
+      "default": 8,
+      "max": 25,
+      "min": 1
+    },
+    "required": true,
+    "resizable": false,
+    "responsive": false,
+    "show_loading" : true,
+    "default": [
+      {
+        "alt": "Dorm building on campus",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Education/sample-gallery-image.png"
+      },
+      {
+        "alt": "Dorm building on campus",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Education/sample-gallery-image.png"
+      },
+      {
+        "alt": "Dorm building on campus",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Education/sample-gallery-image.png"
+      },
+      {
+        "alt": "Dorm building on campus",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Education/sample-gallery-image.png"
+      },
+      {
+        "alt": "Dorm building on campus",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Education/sample-gallery-image.png"
+      },
+      {
+        "alt": "Dorm building on campus",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Education/sample-gallery-image.png"
+      },
+      {
+        "alt": "Dorm building on campus",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Education/sample-gallery-image.png"
+      },
+      {
+        "alt": "Dorm building on campus",
+        "loading" : "disabled",
+        "src": "https://cdn2.hubspot.net/hubfs/7303166/Education/sample-gallery-image.png"
+      }
+    ]
+  }
+]

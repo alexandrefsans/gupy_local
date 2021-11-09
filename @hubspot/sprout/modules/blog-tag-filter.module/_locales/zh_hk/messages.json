@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "網誌標記篩選",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "依此瀏覽",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "標籤文字",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "全部",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "預留位置文字",
+    "description": "",
+    "placeholders": null
+  }
+}

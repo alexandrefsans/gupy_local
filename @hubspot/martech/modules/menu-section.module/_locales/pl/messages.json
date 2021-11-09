@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Sekcja menu",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "Duplikuj menu mobilne",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Pole głównego menu",
+    "description": "",
+    "placeholders": null
+  }
+}

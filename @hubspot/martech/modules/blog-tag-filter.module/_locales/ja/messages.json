@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "ブログ タグ フィルター",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "閲覧者：",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "ラベルテキスト",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "すべて",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "プレースホルダーテキスト",
+    "description": "",
+    "placeholders": null
+  }
+}

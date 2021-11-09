@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Razdelek kartice",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Gumb povezave",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Več o tem",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Besedilo gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kartica",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontekstualno oglaševanje je lahko donosno. Lahko vam plača stroške gostovanja in vzdrževanja spletnega mesta ali za še veliko več.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Besedilo",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "To je naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

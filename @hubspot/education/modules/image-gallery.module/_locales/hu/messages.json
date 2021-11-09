@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Képgaléria",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "Kollégiumi épület az oktatási intézmény területén",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "pontos",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "Kép",
+    "description": "",
+    "placeholders": null
+  }
+}

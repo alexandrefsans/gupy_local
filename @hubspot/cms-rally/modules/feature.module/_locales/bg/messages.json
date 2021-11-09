@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Използвайте интуитивния изключително невероятен софтуер, който ви спестява време и ще спаси бизнеса ви. Обещаваме.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Описание на функция",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Икона",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Цвят на фон",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Цвят на граница",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Цвят",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Икона на функция",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Изображение на функция",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Икона",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Изображение",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Без",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Изображение/икона за публикация",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Бързо и лесно",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Заглавие на функция",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Функция",
+    "description": "",
+    "placeholders": null
+  }
+}

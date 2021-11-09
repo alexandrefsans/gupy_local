@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Bağlantı",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Bağlantı simgesi",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Bağlantı metni",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Yazı renkleri",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Öne çıkarılan blog yazıları",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Yayınlarını öne çıkarmak istediğiniz blogu seçin",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Blog seç",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Blogunuzdan yalnızca belirli bir etiketi öne çıkarmak istiyorsanız onu buradan seçin.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Etiket seç",
+    "description": "",
+    "placeholders": null
+  }
+}

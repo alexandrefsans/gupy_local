@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Розділ меню",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "Дубльоване мобільне меню",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Поле основного меню",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Nabídka sloupce",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Barva",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Dolní ohraničení",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Čárkovaná",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Tečkovaná",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dvojitá",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Drážka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Vsazení",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "–",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Odsazení",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Hřeben",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Plná",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Styl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Hodnota uvedená v pixelech",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Šířka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti stylů",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Obsah",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Když přidáte na stránku modul „Oddíl sloupce“, položky nabídky se vytvoří automaticky.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Název",
+    "description": "",
+    "placeholders": null
+  }
+}

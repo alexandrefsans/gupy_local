@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "ছবির গ্যালারি",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.alt": {
+    "message": "ক্যাম্পাসে ডর্ম তৈরী করা ",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.default.size_type": {
+    "message": "হুবহু",
+    "description": "",
+    "placeholders": null
+  },
+  "image_field.label": {
+    "message": "ছবি ",
+    "description": "",
+    "placeholders": null
+  }
+}

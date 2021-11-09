@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Tiêu đề phần cột",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Khi bật tùy chọn này, bạn có thể ghi đè kiểu chủ đề mặc định. Khi tắt tùy chọn này, mô-đun sẽ kết nối lại với kiểu chủ đề mặc định.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ghi đè kiểu mặc định",
+    "description": "",
+    "placeholders": null
+  },
+  "style.color.label": {
+    "message": "Màu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Tiêu đề phần",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Tiêu đề phần phải mô tả về phần đó và khác với tiêu đề các phần còn lại trong trang. Tiêu đề sẽ được thêm tự động vào menu trong mô-đun 'Menu cột'.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tiêu đề",
+    "description": "",
+    "placeholders": null
+  }
+}

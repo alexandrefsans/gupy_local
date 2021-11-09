@@ -1,0 +1,82 @@
+{
+  "name": {
+    "message": "Cursor recomandări",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Activarea acestei opțiuni vă va permite să înlocuiți temele implicite. Dezactivarea acestei opțiuni va reconecta modulul cu temele implicite.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Înlocuire stil implicit",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "Culoare activă navigare",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "Culoare navigare",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.default.alt": {
+    "message": "Imagine substituentă",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.label": {
+    "message": "Imaginea autorului",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.default": {
+    "message": "Dawn Doe",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.label": {
+    "message": "Numele autorului",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.label": {
+    "message": "Autor",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.default": {
+    "message": "<h4>„Mai multe conversii cu 310%!”</h4><p>Echipa Rally ne-a tratat afacerea ca și cum ar fi fost a lor. Aceștia au abordat problema cu empatie, curaj și cunoștințe. Îi recomand CU TĂRIE oricui.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.label": {
+    "message": "Text recomandare",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.label": {
+    "message": "Recomandări",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.default.alt": {
+    "message": "Imagine substituentă",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.testimonial_image.label": {
+    "message": "Imagine recomandare",
+    "description": "",
+    "placeholders": null
+  }
+}

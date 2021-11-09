@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Skakel",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Skakelikoon",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Skakelteks",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Artikelkleure",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Vertoonde blogplasings",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Kies die blog waarvan jy graag plasings wil vertoon",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Kies blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "As jy slegs 'n spesifieke etiket van jou blog wil vertoon, kies dit hier.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Kies etiket",
+    "description": "",
+    "placeholders": null
+  }
+}

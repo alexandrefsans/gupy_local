@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Centre",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Esquerra",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Dreta",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Alineació",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Cerca",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Blanc i negre",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Color",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Gris",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Blanc",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "Personalitza",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Combinació de colors",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Cerca",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Selecciona un color personalitzat",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Icona",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Icona i text",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Només text",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Visualització",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Estil del tipus de lletra",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Circular",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Original",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Quadrat",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Forma de la icona",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Cerca",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Segueix-me: LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Escala",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Xarxa social",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Icona personalitzada",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "Correu electrònic",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Lloc web",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Xarxa",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Imatge de xarxa",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Text d'ajuda",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Espaiat",
+    "description": "",
+    "placeholders": null
+  }
+}

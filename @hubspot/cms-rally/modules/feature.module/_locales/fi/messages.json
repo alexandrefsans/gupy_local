@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Ota käyttöön intuitiivinen huippumahtava ohjelmisto, joka säästää sinulta aikaa ja pelastaa yrityksesi. Lupaan sen.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Ominaisuuden kuvaus",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Kuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Taustaväri",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Rajan väri",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Väri",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ominaisuuskuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Ominaisuuskuva",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Kuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Kuva",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Ei yhtään",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Esiteltävä kuva/kuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Nopea ja yksinkertainen",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Ominaisuuden otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Ominaisuus",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Link",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Icona link",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Testo link",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Colori articolo",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Articoli blog in primo piano",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Seleziona il blog da cui desideri includere gli articoli",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Seleziona blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Se desideri includere solo un tag specifico del blog, selezionalo qui.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Seleziona tag",
+    "description": "",
+    "placeholders": null
+  }
+}

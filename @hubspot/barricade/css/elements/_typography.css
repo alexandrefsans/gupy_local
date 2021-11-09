@@ -1,0 +1,94 @@
+body {
+  overflow-x: hidden;
+  word-break: break-word;
+}
+
+html[lang^='ja'] body,
+html[lang^='zh'] body,
+html[lang^='ko'] body {
+  line-break: strict;
+  word-break: break-all;
+}
+
+/* Paragraphs */
+
+p {
+  line-height: 1.44;
+}
+
+/* Headings */
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 10px 0;
+}
+
+h5,
+h6 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3.75rem;
+}
+
+h3 {
+  font-size: 1.875rem;
+}
+
+h4 {
+  font-size: 1.625rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: 1.25rem;
+  letter-spacing: 2px;
+}
+
+@media screen and (max-width: 767px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+/* Blockquotes */
+
+blockquote {
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.625rem;
+  margin: 10px 0;
+}
+
+/* Lists */
+
+ul.no-list {
+  list-style: none;
+}
+
+ul,
+ol {
+  font-weight: 300;
+}
+
+li {
+  margin: 35px 0;
+}
+
+/* Horizontal Rules */
+
+hr {
+  border: 0 none;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}

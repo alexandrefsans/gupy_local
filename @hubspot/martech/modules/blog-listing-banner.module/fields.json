@@ -1,0 +1,136 @@
+[
+  {
+    "label": "Title",
+    "name": "title",
+    "type": "text",
+    "help_text": "If no title text is provided, this will default to your blog title from blog settings"
+  },
+  {
+    "label": "Subtitle",
+    "name": "subtitle",
+    "type": "text",
+    "help_text": "If no subtitle text is provided, this will default to your blog meta description from blog settings"
+  },
+  {
+    "label": "Override default style",
+    "name": "override_default_style",
+    "id": "override_default_style",
+    "type": "boolean",
+    "default": false
+  },
+  {
+    "id": "style",
+    "name": "style",
+    "label": "Style options",
+    "type": "group",
+    "visibility": {
+      "controlling_field": "override_default_style",
+      "controlling_value_regex": "true",
+      "operator": "EQUAL"
+    },
+    "children": [
+      {
+        "label": "Background type",
+        "name": "background_type",
+        "type": "choice",
+        "choices": [
+          [ "color_gradient", "Color gradient" ],
+          [ "bg_image", "Image" ]
+        ],
+        "default": "color_gradient",
+        "required": true
+      },
+      {
+        "label": "Gradient colors",
+        "name": "gradient_colors",
+        "type": "group",
+        "visibility": {
+          "controlling_field": "style.background_type",
+          "controlling_value_regex": "color_gradient"
+        },
+        "children": [
+          {
+            "label": "Color 1",
+            "name": "color_1",
+            "type": "color",
+            "default": {
+              "color": "#009FFD",
+              "opacity": 100
+            }
+          },
+          {
+            "label": "Color 2",
+            "name": "color_2",
+            "type": "color",
+            "default": {
+              "color": "#2D399C",
+              "opacity": 100
+            }
+          }
+        ]
+      },
+      {
+        "label": "Background image",
+        "name": "bg_image",
+        "type": "image",
+        "resizable": false,
+        "responsive": false,
+        "required": false,
+        "visibility": {
+          "controlling_field": "style.background_type",
+          "controlling_value_regex": "bg_image"
+        },
+        "default": {
+          "src": ""
+        }
+      },
+      {
+        "label": "Title color",
+        "name": "title_color",
+        "type": "color",
+        "visibility": {
+          "hidden_subfields": {
+            "opacity": true
+          }
+        },
+        "default": {
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "label": "Subtitle color",
+        "name": "subtitle_color",
+        "type": "color",
+        "visibility": {
+          "hidden_subfields": {
+            "opacity": true
+          }
+        },
+        "default": {
+          "color": "#FFFFFF"
+        }
+      },
+      {
+        "label": "Padding",
+        "name": "padding",
+        "type": "group",
+        "children": [
+          {
+            "label": "Top/Bottom",
+            "name": "vertical",
+            "type": "number",
+            "help_text": "Value is in pixels",
+            "default": 135
+          },
+          {
+            "label": "Left/Right",
+            "name": "horizontal",
+            "type": "number",
+            "help_text": "Value is in pixels",
+            "default": 20
+          }
+        ]
+      }
+    ]
+  }
+]

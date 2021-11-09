@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "İlgili yayın listesi",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "İlgili Makaleler",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Daha fazlasını oku",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Daha fazla metin oku",
+    "description": "",
+    "placeholders": null
+  }
+}

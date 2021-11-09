@@ -1,0 +1,92 @@
+{
+  "button_text.default": {
+    "message": "Registra-t'hi gratuïtament",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Text del botó",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "Per a equips que necessiten més seguretat, control i suport.",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "Descripció del producte",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Pic d'icona de llista de característiques",
+    "description": "",
+    "placeholders": null
+  },
+  "features.default": {
+    "message": "10 usuaris inclosos",
+    "description": "",
+    "placeholders": null
+  },
+  "features.label": {
+    "message": "Característiques",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Targeta de preus",
+    "description": "",
+    "placeholders": null
+  },
+  "price.default": {
+    "message": "0 $",
+    "description": "",
+    "placeholders": null
+  },
+  "price.label": {
+    "message": "Preu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Color de fons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_bg.label": {
+    "message": "Color de fons del botó",
+    "description": "",
+    "placeholders": null
+  },
+  "style.button_text_color.label": {
+    "message": "Color del text del botó",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.default": {
+    "message": "Gratis",
+    "description": "",
+    "placeholders": null
+  },
+  "tier.label": {
+    "message": "Nivell de productes",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.default": {
+    "message": "/mes",
+    "description": "",
+    "placeholders": null
+  },
+  "timeframe.label": {
+    "message": "Període de temps dels preus",
+    "description": "",
+    "placeholders": null
+  }
+}

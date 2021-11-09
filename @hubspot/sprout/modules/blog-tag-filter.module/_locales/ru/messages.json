@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Фильтр тегов блога",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Просмотр по",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Текст метки",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Все",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Текст заполнителя",
+    "description": "",
+    "placeholders": null
+  }
+}

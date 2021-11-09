@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "Biểu ngữ danh sách blog",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Ghi đè kiểu mặc định",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "Hình ảnh",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "Chuyển màu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "Loại nền",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Hình ảnh nền",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "Màu 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "Màu 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "Màu chuyển màu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tùy chọn kiểu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Giá trị tính bằng pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Bên trái/Bên phải",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Khoảng đệm",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Giá trị tính bằng pixel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Trên cùng/Dưới cùng",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Màu phụ đề",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Màu tiêu đề",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "Nếu không có văn bản phụ đề nào được cung cấp, phần cài đặt blog sẽ đưa nội dung này vào phần mô tả meta của blog theo mặc định",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Phụ đề",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Nếu không có văn bản tiêu đề nào được cung cấp, phần cài đặt blog sẽ đưa nội dung này vào tiêu đề blog theo mặc định",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Tiêu đề",
+    "description": "",
+    "placeholders": null
+  }
+}

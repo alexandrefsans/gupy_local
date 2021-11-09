@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Merkez",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Sol",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Sağ",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Hizalama",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Ara",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Siyah ve beyaz",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Renk",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Gri",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Beyaz",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "Özel",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Renk şeması",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Ara",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Özel renk seç",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Simge",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Simge ve metin",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Sadece metin",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Görüntüle",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Yazı tipi stili",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Dairesel",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Orijinal",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Kare",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Simge şekli",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Ara",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Beni izle - LP",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Ölçek",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Sosyal ağ",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "URL",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Özel simge",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "E-posta adresi",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Web sitesi",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Ağ",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Ağ görüntüsü",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Destekleyici metin",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Aralık",
+    "description": "",
+    "placeholders": null
+  }
+}

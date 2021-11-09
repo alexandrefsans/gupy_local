@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Tiimin jäsen",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.default": {
+    "message": "<h3>Joshua Beck</h3><p>Toimitusjohtaja, perustajajäsen</p><p>Joshualla on yli 20 vuotta kokemusta teknologia-alasta. Hän oli mukana yrityksen perustamisessa vuonna 2015 tavoitteenaan auttaa ihmisiä kasvamaan. Vapaa-ajallaan hän viettää mielellään aikaa lastensa kanssa, käy rannalla ja laittaa ruokaa.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_content.label": {
+    "message": "Tiimin jäsenen sisältö",
+    "description": "",
+    "placeholders": null
+  },
+  "team_member_image.label": {
+    "message": "Tiimin jäsenen kuva",
+    "description": "",
+    "placeholders": null
+  }
+}

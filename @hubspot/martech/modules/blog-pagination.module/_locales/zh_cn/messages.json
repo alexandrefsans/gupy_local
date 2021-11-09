@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "博客分页",
+    "description": "",
+    "placeholders": null
+  },
+  "next_text.label": {
+    "message": "下一文本",
+    "description": "",
+    "placeholders": null
+  },
+  "prev_text.label": {
+    "message": "上一文本",
+    "description": "",
+    "placeholders": null
+  }
+}

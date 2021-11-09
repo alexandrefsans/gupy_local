@@ -1,0 +1,207 @@
+{
+  "alignment.choices.center": {
+    "message": "Na stred",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.left": {
+    "message": "Vľavo",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.choices.right": {
+    "message": "Vpravo",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.label": {
+    "message": "Zarovnanie",
+    "description": "",
+    "placeholders": null
+  },
+  "alignment.placeholder": {
+    "message": "Hľadať",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.black": {
+    "message": "Čierne a biele",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.color": {
+    "message": "Farba",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.grey": {
+    "message": "Sivé",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.white": {
+    "message": "Biele",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.choices.custom": {
+    "message": "Vlastné",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.label": {
+    "message": "Farebná schéma",
+    "description": "",
+    "placeholders": null
+  },
+  "color_scheme.placeholder": {
+    "message": "Hľadať",
+    "description": "",
+    "placeholders": null
+  },
+  "custom_color.label": {
+    "message": "Vyberte vlastnú farbu",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.icon_text": {
+    "message": "Ikona a text",
+    "description": "",
+    "placeholders": null
+  },
+  "display.choices.text_only": {
+    "message": "Iba text",
+    "description": "",
+    "placeholders": null
+  },
+  "display.label": {
+    "message": "Zobrazenie",
+    "description": "",
+    "placeholders": null
+  },
+  "font_style.label": {
+    "message": "Štýl písma",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.circle": {
+    "message": "Kruhové",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.original": {
+    "message": "Pôvodné",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.choices.square": {
+    "message": "Štvorec",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.label": {
+    "message": "Tvar ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "icon_shape.placeholder": {
+    "message": "Hľadať",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Sledujte ma – vstupná stránka",
+    "description": "",
+    "placeholders": null
+  },
+  "scale.label": {
+    "message": "Škála",
+    "description": "",
+    "placeholders": null
+  },
+  "social.label": {
+    "message": "Sociálna sieť",
+    "description": "",
+    "placeholders": null
+  },
+  "social.link.label": {
+    "message": "Webová adresa",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.facebook": {
+    "message": "Facebook",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.icon": {
+    "message": "Vlastná ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.instagram": {
+    "message": "Instagram",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.linkedin": {
+    "message": "LinkedIn",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.mail": {
+    "message": "E-mail",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.pinterest": {
+    "message": "Pinterest",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.twitter": {
+    "message": "Twitter",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.website": {
+    "message": "Web",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.whatsapp": {
+    "message": "Whatsapp",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.choices.youtube": {
+    "message": "YouTube",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network.label": {
+    "message": "Sieť",
+    "description": "",
+    "placeholders": null
+  },
+  "social.network_image.label": {
+    "message": "Obrázok siete",
+    "description": "",
+    "placeholders": null
+  },
+  "social.supporting_text.label": {
+    "message": "Podporný text",
+    "description": "",
+    "placeholders": null
+  },
+  "spacing.label": {
+    "message": "Medzery",
+    "description": "",
+    "placeholders": null
+  }
+}

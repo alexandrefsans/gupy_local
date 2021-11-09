@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Tinklaraščio žymės filtras",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Naršyti pagal",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Etiketės tekstas",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Viskas",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Vietos rezervavimo ženklo tekstas",
+    "description": "",
+    "placeholders": null
+  }
+}

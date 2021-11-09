@@ -1,0 +1,67 @@
+{
+  "name": {
+    "message": "شريط شرائح تقديرية",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "يتيح لك تمكين هذا الخيار تجاوز أنماط السمات الافتراضية. وسيؤدي تعطيل هذا الخيار إلى إعادة توصيل الوحدة النمطية بأنماط السمة الافتراضية.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "تجاوز النمط الافتراضي",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "خيارات النمط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_active_color.label": {
+    "message": "لون التنقل النشط",
+    "description": "",
+    "placeholders": null
+  },
+  "style.navigation_color.label": {
+    "message": "لون التنقل",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_image.label": {
+    "message": "صورة المؤلف",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.default": {
+    "message": "Alan Dixon",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.author_name.label": {
+    "message": "اسم المؤلف",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.author.label": {
+    "message": "المؤلف",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.default": {
+    "message": "<h3>عجبًا، هذا أمر مذهل!</h3><p>تعامل فريق Rally مع أعمالنا كما لو كانت تخصهم. لقد عالجوا القضية بالعزيمة والمعرفة والتعاطف. أوصي بهم بشدة لكل شخص.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.content.label": {
+    "message": "النص التقديري",
+    "description": "",
+    "placeholders": null
+  },
+  "testimonial_slider.label": {
+    "message": "العناصر التقديرية",
+    "description": "",
+    "placeholders": null
+  }
+}

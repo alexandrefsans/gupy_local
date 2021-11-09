@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Događaji",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.default": {
+    "message": "2 Canal Park, Cambridge, MA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.address.label": {
+    "message": "Adresa",
+    "description": "",
+    "placeholders": null
+  },
+  "event.date.label": {
+    "message": "Datum i vrijeme",
+    "description": "",
+    "placeholders": null
+  },
+  "event.event_icon.label": {
+    "message": "Ikona događaja",
+    "description": "",
+    "placeholders": null
+  },
+  "event.label": {
+    "message": "Događaji",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link.label": {
+    "message": "Veza",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.default": {
+    "message": "Saznajte više",
+    "description": "",
+    "placeholders": null
+  },
+  "event.link_text.label": {
+    "message": "Tekst veze",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.default": {
+    "message": "POLUGODIŠNJA OBRAZOVNA GALA",
+    "description": "",
+    "placeholders": null
+  },
+  "event.title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Sadržaj naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_icon.label": {
+    "message": "Ikona naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link.label": {
+    "message": "Veza naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.default": {
+    "message": "Prikaži sve",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_link_text.label": {
+    "message": "Tekst veze naslova",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.default": {
+    "message": "Nadolazeći događaji",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.main_title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  }
+}

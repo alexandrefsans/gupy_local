@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Kart bölümü",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Düğme bağlantısı",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Daha fazla bilgi edinin",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Düğme metni",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Görüntü",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Kart",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "İçeriksel reklamcılık karlı olabilir. Web siteniz için barındırma ve bakım maliyetlerinizi ödeyebilir veya çok daha fazlasını yapabilir.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Metin",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Bu bir başlıktır",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Başlık",
+    "description": "",
+    "placeholders": null
+  }
+}

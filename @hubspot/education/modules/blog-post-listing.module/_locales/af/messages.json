@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Blogplasinglysinskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Kies blog",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Bekyk alles",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Knoppieteks",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_and_tags": {
+    "message": "Volgens blog en etiket",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.choices.id_only": {
+    "message": "Volgens blog",
+    "description": "",
+    "placeholders": null
+  },
+  "filter.label": {
+    "message": "Filter",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.default": {
+    "message": "Lees meer",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more.label": {
+    "message": "Lees-meer-teks",
+    "description": "",
+    "placeholders": null
+  },
+  "tag.label": {
+    "message": "Etiket",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.default": {
+    "message": "In die nuus",
+    "description": "",
+    "placeholders": null
+  },
+  "title_text.label": {
+    "message": "Titelteks",
+    "description": "",
+    "placeholders": null
+  }
+}

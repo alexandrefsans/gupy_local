@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Verwante plasinglysinskrywing",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Opskrif",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Lees meer",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Lees nog teks",
+    "description": "",
+    "placeholders": null
+  }
+}

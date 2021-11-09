@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Korttivalinta",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Sisältö",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Linkki",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Lue lisää",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Linkkiteksti",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Kuvaus",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Opettajia, jotka välittävät menestyksestäsi",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Otsikko",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Luento luokkahuoneessa",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Kuva",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Kuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Kuva ja kuvake",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Kun otat tämän vaihtoehdon käyttöön, voit korvata oletusarvoiset teemat. Kun vaihtoehto poistetaan käytöstä, moduuli palaa oletusarvoisiin teemoihin.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Korvaa oletustyyli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Korostusväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Kuvakkeen täyttöväri",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Tyyliasetukset",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Tablica s cijenama",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Mjesečna naplata",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Oznaka naplate",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Prva opcija određivanja cijene",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Tablica",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Veza gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Prijava",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Tekst gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "USD",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Valuta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Besplatna i neograničena</strong> preuzimanja i još mnogo toga!</p><ul><li>25 MB maksimalne veličine datoteke</li><li>2 GB propusnosti</li><li>15 sekundi snimki zaslona</li><li>15 sekundi videosnimki putem web-kamere</li><li>Brendiranje CloudAppa</li><li>Neograničene napomene</li><li>Neograničeni broj datoteka</li><li>Integriranje aplikacija za stolna računala</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Opis",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Cijena",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Početni",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Godišnja naplata – uštedite 15 %",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Oznaka naplate",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Druga opcija određivanja cijene",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Tablica",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Veza gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Prijava",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Tekst gumba",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "USD",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Valuta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Besplatna i neograničena</strong> preuzimanja i još mnogo toga!</p><ul><li>25 MB maksimalne veličine datoteke</li><li>2 GB propusnosti</li><li>15 sekundi snimki zaslona</li><li>15 sekundi videosnimki putem web-kamere</li><li>Brendiranje CloudAppa</li><li>Neograničene napomene</li><li>Neograničeni broj datoteka</li><li>Integriranje aplikacija za stolna računala</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Opis",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Cijena",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Poslovni",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Naslov",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Ako omogućite ovu opciju, moći ćete nadjačati zadane stilove teme. Onemogućavanjem opcije ponovno ćete povezati modul sa zadanim stilovima teme.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Nadjačaj zadani stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Boja aktivne opcije",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Pozadinska boja zaglavlja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Boja teksta zaglavlja",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcije stila",
+    "description": "",
+    "placeholders": null
+  }
+}

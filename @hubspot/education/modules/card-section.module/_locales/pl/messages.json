@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Sekcja kart",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Treść",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Łącze",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Dowiedz się więcej",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Tekst łącza",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Opis",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Nauczyciele, którym zależy na Twoim sukcesie",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Tytuł",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Wykład stacjonarny",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Obraz",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Obraz i ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Włączenie tej opcji pozwoli na zastąpienie domyślnych stylów motywów. Wyłączenie tej opcji spowoduje ponowne połączenie modułu z domyślnymi stylami motywów.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Zastąp styl domyślny",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Kolor wiodący",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Kolor wypełnienia ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  }
+}

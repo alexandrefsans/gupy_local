@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Meniu pilon",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Culoare",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Margine de jos",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Întrerupt",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Punctat",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dublu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Șanț",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Intercalare",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Niciunul",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Început",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Creastă",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Solid",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Stil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Valoarea este în pixeli",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Lățime",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opțiuni stil",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Cuprins",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Elementele de meniu sunt create automat la adăugarea modulului „Secțiune pilon” pe pagină",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titlu",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Ikuti Saya",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "Buka tautan di jendela baru",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Judul modul",
+    "description": "",
+    "placeholders": null
+  }
+}

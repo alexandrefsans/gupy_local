@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Posting Terakhir",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Pilih blog sumber posting",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Jumlah posting yang akan ditarik",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": {
+    "message": "Spanduk Posting Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Warna latar belakang kustom",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Gambar latar belakang kustom",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Tampilan gambar",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Jenis spanduk apa yang ingin Anda gunakan?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Warna latar belakang",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Gambar latar belakang",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opsi gaya",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Lapisan",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Nilai dalam satuan piksel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Atas/Bawah",
+    "description": "",
+    "placeholders": null
+  }
+}

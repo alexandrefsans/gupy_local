@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "פרופיל",
+    "description": "",
+    "placeholders": null
+  },
+  "description.default": {
+    "message": "<p>בניגוד לאמונה הרווחת, Lorem Ipsum הוא לא סתם טקסט אקראי. הוא מבוסס על ספרות לטינית קלאסית משנת 45 לפנה\"ס, כלומר הוא בן יותר מ-2000 שנה.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "description.label": {
+    "message": "תיאור",
+    "description": "",
+    "placeholders": null
+  },
+  "headshot.default.alt": {
+    "message": "הרצאה_ביתית",
+    "description": "",
+    "placeholders": null
+  },
+  "headshot.label": {
+    "message": "תמונת ראש",
+    "description": "",
+    "placeholders": null
+  },
+  "human_name.default": {
+    "message": "מורט ריקי",
+    "description": "",
+    "placeholders": null
+  },
+  "human_name.label": {
+    "message": "שם",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "מנהל חינוך",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "כותרת",
+    "description": "",
+    "placeholders": null
+  }
+}

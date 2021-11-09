@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Son yayınlar",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Yayınların alınacağı blogu seç",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Çekilecek yayın sayısı",
+    "description": "",
+    "placeholders": null
+  }
+}

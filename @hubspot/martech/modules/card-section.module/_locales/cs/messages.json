@@ -1,0 +1,52 @@
+{
+  "name": {
+    "message": "Oddíl karet",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_link.label": {
+    "message": "Odkaz na tlačítko",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.default": {
+    "message": "Více informací",
+    "description": "",
+    "placeholders": null
+  },
+  "card.button_text.label": {
+    "message": "Text tlačítka",
+    "description": "",
+    "placeholders": null
+  },
+  "card.image.label": {
+    "message": "Obrázek",
+    "description": "",
+    "placeholders": null
+  },
+  "card.label": {
+    "message": "Karta",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.default": {
+    "message": "Kontextová reklama dokáže být zisková. Buď vám zaplatí náklady na hosting a údržbu webové stránky, nebo se vám vyplatí ještě mnohem víc.",
+    "description": "",
+    "placeholders": null
+  },
+  "card.text.label": {
+    "message": "Text",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.default": {
+    "message": "Toto je nadpis",
+    "description": "",
+    "placeholders": null
+  },
+  "card.title.label": {
+    "message": "Nadpis",
+    "description": "",
+    "placeholders": null
+  }
+}

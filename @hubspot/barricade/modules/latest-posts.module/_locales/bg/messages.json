@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Най-нови публикации",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "Изберете блог, от който да извлечете публикации",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "Брой публикации за извличане",
+    "description": "",
+    "placeholders": null
+  }
+}

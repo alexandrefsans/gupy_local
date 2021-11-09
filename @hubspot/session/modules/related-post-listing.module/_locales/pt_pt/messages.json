@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Listagem de publicações relacionadas",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.default": {
+    "message": "Artigos relacionados",
+    "description": "",
+    "placeholders": null
+  },
+  "heading.label": {
+    "message": "Cabeçalho",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.default": {
+    "message": "Ler mais",
+    "description": "",
+    "placeholders": null
+  },
+  "read_more_text.label": {
+    "message": "Texto de Ler mais",
+    "description": "",
+    "placeholders": null
+  }
+}

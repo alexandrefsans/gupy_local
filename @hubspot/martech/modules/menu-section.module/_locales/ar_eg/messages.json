@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "قسم القائمة",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "قائمة محمول مكررة",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "حقل القائمة الأساسي",
+    "description": "",
+    "placeholders": null
+  }
+}

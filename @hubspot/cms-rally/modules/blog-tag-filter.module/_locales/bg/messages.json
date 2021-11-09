@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Филтър за етикети на блог",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Филтриране по етикет",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Етикетът е визуално скрит, но се използва за четци на екрани, за да се поддържа полето достъпно",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Текст на етикет",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Всички",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Текст в контейнер",
+    "description": "",
+    "placeholders": null
+  }
+}

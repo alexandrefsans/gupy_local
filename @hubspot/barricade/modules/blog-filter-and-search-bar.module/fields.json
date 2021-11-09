@@ -1,0 +1,103 @@
+[
+  {
+    "label": "Blog tag filter",
+    "name": "blog_tag_filter",
+    "type": "group",
+    "children": [
+      {
+        "label": "Label text",
+        "name": "label_text",
+        "type": "text",
+        "default": "Browse By:"
+      },
+      {
+        "label": "Placeholder text",
+        "name": "placeholder_text",
+        "type": "text",
+        "default": "Everything"
+      }
+    ]
+  },
+  {
+    "label": "Search field",
+    "name": "search_field",
+    "type": "group",
+    "children": [
+      {
+        "label": "Label text",
+        "name": "field_label",
+        "type": "text",
+        "default": null
+      },
+      {
+        "label": "Placeholder text",
+        "name": "placeholder",
+        "type": "text",
+        "default": "Search"
+      },
+      {
+        "label": "Include search button",
+        "name": "include_search_button",
+        "type": "boolean",
+        "default": false
+      },
+      {
+        "label": "Search results include",
+        "name": "content_types",
+        "type": "group",
+        "children": [
+          {
+            "label": "Website pages",
+            "name": "website_pages",
+            "type": "boolean",
+            "visibility": {
+              "controlling_field": null,
+              "controlling_value_regex": null,
+              "operator": "NOT_EMPTY",
+              "access": {
+                "operator": "HAS_ALL",
+                "scopes": [ "sitepages-access" ]
+              },
+              "hidden_subfields": null
+            },
+            "default": false
+          },
+          {
+            "label": "Landing pages",
+            "name": "landing_pages",
+            "type": "boolean",
+            "default": false
+          },
+          {
+            "label": "Blog posts",
+            "name": "blog_posts",
+            "type": "boolean",
+            "default": true
+          },
+          {
+            "name": "knowledge_articles",
+            "label": "Knowledge articles",
+            "type": "boolean",
+            "visibility": {
+              "controlling_field": null,
+              "controlling_value_regex": null,
+              "operator": null,
+              "access": {
+                "operator": "HAS_ALL",
+                "scopes": [ "service-knowledge-access" ]
+              },
+              "hidden_subfields": null
+            },
+            "default": false
+          }
+        ],
+        "default": {
+          "website_pages": false,
+          "landing_pages": false,
+          "blog_posts": true,
+          "knowledge_articles": false
+        }
+      }
+    ]
+  }
+]

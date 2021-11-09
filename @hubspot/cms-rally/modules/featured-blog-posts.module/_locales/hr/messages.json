@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Poveznica",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Ikona veze",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Tekst poveznice",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Boje objave",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Istaknute objave na blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Odaberite blog čije objave želite istaknuti",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Odaberi blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Ako želite istaknuti samo određenu oznaku s bloga, odaberite je ovdje.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Odaberite oznaku",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "আমাকে অনুসরণ করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "links.label": {
+    "message": "লিংক নতুন উইন্ডোতে খুলুন",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "মডিউল হেডার",
+    "description": "",
+    "placeholders": null
+  }
+}

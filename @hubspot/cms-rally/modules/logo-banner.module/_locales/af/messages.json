@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "Ons het al maatskappye soos die volgende gehelp:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "Opskrifteks",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Agriflora-logo",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "Laai logobeelde hier op",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Logobeelde",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Logobanier",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Agtergrondkleur van banier",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Voorgrondkleur van banier",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  }
+}

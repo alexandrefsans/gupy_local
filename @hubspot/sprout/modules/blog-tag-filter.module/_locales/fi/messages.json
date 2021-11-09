@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Blogin tunnistesuodatin",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Selaussuodatin",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Nimiketeksti",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Kaikki",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Paikkamerkkiteksti",
+    "description": "",
+    "placeholders": null
+  }
+}

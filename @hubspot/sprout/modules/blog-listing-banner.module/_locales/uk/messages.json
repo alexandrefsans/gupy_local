@@ -1,0 +1,62 @@
+{
+  "name": {
+    "message": "Банер переліку блогів",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Зображення фону",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Параметри стилю",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "Значення вказано в пікселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "Ліворуч/Праворуч",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Заповнення місця",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "Значення вказано в пікселях",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Верх/Низ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "Колір підзаголовку",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "Колір заголовку",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "Підзаголовок",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Заголовок",
+    "description": "",
+    "placeholders": null
+  }
+}

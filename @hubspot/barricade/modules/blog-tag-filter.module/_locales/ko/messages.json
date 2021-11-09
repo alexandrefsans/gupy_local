@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "블로그 태그 필터",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "검토자:",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "레이블 텍스트",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "모두",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "플레이스홀더 텍스트",
+    "description": "",
+    "placeholders": null
+  }
+}

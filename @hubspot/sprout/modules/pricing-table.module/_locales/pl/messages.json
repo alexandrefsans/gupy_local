@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Tabela cen",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Miesięczne rozliczenie",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Etykieta rozliczenia",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Opcja cen nr 1",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Tabela",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Łącze przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Zarejestruj się",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Tekst przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "USD",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Waluta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Bezpłatne nielimitowane</strong> pobieranie i wiele innych korzyści!</p><ul><li>Maks. rozmiar pliku 25 MB</li><li>Przepustowość 2 GB</li><li>15 sekund nagrywania ekranu</li><li>15 sekund nagrywania drugiej kamery internetowej</li><li>Marka CloudApp</li><li>Nieograniczona liczba adnotacji</li><li>Nieograniczona liczba plików</li><li>Integracje z aplikacjami desktopowymi</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Opis",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Cena",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Starter",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Tytuł",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Roczna oszczędność na rozliczeniach 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Etykieta rozliczenia",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Opcja cen nr 2",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Tabela",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Łącze przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Zarejestruj się",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Tekst przycisku",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "USD",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Waluta",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Bezpłatne nielimitowane</strong> pobieranie i wiele innych korzyści!</p><ul><li>Maks. rozmiar pliku 25 MB</li><li>Przepustowość 2 GB</li><li>15 sekund nagrywania ekranu</li><li>15 sekund nagrywania drugiej kamery internetowej</li><li>Marka CloudApp</li><li>Nieograniczona liczba adnotacji</li><li>Nieograniczona liczba plików</li><li>Integracje z aplikacjami desktopowymi</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Opis",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Cena",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Przedsiębiorstwo",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Tytuł",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Włączenie tej opcji pozwoli na zastąpienie domyślnych stylów motywów. Wyłączenie tej opcji spowoduje ponowne połączenie modułu z domyślnymi stylami motywów.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Zastąp styl domyślny",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Kolor aktywnej opcji",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Kolor tła nagłówka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Kolor tekstu nagłówka",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcje stylu",
+    "description": "",
+    "placeholders": null
+  }
+}

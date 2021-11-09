@@ -1,0 +1,27 @@
+{
+  "banner_heading.default": {
+    "message": "<h4>Lorem ipsum dolor sit amet, consectetur.</h4>",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_heading.label": {
+    "message": "Naslov pasice",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.banner_image.label": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.label": {
+    "message": "Slike pasic",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Tehnična pasica",
+    "description": "",
+    "placeholders": null
+  }
+}

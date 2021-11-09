@@ -1,0 +1,27 @@
+{
+  "banner_heading.default": {
+    "message": "<h4>Lorem ipsum dolor sit amet, consectetur.</h4>",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_heading.label": {
+    "message": "Επικεφαλίδα πανό",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.banner_image.label": {
+    "message": "Εικόνα",
+    "description": "",
+    "placeholders": null
+  },
+  "banner_images.label": {
+    "message": "Εικόνες μπάνερ",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Πανό τεχνολογίας",
+    "description": "",
+    "placeholders": null
+  }
+}

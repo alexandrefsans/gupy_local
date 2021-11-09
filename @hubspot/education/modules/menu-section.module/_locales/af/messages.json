@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "Kieslysafdeling",
+    "description": "",
+    "placeholders": null
+  },
+  "duplicate_mobile_menu.label": {
+    "message": "Duplikaat selfoonkieslys",
+    "description": "",
+    "placeholders": null
+  },
+  "primary_menu_field.label": {
+    "message": "Primêre kieslysveld",
+    "description": "",
+    "placeholders": null
+  }
+}

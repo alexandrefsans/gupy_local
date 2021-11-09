@@ -1,0 +1,177 @@
+{
+  "name": {
+    "message": "Taula de preus",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.default": {
+    "message": "Facturació mensual",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.billing_option_one_title.label": {
+    "message": "Etiqueta de facturació",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.label": {
+    "message": "Opció de preus u",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.label": {
+    "message": "Taula",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_link.label": {
+    "message": "Enllaç de botó",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.default": {
+    "message": "Registra-t'hi",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_button_text.label": {
+    "message": "Text del botó",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_currency.label": {
+    "message": "Divisa",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.default": {
+    "message": "<p><strong>Baixades il·limitades gratuïtes</strong> i molt més!</p><ul><li>Mida màxima de fitxer de 25 MB</li><li>Amplada de banda de 2 GB</li><li>Enregistraments de pantalla de 15 segons</li><li>Eenregistrament de vídeo de càmera web de 15 segons</li><li>Personalització de marca amb el CloudApp</li><li>Anotacions il·limitades</li><li>Fitxers il·limitats</li><li>Integracions amb aplicacions d'escriptori</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_description.label": {
+    "message": "Descripció",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_price.label": {
+    "message": "Preu",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.default": {
+    "message": "Inicial",
+    "description": "",
+    "placeholders": null
+  },
+  "option_one.option_one_table.option_one_title.label": {
+    "message": "Títol",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.default": {
+    "message": "Estalvi en la facturació anual del 15%",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.billing_option_two_title.label": {
+    "message": "Etiqueta de facturació",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.label": {
+    "message": "Opció de preus dos",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.label": {
+    "message": "Taula",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_link.label": {
+    "message": "Enllaç de botó",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.default": {
+    "message": "Registra-t'hi",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_button_text.label": {
+    "message": "Text del botó",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.default": {
+    "message": "$",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_currency.label": {
+    "message": "Divisa",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.default": {
+    "message": "<p><strong>Baixades il·limitades gratuïtes</strong> i molt més!</p><ul><li>Mida màxima de fitxer de 25 MB</li><li>Amplada de banda de 2 GB</li><li>Enregistraments de pantalla de 15 segons</li><li>Eenregistrament de vídeo de càmera web de 15 segons</li><li>Personalització de marca amb el CloudApp</li><li>Anotacions il·limitades</li><li>Fitxers il·limitats</li><li>Integracions amb aplicacions d'escriptori</li></ul>",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_description.label": {
+    "message": "Descripció",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_price.label": {
+    "message": "Preu",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.default": {
+    "message": "Empresa",
+    "description": "",
+    "placeholders": null
+  },
+  "option_two.option_two_table.option_two_title.label": {
+    "message": "Títol",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "En habilitar aquesta opció, podràs substituir els estils de tema per defecte. Si la inhabilites, el mòdul es tornarà a connectar amb els estils de tema per defecte. ",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Substitueix l'estil per defecte",
+    "description": "",
+    "placeholders": null
+  },
+  "style.active_option_color.label": {
+    "message": "Color d'opció actiu",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_bg_color.label": {
+    "message": "Color de fons de capçalera",
+    "description": "",
+    "placeholders": null
+  },
+  "style.header_color.label": {
+    "message": "Color de text de capçalera",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Видео",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.label": {
+    "message": "Тип видео",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.choices.embed": {
+    "message": "Вграждане",
+    "description": "",
+    "placeholders": null
+  },
+  "video_type.choices.hubspot_video": {
+    "message": "Екип на HubSpot",
+    "description": "",
+    "placeholders": null
+  },
+  "hubspot_video.label": {
+    "message": "Екип на HubSpot",
+    "description": "",
+    "placeholders": null
+  },
+  "embed_field.label": {
+    "message": "Вграждане",
+    "description": "",
+    "placeholders": null
+  },
+  "oembed_thumbnail.label": {
+    "message": "HubL по избор",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  },
+  "style_options.oembed_thumbnail_play_button_color.label": {
+    "message": "Цвят на бутона за възпроизвеждане",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.label": {
+    "message": "Текст в контейнер",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.label": {
+    "message": "Заглавие на контейнер за видео",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_title.default": {
+    "message": "Не е избрано видео",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.label": {
+    "message": "Описание на контейнер за видео",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_fields.placeholder_description.default": {
+    "message": "Изберете тип видео в страничната лента.",
+    "description": "",
+    "placeholders": null
+  }
+}

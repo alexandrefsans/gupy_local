@@ -1,0 +1,32 @@
+{
+  "name": {
+    "message": "Filter Tag Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Filter berdasarkan tag",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.help_text": {
+    "message": "Label biasanya tersembunyi dan digunakan pembaca layar untuk membuat bidang dapat diakses",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Teks label",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Semua",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Teks placeholder",
+    "description": "",
+    "placeholders": null
+  }
+}

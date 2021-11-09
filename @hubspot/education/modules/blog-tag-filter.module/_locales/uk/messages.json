@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Фільтр тегів блогу",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Фільтрувати за тегом",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Текст ярлика",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Усі",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Текст для заповнення місця",
+    "description": "",
+    "placeholders": null
+  }
+}

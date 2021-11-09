@@ -1,0 +1,107 @@
+{
+  "name": {
+    "message": "網誌清單橫額",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "覆寫預設樣式",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.bg_image": {
+    "message": "圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.choices.color_gradient": {
+    "message": "色彩梯度",
+    "description": "",
+    "placeholders": null
+  },
+  "style.background_type.label": {
+    "message": "背景類型",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "背景圖片",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_1.label": {
+    "message": "顏色 1",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.color_2.label": {
+    "message": "顏色 2",
+    "description": "",
+    "placeholders": null
+  },
+  "style.gradient_colors.label": {
+    "message": "漸變色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "樣式選項",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.help_text": {
+    "message": "值以像素計算",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.horizontal.label": {
+    "message": "左/右",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "內邊距",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "值以像素計算",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "頂部/底部",
+    "description": "",
+    "placeholders": null
+  },
+  "style.subtitle_color.label": {
+    "message": "副標題顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "style.title_color.label": {
+    "message": "標題顏色",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.help_text": {
+    "message": "如果未提供副標題文字，預設會是你網設定誌的網誌中繼描述。",
+    "description": "",
+    "placeholders": null
+  },
+  "subtitle.label": {
+    "message": "副標題",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "如果未提供標題文字，預設會是你網設定誌的網誌中繼描述。",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "標題",
+    "description": "",
+    "placeholders": null
+  }
+}

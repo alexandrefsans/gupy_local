@@ -1,0 +1,52 @@
+{
+  "blog_link.label": {
+    "message": "Odkaz",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_icon.label": {
+    "message": "Ikona odkazu",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.default": {
+    "message": "Lorem ipsum",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_link.link_text.label": {
+    "message": "Text odkazu",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_post_colors.label": {
+    "message": "Barvy příspěvku",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Doporučované příspěvky z blogu",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Vyberte blog, ze kterého chcete doporučit příspěvky",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Vybrat blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.help_text": {
+    "message": "Pokud chcete ze svého blogu doporučit pouze příspěvky s určitými značkami, vyberte je zde.",
+    "description": "",
+    "placeholders": null
+  },
+  "select_tag.label": {
+    "message": "Vybrat značku",
+    "description": "",
+    "placeholders": null
+  }
+}

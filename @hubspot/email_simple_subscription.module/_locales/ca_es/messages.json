@@ -1,0 +1,47 @@
+{
+  "name": {
+    "message": "Cancel·lació de la subscripció a la còpia de seguretat",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Text del botó",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Cancel·lació de la subscripció al correu electrònic",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.label": {
+    "message": "Text del contenidor d'entrada de correu electrònic",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.default": {
+    "message": "La teva adreça electrònica:",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Cancel·la la subscripció",
+    "description": "",
+    "placeholders": null
+  },
+  "input_placeholder.default": {
+    "message": "correu@example.com",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Capçalera",
+    "description": "",
+    "placeholders": null
+  },
+  "input_help_text.label": {
+    "message": "Text d'ajuda d'entrada de correu electrònic",
+    "description": "",
+    "placeholders": null
+  }
+}

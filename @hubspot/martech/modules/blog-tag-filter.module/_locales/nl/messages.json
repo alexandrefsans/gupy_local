@@ -1,0 +1,27 @@
+{
+  "name": {
+    "message": "Filter blogtags",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.default": {
+    "message": "Bladeren op",
+    "description": "",
+    "placeholders": null
+  },
+  "label_text.label": {
+    "message": "Labeltekst",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.default": {
+    "message": "Alles",
+    "description": "",
+    "placeholders": null
+  },
+  "placeholder_text.label": {
+    "message": "Tekst tijdelijke aanduiding",
+    "description": "",
+    "placeholders": null
+  }
+}

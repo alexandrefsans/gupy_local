@@ -1,0 +1,92 @@
+{
+  "name": {
+    "message": "Sekcia kariet",
+    "description": "",
+    "placeholders": null
+  },
+  "content.label": {
+    "message": "Obsah",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_field.label": {
+    "message": "Odkaz",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.default": {
+    "message": "Ďalšie informácie",
+    "description": "",
+    "placeholders": null
+  },
+  "content.link_text.label": {
+    "message": "Text odkazu",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.default": {
+    "message": "<p style=\"text-align: center;\">Vivamus sagittis lacus vel<br>augue laoreet rutrum.</p>",
+    "description": "",
+    "placeholders": null
+  },
+  "content.text.label": {
+    "message": "Popis",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.default": {
+    "message": "Učitelia, ktorým záleží na vašom úspechu",
+    "description": "",
+    "placeholders": null
+  },
+  "content.title.label": {
+    "message": "Názov",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.default.alt": {
+    "message": "Prednáška v triede",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.hero_image.label": {
+    "message": "Obrázok",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.icon_field.label": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "hero.label": {
+    "message": "Obrázok a ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.help_text": {
+    "message": "Zapnutím tejto možnosti umožníte prepisovať predvolené štýly motívov. Ak ju vypnete, modul znova pripojíte k predvoleným štýlom motívov.",
+    "description": "",
+    "placeholders": null
+  },
+  "override_default_style.label": {
+    "message": "Prepísať predvolený štýl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.accent.label": {
+    "message": "Odtieň farby",
+    "description": "",
+    "placeholders": null
+  },
+  "style.icon_fill.label": {
+    "message": "Farba výplne ikony",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Možnosti štýlu",
+    "description": "",
+    "placeholders": null
+  }
+}

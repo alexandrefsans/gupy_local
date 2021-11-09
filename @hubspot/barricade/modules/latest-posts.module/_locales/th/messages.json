@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "โพสต์ล่าสุด",
+    "description": "",
+    "placeholders": null
+  },
+  "blog_id.label": {
+    "message": "เลือกบล็อกเพื่อดึงโพสต์ออกมา",
+    "description": "",
+    "placeholders": null
+  },
+  "count.label": {
+    "message": "จำนวนโพสต์ที่จะดึงออกมา",
+    "description": "",
+    "placeholders": null
+  }
+}

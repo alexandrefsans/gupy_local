@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Feliratkozás blogra e-mail-címmel",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Az alapbeállítás a jelenlegi blogot fogja használni blogsablonban és az elsődleges blogot minden egyéb esetben.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Feliratkozás itt!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Válassza ki a megjelenítendő blogot",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Beágyazott válasz felhasználóknak",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Köszönjük, hogy feliratkozott!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Az űrlap fölött megjelenítendő cím",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": {
+    "message": "Галерия с лога",
+    "description": "",
+    "placeholders": null
+  },
+  "header.default": {
+    "message": "Разпознато от",
+    "description": "",
+    "placeholders": null
+  },
+  "header.label": {
+    "message": "Горен колонтитул",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "Лого на Agriflora",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "Изображения с лога",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "Цвят на фон на банер",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "Цвят на преден план на банер",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Опции за стил",
+    "description": "",
+    "placeholders": null
+  }
+}

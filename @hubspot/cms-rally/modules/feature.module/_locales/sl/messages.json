@@ -1,0 +1,77 @@
+{
+  "feature_description.default": {
+    "message": "Izkoristite intuitivno izjemno programsko opremo, ki vam prihrani čas in pomaga pri reševanju vašega podjetja.",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_description.label": {
+    "message": "Opis funkcije",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon.label": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_bg_color.label": {
+    "message": "Barva ozadja",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_border_color.label": {
+    "message": "Barva obrobe",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.icon_color.label": {
+    "message": "Barva",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_icon.label": {
+    "message": "Ikona funkcije",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_image.label": {
+    "message": "Slika funkcije",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.icon": {
+    "message": "Ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.image": {
+    "message": "Slika",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.choices.none": {
+    "message": "Brez",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_media_choice.label": {
+    "message": "Predstavljena slika/ikona",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.default": {
+    "message": "Hitro in preprosto",
+    "description": "",
+    "placeholders": null
+  },
+  "feature_title.label": {
+    "message": "Naziv značilnosti",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "Značilnost",
+    "description": "",
+    "placeholders": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "css_assets" : [ ],
+    "external_js" : [ ],
+    "global" : false,
+    "host_template_types" : [ "MEMBERSHIP" ],
+    "icon": "../img/facebook-color.png",
+    "js_assets" : [ ],
+    "other_assets" : [ ],
+    "smart_type" : "NOT_SMART",
+    "tags" : [],
+    "is_available_for_new_content" : true,
+    "label": "Membership social logins"
+  }

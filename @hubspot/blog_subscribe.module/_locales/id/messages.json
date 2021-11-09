@@ -1,0 +1,37 @@
+{
+  "name": {
+    "message": "Langganan Email Blog",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.help_text": {
+    "message": "Default akan menggunakan blog saat ini saat digunakan di templat blog atau blog utama saat digunakan di mana pun.",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Langganan di Sini!",
+    "description": "",
+    "placeholders": null
+  },
+  "select_blog.label": {
+    "message": "Pilih blog untuk ditampilkan",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.label": {
+    "message": "Tanggapan inline untuk pengguna",
+    "description": "",
+    "placeholders": null
+  },
+  "response_message.default": {
+    "message": "Terima kasih telah berlangganan!",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Judul untuk menampilkan formulir di atas",
+    "description": "",
+    "placeholders": null
+  }
+}

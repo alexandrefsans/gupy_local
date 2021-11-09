@@ -1,0 +1,72 @@
+{
+  "name": {
+    "message": "Bàner d'entrada de blog",
+    "description": "",
+    "placeholders": null
+  },
+  "button_icon.label": {
+    "message": "Icona de botó",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.default": {
+    "message": "Torna al blog",
+    "description": "",
+    "placeholders": null
+  },
+  "button_text.label": {
+    "message": "Text del botó",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_color": {
+    "message": "Color de fons personalitzat",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.custom_bg_image": {
+    "message": "Imatge de fons personalitzada",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.choices.featured_image": {
+    "message": "Imatge destacada",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_image_select.label": {
+    "message": "Quin tipus de bàner vols utilitzar?",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_color.label": {
+    "message": "Color de fons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.bg_image.label": {
+    "message": "Imatge de fons",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Opcions de l'estil",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.label": {
+    "message": "Espaiat",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.help_text": {
+    "message": "El valor està expressat en píxels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.padding.vertical.label": {
+    "message": "Superior/inferior",
+    "description": "",
+    "placeholders": null
+  }
+}

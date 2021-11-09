@@ -1,0 +1,52 @@
+{
+  "header_text.default": {
+    "message": "আমরা এই জাতীয় সংস্থাকে সহায়তা করেছি:",
+    "description": "",
+    "placeholders": null
+  },
+  "header_text.label": {
+    "message": "শিরোনাম",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.alt": {
+    "message": "এগ্রিফ্লোরা লোগো",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.default.src": {
+    "message": "https://cdn2.hubspot.net/hubfs/7303166/Logos/white/agriflora.png",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.help_text": {
+    "message": "লোগো চিত্রগুলি এখানে আপলোড করুন",
+    "description": "",
+    "placeholders": null
+  },
+  "logo_images.label": {
+    "message": "লোগো ইমেজ",
+    "description": "",
+    "placeholders": null
+  },
+  "name": {
+    "message": "লোগো ব্যানার",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_bg_color.label": {
+    "message": "ব্যানার ব্যাকগ্রাউন্ড রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.banner_fg_color.label": {
+    "message": "ব্যানার ফোরগ্রাউন্ডের রঙ",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "স্টাইলের বিকল্পগুলি",
+    "description": "",
+    "placeholders": null
+  }
+}

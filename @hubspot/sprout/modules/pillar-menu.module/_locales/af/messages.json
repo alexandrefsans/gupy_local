@@ -1,0 +1,97 @@
+{
+  "name": {
+    "message": "Pilaarkieslys",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.color.label": {
+    "message": "Kleur",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.label": {
+    "message": "Onderste raam",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dashed": {
+    "message": "Gestreepte",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.dotted": {
+    "message": "Gespikkelde",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.double": {
+    "message": "Dubbel",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.groove": {
+    "message": "Oop spasie",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.inset": {
+    "message": "Inlas",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.none": {
+    "message": "Geen",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.outset": {
+    "message": "Begin",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.ridge": {
+    "message": "Rif",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.choices.solid": {
+    "message": "Vaste",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.style.label": {
+    "message": "Styl",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.help_text": {
+    "message": "Waarde is in pieksels",
+    "description": "",
+    "placeholders": null
+  },
+  "style.border.width.label": {
+    "message": "Wydte",
+    "description": "",
+    "placeholders": null
+  },
+  "style.label": {
+    "message": "Stylopsies",
+    "description": "",
+    "placeholders": null
+  },
+  "title.default": {
+    "message": "Inhoudsopgawe",
+    "description": "",
+    "placeholders": null
+  },
+  "title.help_text": {
+    "message": "Kieslysitems word outomaties geskep as die 'Pilaar-afdeling'-module by die blad gevoeg word",
+    "description": "",
+    "placeholders": null
+  },
+  "title.label": {
+    "message": "Titel",
+    "description": "",
+    "placeholders": null
+  }
+}
