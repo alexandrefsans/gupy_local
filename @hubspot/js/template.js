@@ -12,6 +12,8 @@
 (function() {
   'use strict';
 
+  var teste = 0;
+
   var needsTemplate = (typeof HTMLTemplateElement === 'undefined');
   var brokenDocFragment = !(document.createDocumentFragment().cloneNode() instanceof DocumentFragment);
   var needsDocFrag = false;
